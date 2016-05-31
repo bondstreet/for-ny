@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: For New York
+email: support@bondstreet.com
+description: >
+    Write something about Bond Street
+baseurl: "/for-ny" # the subpath of your site, e.g. /blog
+url: "http://bondstreet.github.io" # the base hostname & protocol for your site
+twitter_username: onbondstreet
+facebook_username: onbondstreet
+
+# Collections
+collections:
+    'events':
+        output: true
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules]
+

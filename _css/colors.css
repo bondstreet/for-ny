@@ -1,0 +1,7 @@
+
+.white { color: var(--white) }
+.blue  { color: var(--blue) }
+
+.bg-white { background-color: var(--white) }
+.bg-blue  { background-color: var(--blue) }
+
