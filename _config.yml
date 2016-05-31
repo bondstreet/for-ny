@@ -34,6 +34,7 @@ prose:
         'css',
         '_css',
         '.gitignore',
+        'README.md',
         'feed.xml',
         'index.html',
         'package.json' ]

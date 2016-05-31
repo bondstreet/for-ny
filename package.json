@@ -4,15 +4,16 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "css": "postcss _css/index.css -o css/index.css -u postcss-import -u postcss-custom-properties -u postcss-custom-media -u postcss-calc -u autoprefixer",
+    "css": "postcss _css/index.css -o css/index.css -u postcss-import -u postcss-custom-properties -u postcss-custom-media -u postcss-calc -u autoprefixer -u csswring",
     "css:watch": "postcss _css/index.css --watch -o css/index.css -u postcss-import -u postcss-custom-properties -u postcss-custom-media -u postcss-calc -u autoprefixer",
-    "start": "jekyll serve",
-    "build": "jekyll build"
+    "start": "jekyll serve & npm run css:watch",
+    "build": "npm run css && jekyll build"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "basscss": "^8.0.1",
     "basscss-addons": "^1.0.0-beta4",
+    "csswring": "^5.0.0",
     "postcss-calc": "^5.2.1",
     "postcss-cli": "^2.5.2",
     "postcss-custom-media": "^5.0.1",

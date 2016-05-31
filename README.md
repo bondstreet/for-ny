@@ -17,15 +17,15 @@ Install npm dependencies
 npm i
 ```
 
-## Run jekyll dev server
+## Run Jekyll dev server and watch CSS
 
 ```sh
-jekyll serve
+npm start
 ```
 
-## Build jekyll
+## Build Jekyll and CSS
 
 ```sh
-jekyll build
+npm run build
 ```
 
