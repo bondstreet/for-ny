@@ -24,3 +24,22 @@ collections:
 markdown: kramdown
 exclude: [node_modules]
 
+# Prose.io options
+prose:
+    siteurl: 'http://bondstreet.github.io/for-ny'
+    media: 'images'
+    ignore: [ '_config.yml',
+        '_includes',
+        '_layouts',
+        'css',
+        '_css',
+        '.gitignore',
+        'feed.xml',
+        'index.html',
+        'package.json' ]
+    metadata:
+        _posts:
+            - name: 'title'
+              field:
+                element: 'text'
+                label: 'Title'
