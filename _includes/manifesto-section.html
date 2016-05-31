@@ -3,4 +3,7 @@
         {% include manifesto.md %}
     {% endcapture %}
     {{ manifesto | markdownify }}
+    <p class="h3">
+        {{ site.data.manifesto.text }}
+    </p>
 </section>
