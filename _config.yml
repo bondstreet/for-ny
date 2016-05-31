@@ -29,7 +29,16 @@ prose:
     siteurl: 'http://bondstreet.github.io/for-ny'
     media: 'images'
     ignore: [ '_config.yml',
-        '_includes',
+        '_includes/footer.html',
+        '_includes/head.html',
+        '_includes/header.html',
+        '_includes/icon-facebook.html',
+        '_includes/icon-facebook.svg',
+        '_includes/icon-twitter.html',
+        '_includes/icon-twitter.svg',
+        '_includes/landing-header.html',
+        '_includes/landing-nav.html',
+        '_includes/manifesto-section.html',
         '_layouts',
         'css',
         '_css',
