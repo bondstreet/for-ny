@@ -4,6 +4,7 @@
 @import "layout.css";
 @import "icons.css";
 @import "basscss-addons/modules/btn";
+@import "basscss-addons/modules/btn-sizes";
 @import "basscss-addons/modules/btn-primary";
 @import "basscss-addons/modules/btn-outline";
 @import "colors.css";

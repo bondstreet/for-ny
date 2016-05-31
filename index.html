@@ -2,22 +2,13 @@
 layout: landing
 ---
 
-<section id="articles" class="px3 py4">
-    <h2 class="">Articles</h2>
-    <ul class="list-reset flex flex-wrap mxn2">
+<section id="profiles" class="px3 py4">
+    <h2 class="">Profiles</h2>
+    <div class="flex flex-wrap mxn2">
         {% for post in site.posts %}
-            <li class="col-12 sm-col-6 md-col-4 px2">
-                {% if post.image %}
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        <img class="fit" src="{{ post.image }}" />
-                    </a>
-                {% endif %}
-                <h2>
-                    <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-            </li>
+            {% include card.html card=post %}
         {% endfor %}
-    </ul>
+    </div>
 </section>
 <section id="events" class="px3 py4">
     <h2 class="">Events</h2>

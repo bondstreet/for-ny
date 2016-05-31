@@ -44,6 +44,17 @@ p, dl, ol, ul {
   border: 0;
   padding: 0;
 }
+/* Basscss Btn Sizes */
+.btn-small {
+  padding: .25rem .5rem;
+}
+.btn-big {
+  padding: 1rem 1.25rem;
+}
+.btn-narrow {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
 /* Basscss Btn Primary */
 .btn-primary {
   color: #fff;
@@ -82,10 +93,13 @@ p, dl, ol, ul {
 .btn-outline.is-disabled {
   opacity: .5;
 }
+.color-inherit { color: inherit }
 .white { color: #fff }
 .blue  { color: #0074d9 }
+.lightgray { color: #eee }
 .bg-white { background-color: #fff }
 .bg-blue  { background-color: #0074d9 }
+.bg-lightgray { background-color: #eee }
 /*! Basscss | http://basscss.com | MIT License */
 /* Basscss Type Scale */
 .h1 { font-size: 2rem }
