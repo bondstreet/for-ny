@@ -14,6 +14,12 @@ Writes files to `/dist`.
 npm start
 ```
 
+## Deploy to gh-pages
+
+```sh
+npm run deploy
+```
+
 ## Dev server
 
 TK
