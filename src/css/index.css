@@ -1,0 +1,8 @@
+
+@import 'base.css';
+@import 'colors.css';
+
+:root {
+  --gray: #eee;
+}
+
