@@ -1,12 +1,12 @@
 
 import React from 'react'
-import Header from './Header'
+import LandingHeader from './LandingHeader'
 import PostList from './PostList'
 
 const Index = (props, { data }) => {
   return (
     <div>
-      <Header />
+      <LandingHeader />
       <h2>Index</h2>
       <PostList />
     </div>

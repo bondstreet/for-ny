@@ -1,7 +1,7 @@
 
 import React from 'react'
 
-const Header = (props, { data }) => {
+const LandingHeader = (props, { data }) => {
   const sx = {
     root: {
       minHeight: '80vh'
@@ -16,9 +16,9 @@ const Header = (props, { data }) => {
   )
 }
 
-Header.contextTypes = {
+LandingHeader.contextTypes = {
   data: React.PropTypes.object
 }
 
-export default Header
+export default LandingHeader
 
