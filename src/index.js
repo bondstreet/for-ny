@@ -18,7 +18,7 @@ const render = ({
 	assets,
 	...props
 }, callback) => {
-	match({ routes, location: props.path }, (err, redirectLocation, renderProps) => {
+	match({ routes, location: props.baseurl + props.path }, (err, redirectLocation, renderProps) => {
 		const app = ReactDOMServer.renderToString(
             <Root data={props} renderProps={renderProps} />
 		)
