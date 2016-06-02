@@ -1,0 +1,35 @@
+
+import React from 'react'
+
+const ShareButtons = (props, { data }) => {
+    const parameterize = (obj) => '?' + Object.keys(obj).map(k => `${encodeURIComponent(k)}=${encodeURIComponent(obj[k])}`).join('&')
+
+    const fb = {
+        link: 'http://www.facebook.com/share.php',
+        data: {
+            u:     props.url,
+            title: props.title
+        }
+    }
+
+    const twitter = {
+        link: 'https://twitter.com/home',
+        data: {
+            status: props.tweetText + ' ' + props.url
+        }
+    }
+
+    return (
+        <div className="shareButtons">
+            <a className="facebook" href={fb.link + parameterize(fb.data)}>Share on Facebook</a>
+            <a className="twitter" href={twitter.link + parameterize(twitter.data)}>Share on Twitter</a>
+        </div>
+    )
+}
+
+ShareButtons.contextTypes = {
+    data: React.PropTypes.object
+}
+
+export default ShareButtons
+
