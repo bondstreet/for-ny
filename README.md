@@ -36,5 +36,6 @@ npm start
   - `/css` - Source CSS - loaded into the `<Head />` component with css-loader
   - `data.js` - reads the markdown post files and provides other data
   - `index.js` - static and client side renderer
+  - `renderHtml.js` - renders static markup to contain the React app
   - `routes.js` - route config for react-router
 
