@@ -37,7 +37,7 @@ const Html = ({ app, ...props }) => (
                 dangerouslySetInnerHTML={{
                     __html: JSON.stringify(props)
                 }} />
-            <script src={script} />
+            <script src={props.baseurl + script} />
         </body>
     </html>
 )

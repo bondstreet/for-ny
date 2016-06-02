@@ -18,8 +18,8 @@ var config = {
 
     output: {
         filename: '[name].js',
-        publicPath: '/',
-        path: path.resolve('./dist'),
+        publicPath: data.baseurl,
+        path: path.resolve(path.join(__dirname, 'dist', data.baseurl)),
         libraryTarget: 'umd'
     },
 
