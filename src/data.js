@@ -3,6 +3,7 @@ const fs = require('fs')
 const path = require('path')
 const frontMatter = require('front-matter')
 const marked = require('marked')
+const landing = require('./data/landing.json')
 
 const baseurl = '/for-ny'
 
@@ -35,7 +36,8 @@ const data = {
     baseurl,
     title: 'For NYC',
     paths,
-    posts
+    posts,
+    landing
 }
 
 module.exports = data

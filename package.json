@@ -21,6 +21,7 @@
     "cssnano": "^3.6.2",
     "front-matter": "^2.0.8",
     "gh-pages": "^0.11.0",
+    "json-loader": "^0.5.4",
     "lodash": "^4.13.1",
     "marked": "^0.3.5",
     "postcss": "^5.0.21",
