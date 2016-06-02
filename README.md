@@ -11,7 +11,7 @@ npm i
 Writes files to `/dist`.
 
 ```sh
-npm start
+npm run build
 ```
 
 ## Deploy to gh-pages
@@ -22,7 +22,9 @@ npm run deploy
 
 ## Dev server
 
-TK
+```sh
+npm start
+```
 
 
 ## Folder structure
@@ -34,5 +36,6 @@ TK
   - `/css` - Source CSS - loaded into the `<Head />` component with css-loader
   - `data.js` - reads the markdown post files and provides other data
   - `index.js` - static and client side renderer
+  - `renderHtml.js` - renders static markup to contain the React app
   - `routes.js` - route config for react-router
 

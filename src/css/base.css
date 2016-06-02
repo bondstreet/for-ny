@@ -1,4 +1,6 @@
 
+* { box-sizing: border-box }
+
 body {
   font-family: -apple-system, sans-serif;
   line-height: 1.5;

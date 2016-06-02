@@ -1,4 +1,6 @@
 
+// Provides data through React context
+
 import React from 'react'
 
 class Provider extends React.Component {
