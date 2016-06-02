@@ -5,9 +5,11 @@ import About from './components/About'
 import PostList from './components/PostList'
 import Post from './components/Post'
 
+const baseurl = '/for-ny/'
+
 const routes = [
   {
-    path: '/',
+    path: baseurl,
     component: App,
     indexRoute: {
       component: Index
