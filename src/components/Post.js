@@ -9,13 +9,15 @@ const Post = ({ params }, { data }) => {
         __html: post.html
     }
 
+    console.log('hey', data)
+
     return (
         <div>
             <h1>{post.title}</h1>
             <p>{post.date.toString()}</p>
             <div dangerouslySetInnerHTML={content} />
             <ShareButtons
-                url="http://google.com"
+                url={window.location.href}
                 title={post.title}
                 tweetText={post.tweetText}
             />
