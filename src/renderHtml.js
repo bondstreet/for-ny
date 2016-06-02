@@ -42,7 +42,7 @@ const Html = ({ app, ...props }) => (
     </html>
 )
 
-const render = (props) => {
+const renderHtml = (props) => {
     const html = ReactDOMServer.renderToStaticMarkup(
         <Html {...props} />
     )
@@ -50,5 +50,5 @@ const render = (props) => {
     return `<!DOCTYPE html>${html}`
 }
 
-export default render
+export default renderHtml
 

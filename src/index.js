@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 import ReactDOMServer from 'react-dom/server'
 import { match } from 'react-router'
 import routes from './routes'
-import Html from './Html'
+import renderHtml from './renderHtml'
 import Root from './components/Root'
 
 if (typeof document !== 'undefined') {
@@ -23,7 +23,7 @@ const render = ({
             <Root data={props} renderProps={renderProps} />
 		)
 
-		const html = Html({ app, ...props })
+		const html = renderHtml({ app, ...props })
 
 		callback(null, `<!DOCTYPE html>${html}`)
 	})

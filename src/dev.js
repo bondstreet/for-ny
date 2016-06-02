@@ -16,14 +16,14 @@ ReactDOM.render(
 )
 
 if (module.hot) {
-	module.hot.accept('./components/Root', () => {
-		const NextRoot = require('./components/Root').default
-		ReactDOM.render(
-			<AppContainer>
-				<NextRoot data={initialData} />
-			</AppContainer>,
-			div
-		)
-	})
+    module.hot.accept('./components/Root', () => {
+        const NextRoot = require('./components/Root').default
+        ReactDOM.render(
+            <AppContainer>
+                <NextRoot data={initialData} />
+            </AppContainer>,
+            div
+        )
+    })
 }
 

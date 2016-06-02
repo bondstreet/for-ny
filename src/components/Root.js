@@ -10,9 +10,9 @@ const Root = ({ data, renderProps }) => {
         : <Router history={browserHistory} routes={routes} />
 
 	return (
-		<Provider data={data}>
+        <Provider data={data}>
             {routerComponent}
-		</Provider>
+        </Provider>
 	)
 }
 
