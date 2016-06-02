@@ -38,6 +38,7 @@ const Html = ({ app, ...props }) => (
                     __html: JSON.stringify(props)
                 }} />
             <script src={script} />
+            <script src="/scripts/optinmonster.js"></script>
         </body>
     </html>
 )
