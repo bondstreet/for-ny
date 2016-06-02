@@ -1,4 +1,6 @@
 
+// Renders the static HTML wrapper that the react app is injected into
+
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'

@@ -1,8 +1,11 @@
 
 var webpack = require('webpack')
+var StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin')
 var config = require('./webpack.config')
+var data = require('./src/data')
 
 config.devtool = 'eval'
+
 config.entry = {
     bundle: [
         './src/index.js'
@@ -15,19 +18,15 @@ config.entry = {
     ]
 }
 
-config.plugins = config.plugins || []
-
-config.plugins.push(
-    new webpack.HotModuleReplacementPlugin()
-)
-
-config.plugins.push(
+config.plugins = [
+    new StaticSiteGeneratorPlugin('bundle', data.paths, data),
+    new webpack.HotModuleReplacementPlugin(),
     new webpack.DefinePlugin({
         'process.env': {
             'NODE_ENV': JSON.stringify('development')
         }
     })
-)
+]
 
 module.exports = config
 

@@ -2,26 +2,25 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
-import DevApp from './components/DevApp'
+import Root from './components/Root'
 
 const div = document.getElementById('app')
 
 const initialData = JSON.parse(document.getElementById('data').innerHTML)
-console.log('dev')
 
 ReactDOM.render(
     <AppContainer>
-        <DevApp data={initialData} />
+        <Root data={initialData} />
     </AppContainer>,
     div
 )
 
 if (module.hot) {
-	module.hot.accept('./components/DevApp', () => {
-		const NextApp = require('./components/DevApp').default
+	module.hot.accept('./components/Root', () => {
+		const NextRoot = require('./components/Root').default
 		ReactDOM.render(
 			<AppContainer>
-				<NextApp data={initialData} />
+				<NextRoot data={initialData} />
 			</AppContainer>,
 			div
 		)
