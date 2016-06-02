@@ -1,4 +1,5 @@
 
+var path = require('path')
 var webpack = require('webpack')
 var StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin')
 var autoprefixer = require('autoprefixer')
@@ -9,50 +10,58 @@ var postcssCalc = require('postcss-calc')
 var data = require('./src/data')
 
 var config = {
-  entry: {
-    main: './src/index.js'
-  },
+    devtool: 'cheap-source-map',
 
-  output: {
-    filename: 'index.js',
-    path: 'dist',
-    libraryTarget: 'umd'
-  },
+    entry: {
+        bundle: './src/index.js'
+    },
 
-  module: {
-    loaders: [
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
+    output: {
+        filename: '[name].js',
+        publicPath: '/',
+        path: path.resolve('./dist'),
+        libraryTarget: 'umd'
+    },
+
+    module: {
         loaders: [
-          'babel'
+            {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                loaders: [
+                    'babel'
+                ]
+            },
+            {
+                test: /\.css$/,
+                loaders: [
+                    'css',
+                    'postcss'
+                ]
+            }
         ]
-      },
-      {
-        test: /\.css$/,
-        loaders: [
-          'css',
-          'postcss'
+    },
+
+    plugins: [
+        new StaticSiteGeneratorPlugin('bundle', data.paths, data),
+        new webpack.DefinePlugin({
+        'process.env': {
+            'NODE_ENV': JSON.stringify('production')
+        }
+        })
+    ],
+
+    postcss: function () {
+        return [
+            postcssImport({
+                addDependencyTo: webpack
+            }),
+            postcssCustomProperties,
+            postcssCustomMedia,
+            postcssCalc,
+            autoprefixer
         ]
-      }
-    ]
-  },
-
-  plugins: [
-    new StaticSiteGeneratorPlugin('main', data.paths, data)
-  ],
-
-  postcss: function () {
-    return [
-      postcssImport({
-        addDependencyTo: webpack
-      }),
-      postcssCustomProperties,
-      postcssCustomMedia,
-      postcssCalc,
-      autoprefixer
-    ]
-  }
+    }
 }
 
 module.exports = config

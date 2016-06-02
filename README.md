@@ -11,7 +11,7 @@ npm i
 Writes files to `/dist`.
 
 ```sh
-npm start
+npm run build
 ```
 
 ## Deploy to gh-pages
@@ -22,7 +22,9 @@ npm run deploy
 
 ## Dev server
 
-TK
+```sh
+npm start
+```
 
 
 ## Folder structure

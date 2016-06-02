@@ -1,6 +1,5 @@
 
 import App from './components/App'
-import Html from './components/Html'
 import Index from './components/Index'
 import About from './components/About'
 import PostList from './components/PostList'
@@ -9,7 +8,7 @@ import Post from './components/Post'
 const routes = [
   {
     path: '/',
-    component: Html,
+    component: App,
     indexRoute: {
       component: Index
     },
