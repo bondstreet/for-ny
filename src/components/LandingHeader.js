@@ -1,5 +1,6 @@
 
 import React from 'react'
+import Container from './Container'
 import Heading from './Heading'
 import Text from './Text'
 import Button from './Button'
@@ -23,11 +24,13 @@ const LandingHeader = (props, { data }) => {
         <header className='table col-12 px3 py4 bg-gray'
             style={sx.root}>
             <div className='table-cell align-middle center'>
-                <Heading children={heading} />
-                <Text children={text} />
-                <Button
-                    href='#!'
-                    children={headerButton} />
+                <Container>
+                    <Heading size={0} children={heading} />
+                    <Text center bold size={1} children={text} />
+                    <Button
+                        href='#!'
+                        children={headerButton} />
+                </Container>
             </div>
         </header>
     )

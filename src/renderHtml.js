@@ -4,7 +4,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
-import basscss from 'basscss/css/basscss.min.css'
+// import basscss from 'basscss/css/basscss.min.css'
 
 let script = '/bundle.js'
 
@@ -19,7 +19,6 @@ const Head = ({ title }) => {
       <title>{title}</title>
       {/* OG meta tags etc. goes here */}
       <style dangerouslySetInnerHTML={{ __html: css }}/>
-      <style dangerouslySetInnerHTML={{ __html: basscss }}/>
     </head>
   )
 }
