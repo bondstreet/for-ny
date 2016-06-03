@@ -1,0 +1,13 @@
+{
+    "text": "© 2016 Bond Street",
+    "links": [
+        {
+            "href": "/terms",
+            "children": "Terms of Use"
+        },
+        {
+            "href": "/privacy",
+            "children": "Privacy Policy"
+        }
+    ]
+}
