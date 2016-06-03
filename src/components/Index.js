@@ -11,6 +11,7 @@ const Index = (props, { data }) => {
       <h2>Index</h2>
       <PostList />
       <LeadForm />
+      <div id="om-gxypjvmawqflh5m2-holder"></div>
     </div>
   )
 }

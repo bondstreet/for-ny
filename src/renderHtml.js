@@ -38,6 +38,8 @@ const Html = ({ app, ...props }) => (
                     __html: JSON.stringify(props)
                 }} />
             <script src={props.baseurl + script} />
+            <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+            <script src={props.baseurl + '/optinmonster.js'} />
         </body>
     </html>
 )
