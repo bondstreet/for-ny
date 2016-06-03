@@ -1,17 +1,20 @@
 
 import React from 'react'
-import { find } from 'lodash'
+import { findIndex } from 'lodash'
 import os from 'os'
 import ShareButtons from './ShareButtons'
+import PostNav from './PostNav'
 
 const Post = ({ params }, { data }) => {
-    const post = find(data.posts, p => p.name === params.name)
+    const index = findIndex(data.posts, p => p.name === params.name)
+    const post = data.posts[index]
     const content = {
         __html: post.html
     }
 
     return (
         <div>
+            <PostNav current={index} />
             <h1>{post.title}</h1>
             <p>{post.date.toString()}</p>
             <div dangerouslySetInnerHTML={content} />
