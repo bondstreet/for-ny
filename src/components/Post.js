@@ -1,7 +1,6 @@
 
 import React from 'react'
 import { find } from 'lodash'
-import os from 'os'
 import ShareButtons from './ShareButtons'
 
 const Post = ({ params }, { data }) => {
@@ -10,13 +9,15 @@ const Post = ({ params }, { data }) => {
         __html: post.html
     }
 
+    console.log(data)
+
     return (
         <div>
             <h1>{post.title}</h1>
             <p>{post.date.toString()}</p>
             <div dangerouslySetInnerHTML={content} />
             <ShareButtons
-                url={'http://' + os.hostname() + data.baseurl + data.path}
+                url={data.domain + data.baseurl + data.path}
                 title={post.title}
                 tweetText={post.tweetText}
             />
