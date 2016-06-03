@@ -5,7 +5,8 @@ import {
     InterestedPrompt,
     CheckOrSchedule,
     LeadCapture,
-    Schedule
+    Schedule,
+    LikeUs
 } from './lead-components'
 
 
@@ -41,11 +42,17 @@ class LeadForm extends React.Component {
 
     handleLeadSubmit (e) {
         e.preventDefault()
+        const payload = {
+            company: this.state.business_name,
+            full_name: this.state.name,
+            email: this.state.email,
+            phone: this.state.phone_number
+        }
 
         console.log(this.state)
-        //const { createLead } = this.props
-        //
-        this.createLead(this.state).then(() => {
+
+        this.createLead(payload).then(() => {
+            console.log('success')
             this.setView('schedule')
         })
     }
@@ -63,6 +70,7 @@ class LeadForm extends React.Component {
         const views = {
             interested: (
                 <InterestedPrompt
+                    onDecline={this.setView('likeUs')}
                     onAccept={this.setView('checkOrSchedule')}/>
             ),
             checkOrSchedule: (
@@ -79,6 +87,9 @@ class LeadForm extends React.Component {
             ),
             schedule: (
                 <Schedule {...this.state} />
+            ),
+            likeUs: (
+                <LikeUs {...this.state} />
             )
         }
 

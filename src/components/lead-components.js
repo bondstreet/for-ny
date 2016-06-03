@@ -108,3 +108,15 @@ export const Schedule = ({...props}) => {
         </div>
     )
 }
+
+
+export const LikeUs = ({...props}) => {
+    return (
+        <div>
+            <h2>
+                Like stories about businesses in the city?<br />
+            </h2>
+            <button><a target='_blank' href='https://facebook.com/onbondstreet'>Follow us on Facebook</a></button>
+        </div>
+    )
+}
