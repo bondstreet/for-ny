@@ -1,11 +1,10 @@
 
 import React from 'react'
+import querystring from 'querystring'
 
 const ShareButtons = (props, { data }) => {
-    const parameterize = (obj) => '?' + Object.keys(obj).map(k => `${encodeURIComponent(k)}=${encodeURIComponent(obj[k])}`).join('&')
-
     const fb = {
-        link: 'http://www.facebook.com/share.php',
+        link: 'http://www.facebook.com/share.php?',
         data: {
             u:     props.url,
             title: props.title
@@ -13,7 +12,7 @@ const ShareButtons = (props, { data }) => {
     }
 
     const twitter = {
-        link: 'https://twitter.com/home',
+        link: 'https://twitter.com/home?',
         data: {
             status: props.tweetText + ' ' + props.url
         }
@@ -21,8 +20,8 @@ const ShareButtons = (props, { data }) => {
 
     return (
         <div className="shareButtons">
-            <a className="facebook" href={fb.link + parameterize(fb.data)}>Share on Facebook</a>
-            <a className="twitter" href={twitter.link + parameterize(twitter.data)}>Share on Twitter</a>
+            <a className="facebook" href={fb.link + querystring.stringify(fb.data)}>Share on Facebook</a>
+            <a className="twitter" href={twitter.link + querystring.stringify(twitter.data)}>Share on Twitter</a>
         </div>
     )
 }
