@@ -2,7 +2,7 @@
 import React from 'react'
 import Text from './Text'
 import NavItem from './NavItem'
-import SocialIcon from './SocialIcon'
+import Icon from './Icon'
 
 const Footer = (props, {
     data: {
@@ -23,14 +23,14 @@ const Footer = (props, {
                 ))}
             </div>
             <div className='inline-block col-12 sm-col-6 right-align'>
-                <SocialIcon
+                <Icon
                     className='mx2'
                     href='https://facebook.com/onbondstreet'
-                    brand='facebook' />
-                <SocialIcon
+                    name='facebook' />
+                <Icon
                     className='mx2'
                     href='https://facebook.com/onbondstreet'
-                    brand='twitter' />
+                    name='twitter' />
             </div>
         </footer>
     )

@@ -21,7 +21,7 @@ const LandingHeader = (props, { data }) => {
     } = data
 
     return (
-        <header className='table col-12 px3 py4 bg-gray'
+        <header className='table col-12 px3 py4 bg-green'
             style={sx.root}>
             <div className='table-cell align-middle center'>
                 <Container>
