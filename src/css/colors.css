@@ -1,4 +1,8 @@
 
+.disabled {
+    opacity: 0.5;
+    cursor: default;
+}
 .color-inherit { color: inherit }
 
 .black  { color: var(--black) }

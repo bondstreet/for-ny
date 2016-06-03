@@ -28,11 +28,17 @@ const PostNav = ({ current }, { data }) => {
                 </Heading>
             </div>
             <div className='inline-block col-4 right-align'>
-                <NavItem to={`/posts/${previousPost.name}`}>
+                <NavItem
+                    disabled={!previousPost}
+                    to={`/posts/${previousPost.name}`}>
+                    <Icon name='chevronLeft' />
                     Previous
                 </NavItem>
-                <NavItem to={`/posts/${nextPost.name}`}>
+                <NavItem
+                    disabled={!nextPost}
+                    to={`/posts/${nextPost.name}`}>
                     Next
+                    <Icon name='chevronRight' />
                 </NavItem>
             </div>
         </nav>
