@@ -11,8 +11,13 @@ const LandingPosts = (props, {
     }
 }) => {
     return (
-        <section id='stories'>
-            <Heading size={0} children={postList.heading} />
+        <section id='stories'
+            className='px3 py4'>
+            <Heading center
+                caps
+                size={0}
+                className='mb3'
+                children={postList.heading} />
             <PostList />
         </section>
     )

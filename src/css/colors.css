@@ -1,4 +1,6 @@
 
+.color-inherit { color: inherit }
+
 .black  { color: var(--black) }
 .white  { color: var(--white) }
 .green  { color: var(--green) }

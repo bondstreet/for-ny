@@ -9,8 +9,8 @@
     "introSection": {
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
-    "facebookPromo": {
-        "heading": "Like us on Facebook",
+    "socialPromo": {
+        "heading": "Do you support small businesses? Show some love NYC!",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "button": "Like Bond Street"
     },
@@ -18,17 +18,7 @@
         "heading": "Events",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
-    "customers": {
-        "heading": "Our customers",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "logos": [
-            "bondstreet",
-            "bondstreet",
-            "bondstreet",
-            "bondstreet"
-        ]
-    },
-    "footerCta": {
+    "about": {
         "heading": "Do something",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "submitButton": "Do it"

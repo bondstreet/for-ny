@@ -5,16 +5,16 @@ import classnames from 'classnames'
 const Text = ({
     size = 4,
     center,
+    caps,
     bold,
+    className,
     ...props
 }) => {
     const cx = classnames('Text', `h${size}`, {
         center,
+        caps,
         bold
-    })
-
-    const sx = {
-    }
+    }, className)
 
     return (
         <p {...props}
