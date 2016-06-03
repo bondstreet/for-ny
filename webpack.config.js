@@ -34,6 +34,13 @@ var config = {
                 ]
             },
             {
+                test: /\.js$/,
+                include: /bondstreet_web/,
+                loaders: [
+                    'babel'
+                ]
+            },
+            {
                 test: /\.css$/,
                 loaders: [
                     'css',

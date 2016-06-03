@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 import {
     InterestedPrompt,
     CheckOrSchedule,
@@ -44,9 +45,16 @@ class LeadForm extends React.Component {
         console.log(this.state)
         //const { createLead } = this.props
         //
-        //createLead(this.state).then(() => {
-        //    this.setState({ view: 'apply' })
-        //})
+        this.createLead(this.state).then(() => {
+            this.setView('schedule')
+        })
+    }
+
+    componentDidMount() {
+        const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
+        this.createLead = leadCapture.createLead
+        this.createNewsletterSub = leadCapture.createNewsletterSub
+        this.setTakeoverCookie = leadCapture.setTakeoverCookie
     }
 
     render () {
