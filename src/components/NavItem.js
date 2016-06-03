@@ -1,12 +1,21 @@
 
 import React from 'react'
 import classnames from 'classnames'
+import Link from './Link'
 
 const NavItem = ({
+    href,
+    to,
     caps = true,
     className,
     ...props
 }) => {
+    const Comp = href
+        ? 'a'
+        : to
+            ? Link
+            : 'span'
+
     const cx = classnames(
         'NavItem',
         'h5',
@@ -21,7 +30,10 @@ const NavItem = ({
     )
 
     return (
-        <a {...props} className={cx} />
+        <Comp {...props}
+            to={to}
+            href={href}
+            className={cx} />
     )
 }
 

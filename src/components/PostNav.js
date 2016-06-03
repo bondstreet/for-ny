@@ -1,6 +1,9 @@
 
 import React from 'react'
 import Link from './Link'
+import NavItem from './NavItem'
+import Heading from './Heading'
+import Icon from './Icon'
 
 const PostNav = ({ current }, { data }) => {
     const { posts } = data
@@ -8,15 +11,30 @@ const PostNav = ({ current }, { data }) => {
     const nextPost = posts[current + 1] || false
 
     return (
-        <nav>
-            <Link to='/' children='Home' />
-            <h1>For New York</h1>
-            <Link to={`/posts/${previousPost.name}`}>
-                Previous
-            </Link>
-            <Link to={`/posts/${nextPost.name}`}>
-                Next
-            </Link>
+        <nav className='px2 py2 border-bottom'>
+            <div className='inline-block col-4'>
+                <Icon to='/'
+                    name='close'
+                    title='Close article' />
+            </div>
+            <div className='inline-block col-4 center'>
+                <Heading
+                    className='inline-block'
+                    level={1}
+                    size={4}>
+                    <Link to='/' className='color-inherit text-decoration-none'>
+                        For New York
+                    </Link>
+                </Heading>
+            </div>
+            <div className='inline-block col-4 right-align'>
+                <NavItem to={`/posts/${previousPost.name}`}>
+                    Previous
+                </NavItem>
+                <NavItem to={`/posts/${nextPost.name}`}>
+                    Next
+                </NavItem>
+            </div>
         </nav>
     )
 }

@@ -17,6 +17,9 @@ const Post = ({ params }, { data }) => {
             <PostNav current={index} />
             <h1>{post.title}</h1>
             <p>{post.date.toString()}</p>
+            {post.image && (
+                <img src={post.image} className='fit' />
+            )}
             <div dangerouslySetInnerHTML={content} />
             <ShareButtons
                 url={'http://' + os.hostname() + data.baseurl + data.path}
