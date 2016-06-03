@@ -2,7 +2,6 @@
 import React from 'react'
 import _ from 'lodash'
 import moment from 'moment'
-import month from 'month'
 import Container from './Container'
 import Heading from './Heading'
 import EventCard from './EventCard'
@@ -14,17 +13,20 @@ const EventList = (props, { data }) => {
         }
     } = data
 
+    const convertDate = function(eventDate) {
+        return moment(eventDate, ['YYYY-MM-DD', 'MM-DD-YYYY'])
+    }
+
     const getMonth = function(eventDetails) {
-        const eventDate = moment(eventDetails.date, ['YYYY-MM-DD', 'MM-DD-YYYY'])
-        return eventDate.month();
+        return parseInt(convertDate(eventDetails.date).month()) + 1
     };
 
     const getDay = function(eventDetails) {
-        const eventDate = moment(eventDetails.date, ['YYYY-MM-DD', 'MM-DD-YYYY'])
-        return eventDate.date();
+        return convertDate(eventDetails.date).date()
     };
 
-    const sortedEvents = _.chain(data.events.eventList)
+    const sortedEvents = _
+        .chain(data.events.eventList)
         .sortBy(getMonth, getDay)
         .groupBy(getMonth)
         .toPairs()
@@ -40,7 +42,7 @@ const EventList = (props, { data }) => {
                     className='mb3'
                     children={eventList.heading} />
                 {sortedEvents.map((eventsByMonth, i) => {
-                    const monthName = month(eventsByMonth[0])
+                    const monthName = moment(eventsByMonth[0]).format('MMMM')
                     const events = eventsByMonth[1]
                     return (
                         <div>
