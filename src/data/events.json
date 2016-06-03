@@ -1,6 +1,25 @@
 {
-    "events": {
-
-
-    }
+    "eventList": [
+        {
+            "title": "Barbershop",
+            "date": "2016-05-15",
+            "location": "A place",
+            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
+            "link": "https://talkshop.splashthat.com"
+        },
+        {
+            "title": "Barbershop: The Next Cut",
+            "date": "2016-06-15",
+            "location": "A third place",
+            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
+            "link": "https://talkshop.splashthat.com"
+        },
+        {
+            "title": "Barbershop: Back in Business",
+            "date": "2016-5-31",
+            "location": "Another place",
+            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
+            "link": "https://talkshop.splashthat.com"
+        }
+    ]
 }

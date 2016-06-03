@@ -25,6 +25,7 @@
     "json-loader": "^0.5.4",
     "lodash": "^4.13.1",
     "marked": "^0.3.5",
+    "moment": "^2.13.0",
     "month": "^2.0.1",
     "postcss": "^5.0.21",
     "postcss-calc": "^5.2.1",
