@@ -1,5 +1,19 @@
 
-.gray { color: var(--gray) }
+.color-inherit { color: inherit }
 
+.black  { color: var(--black) }
+.white  { color: var(--white) }
+.green  { color: var(--green) }
+.yellow { color: var(--yellow) }
+.orange { color: var(--orange) }
+
+.bg-black  { background-color: var(--black) }
+.bg-white  { background-color: var(--white) }
+.bg-green  { background-color: var(--green) }
+.bg-yellow { background-color: var(--yellow) }
+.bg-orange { background-color: var(--orange) }
+
+/* For wireframe */
+.gray { color: var(--gray) }
 .bg-gray { background-color: var(--gray) }
 

@@ -1,23 +1,25 @@
 
 import React from 'react'
 import Link from './Link'
+import PostCard from './PostCard'
 
 const PostList = ({ limit }, { data }) => {
 
   const posts = limit ? data.posts.slice(limit - 1) : data.posts
 
   return (
-    <ul>
+    <div className='mxn2'>
       {data.posts.map((post, i) => {
         return (
-          <li key={i}>
-            <Link to={`/posts/${post.name}`}>
-              {post.title}
-            </Link>
-          </li>
+            <div key={i}
+                className='inline-block align-top col-12 sm-col-6 lg-col-4 px2 mb2'>
+                <PostCard
+                    {...post}
+                    to={`/posts/${post.name}`} />
+            </div>
         )
       })}
-    </ul>
+    </div>
   )
 }
 
