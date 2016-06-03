@@ -4,7 +4,6 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
-// import basscss from 'basscss/css/basscss.min.css'
 
 let script = '/bundle.js'
 
