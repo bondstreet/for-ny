@@ -4,14 +4,14 @@ import Link from './Link'
 import Heading from './Heading'
 
 const PostCard = ({
-    to,
+    name,
     image,
     title,
     ...props
 }) => {
     return (
         <div>
-            <Link to={to}
+            <Link to={`/posts/${name}`}
                 className='block color-inherit text-decoration-none'>
                 <img src={image}
                     className='fit mb1' />
