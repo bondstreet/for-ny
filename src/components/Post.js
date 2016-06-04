@@ -40,7 +40,7 @@ const Post = ({ params }, { data, router }) => {
             <Container maxWidth={1024} className='py4'>
                 <Prose html={post.html} />
                 <ShareButtons
-                    url={'http://' + data.hostname + data.baseurl + data.path}
+                    url={data.domain + data.baseurl + data.path}
                     title={post.title}
                     tweetText={post.tweetText}
                 />
