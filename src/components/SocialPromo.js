@@ -1,20 +1,27 @@
 
 import React from 'react'
-import Heading from './Heading'
+import { Heading } from 'rebass'
+import ShareButtons from './ShareButtons'
 
 const SocialPromo = (props, {
     data: {
+        domain,
+        baseurl,
         landing: {
             socialPromo
         }
     }
 }) => {
     return (
-        <section className='px3 py2 bg-orange'>
+        <section className='center px3 py3 bg-orange'>
             <Heading
+                mb={2}
                 children={socialPromo.heading} />
-            <button>Facebook</button>
-            <button>Twitter</button>
+            <ShareButtons
+                title='For New York'
+                tweetText='For New York'
+                url='For New York'
+            />
         </section>
     )
 }

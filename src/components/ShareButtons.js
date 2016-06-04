@@ -1,6 +1,7 @@
 
 import React from 'react'
 import querystring from 'querystring'
+import { ButtonOutline } from 'rebass'
 
 const ShareButtons = (props, { data }) => {
     const fb = {
@@ -20,8 +21,18 @@ const ShareButtons = (props, { data }) => {
 
     return (
         <div className="shareButtons">
-            <a className="facebook" href={fb.link + querystring.stringify(fb.data)}>Share on Facebook</a>
-            <a className="twitter" href={twitter.link + querystring.stringify(twitter.data)}>Share on Twitter</a>
+            <ButtonOutline
+                color='black'
+                mx={1}
+                href={fb.link + querystring.stringify(fb.data)}>
+                Share on Facebook
+            </ButtonOutline>
+            <ButtonOutline
+                color='black'
+                mx={1}
+                href={twitter.link + querystring.stringify(twitter.data)}>
+                Share on Twitter
+            </ButtonOutline>
         </div>
     )
 }
