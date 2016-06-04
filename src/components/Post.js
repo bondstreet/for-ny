@@ -11,8 +11,6 @@ const Post = ({ params }, { data }) => {
         __html: post.html
     }
 
-    console.log(data)
-
     return (
         <div>
             <PostNav current={index} />
