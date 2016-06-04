@@ -1,6 +1,7 @@
 
 import React from 'react'
 import Heading from './Heading'
+import ShareButtons from './ShareButtons'
 
 const SocialPromo = (props, {
     data: {
@@ -13,8 +14,11 @@ const SocialPromo = (props, {
         <section className='px3 py2 bg-orange'>
             <Heading
                 children={socialPromo.heading} />
-            <button>Facebook</button>
-            <button>Twitter</button>
+            <ShareButtons
+                url={data.domain + data.baseurl}
+                title='For New York'
+                tweetText='Twitter text goes here'
+            />
         </section>
     )
 }
