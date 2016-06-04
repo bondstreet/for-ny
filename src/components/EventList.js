@@ -18,11 +18,13 @@ const EventList = (props, { data }) => {
     }
 
     const getMonth = function(eventDetails) {
-        return parseInt(convertDate(eventDetails.date).month()) + 1
+        eventDetails.month = parseInt(convertDate(eventDetails.date).month()) + 1
+        return eventDetails.month
     };
 
     const getDay = function(eventDetails) {
-        return convertDate(eventDetails.date).date()
+        eventDetails.day = convertDate(eventDetails.date).date()
+        return eventDetails.day
     };
 
     const sortedEvents = _
@@ -45,11 +47,11 @@ const EventList = (props, { data }) => {
                     const monthName = moment(eventsByMonth[0]).format('MMMM')
                     const events = eventsByMonth[1]
                     return (
-                        <div>
+                        <div className='mb3'>
                             <Heading caps
                                 size={1}
-                                className='mb3'
                                 key={'month' + i}
+                                className='mb2'
                                 children={monthName} />
                             {events.map((event, i) => {
                                 return (

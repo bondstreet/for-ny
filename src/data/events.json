@@ -3,23 +3,23 @@
         {
             "title": "Barbershop",
             "date": "2016-05-15",
-            "location": "A place",
-            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
-            "link": "https://talkshop.splashthat.com"
+            "location": "Chicago",
+            "blurb": "A day in the life of a South Side Chicago barbershop.",
+            "link": "http://www.imdb.com/title/tt0303714/"
         },
         {
             "title": "Barbershop: The Next Cut",
             "date": "2016-06-15",
-            "location": "A third place",
-            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
-            "link": "https://talkshop.splashthat.com"
+            "location": "Chicago, a third time",
+            "blurb": "As their surrounding community has taken a turn for the worse, the crew at Calvin's Barbershop come together to bring some much needed change to their neighborhood.",
+            "link": "http://www.imdb.com/title/tt3628584/"
         },
         {
             "title": "Barbershop: Back in Business",
             "date": "2016-5-31",
-            "location": "Another place",
-            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
-            "link": "https://talkshop.splashthat.com"
+            "location": "Chicago, again",
+            "blurb": "Why not spend another day with the crew at Calvin's shop in the South Side of Chicago?",
+            "link": "http://www.imdb.com/title/tt0337579/"
         }
     ]
 }
