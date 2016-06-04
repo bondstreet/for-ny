@@ -18,8 +18,6 @@ const Post = ({ params }, { data, router }) => {
     const previousPost = posts[index - 1] || false
     const nextPost = posts[index + 1] || false
 
-    console.log(router)
-
     return (
         <div>
             <PostNav previousPost={previousPost}
