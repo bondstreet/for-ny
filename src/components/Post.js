@@ -1,7 +1,6 @@
 
 import React from 'react'
 import { findIndex } from 'lodash'
-import os from 'os'
 import ShareButtons from './ShareButtons'
 import PostNav from './PostNav'
 
@@ -22,7 +21,7 @@ const Post = ({ params }, { data }) => {
             )}
             <div dangerouslySetInnerHTML={content} />
             <ShareButtons
-                url={'http://' + os.hostname() + data.baseurl + data.path}
+                url={data.domain + data.baseurl + data.path}
                 title={post.title}
                 tweetText={post.tweetText}
             />
