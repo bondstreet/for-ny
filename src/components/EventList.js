@@ -35,6 +35,7 @@ const EventList = (props, { data }) => {
         .sortBy(_.head)
         .value()
 
+
     return (
         <section className='bg-orange px2 py4'>
             <Container>
@@ -44,13 +45,13 @@ const EventList = (props, { data }) => {
                     className='mb3'
                     children={eventList.heading} />
                 {sortedEvents.map((eventsByMonth, i) => {
-                    const monthName = moment(eventsByMonth[0]).format('MMMM')
+                    const monthName = moment(eventsByMonth[0], 'MM').format('MMMM')
                     const events = eventsByMonth[1]
                     return (
-                        <div className='mb3'>
+                        <div key={'month' + i}
+                            className='mb3'>
                             <Heading caps
                                 size={1}
-                                key={'month' + i}
                                 className='mb2'
                                 children={monthName} />
                             {events.map((event, i) => {
