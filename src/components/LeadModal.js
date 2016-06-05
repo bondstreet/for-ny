@@ -23,7 +23,6 @@ class LeadModal extends React.Component {
     }
 
     handleClick (e) {
-        console.log(e.target)
         this.setState({open: false})
     }
 
