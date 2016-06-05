@@ -3,9 +3,11 @@ const fs = require('fs')
 const path = require('path')
 const frontMatter = require('front-matter')
 const marked = require('marked')
+const events = require('./data/events.json')
 const landing = require('./data/landing.json')
 const footer = require('./data/footer.json')
 
+const domain = 'http://bondstreet.com'
 const baseurl = '/for-ny'
 
 const paths = [
@@ -33,10 +35,12 @@ posts.forEach(f => {
 })
 
 const data = {
+    domain,
     baseurl,
     title: 'For NYC',
     paths,
     posts,
+    events,
     landing,
     footer
 }
