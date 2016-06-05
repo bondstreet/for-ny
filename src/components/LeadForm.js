@@ -49,10 +49,8 @@ class LeadForm extends React.Component {
             phone: this.state.phone_number
         }
 
-        console.log(this.state)
 
         this.createLead(payload).then(() => {
-            console.log('success')
             this.setView('schedule')
         })
     }
