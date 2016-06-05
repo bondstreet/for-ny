@@ -18,6 +18,10 @@ const Head = ({ title }) => {
       <title>{title}</title>
       {/* OG meta tags etc. goes here */}
       <style dangerouslySetInnerHTML={{ __html: css }}/>
+      <script src='https://use.typekit.net/zzi1igz.js' />
+      <script dangerouslySetInnerHTML={{
+          __html: 'try{Typekit.load({ async: true });}catch(e){}'
+      }} />
     </head>
   )
 }

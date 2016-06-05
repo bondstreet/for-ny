@@ -7,6 +7,7 @@ import LandingHeader from './LandingHeader'
 import LandingIntro from './LandingIntro'
 import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
+import EventList from './EventList'
 import LandingAbout from './LandingAbout'
 import Footer from './Footer'
 
@@ -18,7 +19,7 @@ const Index = (props, { data }) => {
       <LandingIntro />
       <LandingPosts />
       <SocialPromo />
-      <pre>EventList FPO</pre>
+      <EventList />
       <LandingAbout />
       <LeadForm />
       <Footer />
