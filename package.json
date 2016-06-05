@@ -36,6 +36,7 @@
     "react-dom": "^15.1.0",
     "react-hot-loader": "^3.0.0-beta.2",
     "react-router": "^2.4.1",
+    "rebass": "^0.2.6",
     "static-site-generator-webpack-plugin": "^2.1.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
