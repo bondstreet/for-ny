@@ -8,7 +8,8 @@ import Button from './Button'
 const LandingHeader = (props, { data }) => {
     const sx = {
         root: {
-            minHeight: '80vh'
+            minHeight: '80vh',
+            paddingTop: 64
         }
     }
 

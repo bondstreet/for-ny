@@ -3,11 +3,29 @@ import React from 'react'
 import NavItem from './NavItem'
 
 const LandingNav = () => {
+    const sx = {
+        root: {
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            zIndex: 2
+        }
+    }
+
     return (
-        <nav className='LandingNav px2 py2'>
-            <NavItem href='#stories' children='Stories' />
-            <NavItem href='#about' children='About' />
-            <NavItem href='#learn' children='Learn' />
+        <nav style={sx.root} className='LandingNav px2 py2 bg-white'>
+            <NavItem to='stories'
+                href='#stories'
+                scroll
+                offset={-64}
+                children='Stories' />
+            <NavItem
+                to='about'
+                href='#about'
+                scroll
+                offset={-64}
+                children='About' />
         </nav>
     )
 }
