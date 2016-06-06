@@ -13,9 +13,7 @@ const PostList = ({ limit }, { data }) => {
         return (
             <div key={i}
                 className='inline-block align-top col-12 sm-col-6 lg-col-4 px2 mb2'>
-                <PostCard
-                    {...post}
-                    to={`/posts/${post.name}`} />
+                <PostCard {...post} />
             </div>
         )
       })}

@@ -2,6 +2,10 @@
     "text": "© 2016 Bond Street",
     "links": [
         {
+            "to": "/",
+            "children": "For New York"
+        },
+        {
             "href": "/terms",
             "children": "Terms of Use"
         },

@@ -6,7 +6,7 @@ const Text = ({
     size = 4,
     center,
     caps,
-    bold,
+    bold = true,
     className,
     ...props
 }) => {
