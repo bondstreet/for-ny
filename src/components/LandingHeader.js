@@ -1,11 +1,11 @@
 
 import React from 'react'
+import { ButtonOutline } from 'rebass'
 import Container from './Container'
 import Heading from './Heading'
 import Text from './Text'
-import Button from './Button'
 
-const LandingHeader = (props, { data }) => {
+const LandingHeader = (props, { rebass, data }) => {
     const sx = {
         root: {
             minHeight: '80vh',
@@ -28,8 +28,10 @@ const LandingHeader = (props, { data }) => {
                 <Container>
                     <Heading size={0} children={heading} />
                     <Text center bold size={1} children={text} />
-                    <Button
+                    <ButtonOutline
                         href='#!'
+                        color='black'
+                        mt={2}
                         children={headerButton} />
                 </Container>
             </div>
@@ -38,6 +40,7 @@ const LandingHeader = (props, { data }) => {
 }
 
 LandingHeader.contextTypes = {
+    rebass: React.PropTypes.object,
     data: React.PropTypes.object
 }
 

@@ -11,7 +11,7 @@ const events = require('./events.json')
 const footer = require('./footer.json')
 
 const domain = 'http://bondstreet.com'
-const baseurl = '/for-ny'
+const baseurl = '/fornewyork'
 
 const paths = [
     '/',

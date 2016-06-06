@@ -4,7 +4,7 @@ import Index from './components/Index'
 import PostList from './components/PostList'
 import Post from './components/Post'
 
-const baseurl = '/for-ny/'
+const baseurl = '/fornewyork/'
 
 const routes = [
   {

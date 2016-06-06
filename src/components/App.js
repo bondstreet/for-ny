@@ -1,12 +1,25 @@
 
 import React from 'react'
+import rebassConfig from './rebass-config'
 
-const App = (props, { data }) => {
-    return (
-        <div>
-            {props.children}
-        </div>
-    )
+class App extends React.Component {
+    getChildContext () {
+        return {
+            rebass: rebassConfig
+        }
+    }
+
+    render () {
+        return (
+            <div>
+                {this.props.children}
+            </div>
+        )
+    }
+}
+
+App.childContextTypes = {
+    rebass: React.PropTypes.object
 }
 
 App.contextTypes = {
