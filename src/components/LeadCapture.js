@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Input } from 'rebass'
+import { ButtonOutline, Button, Input } from 'rebass'
 
 export const LeadCapture = ({
     onSubmit,
@@ -43,7 +43,7 @@ export const LeadCapture = ({
                     type='email'
                     name='email'
                     required />
-                <Button type='submit'>Submit</Button>
+                <ButtonOutline type='submit'>Submit</ButtonOutline>
             </form>
         </div>
     )

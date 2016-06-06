@@ -5,13 +5,9 @@ import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
 
-
 class LeadForm extends React.Component {
-
     constructor() {
         super()
-
-
         this.state = {
             view: 'interested',
             business_name: '',
@@ -88,7 +84,7 @@ class LeadForm extends React.Component {
         }
 
         return (
-            <div className="center m4">
+            <div className="center">
                 {views[view]}
             </div>
         )

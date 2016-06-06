@@ -1,0 +1,10 @@
+
+.Input input {
+    border-radius: 0 !important;
+}
+
+.Input input:focus {
+    outline: none;
+    border-color: var(--green) !important;
+}
+

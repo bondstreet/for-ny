@@ -3,7 +3,9 @@ import { config } from 'rebass'
 
 const rebassConfig = {
     colors: {
-        ...config.colors
+        ...config.colors,
+        black: '#000',
+        primary: '#000'
     },
 
     borderRadius: 0,

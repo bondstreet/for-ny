@@ -1,21 +1,19 @@
 import React from 'react'
-import { Button } from 'rebass'
+import { Heading, ButtonOutline } from 'rebass'
 
 export const InterestedPrompt = ({ onDecline, onAccept, ...props }) => {
     return (
         <div>
-            <h2>
+            <Heading mb={2}>
                 Are you a small business owner?
-            </h2>
+            </Heading>
             <div>
-                <Button
-                    onClick={onDecline}>
+                <ButtonOutline m={1} onClick={onDecline}>
                     No
-                </Button>
-                <Button
-                    onClick={onAccept}>
+                </ButtonOutline>
+                <ButtonOutline m={1} onClick={onAccept}>
                     Yes
-                </Button>
+                </ButtonOutline>
             </div>
         </div>
     )

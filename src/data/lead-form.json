@@ -1,0 +1,11 @@
+{
+    "views": [
+        {
+            "name": "interested",
+            "heading": "Are you a small business owner?"
+        },
+        {
+            "name": "checkOrSchedule",
+            "heading": "Ready to grow your business? Find out of Bond Street is right for you."
+    ]
+}
