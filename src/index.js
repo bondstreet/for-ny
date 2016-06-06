@@ -21,7 +21,6 @@ const getCurrentPost = (posts, path) => {
     const id = path.replace(/^\/posts\/|index\.html$/, '')
     if (id) {
         const post = find(posts, p => p.name === id)
-        console.log(path, post)
         return post
     }
 }
