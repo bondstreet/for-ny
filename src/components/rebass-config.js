@@ -8,8 +8,6 @@ const rebassConfig = {
 
     borderRadius: 0,
 
-    Button: {
-    },
     ButtonOutline: {
         textTransform: 'uppercase',
         letterSpacing: '0.2em',
