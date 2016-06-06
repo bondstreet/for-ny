@@ -1,5 +1,6 @@
 
 import React from 'react'
+import Scroll from 'react-scroll'
 import Container from './Container'
 import Heading from './Heading'
 import Text from './Text'
@@ -12,8 +13,10 @@ const LandingAbout = (props, {
     }
 }) => {
     return (
-        <section id='about'
-            className='px3 py4 bg-green'>
+        <Scroll.Element
+            name='about'
+            id='about'
+            className='min-height-100 px3 py4 bg-green'>
             <Heading center
                 caps
                 size={0}
@@ -23,7 +26,7 @@ const LandingAbout = (props, {
                 size={3}
                 children={about.text} />
             <pre>Form FPO</pre>
-        </section>
+        </Scroll.Element>
     )
 }
 
