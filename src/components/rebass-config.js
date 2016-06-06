@@ -10,7 +10,7 @@ const bold = 900
 const rebassConfig = {
     colors: {
         ...config.colors,
-        primary: black,
+        primary: 'inherit',
         black,
         green,
         yellow,
