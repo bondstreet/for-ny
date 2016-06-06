@@ -15,7 +15,7 @@ const Head = ({ title, metadata, post, ...props }) => {
     const ogTitle = post.title || metadata.title
     const ogImage = post.image || metadata.image
     const ogUrl = props.domain + props.baseurl + props.path
-    const ogDescription = post.blurb || metadata.description
+    const ogDescription = post.facebookBlurb || metadata.description
 
     return (
         <head>
