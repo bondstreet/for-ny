@@ -1,11 +1,20 @@
 {
-    "views": [
-        {
-            "name": "interested",
+    "views": {
+        "interested": {
             "heading": "Are you a small business owner?"
         },
-        {
-            "name": "checkOrSchedule",
+        "checkOrSchedule": {
             "heading": "Ready to grow your business? Find out of Bond Street is right for you."
-    ]
+        },
+        "lead": {
+            "heading": "Great! First we need to know a little about you.",
+            "text": "Share your contact info and we’ll be in touch."
+        },
+        "schedule": {
+            "heading": "Great! First we need to know a little about you."
+        },
+        "likeUs": {
+            "heading": "Like stories about businesses in the city?"
+        }
+    }
 }

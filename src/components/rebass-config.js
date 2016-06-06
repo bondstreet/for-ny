@@ -1,6 +1,8 @@
 
 import { config } from 'rebass'
 
+const bold = 900
+
 const rebassConfig = {
     colors: {
         ...config.colors,
@@ -8,7 +10,12 @@ const rebassConfig = {
         primary: '#000'
     },
 
+    bold,
     borderRadius: 0,
+
+    Text: {
+        fontWeight: bold
+    },
 
     ButtonOutline: {
         textTransform: 'uppercase',

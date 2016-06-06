@@ -9,6 +9,7 @@ const metadata = require('./fbmetadata.json')
 const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
+const leadForm = require('./lead-form.json')
 
 const domain = 'http://bondstreet.com'
 const baseurl = '/for-ny'
@@ -47,7 +48,8 @@ const data = {
     posts,
     landing,
     events,
-    footer
+    footer,
+    leadForm
 }
 
 module.exports = data

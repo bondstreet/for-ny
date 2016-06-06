@@ -1,5 +1,6 @@
+
 import React from 'react'
-import { ButtonOutline, Button, Input } from 'rebass'
+import { ButtonOutline, Input } from 'rebass'
 
 export const LeadCapture = ({
     onSubmit,
@@ -12,10 +13,6 @@ export const LeadCapture = ({
 }) => {
     return (
         <div>
-            <h2>
-                Great!<br />First we need to know a little about you.
-            </h2>
-            <p className='mb2'>Share your contact info and we’ll be in touch.</p>
             <form id='qlm-lead-form' onSubmit={onSubmit} className='left-align'>
                 <Input
                     label='Business Name'
