@@ -11,7 +11,7 @@ if (process.env.NODE_ENV === 'development') {
     script = '/dev.js'
 }
 
-const Head = ({ title, metadata }) => {
+const Head = ({ title, metadata, post }) => {
     return (
         <head>
             <meta charSet='utf-8' />
