@@ -12,7 +12,7 @@
     "socialPromo": {
         "heading": "Do you support small businesses? Show some love NYC!",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "button": "Like Bond Street"
+        "tweetText": "Sample twitter text, max of 116 characters"
     },
     "eventList": {
         "heading": "Events",
