@@ -16,10 +16,10 @@ const NavItem = ({
     ...props
 }) => {
     let Comp = 'div'
-    if (!disabled && href) {
-        Comp = 'a'
-    } else if (!disabled && to) {
+    if (!disabled && to) {
         Comp = Link
+    } else if (!disabled && href) {
+        Comp = 'a'
     }
 
     const cx = {

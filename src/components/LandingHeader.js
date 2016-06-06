@@ -8,7 +8,8 @@ import Text from './Text'
 const LandingHeader = (props, { rebass, data }) => {
     const sx = {
         root: {
-            minHeight: '80vh'
+            minHeight: '80vh',
+            paddingTop: 64
         }
     }
 

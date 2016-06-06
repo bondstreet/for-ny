@@ -1,5 +1,6 @@
 
 import React from 'react'
+import Scroll from 'react-scroll'
 import PostList from './PostList'
 import Heading from './Heading'
 
@@ -11,7 +12,7 @@ const LandingPosts = (props, {
     }
 }) => {
     return (
-        <section id='stories'
+        <Scroll.Element name='stories' id='stories'
             className='px3 py4'>
             <Heading center
                 caps
@@ -19,7 +20,7 @@ const LandingPosts = (props, {
                 className='mb3'
                 children={postList.heading} />
             <PostList />
-        </section>
+        </Scroll.Element>
     )
 }
 
