@@ -3,6 +3,8 @@ title: Rembert Browne
 description: Culture critic at large – New York Magazine
 date: 2016-06-03
 image: 'https://images.unsplash.com/photo-1415394171664-b29caa4dca77?ixlib=rb-0.3.5&q=20&fm=jpg&crop=entropy&s=573e0c5f7ecd48c7dd642885a880b41f&w=1024'
+facebookBlurb: This is a blurb that will be used for the Facebook description
+tweetText: I am example tweet text, which has a maximum of 116 characters
 ---
 
 ![](https://images.unsplash.com/photo-1464500542410-1396074bf230?ixlib=rb-0.3.5&q=20&fm=jpg&crop=entropy&s=78f1212f15e1c46985764e0a62488925&w=768)
