@@ -93,7 +93,6 @@ class LeadForm extends React.Component {
 
         return (
             <div className="center m4">
-                <h1>view wrapper</h1>
                 {views[view]}
             </div>
         )
