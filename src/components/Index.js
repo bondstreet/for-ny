@@ -1,7 +1,5 @@
 
 import React from 'react'
-
-import LeadFormSection from './LeadFormSection'
 import LandingNav from './LandingNav'
 import LandingHeader from './LandingHeader'
 import LandingIntro from './LandingIntro'
@@ -22,7 +20,6 @@ const Index = (props, { data }) => {
       <SocialPromo />
       <EventList />
       <LandingAbout />
-      <LeadFormSection />
       <Footer />
       <LeadModal />
     </div>
