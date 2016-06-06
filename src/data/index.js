@@ -4,8 +4,10 @@ const path = require('path')
 const frontMatter = require('front-matter')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
-const events = require('./events.json')
+
+const metadata = require('./fbmetadata.json')
 const landing = require('./landing.json')
+const events = require('./events.json')
 const footer = require('./footer.json')
 
 const domain = 'http://bondstreet.com'
@@ -40,10 +42,11 @@ const data = {
     domain,
     baseurl,
     title: 'For NYC',
+    metadata,
     paths,
     posts,
-    events,
     landing,
+    events,
     footer
 }
 
