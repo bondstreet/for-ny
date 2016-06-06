@@ -1,13 +1,9 @@
 import React from 'react'
-
-
-import {
-    InterestedPrompt,
-    CheckOrSchedule,
-    LeadCapture,
-    Schedule,
-    LikeUs
-} from './lead-components'
+import InterestedPrompt from './InterestedPrompt'
+import CheckOrSchedule from './CheckOrSchedule'
+import LeadCapture from './LeadCapture'
+import Schedule from './Schedule'
+import LikeUs from './LikeUs'
 
 
 class LeadForm extends React.Component {
