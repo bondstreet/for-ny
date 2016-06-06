@@ -1,4 +1,5 @@
 import React from 'react'
+import { Input, Button, Label } from 'rebass'
 
 
 // Container components
@@ -9,16 +10,14 @@ export const InterestedPrompt = ({ onDecline, onAccept, ...props }) => {
                 Are you a small business owner?
             </h2>
             <div>
-                <button outline
-                    id='qlm-1-not-interested'
+                <Button
                     onClick={onDecline}>
                     No
-                </button>
-                <button
-                    id='qlm-1-interested'
+                </Button>
+                <Button
                     onClick={onAccept}>
                     Yes
-                </button>
+                </Button>
             </div>
         </div>
     )
@@ -32,16 +31,16 @@ export const CheckOrSchedule = ({onDecline, onAccept, ...props}) => {
                 Ready to grow your business? Find out of Bond Street is right for you
             </h2>
             <div>
-                <button outline
+                <Button outline
                     id='qlm-1-not-interested'
                     onClick={onDecline}>
                     <a href='/apply/'>Check my rate</a>
-                </button>
-                <button
+                </Button>
+                <Button
                     id='qlm-1-interested'
                     onClick={onAccept}>
                     Schedule a free consultation
-                </button>
+                </Button>
             </div>
         </div>
     )
@@ -62,37 +61,35 @@ export const LeadCapture = ({
             <h2>
                 Great!<br />First we need to know a little about you.
             </h2>
-            <p>Share your contact info and we’ll be in touch.</p>
-            <form id='qlm-lead-form' onSubmit={onSubmit}>
-                <input
-                    className='block'
+            <p className='mb2'>Share your contact info and we’ll be in touch.</p>
+            <form id='qlm-lead-form' onSubmit={onSubmit} className='left-align'>
+                <Input
+                    label='Business Name'
                     value={business_name}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='business_name'
                     required />
-                <input
-                    className='block'
+                <Input
+                    label='Name'
                     value={name}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='name'
                     required />
-                <input
+                <Input
+                    label='Phone Number'
                     className='block'
                     value={phone_number}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='phone_number'
                     required />
-                <input
-                    className='block'
+                <Input
+                    label='Email'
                     value={email}
-                    onInput={onChange}
+                    onChange={onChange}
                     type='email'
                     name='email'
                     required />
-                <button type='submit'>Submit</button>
+                <Button type='submit'>Submit</Button>
             </form>
         </div>
     )
@@ -104,7 +101,7 @@ export const Schedule = ({...props}) => {
             <h2>
                 Great!<br />First we need to know a little about you.
             </h2>
-            <button>Click to schedule a call</button>
+            <Button>Click to schedule a call</Button>
         </div>
     )
 }
@@ -116,7 +113,7 @@ export const LikeUs = ({...props}) => {
             <h2>
                 Like stories about businesses in the city?<br />
             </h2>
-            <button><a target='_blank' href='https://facebook.com/onbondstreet'>Follow us on Facebook</a></button>
+            <Button><a target='_blank' href='https://facebook.com/onbondstreet'>Follow us on Facebook</a></Button>
         </div>
     )
 }
