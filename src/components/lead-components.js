@@ -63,37 +63,33 @@ export const LeadCapture = ({
             </h2>
             <p className='mb2'>Share your contact info and we’ll be in touch.</p>
             <form id='qlm-lead-form' onSubmit={onSubmit} className='left-align'>
-                <Label>Business Name</Label>
                 <Input
-                    className='block'
+                    label='Business Name'
                     value={business_name}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='business_name'
                     required />
                 <Input
-                    className='block'
+                    label='Name'
                     value={name}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='name'
                     required />
                 <Input
-                    label=''
+                    label='Phone Number'
                     className='block'
                     value={phone_number}
-                    onInput={onChange}
-                    type='text'
+                    onChange={onChange}
                     name='phone_number'
                     required />
                 <Input
-                    className='block'
+                    label='Email'
                     value={email}
-                    onInput={onChange}
+                    onChange={onChange}
                     type='email'
                     name='email'
                     required />
-                <Button className='center' type='submit'>Submit</Button>
+                <Button type='submit'>Submit</Button>
             </form>
         </div>
     )
