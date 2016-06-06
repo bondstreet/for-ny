@@ -7,6 +7,8 @@
 npm i
 ```
 
+To install the image processing library: `brew install homebrew/science/vips`
+
 ## Build
 Writes files to `/dist`.
 
