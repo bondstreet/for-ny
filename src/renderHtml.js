@@ -12,18 +12,18 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 const Head = ({ title }) => {
-  return (
-    <head>
-      <meta charSet='utf-8' />
-      <title>{title}</title>
-      {/* OG meta tags etc. goes here */}
-      <style dangerouslySetInnerHTML={{ __html: css }}/>
-      <script src='https://use.typekit.net/zzi1igz.js' />
-      <script dangerouslySetInnerHTML={{
-          __html: 'try{Typekit.load({ async: true });}catch(e){}'
-      }} />
+    return (
+        <head>
+            <meta charSet='utf-8' />
+            <title>{title}</title>
+            {/* OG meta tags etc. goes here */}
+            <style dangerouslySetInnerHTML={{ __html: css }}/>
+            <script src='https://use.typekit.net/zzi1igz.js' />
+            <script dangerouslySetInnerHTML={{
+                __html: 'try{Typekit.load({ async: true });}catch(e){}'
+            }} />
     </head>
-  )
+    )
 }
 
 const Html = ({ app, ...props }) => (

@@ -2,11 +2,12 @@
 * { box-sizing: border-box }
 
 body {
-  font-family: 'nimbus-sans', -apple-system, sans-serif;
-  line-height: 1.5;
-  margin: 0;
-  color: #111;
-  background-color: #fff;
+    font-family: 'nimbus-sans', Helvetica, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    margin: 0;
+    color: var(--black);
+    background-color: #fff;
 }
 
 h1, h2, h3,
@@ -19,4 +20,5 @@ blockquote {
 h1, h2, h3,
 h4, h5, h6 {
     line-height: 1.25;
+    letter-spacing: 0.2em;
 }
