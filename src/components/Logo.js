@@ -14,7 +14,7 @@ const Logo = ({ to, size }) => {
     }
 
     return (
-        <Comp style={sx}>
+        <Comp to={to} style={sx}>
             <Heading level={1} size={size} center caps>
                 For
                 <br />
