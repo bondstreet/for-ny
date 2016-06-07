@@ -4,6 +4,8 @@ import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
+import { setModalSeenCookie } from '../modal-triggers'
+
 
 
 class LeadForm extends React.Component {
@@ -17,12 +19,15 @@ class LeadForm extends React.Component {
             business_name: '',
             name: '',
             email: '',
-            phone_number: ''
+            phone_number: '',
+            segment_name: ''
         }
 
         this.setView = this.setView.bind(this)
-        this.handleLeadSubmit = this.handleLeadSubmit.bind(this)
         this.handleChange = this.handleChange.bind(this)
+        this.handleLeadSubmit = this.handleLeadSubmit.bind(this)
+        this.onReadyToSchedule = this.onReadyToSchedule.bind(this)
+        this.onNotReadyToSchedule = this.onNotReadyToSchedule.bind(this)
     }
 
     setView (view) {
@@ -39,6 +44,7 @@ class LeadForm extends React.Component {
     handleLeadSubmit (e) {
         e.preventDefault()
         const payload = {
+            segment_name: this.state.segment_name,
             company: this.state.business_name,
             full_name: this.state.name,
             email: this.state.email,
@@ -48,6 +54,21 @@ class LeadForm extends React.Component {
 
         this.createLead(payload).then(() => {
             this.setView('schedule')
+            setModalSeenCookie(365)
+        })
+    }
+
+    onReadyToSchedule () {
+        this.setState({
+            segment_name: 'fornyc__ready_to_schedule',
+            view: 'lead'
+        })
+    }
+
+    onNotReadyToSchedule () {
+        this.setState({
+            segment_name: 'fornyc__not_ready_to_schedule',
+            view: 'lead'
         })
     }
 
@@ -69,7 +90,8 @@ class LeadForm extends React.Component {
             ),
             checkOrSchedule: (
                 <CheckOrSchedule
-                    onAccept={this.setView('lead')}
+                    onNotReadyClick={this.onNotReadyToSchedule}
+                    onAccept={this.onReadyToSchedule}
                     {...this.state}/>
             ),
             lead: (
