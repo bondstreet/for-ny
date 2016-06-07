@@ -20,7 +20,7 @@ const ShareButtons = (props, { data }) => {
     }
 
     return (
-        <div className="shareButtons">
+        <div>
             <ButtonOutline
                 m={1}
                 href={fb.link + querystring.stringify(fb.data)}>

@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'development') {
 
 const Head = ({ title, metadata, post, ...props }) => {
     const ogTitle = post.title || metadata.title
-    const ogImage = post.image || metadata.image
+    const ogImage = props.domain + props.baseurl + post.image || metadata.image
     const ogUrl = props.domain + props.baseurl + props.path
     const ogDescription = post.facebookBlurb || metadata.description
 
