@@ -21,6 +21,20 @@
     "about": {
         "heading": "We Make Loans. Honestly.",
         "text": "Bond Street is more than a loan provider - it’s a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. We are committed to helping the business owners that make NYC the best city in the world.",
-        "subhead": "Bond Street supports some of NYC’s finest"
+        "subhead": "Bond Street supports some of NYC’s finest",
+        "valueProps": [
+            {
+                "label": "Term loans from",
+                "value": "$50K–$500K"
+            },
+            {
+                "label": "Rates starting at",
+                "value": "6%"
+            },
+            {
+                "label": "For as long as",
+                "value": "1–3 years"
+            }
+        ]
     }
 }

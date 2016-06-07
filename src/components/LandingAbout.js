@@ -4,6 +4,7 @@ import { Container} from 'rebass'
 import Scroll from 'react-scroll'
 import Heading from './Heading'
 import Text from './Text'
+import ValuePropsTable from './ValuePropsTable'
 
 const LandingAbout = (props, {
     data: {
@@ -34,6 +35,7 @@ const LandingAbout = (props, {
                         size={3}
                         className='mb4'
                         children={about.text} />
+                    <ValuePropsTable />
                     <div className='center'>
                         <Heading
                             caps

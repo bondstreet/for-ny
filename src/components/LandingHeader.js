@@ -34,7 +34,7 @@ const LandingHeader = (props, { rebass, data }) => {
                         offset={-64}
                         to='stories'
                         mt={2}
-                        color='white'
+                        color='mint'
                         backgroundColor='black'
                         children={headerButton} />
                 </Container>
