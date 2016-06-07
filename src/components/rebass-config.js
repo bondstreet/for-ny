@@ -23,7 +23,7 @@ const rebassConfig = {
         48,
         32,
         24,
-        16,
+        14,
         12
     ],
 
@@ -31,23 +31,13 @@ const rebassConfig = {
     borderRadius: 0,
     borderColor: black,
 
-    Heading: {
+    Button: {
         textTransform: 'uppercase',
-        letterSpacing: '.2em'
+        letterSpacing: '0.2em',
     },
-
-    Text: {
-        fontSize: 20,
-        fontWeight: bold
-    },
-
     ButtonOutline: {
         textTransform: 'uppercase',
         letterSpacing: '0.2em',
-        paddingTop: config.scale[2],
-        paddingBottom: config.scale[2],
-        paddingLeft: config.scale[3],
-        paddingRight: config.scale[3],
         boxShadow: 'inset 0 0 0 2px',
     }
 }

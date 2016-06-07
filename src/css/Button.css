@@ -1,0 +1,13 @@
+
+.Button,
+.ButtonOutline {
+    font-size: var(--h6) !important;
+}
+
+@media (--breakpoint-md) {
+    .Button,
+    .ButtonOutline {
+        font-size: var(--h5) !important;
+        padding: var(--space-2) var(--space-3) !important;
+    }
+}

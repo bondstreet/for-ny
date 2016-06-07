@@ -1,7 +1,9 @@
 
 import React from 'react'
-import { Container, Heading, Text } from 'rebass'
+import { Container} from 'rebass'
 import Scroll from 'react-scroll'
+import Heading from './Heading'
+import Text from './Text'
 
 const LandingAbout = (props, {
     data: {
@@ -19,18 +21,18 @@ const LandingAbout = (props, {
                 <Container
                     py={3}
                     style={{
-                        maxWidth: 640
+                        maxWidth: 768
                     }}>
                     <div className='center'>
                         <Heading
                             caps
-                            size={0}
-                            mb={3}
+                            size={1}
+                            className='mb3'
                             children={about.heading} />
                     </div>
                     <Text
                         size={3}
-                        mb={4}
+                        className='mb4'
                         children={about.text} />
                     <div className='center'>
                         <Heading

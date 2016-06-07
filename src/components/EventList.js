@@ -3,7 +3,8 @@ import React from 'react'
 import _ from 'lodash'
 import moment from 'moment'
 import Scroll from 'react-scroll'
-import { Container, Heading } from 'rebass'
+import { Container } from 'rebass'
+import Heading from './Heading'
 import EventCard from './EventCard'
 
 const EventList = (props, { data }) => {
@@ -46,7 +47,7 @@ const EventList = (props, { data }) => {
                     <Heading center
                         caps
                         size={0}
-                        mb={3}
+                        className='mb3'
                         children={eventList.heading} />
                 </div>
                 {sortedEvents.map((eventsByMonth, i) => {

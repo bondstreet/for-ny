@@ -1,8 +1,9 @@
 
 import React from 'react'
-import { Container, Heading, Text } from 'rebass'
-import LeadForm from './LeadForm'
+import { Container, Text } from 'rebass'
 import Scroll from 'react-scroll'
+import Heading from './Heading'
+import LeadForm from './LeadForm'
 
 const LandingContact = (props, {
     data: {

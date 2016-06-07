@@ -1,14 +1,22 @@
 
 import React from 'react'
+import Heading from './Heading'
+import Text from './Text'
 
 const EventCard = ({ ...props }) => {
     return (
         <div className='md-flex items-start items-center'>
-            <div className='h0 mr4 bold'>{props.day}</div>
+            <Heading size={0}
+                className='mr2'
+                style={{
+                    flexBasis: 128
+                }}>
+                {props.day}
+            </Heading>
             <div className='flex-auto'>
-                <span className='h3 bold caps'>{props.title}</span><br />
-                <div>{props.location}</div>
-                {props.blurb && <div>{props.blurb}</div>}
+                <Text caps>{props.title}</Text>
+                <Text>{props.location}</Text>
+                {props.blurb && <Text>{props.blurb}</Text>}
             </div>
             {props.link && (
                 <div>

@@ -1,8 +1,9 @@
 
 import React from 'react'
-import { Container, Heading, ButtonOutline } from 'rebass'
+import { Container, Button } from 'rebass'
 import Scroll from 'react-scroll'
 import LargeText from './LargeText'
+import Heading from './Heading'
 
 const LandingHeader = (props, { rebass, data }) => {
     const sx = {
@@ -24,17 +25,19 @@ const LandingHeader = (props, { rebass, data }) => {
             style={sx.root}>
             <div className='table-cell align-middle center'>
                 <Container style={{ maxWidth: 640 }}>
-                    <Heading size={0} mb={4} children='For' />
-                    <LargeText children={text} />
-                    <ButtonOutline
+                    <Heading mega className='mb4' children='For' />
+                    <LargeText className='mb3' children={text} />
+                    <Button
                         is={Scroll.Link}
                         smooth={true}
                         duration={200}
                         offset={-64}
                         to='stories'
                         mt={2}
+                        color='white'
+                        backgroundColor='black'
                         children={headerButton} />
-                    <Heading size={0} mt={4} children='New York' />
+                    <Heading mega className='mt4' children='New York' />
                 </Container>
             </div>
         </header>

@@ -1,6 +1,7 @@
 
 import React from 'react'
-import { Heading, Text } from 'rebass'
+import Heading from './Heading'
+import Text from './Text'
 import ShareButtons from './ShareButtons'
 import Circle from './Circle'
 
@@ -36,14 +37,14 @@ const SocialPromo = (props, { data }) => {
             <Circle className='bg-yellow'>
                 <Heading
                     size={3}
-                    mb={2}
+                    className='mb2'
                     children={socialPromo.heading} />
                 <ShareButtons
                     url={data.domain + data.baseurl}
                     title='For New York'
                     tweetText={socialPromo.tweetText}
                 />
-                <Text mt={3}>
+                <Text className='mt2'>
                     #ForNewYork
                 </Text>
             </Circle>

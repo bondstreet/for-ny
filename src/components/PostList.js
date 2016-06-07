@@ -10,13 +10,13 @@ const PostList = ({ limit }, { data }) => {
 
   const postCards = posts.map((post, i) => (
       <div key={i}
-          className='inline-block align-top col-12 sm-col-6 px2 mb4'>
+          className='inline-block align-top col-12 md-col-6 px2 mb4'>
           <PostCard {...post} />
       </div>
   ))
 
   postCards.splice(2, 0, (
-      <div key='social-promo' className='inline-block align-top col-12 sm-col-6 px2 sm-px4 mb4'>
+      <div key='social-promo' className='inline-block align-top col-12 md-col-6 px2 sm-px4 md-px2 lg-px4 mb4'>
           <SocialPromo />
       </div>
   ))

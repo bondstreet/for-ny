@@ -13,7 +13,7 @@ const LandingPosts = (props, {
 }) => {
     return (
         <Scroll.Element name='stories' id='stories'
-            className='px3 py4'>
+            className='px2 py4'>
             <Heading center
                 caps
                 size={0}
