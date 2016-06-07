@@ -22,14 +22,14 @@ const ShareButtons = (props, { data }) => {
     return (
         <div className="shareButtons">
             <ButtonOutline
-                mx={1}
+                m={1}
                 href={fb.link + querystring.stringify(fb.data)}>
-                Share on Facebook
+                Facebook
             </ButtonOutline>
             <ButtonOutline
-                mx={1}
+                m={1}
                 href={twitter.link + querystring.stringify(twitter.data)}>
-                Share on Twitter
+                Twitter
             </ButtonOutline>
         </div>
     )

@@ -2,18 +2,27 @@
 @import 'base.css';
 @import 'Prose.css';
 @import 'Input.css';
-@import 'typography.css';
+@import 'Button.css';
 @import 'layout.css';
 @import 'colors.css';
 
 @import 'basscss';
+@import 'typography.css';
+@import 'basscss-addons/modules/responsive-padding/index.css';
+@import 'basscss-addons/modules/responsive-margin/index.css';
 
 .debug * { outline: 1px solid rgba(0, 255, 255, .5) }
 .debug div { outline: 1px solid rgba(255, 0, 255, .5) }
 
 :root {
-    --h00: 5rem;
-    --h0: 4rem;
+    --h00: 96px;
+    --h0: 72px;
+    --h1: 64px;
+    --h2: 48px;
+    --h3: 32px;
+    --h4: 24px;
+    --h5: 14px;
+    --h6: 12px;
     --space-1: .75rem;
     --space-2: 1.25rem;
     --bold: 900;

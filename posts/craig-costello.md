@@ -1,3 +1,9 @@
+---
+title: Craig Costello
+date: 2016-06-07
+description: Founder <a href="http://shop.krink.com">KRINK</a>
+---
+
 ## The Strand
 
 I’m a big fan of books and local bookshops. Over the years, I’ve seen too many independent bookshops close in the wake of amazon.com undercutting prices. The Strand is still here with an excellent selection of art books and a great space to get lost in; a true NYC staple.
