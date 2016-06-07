@@ -111,7 +111,7 @@ class LeadForm extends React.Component {
         }
 
         return (
-            <div className="center m4">
+            <div id={'bst_lead_form__'+this.props.instanceName} className="center m4">
                 {views[view]}
             </div>
         )
