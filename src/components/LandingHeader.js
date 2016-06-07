@@ -30,7 +30,6 @@ const LandingHeader = (props, { rebass, data }) => {
                     <Text center bold size={1} children={text} />
                     <ButtonOutline
                         href='#!'
-                        color='black'
                         mt={2}
                         children={headerButton} />
                 </Container>

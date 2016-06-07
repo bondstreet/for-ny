@@ -1,0 +1,21 @@
+
+.Input input {
+    padding-top: var(--space-2) !important;
+    padding-bottom: var(--space-2) !important;
+    border-radius: 0 !important;
+    border-color: inherit !important;
+    border-width: 2px !important;
+    background-color: transparent !important;
+}
+
+.Input input:focus {
+    outline: none;
+    border-color: var(--orange) !important;
+}
+
+@media (--breakpoint-sm) {
+    .Input input {
+        font-size: var(--h3) !important;
+    }
+}
+
