@@ -1,6 +1,7 @@
 
 @import 'base.css';
 @import 'Prose.css';
+@import 'Input.css';
 @import 'typography.css';
 @import 'layout.css';
 @import 'colors.css';
@@ -13,6 +14,8 @@
 :root {
     --h00: 5rem;
     --h0: 4rem;
+    --space-1: .75rem;
+    --space-2: 1.25rem;
     --bold: 900;
     --black: #000;
     --white: #fff;
