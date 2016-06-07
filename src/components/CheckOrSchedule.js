@@ -23,7 +23,7 @@ export const CheckOrSchedule = ({onNotReadyClick, onAccept, ...props}) => {
                     Schedule a free consultation
                 </ButtonOutline>
             </div>
-            <button onClick={onNotReadyClick}>No thanks, I'm not ready quite yet but would like to stay in touch</button>
+            <button onClick={onNotReadyClick}>No thanks, I’m not ready quite yet but would like to stay in touch</button>
         </div>
     )
 }
