@@ -1,28 +1,39 @@
 {
     "eventList": [
         {
+            "title": "Talk Shop",
+            "date": "2016-06-07",
+            "location": "NeueHouse (110 E 25th St - off Park)",
+            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
+            "link": "https://talkshop.splashthat.com/"
+        },
+        {
             "title": "Talk Shop: Debt vs. Equity",
             "date": "2016-07-13",
-            "time": "6:45–9:00pm",
-            "location": "Location TBD"
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
         },
         {
             "title": "Talk Shop: The Evolution of Retail",
             "date": "2016-08-03",
-            "time": "6:45–9:00pm",
-            "location": "Location TBD"
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
         },
         {
             "title": "Talk Shop: Building a Brand",
             "date": "2016-08-17",
-            "time": "6:45-9:00pm",
-            "location": "Location TBD"
+            "location": "",
+            "blurb": "TBD",
+            "link": ""
         },
         {
             "title": "Friends For New York",
             "date": "2016-08-31",
-            "time": "7:00pm",
-            "location": "Location TBD"
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
         }
     ]
 }

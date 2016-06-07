@@ -36,7 +36,6 @@ const EventList = (props, { data }) => {
         .sortBy(_.head)
         .value()
 
-
     return (
         <Scroll.Element
             name='events'
