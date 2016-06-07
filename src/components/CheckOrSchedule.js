@@ -7,18 +7,26 @@ export const CheckOrSchedule = ({onNotReadyClick, onAccept, ...props}) => {
     return (
         <div>
             <ButtonOutline
-                id='qlm-1-not-interested'
                 m={1}
+                target='_blank'
                 href='/apply/'>
                 Check my rate
             </ButtonOutline>
             <ButtonOutline
-                id='qlm-1-interested'
                 m={1}
                 onClick={onAccept}>
-                Schedule a free consultation
+                Schedule a call
             </ButtonOutline>
-            <button onClick={onNotReadyClick}>No thanks, I’m not ready quite yet but would like to stay in touch</button>
+            <button
+                style={{
+                    background: 'transparent',
+                    color: 'inherit',
+                    textDecoration: 'underline',
+                    border: 'none',
+                    fontSize: '16px',
+                    marginTop: '10px'
+                }}
+                onClick={onNotReadyClick}>No thanks, I’m not ready quite yet but would like to stay in touch</button>
         </div>
     )
 }
