@@ -1,29 +1,53 @@
 
 import React from 'react'
 import Scroll from 'react-scroll'
+import classnames from 'classnames'
 import NavItem from './NavItem'
 
 class LandingNav extends React.Component {
     constructor () {
         super()
+        this.state = {
+            currentSection: null
+        }
         this.handleScroll = this.handleScroll.bind(this)
     }
 
     componentDidMount () {
-        Scroll.Events.scrollEvent.register('end', this.handleScroll)
+        Scroll.scrollSpy.addSpyHandler(this.handleScroll)
+        // Scroll.Events.scrollEvent.register('end', this.handleScroll)
     }
 
     componentWillUnmount () {
-        Scroll.Events.scrollEvent.remove('end')
     }
 
-    handleScroll (to, element) {
-        console.log('scroll', to, element)
+    handleScroll (y) {
+        const currentSection = Scroll.scroller.getActiveLink()
+        this.setState({ currentSection })
     }
 
     render () {
+        const { currentSection } = this.state
+        const colors = {
+            header: 'bg-mint',
+            stories: 'bg-peach',
+            events: 'bg-orange',
+            about: 'bg-yellow',
+            contact: 'white bg-black'
+        }
+        const colorClass = currentSection ? colors[currentSection] : colors.header
+
+        const cx = classnames(
+            'LandingNav',
+            'center',
+            'sm-fixed',
+            'top-0 right-0 left-0 z2',
+            'py1',
+            colorClass
+        )
+
         return (
-            <nav className='LandingNav sm-fixed top-0 right-0 left-0 z2 center px2 py1 bg-white'>
+            <nav className={cx}>
                 <NavItem to='stories'
                     href='#stories'
                     scroll
