@@ -13,8 +13,9 @@ const LandingIntro = (props, { data }) => {
     return (
         <section className='bg-yellow px2 py4'>
             <Container>
-                <Text bold center size={1}>
-                    {introSection.text}
+                <Text bold center size={4}
+                    dangerouslySetInnerHTML={{ __html:introSection.text }}
+                >
                 </Text>
             </Container>
         </section>
