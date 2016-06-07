@@ -1,5 +1,4 @@
 let gtmScript = ''
-let gaScript = ''
 let ga = undefined
 
 if (process.env.NODE_ENV !== 'development') {
@@ -23,7 +22,6 @@ export const logPageView = function() {
 
 export const heapIdentify = function(payload) {
     if (heap) {
-        console.log(heap)
         heap.identity(payload)
     }
 }
