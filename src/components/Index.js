@@ -21,7 +21,7 @@ const Index = (props, { data }) => {
       <SocialPromo />
       <EventList />
       <LandingAbout />
-      <LeadForm />
+      <LeadForm instanceName='fornyc__homepage_inline'/>
       <Footer />
     </div>
   )

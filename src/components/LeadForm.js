@@ -10,7 +10,7 @@ import { setModalSeenCookie } from '../modal-triggers'
 
 class LeadForm extends React.Component {
 
-    constructor() {
+    constructor(props) {
         super()
 
 
@@ -44,6 +44,7 @@ class LeadForm extends React.Component {
     handleLeadSubmit (e) {
         e.preventDefault()
         const payload = {
+            instance_name: this.props.instanceName,
             segment_name: this.state.segment_name,
             company: this.state.business_name,
             full_name: this.state.name,
@@ -115,6 +116,10 @@ class LeadForm extends React.Component {
             </div>
         )
     }
+}
+
+LeadForm.defaultProps = {
+    instanceName: 'default_instance'
 }
 
 LeadForm.contextTypes = {
