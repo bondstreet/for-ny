@@ -12,27 +12,8 @@ const SocialPromo = (props, { data }) => {
         }
     } = data
 
-    const sx = {
-        root: {
-            display: 'table',
-        },
-        circle: {
-            width: '100%',
-            height: 0,
-            paddingBottom: '100%',
-            borderRadius: 99999,
-        },
-        inner: {
-            display: 'table-cell',
-            verticalAlign: 'middle',
-            height: '100%',
-            backgroundColor: 'pink',
-        }
-    }
-
     return (
         <section
-            style={sx.root}
             className='center'>
             <Circle className='bg-yellow'>
                 <Heading

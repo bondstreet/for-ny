@@ -5,7 +5,7 @@ import Text from './Text'
 
 const EventCard = ({ ...props }) => {
     return (
-        <div className='md-flex items-start items-center'>
+        <div className='md-flex items-center'>
             <Heading size={0}
                 className='mr2'
                 style={{

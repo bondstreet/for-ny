@@ -5,13 +5,7 @@ import Scroll from 'react-scroll'
 import Heading from './Heading'
 import LeadForm from './LeadForm'
 
-const LandingContact = (props, {
-    data: {
-        landing: {
-            about
-        }
-    }
-}) => {
+const LandingContact = (props) => {
     return (
         <Scroll.Element
             name='contact'
@@ -28,10 +22,6 @@ const LandingContact = (props, {
             </div>
         </Scroll.Element>
     )
-}
-
-LandingContact.contextTypes = {
-    data: React.PropTypes.object
 }
 
 export default LandingContact
