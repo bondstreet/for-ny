@@ -4,6 +4,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
+import { gtmScript } from './tracking'
 
 let script = '/bundle.js'
 
@@ -27,6 +28,7 @@ const Head = ({ title, metadata, post, ...props }) => {
             <meta property='og:image' content={ogImage} />
             <meta property='og:description' content={ogDescription} />
             <style dangerouslySetInnerHTML={{ __html: css }}/>
+            <script src='https://cdn.optimizely.com/js/6134185353.js'></script>
             <script src='https://use.typekit.net/zzi1igz.js' />
             <script dangerouslySetInnerHTML={{
                 __html: 'try{Typekit.load({ async: true });}catch(e){}'
@@ -49,6 +51,10 @@ const Html = ({ app, ...props }) => (
                     __html: JSON.stringify(props)
                 }} />
             <script src={props.baseurl + script} />
+            <script
+                dangerouslySetInnerHTML={{
+                    __html: gtmScript
+                }} />
         </body>
     </html>
 )
