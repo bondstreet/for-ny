@@ -1,11 +1,14 @@
 
 @import 'base.css';
 @import 'Prose.css';
+@import 'Input.css';
 @import 'typography.css';
 @import 'layout.css';
 @import 'colors.css';
 
 @import 'basscss';
+@import 'basscss-addons/modules/responsive-padding/index.css';
+@import 'basscss-addons/modules/responsive-margin/index.css';
 
 .debug * { outline: 1px solid rgba(0, 255, 255, .5) }
 .debug div { outline: 1px solid rgba(255, 0, 255, .5) }
@@ -13,6 +16,8 @@
 :root {
     --h00: 5rem;
     --h0: 4rem;
+    --space-1: .75rem;
+    --space-2: 1.25rem;
     --bold: 900;
     --black: #000;
     --white: #fff;

@@ -1,7 +1,5 @@
 
 import React from 'react'
-
-import LeadForm from './LeadForm'
 import LandingNav from './LandingNav'
 import LandingHeader from './LandingHeader'
 import LandingIntro from './LandingIntro'
@@ -17,12 +15,9 @@ const Index = (props, { data }) => {
     <div>
       <LandingNav />
       <LandingHeader />
-      <LandingIntro />
       <LandingPosts />
-      <SocialPromo />
       <EventList />
       <LandingAbout />
-      <LeadForm />
       <Footer />
       <LeadModal />
     </div>

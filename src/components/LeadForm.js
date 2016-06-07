@@ -1,17 +1,15 @@
+
 import React from 'react'
+import { Heading, Text } from 'rebass'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
 
-
 class LeadForm extends React.Component {
-
     constructor() {
         super()
-
-
         this.state = {
             view: 'interested',
             business_name: '',
@@ -45,7 +43,6 @@ class LeadForm extends React.Component {
             phone: this.state.phone_number
         }
 
-
         this.createLead(payload).then(() => {
             this.setView('schedule')
         })
@@ -60,6 +57,10 @@ class LeadForm extends React.Component {
 
     render () {
         const { view } = this.state
+        const { data: { leadForm } } = this.context
+        const viewData = leadForm.views[view] || {}
+        const heading = viewData.heading
+        const text = viewData.text
 
         const views = {
             interested: (
@@ -88,7 +89,13 @@ class LeadForm extends React.Component {
         }
 
         return (
-            <div className="center m4">
+            <div className="center">
+                <Heading mb={2}>
+                    {heading}
+                </Heading>
+                {text && (
+                    <Text mb={2} children={text} />
+                )}
                 {views[view]}
             </div>
         )

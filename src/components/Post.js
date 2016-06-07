@@ -32,7 +32,7 @@ const Post = ({ params }, { data, router }) => {
             </div>
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
-                    <img src={post.image} className='fit col-12 mb3' />
+                    <img src={data.baseurl + post.image} className='fit col-12 mb3' />
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>
