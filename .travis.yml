@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+    - 6.2
+before_install:
+    - echo -e "machine github.com\n  login $GH_TOKEN" >> ~/.netrc
+script:
+    - bash ./deploy.sh
+env:
+    global:
+        - secure: zLdgEqS/ceARMnMwCMimhSFBX47gEHyAmCHrnkOP52Ex9cva1oGbWlnthHZTuliC4aHmOwXfporFKGPlFu9yZ13cKEFYq1oHWCyp/x/UqwEPDFr3WAqmDm/0CJ5QMWz0ukKAaoib1mzDWCzGKB6uT14r/L/VWQW56/liJZgQhzgVAjfxeLF3tBGiujFtcAsKCsoC/PR0JbF3GghB91AhyGB5x0wra2UYAD28S1qx80eyIuSKfAjcXnRf8t8fhc2IBier4ORnDkNzGYA5qUDyibMaL3ABQXFgFuDNySXj/TR9qatXcPPeGdnfBVAKWihcyE/whfhYCnnFy4OqJ9EatjGZSYcTkbPGSo1GJedzu1oSbK+tvKBIwh6vkOvWMwBeIxnyOliSr8lNJ+7eogfW4x82+UIRECWvtzGQ6f4y4nmdlhnt6XW00Kj3b1pzWR2BSmnh8Bv5LYR4nenuO6cwehPDJ5S8yjT20+0s92KTesudVZPOMOEYbUDnUsgi64tVrlOMNhAYdiKcPkP6W6l5IinCMzjB8gc+sWSmnBDiQnzbvJfixtu5YYhrfhLPP7g+3squXbfknW1GJp9i/w0H7GRIywFCS3WU3ni21Jb1mnAKxrWL4k70nKAmOO078Z4NF2Qq0DadIpEekH4NNblC/x7ig2dp8rOppsKGhtP/lIo=
