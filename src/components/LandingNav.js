@@ -3,18 +3,8 @@ import React from 'react'
 import NavItem from './NavItem'
 
 const LandingNav = () => {
-    const sx = {
-        root: {
-            position: 'fixed',
-            top: 0,
-            left: 0,
-            right: 0,
-            zIndex: 2
-        }
-    }
-
     return (
-        <nav style={sx.root} className='LandingNav center px2 py1 bg-white'>
+        <nav className='LandingNav sm-fixed top-0 right-0 left-0 z2 center px2 py1 bg-white'>
             <NavItem to='stories'
                 href='#stories'
                 scroll
