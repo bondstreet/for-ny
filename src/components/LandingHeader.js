@@ -1,14 +1,12 @@
 
 import React from 'react'
-import { ButtonOutline } from 'rebass'
-import Container from './Container'
-import Heading from './Heading'
-import Text from './Text'
+import { Container, Heading, ButtonOutline } from 'rebass'
+import Scroll from 'react-scroll'
+import LargeText from './LargeText'
 
 const LandingHeader = (props, { rebass, data }) => {
     const sx = {
         root: {
-            minHeight: '80vh',
             paddingTop: 64
         }
     }
@@ -22,16 +20,21 @@ const LandingHeader = (props, { rebass, data }) => {
     } = data
 
     return (
-        <header className='table col-12 px3 py4 bg-green'
+        <header className='min-height-100 table col-12 px3 py4 bg-green'
             style={sx.root}>
             <div className='table-cell align-middle center'>
-                <Container>
-                    <Heading size={0} children={heading} />
-                    <Text center bold size={1} children={text} />
+                <Container style={{ maxWidth: 640 }}>
+                    <Heading size={0} mb={4} children='For' />
+                    <LargeText children={text} />
                     <ButtonOutline
-                        href='#!'
+                        is={Scroll.Link}
+                        smooth={true}
+                        duration={200}
+                        offset={-64}
+                        to='stories'
                         mt={2}
                         children={headerButton} />
+                    <Heading size={0} mt={4} children='New York' />
                 </Container>
             </div>
         </header>

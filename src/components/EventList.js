@@ -2,8 +2,8 @@
 import React from 'react'
 import _ from 'lodash'
 import moment from 'moment'
-import Container from './Container'
-import Heading from './Heading'
+import Scroll from 'react-scroll'
+import { Container, Heading } from 'rebass'
 import EventCard from './EventCard'
 
 const EventList = (props, { data }) => {
@@ -37,13 +37,18 @@ const EventList = (props, { data }) => {
 
 
     return (
-        <section className='bg-orange px2 py4'>
+        <Scroll.Element
+            name='events'
+            id='events'
+            className='min-height-100 bg-orange px2 py4'>
             <Container>
-                <Heading center
-                    caps
-                    size={0}
-                    className='mb3'
-                    children={eventList.heading} />
+                <div className='center'>
+                    <Heading center
+                        caps
+                        size={0}
+                        mb={3}
+                        children={eventList.heading} />
+                </div>
                 {sortedEvents.map((eventsByMonth, i) => {
                     const monthName = moment(eventsByMonth[0], 'MM').format('MMMM')
                     const events = eventsByMonth[1]
@@ -65,7 +70,7 @@ const EventList = (props, { data }) => {
                     )
                 })}
             </Container>
-        </section>
+        </Scroll.Element>
     )
 }
 

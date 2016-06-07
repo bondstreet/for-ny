@@ -17,6 +17,16 @@ const rebassConfig = {
         orange
     },
 
+    fontSizes: [
+        72,
+        64,
+        48,
+        32,
+        24,
+        16,
+        12
+    ],
+
     bold,
     borderRadius: 0,
     borderColor: black,
@@ -27,6 +37,7 @@ const rebassConfig = {
     },
 
     Text: {
+        fontSize: 20,
         fontWeight: bold
     },
 

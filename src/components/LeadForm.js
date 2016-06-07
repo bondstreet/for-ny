@@ -90,7 +90,7 @@ class LeadForm extends React.Component {
 
         return (
             <div className="center">
-                <Heading mb={2}>
+                <Heading size={3} mb={2}>
                     {heading}
                 </Heading>
                 {text && (

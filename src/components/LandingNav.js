@@ -20,12 +20,22 @@ const LandingNav = () => {
                 scroll
                 offset={-64}
                 children='Stories' />
+            <NavItem to='events'
+                href='#events'
+                scroll
+                offset={-64}
+                children='Events' />
             <NavItem
                 to='about'
                 href='#about'
                 scroll
                 offset={-64}
                 children='About' />
+            <NavItem to='contact'
+                href='#contact'
+                scroll
+                offset={-64}
+                children='Contact' />
         </nav>
     )
 }
