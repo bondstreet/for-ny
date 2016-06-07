@@ -9,6 +9,7 @@ const EventCard = ({ ...props }) => {
             <Heading size={0}
                 className='mr2'
                 style={{
+                    flexShrink: 0,
                     flexBasis: 128
                 }}>
                 {props.day}
