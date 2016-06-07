@@ -7,14 +7,14 @@ import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
-import { setModalSeenCookie } from '../modal-triggers'
+import { setFormSubmittedCookie } from '../modal-triggers'
 
 
 class LeadForm extends React.Component {
     constructor(props) {
         super()
         this.state = {
-            view: 'interested',
+            view: 'likeUs',
             business_name: '',
             name: '',
             email: '',
@@ -53,7 +53,7 @@ class LeadForm extends React.Component {
 
         this.createLead(payload).then(() => {
             this.setView('schedule')
-            setModalSeenCookie(365)
+            setFormSubmittedCookie()
         })
     }
 
@@ -72,15 +72,17 @@ class LeadForm extends React.Component {
     }
 
     componentDidMount() {
+        const { submitted } = this.context.leadForm
         const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
+
+        if (!submitted) { this.setView('interested') }
+
         this.createLead = leadCapture.createLead
-        this.createNewsletterSub = leadCapture.createNewsletterSub
-        this.setTakeoverCookie = leadCapture.setTakeoverCookie
     }
 
     render () {
         const { view } = this.state
-        const { data: { leadForm } } = this.context
+        const { leadForm } = this.context.data
         const viewData = leadForm.views[view] || {}
         const heading = viewData.heading
         const text = viewData.text
@@ -131,7 +133,8 @@ LeadForm.propTypes = {
 }
 
 LeadForm.contextTypes = {
-  data: React.PropTypes.object
+  data: React.PropTypes.object,
+  leadForm: React.PropTypes.object
 }
 
 export default LeadForm

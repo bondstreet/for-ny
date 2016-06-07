@@ -2,14 +2,15 @@
 import React from 'react'
 import rebassConfig from './rebass-config'
 import LeadModal from './LeadModal'
-import { initInactiveTrigger, initTimeoutTrigger, modalSeen, setModalSeenCookie } from '../modal-triggers'
+import { initInactiveTrigger, initTimeoutTrigger, modalSeen, setModalSeenCookie, leadFormSubmitted } from '../modal-triggers'
 
 class App extends React.Component {
     constructor() {
         super()
 
         this.state = {
-            modalOpen: false
+            modalOpen: false,
+            leadFormSubmitted: false
         }
 
         this.closeModal = this.closeModal.bind(this)
@@ -23,6 +24,9 @@ class App extends React.Component {
             modal: {
                 open: this.state.modalOpen,
                 closeModal: this.closeModal
+            },
+            leadForm: {
+                submitted: this.state.leadFormSubmitted
             }
         }
     }
@@ -30,6 +34,9 @@ class App extends React.Component {
     componentDidMount() {
         initInactiveTrigger(this.launchModal)
         initTimeoutTrigger(this.launchModal)
+        if (leadFormSubmitted()) {
+            this.setState({leadFormSubmitted: true})
+        }
     }
 
     launchModal () {
@@ -56,7 +63,8 @@ class App extends React.Component {
 
 App.childContextTypes = {
     rebass: React.PropTypes.object,
-    modal: React.PropTypes.object
+    modal: React.PropTypes.object,
+    leadForm: React.PropTypes.object
 }
 
 App.contextTypes = {
