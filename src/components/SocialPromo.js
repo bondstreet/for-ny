@@ -15,7 +15,7 @@ const SocialPromo = (props, { data }) => {
     return (
         <section
             className='center'>
-            <Circle className='bg-yellow'>
+            <Circle className='bg-green peach'>
                 <Heading
                     size={3}
                     className='mb2'

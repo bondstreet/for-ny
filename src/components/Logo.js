@@ -3,7 +3,7 @@ import React from 'react'
 import Link from './Link'
 import Heading from './Heading'
 
-const Logo = ({ to, size }) => {
+const Logo = ({ to, size = 3 }) => {
     const Comp = to ? Link : 'div'
 
     const sx = {
@@ -15,12 +15,12 @@ const Logo = ({ to, size }) => {
 
     return (
         <Comp to={to} style={sx}>
-            <Heading level={1} size={size} center caps>
-                For
-                <br />
-                <span className='nowrap'>
-                    New York
-                </span>
+            <Heading className='tk-nimbus-sans-extended nowrap'
+                level={1}
+                size={size}
+                center
+                caps>
+                For New York
             </Heading>
         </Comp>
     )

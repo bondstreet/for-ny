@@ -10,7 +10,7 @@ const Footer = (props, {
     }
 }) => {
     return (
-        <footer className='py2'>
+        <footer className='py2 white bg-black'>
             <div className='inline-block col-12 md-col-9'>
                 <Text
                     caps

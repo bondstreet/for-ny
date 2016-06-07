@@ -14,7 +14,7 @@ const LandingPosts = (props, {
 }) => {
     return (
         <Scroll.Element name='stories' id='stories'
-            className='px2 py4'>
+            className='px2 py4 bg-peach'>
             <Container style={{ maxWidth: 1280 }}>
                 <Heading center
                     caps
