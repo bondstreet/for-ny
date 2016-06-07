@@ -4,6 +4,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
+import { gtmScript } from './tracking'
 
 let script = '/bundle.js'
 
@@ -49,6 +50,10 @@ const Html = ({ app, ...props }) => (
                     __html: JSON.stringify(props)
                 }} />
             <script src={props.baseurl + script} />
+            <script
+                dangerouslySetInnerHTML={{
+                    __html: gtmScript
+                }} />
         </body>
     </html>
 )
