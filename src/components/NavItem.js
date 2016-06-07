@@ -11,6 +11,7 @@ const NavItem = ({
     disabled,
     icon,
     right,
+    small,
     className,
     children,
     ...props
@@ -25,7 +26,7 @@ const NavItem = ({
     const cx = {
         root: classnames(
             'NavItem',
-            'h5',
+            'h6',
             'bold',
             'nowrap',
             'inline-block',
@@ -34,7 +35,11 @@ const NavItem = ({
             'py1',
             'color-inherit',
             'text-decoration-none',
-            { caps, disabled },
+            {
+                caps,
+                disabled,
+                'md-h5': !small
+            },
             className
         ),
         inner: classnames(

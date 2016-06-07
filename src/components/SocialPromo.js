@@ -1,7 +1,9 @@
 
 import React from 'react'
-import { Heading } from 'rebass'
+import Heading from './Heading'
+import Text from './Text'
 import ShareButtons from './ShareButtons'
+import Circle from './Circle'
 
 const SocialPromo = (props, { data }) => {
     const {
@@ -11,15 +13,22 @@ const SocialPromo = (props, { data }) => {
     } = data
 
     return (
-        <section className='center px3 py3 bg-orange'>
-            <Heading
-                mb={2}
-                children={socialPromo.heading} />
-            <ShareButtons
-                url={data.domain + data.baseurl}
-                title='For New York'
-                tweetText={socialPromo.tweetText}
-            />
+        <section
+            className='center'>
+            <Circle className='bg-yellow'>
+                <Heading
+                    size={3}
+                    className='mb2'
+                    children={socialPromo.heading} />
+                <ShareButtons
+                    url={data.domain + data.baseurl}
+                    title='For New York'
+                    tweetText={socialPromo.tweetText}
+                />
+                <Text className='mt2'>
+                    #ForNewYork
+                </Text>
+            </Circle>
         </section>
     )
 }

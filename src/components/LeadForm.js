@@ -1,7 +1,8 @@
 
 import React from 'react'
-import { Heading, Text } from 'rebass'
 import { heapIdentify } from '../tracking'
+import Heading from './Heading'
+import Text from './Text'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
@@ -92,11 +93,11 @@ class LeadForm extends React.Component {
 
         return (
             <div className="center">
-                <Heading mb={2}>
+                <Heading size={3} className='mb2'>
                     {heading}
                 </Heading>
                 {text && (
-                    <Text mb={2} children={text} />
+                    <Text className='mb2' children={text} />
                 )}
                 {views[view]}
             </div>

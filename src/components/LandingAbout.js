@@ -1,8 +1,9 @@
 
 import React from 'react'
-import { Container, Heading, Text } from 'rebass'
-import LeadForm from './LeadForm'
+import { Container} from 'rebass'
 import Scroll from 'react-scroll'
+import Heading from './Heading'
+import Text from './Text'
 
 const LandingAbout = (props, {
     data: {
@@ -15,24 +16,33 @@ const LandingAbout = (props, {
         <Scroll.Element
             name='about'
             id='about'
-            className='min-height-100 px3 py4 white bg-green'>
-            <Container
-                py={3}
-                style={{
-                    textAlign: 'center',
-                    maxWidth: 640
-                }}>
-                <Heading
-                    caps
-                    size={0}
-                    className='mb3'
-                    children={about.heading} />
-                <Text
-                    size={3}
-                    mb={4}
-                    children={about.text} />
-                <LeadForm />
-            </Container>
+            className='table col-12 min-height-100 px3 py4 bg-yellow'>
+            <div className='table-cell col-12 align-middle'>
+                <Container
+                    py={3}
+                    style={{
+                        maxWidth: 768
+                    }}>
+                    <div className='center'>
+                        <Heading
+                            caps
+                            size={1}
+                            className='mb3'
+                            children={about.heading} />
+                    </div>
+                    <Text
+                        size={3}
+                        className='mb4'
+                        children={about.text} />
+                    <div className='center'>
+                        <Heading
+                            caps
+                            size={2}
+                            mb={3}
+                            children={about.subhead} />
+                    </div>
+                </Container>
+            </div>
         </Scroll.Element>
     )
 }

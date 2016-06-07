@@ -10,13 +10,18 @@ const Footer = (props, {
     }
 }) => {
     return (
-        <footer className='px2 py2'>
-            <div className='inline-block col-12 sm-col-6'>
+        <footer className='py2'>
+            <div className='inline-block col-12 md-col-9'>
+                <Text
+                    caps
+                    size={6}
+                    className='inline-block px2 py1'
+                    children={footer.text} />
                 {footer.links.map((link, i) => (
-                    <NavItem key={i} {...link} />
+                    <NavItem small key={i} {...link} />
                 ))}
             </div>
-            <div className='inline-block col-12 sm-col-6 right-align'>
+            <div className='inline-block col-12 md-col-3 py2 md-right-align'>
                 <Icon
                     className='mx2'
                     size={24}
@@ -28,11 +33,6 @@ const Footer = (props, {
                     href='https://facebook.com/onbondstreet'
                     name='twitter' />
             </div>
-            <Text
-                bold={false}
-                size={6}
-                className='inline-block px2 mr2'
-                children={footer.text} />
         </footer>
     )
 }
