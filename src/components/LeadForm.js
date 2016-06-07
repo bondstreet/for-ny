@@ -77,7 +77,7 @@ class LeadForm extends React.Component {
         const { submitted } = this.context.leadForm
         const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
 
-        if (!submitted) { this.setView('interested') }
+        if (!submitted) { this.setState({view: 'interested'}) }
 
         this.createLead = leadCapture.createLead
     }
