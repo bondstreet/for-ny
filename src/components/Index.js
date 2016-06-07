@@ -7,7 +7,6 @@ import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
 import EventList from './EventList'
 import LandingAbout from './LandingAbout'
-import LeadModal from './LeadModal'
 import Footer from './Footer'
 
 const Index = (props, { data }) => {
@@ -21,7 +20,6 @@ const Index = (props, { data }) => {
       <EventList />
       <LandingAbout />
       <Footer />
-      <LeadModal />
     </div>
   )
 }
