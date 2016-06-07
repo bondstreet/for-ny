@@ -8,12 +8,12 @@ const PostCard = ({
     image,
     title,
     ...props
-}) => {
+}, { data }) => {
     return (
         <div>
             <Link to={`/posts/${name}`}
                 className='block color-inherit text-decoration-none'>
-                <img src={image}
+                <img src={data.baseurl + image}
                     className='fit mb1' />
                 <Heading
                     center
@@ -23,6 +23,10 @@ const PostCard = ({
             </Link>
         </div>
     )
+}
+
+PostCard.contextTypes = {
+    data: React.PropTypes.object
 }
 
 export default PostCard
