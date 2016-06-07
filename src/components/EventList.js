@@ -35,7 +35,6 @@ const EventList = (props, { data }) => {
         .sortBy(_.head)
         .value()
 
-
     return (
         <section className='bg-orange px2 py4'>
             <Container>
