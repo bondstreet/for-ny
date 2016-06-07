@@ -1,6 +1,7 @@
 
 import React from 'react'
 import { Heading, Text } from 'rebass'
+import { heapIdentify } from '../tracking'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
@@ -45,6 +46,7 @@ class LeadForm extends React.Component {
 
         this.createLead(payload).then(() => {
             this.setView('schedule')
+            heapIdentify(payload)
         })
     }
 
