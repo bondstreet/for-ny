@@ -11,7 +11,7 @@ const ValuePropsTable = (props, { data }) => {
             }}>
             {valueProps.map(({ label, value }, i) => (
                 <div key={i}
-                    className='sm-table-cell center mb1 p2 white bg-black'>
+                    className='sm-table-cell center mb1 p2 black bg-yellow'>
                     <div className='bold'>
                         {label}
                     </div>

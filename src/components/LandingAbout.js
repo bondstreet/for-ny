@@ -17,7 +17,7 @@ const LandingAbout = (props, {
         <Scroll.Element
             name='about'
             id='about'
-            className='table col-12 min-height-100 px3 py4 bg-yellow'>
+            className='table col-12 min-height-100 px3 py4 bg-white'>
             <div className='table-cell col-12 align-middle'>
                 <Container
                     py={3}
