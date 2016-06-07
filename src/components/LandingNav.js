@@ -14,7 +14,7 @@ const LandingNav = () => {
     }
 
     return (
-        <nav style={sx.root} className='LandingNav center px2 py2 bg-white'>
+        <nav style={sx.root} className='LandingNav center px2 py1 bg-white'>
             <NavItem to='stories'
                 href='#stories'
                 scroll
