@@ -11,6 +11,7 @@ import PostCard from './PostCard'
 import Prose from './Prose'
 import NavItem from './NavItem'
 import Footer from './Footer'
+import Circle from './Circle'
 
 const Post = ({ params }, { data, router }) => {
     const { posts } = data
@@ -21,7 +22,7 @@ const Post = ({ params }, { data, router }) => {
     const description = sanitize(post.description)
 
     return (
-        <div>
+        <div className='bg-mint'>
             <PostNav previousPost={previousPost}
                 nextPost={nextPost} />
             <div className='center py4'>
@@ -44,27 +45,33 @@ const Post = ({ params }, { data, router }) => {
             </Container>
             <Container style={{ maxWidth: 1024 }} px={3} py={4}>
                 <Prose html={post.html} />
-                <ShareButtons
-                    url={data.domain + data.baseurl + data.path}
-                    title={post.title}
-                    tweetText={post.tweetText}
-                />
-            </Container>
-            <Container>
-                <Heading size={1} center>Up Next</Heading>
-                <div className='mxn2 py4'>
-                    {previousPost && (
-                        <div className='inline-block align-top col-6 px2'>
-                            <PostCard {...previousPost} />
-                        </div>
-                    )}
-                    {nextPost && (
-                        <div className='inline-block align-top col-6 px2'>
-                            <PostCard {...nextPost} />
-                        </div>
-                    )}
+                <div className='sm-col-6 mx-auto'>
+                    <Circle className='center bg-yellow'>
+                        <ShareButtons
+                            url={data.domain + data.baseurl + data.path}
+                            title={post.title}
+                            tweetText={post.tweetText}
+                        />
+                    </Circle>
                 </div>
             </Container>
+            <div className='py4 bg-peach'>
+                <Container>
+                    <Heading size={1} center>Up Next</Heading>
+                    <div className='center mxn2 py4'>
+                        {previousPost && (
+                            <div className='inline-block align-top col-6 px2'>
+                                <PostCard {...previousPost} />
+                            </div>
+                        )}
+                        {nextPost && (
+                            <div className='inline-block align-top col-6 px2'>
+                                <PostCard {...nextPost} />
+                            </div>
+                        )}
+                    </div>
+                </Container>
+            </div>
             <Footer />
         </div>
     )
