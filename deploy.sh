@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "master" ]; then exit 0; fi
+# if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "master" ]; then exit 0; fi
 echo 'Deploying to gh-pages...'
 git config user.name "Travis-CI"
 git config user.email "travis@bondstreet.com"
