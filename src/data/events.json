@@ -1,25 +1,39 @@
 {
     "eventList": [
         {
-            "title": "Barbershop",
-            "date": "2016-05-15",
-            "location": "Chicago",
-            "blurb": "A day in the life of a South Side Chicago barbershop.",
-            "link": "http://www.imdb.com/title/tt0303714/"
+            "title": "Talk Shop",
+            "date": "2016-06-07",
+            "location": "NeueHouse (110 E 25th St - off Park)",
+            "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
+            "link": "https://talkshop.splashthat.com/"
         },
         {
-            "title": "Barbershop: The Next Cut",
-            "date": "2016-06-15",
-            "location": "Chicago, a third time",
-            "blurb": "As their surrounding community has taken a turn for the worse, the crew at Calvin's Barbershop come together to bring some much needed change to their neighborhood.",
-            "link": "http://www.imdb.com/title/tt3628584/"
+            "title": "Talk Shop: Debt vs. Equity",
+            "date": "2016-07-13",
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
         },
         {
-            "title": "Barbershop: Back in Business",
-            "date": "2016-5-31",
-            "location": "Chicago, again",
-            "blurb": "Why not spend another day with the crew at Calvin's shop in the South Side of Chicago?",
-            "link": "http://www.imdb.com/title/tt0337579/"
+            "title": "Talk Shop: The Evolution of Retail",
+            "date": "2016-08-03",
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
+        },
+        {
+            "title": "Talk Shop: Building a Brand",
+            "date": "2016-08-17",
+            "location": "",
+            "blurb": "TBD",
+            "link": ""
+        },
+        {
+            "title": "Friends For New York",
+            "date": "2016-08-31",
+            "location": "TBD",
+            "blurb": "",
+            "link": ""
         }
     ]
 }

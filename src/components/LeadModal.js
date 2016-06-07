@@ -16,7 +16,7 @@ class LeadModal extends React.Component {
                 open={open}
             >
                 <section className='bg-white px2 py3 max-width-2'>
-                    <LeadForm />
+                    <LeadForm instanceName='fornyc__modal'/>
                 </section>
             </Overlay>
         )

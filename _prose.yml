@@ -11,7 +11,6 @@ prose:
         - /static
         - /src
     media: 'static/images/src'
-
     metadata:
         posts:
             - name: 'description'
@@ -35,4 +34,3 @@ prose:
                 field:
                     element: 'text'
                     label: 'Tweet Text'
-

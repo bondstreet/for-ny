@@ -1,28 +1,31 @@
+
 import React from 'react'
+import { Heading, Text } from 'rebass'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
+import { setModalSeenCookie } from '../modal-triggers'
 
 
 class LeadForm extends React.Component {
-
-    constructor() {
+    constructor(props) {
         super()
-
-
         this.state = {
             view: 'interested',
             business_name: '',
             name: '',
             email: '',
-            phone_number: ''
+            phone_number: '',
+            segment_name: ''
         }
 
         this.setView = this.setView.bind(this)
-        this.handleLeadSubmit = this.handleLeadSubmit.bind(this)
         this.handleChange = this.handleChange.bind(this)
+        this.handleLeadSubmit = this.handleLeadSubmit.bind(this)
+        this.onReadyToSchedule = this.onReadyToSchedule.bind(this)
+        this.onNotReadyToSchedule = this.onNotReadyToSchedule.bind(this)
     }
 
     setView (view) {
@@ -39,15 +42,31 @@ class LeadForm extends React.Component {
     handleLeadSubmit (e) {
         e.preventDefault()
         const payload = {
+            instance_name: this.props.instanceName,
+            segment_name: this.state.segment_name,
             company: this.state.business_name,
             full_name: this.state.name,
             email: this.state.email,
             phone: this.state.phone_number
         }
 
-
         this.createLead(payload).then(() => {
             this.setView('schedule')
+            setModalSeenCookie(365)
+        })
+    }
+
+    onReadyToSchedule () {
+        this.setState({
+            segment_name: 'fornyc__ready_to_schedule',
+            view: 'lead'
+        })
+    }
+
+    onNotReadyToSchedule () {
+        this.setState({
+            segment_name: 'fornyc__not_ready_to_schedule',
+            view: 'lead'
         })
     }
 
@@ -60,6 +79,10 @@ class LeadForm extends React.Component {
 
     render () {
         const { view } = this.state
+        const { data: { leadForm } } = this.context
+        const viewData = leadForm.views[view] || {}
+        const heading = viewData.heading
+        const text = viewData.text
 
         const views = {
             interested: (
@@ -69,7 +92,8 @@ class LeadForm extends React.Component {
             ),
             checkOrSchedule: (
                 <CheckOrSchedule
-                    onAccept={this.setView('lead')}
+                    onNotReadyClick={this.onNotReadyToSchedule}
+                    onAccept={this.onReadyToSchedule}
                     {...this.state}/>
             ),
             lead: (
@@ -88,11 +112,21 @@ class LeadForm extends React.Component {
         }
 
         return (
-            <div className="center m4">
+            <div id={'bst_lead_form__'+this.props.instanceName} className="center">
+                <Heading mb={2}>
+                    {heading}
+                </Heading>
+                {text && (
+                    <Text mb={2} children={text} />
+                )}
                 {views[view]}
             </div>
         )
     }
+}
+
+LeadForm.defaultProps = {
+    instanceName: 'default_instance'
 }
 
 LeadForm.contextTypes = {

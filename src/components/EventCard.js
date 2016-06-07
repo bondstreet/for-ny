@@ -11,7 +11,7 @@ const EventCard = ({ ...props }) => {
                 {props.blurb}<br />
             </div>
             <div>
-                <a href={props.link} className='h3 bold color-inherit caps'>RSVP</a>
+                <a href={props.link ? props.link : '#'} className='h3 bold color-inherit caps'>{props.link ? 'RSVP' : ''}</a>
             </div>
         </div>
     )
