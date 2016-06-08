@@ -1,9 +1,10 @@
 
 import React from 'react'
+import classnames from 'classnames'
 import Link from './Link'
 import Heading from './Heading'
 
-const Logo = ({ to, size = 3 }) => {
+const Logo = ({ to, mega, ...props }) => {
     const Comp = to ? Link : 'div'
 
     const sx = {
@@ -13,15 +14,30 @@ const Logo = ({ to, size = 3 }) => {
         textDecoration: 'none'
     }
 
+    const cx = {
+        root: classnames('Logo', props.className),
+        h1: classnames(
+            'tk-nimbus-sans-extended',
+            'nowrap',
+            'center',
+            'caps',
+            {
+                'h4': !mega,
+                'h2 sm-h1 md-h0 lg-h00': mega
+            }
+        )
+    }
+
     return (
-        <Comp to={to} style={sx}>
-            <Heading className='tk-nimbus-sans-extended nowrap'
-                level={1}
-                size={size}
-                center
-                caps>
-                For New York
-            </Heading>
+        <Comp to={to}
+            {...props}
+            style={sx}
+            className={cx.root}>
+            <h1 className={cx.h1}>
+                For
+                <br />
+                New York
+            </h1>
         </Comp>
     )
 }

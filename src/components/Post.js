@@ -27,9 +27,8 @@ const Post = ({ params }, { data, router }) => {
             <PostNav previousPost={previousPost}
                 nextPost={nextPost} />
             <div className='center py4'>
-                <Heading size={0}>{post.title}</Heading>
-                <Text size={3}
-                    dangerouslySetInnerHTML={{
+                <Heading mega>{post.title}</Heading>
+                <Text dangerouslySetInnerHTML={{
                         __html: description
                     }} />
             </div>
@@ -39,7 +38,7 @@ const Post = ({ params }, { data, router }) => {
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>
-                <Heading size={1} center className='py4'>
+                <Heading center className='py4'>
                     What are 3 of your favorite small businesses in New York?
                 </Heading>
             </Container>
@@ -63,7 +62,7 @@ const Post = ({ params }, { data, router }) => {
             </Container>
             <div className='py4 bg-peach'>
                 <Container>
-                    <Heading size={1} center>Up Next</Heading>
+                    <Heading center>Up Next</Heading>
                     <div className='center mxn2 py4'>
                         {previousPost && (
                             <div className='inline-block align-top col-6 px2'>

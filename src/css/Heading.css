@@ -1,0 +1,14 @@
+
+.Heading {
+    font-size: 32px;
+}
+
+@media (--breakpoint-md) {
+    .Heading {
+        font-size: 48px;
+    }
+    .Heading-small {
+        font-size: 32px;
+    }
+}
+

@@ -7,13 +7,9 @@ import Text from './Text'
 import ValuePropsTable from './ValuePropsTable'
 import AboutLogos from './AboutLogos'
 
-const LandingAbout = (props, {
-    data: {
-        landing: {
-            about
-        }
-    }
-}) => {
+const LandingAbout = (props, { data }) => {
+    const { about } = data.landing
+
     return (
         <Scroll.Element
             name='about'
@@ -27,32 +23,30 @@ const LandingAbout = (props, {
                     }}>
                     <div className='center'>
                         <Heading
-                            size={2}
                             className='mb3'
                             children={about.heading} />
                     </div>
-                    <Text
-                        size={4}
-                        className='mb4 center'
+                    <Text center
+                        className='mb4'
                         dangerouslySetInnerHTML={{ __html: about.text }}
                     />
                     <ValuePropsTable />
                     <div className='center mt4'>
-                        <Text
-                            size={4}
-                            mb={3}
+                        <Text className='mb3'
                             children={about.subhead} />
                         <AboutLogos />
-                        <Button
-                            is={Scroll.Link}
-                            smooth={true}
-                            duration={200}
-                            offset={-64}
-                            to='contact'
-                            mt={2}
-                            color='white'
-                            backgroundColor='black'
-                            children={about.aboutButton} />
+                        <div className='xs-hide'>
+                            <Button
+                                is={Scroll.Link}
+                                smooth={true}
+                                duration={200}
+                                offset={-64}
+                                to='contact'
+                                mt={2}
+                                color='white'
+                                backgroundColor='black'
+                                children={about.aboutButton} />
+                        </div>
                     </div>
                 </Container>
             </div>

@@ -9,3 +9,7 @@
     .sm-table-cell { display: table-cell }
 }
 
+@media (--breakpoint-md) {
+    .md-fixed { position: fixed }
+}
+

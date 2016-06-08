@@ -1,6 +1,6 @@
 
 .disabled {
-    opacity: 0.5;
+    opacity: 0.2;
     cursor: default;
 }
 .color-inherit { color: inherit }
@@ -24,4 +24,6 @@
 /* For wireframe */
 .gray { color: var(--gray) }
 .bg-gray { background-color: var(--gray) }
+
+.border-4 { border-width: 4px }
 

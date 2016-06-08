@@ -12,10 +12,7 @@ const Footer = (props, {
     return (
         <footer className='py2 white bg-black'>
             <div className='inline-block col-12 md-col-9'>
-                <Text
-                    caps
-                    size={6}
-                    className='inline-block px2 py1'
+                <p className='h6 bold caps inline-block mx2 my1'
                     children={footer.text} />
                 {footer.links.map((link, i) => (
                     <NavItem small key={i} {...link} />

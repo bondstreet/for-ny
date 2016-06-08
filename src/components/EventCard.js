@@ -6,8 +6,8 @@ import Text from './Text'
 
 const EventCard = ({ ...props }) => {
     return (
-        <div className='md-flex mb4 items-center' style={{ alignItems: 'flex-start' }}>
-            <Heading size={0}
+        <div className='md-flex mb4' style={{ alignItems: 'flex-start' }}>
+            <Heading
                 className='mr2 center'
                 style={{
                     border: '3px solid',

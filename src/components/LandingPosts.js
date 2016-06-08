@@ -5,20 +5,17 @@ import { Container } from 'rebass'
 import PostList from './PostList'
 import Heading from './Heading'
 
-const LandingPosts = (props, {
-    data: {
-        landing: {
-            postList
-        }
-    }
-}) => {
+const LandingPosts = (props, { data }) => {
+    const { postList } = data.landing
+
     return (
         <Scroll.Element name='stories' id='stories'
             className='px2 py4 bg-peach'>
             <Container style={{ maxWidth: 1280 }}>
-                <Heading center
+                <Heading
+                    center
+                    mega
                     caps
-                    size={0}
                     className='mb3'
                     children={postList.heading} />
                 <PostList />

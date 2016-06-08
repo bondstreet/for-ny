@@ -17,7 +17,7 @@ const SocialPromo = (props, { data }) => {
             className='center'>
             <Circle className='bg-green peach'>
                 <Heading
-                    size={3}
+                    small
                     className='mb2'
                     children={socialPromo.heading} />
                 <ShareButtons

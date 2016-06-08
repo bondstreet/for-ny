@@ -14,7 +14,7 @@ const BaseLink = ({
         spy: true,
         smooth: true,
         duration: 200,
-        activeClass: 'white bg-black'
+        activeClass: 'Link-active'
     } : {}
 
     return <Comp to={baseTo} {...props} {...scrollProps} />
