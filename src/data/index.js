@@ -42,7 +42,7 @@ posts.forEach(f => {
 const data = {
     domain,
     baseurl,
-    title: 'For NYC',
+    title: 'For New York',
     metadata,
     paths,
     posts,
