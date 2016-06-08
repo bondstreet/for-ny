@@ -11,20 +11,24 @@ const PostCard = ({
     title,
     ...props
 }, { data }) => {
-    const description = sanitize(props.description)
+    const description = sanitize(props.description || '', { allowedTags: [] })
 
     return (
         <div>
             <Link to={`/posts/${name}`}
                 className='block color-inherit text-decoration-none'>
-                <img src={data.baseurl + image}
-                    className='fit mb1' />
+                {image && (
+                    <img src={data.baseurl + image}
+                        className='fit mb1' />
+                )}
                 <Heading
                     center
                     level={3}
                     size={2}
                     children={title} />
-                <Text center dangerouslySetInnerHTML={{ __html: description }} />
+                <div
+                    className='bold center'
+                    dangerouslySetInnerHTML={{ __html: description }} />
             </Link>
         </div>
     )

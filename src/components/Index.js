@@ -11,18 +11,18 @@ import LandingContact from './LandingContact'
 import Footer from './Footer'
 
 const Index = (props, { data }) => {
-  return (
-    <div>
-      <LandingNav />
-      <LandingHeader />
-      <LandingIntro />
-      <LandingPosts />
-      <EventList />
-      <LandingAbout />
-      <LandingContact />
-      <Footer />
-    </div>
-  )
+    return (
+        <div>
+            <LandingNav />
+            <LandingHeader />
+            <LandingIntro />
+            <LandingPosts />
+            <EventList />
+            <LandingAbout />
+            <LandingContact />
+            <Footer />
+        </div>
+    )
 }
 
 Index.contextTypes = {

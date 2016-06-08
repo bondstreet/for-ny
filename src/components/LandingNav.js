@@ -10,7 +10,7 @@ class LandingNav extends React.Component {
     constructor () {
         super()
         this.state = {
-            currentSection: null
+            currentSection: 'top'
         }
         this.handleScroll = this.handleScroll.bind(this)
     }
