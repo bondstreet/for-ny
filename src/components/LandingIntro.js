@@ -1,24 +1,26 @@
 
 import React from 'react'
+import Scroll from 'react-scroll'
 import Container from './Container'
 import Text from './Text'
 
 const LandingIntro = (props, { data }) => {
-    const {
-        landing: {
-            introSection
-        }
-    } = data
+    const { introSection } = data.landing
 
     return (
-        <section className='bg-yellow px2 py4'>
-            <Container>
-                <Text bold center size={4}
-                    dangerouslySetInnerHTML={{ __html:introSection.text }}
-                >
-                </Text>
-            </Container>
-        </section>
+        <Scroll.Element
+            name='intro'
+            id='intro'
+            className='min-height-100 table col-12 px2 py4'>
+            <section className='table-cell align-middle'>
+                <Container>
+                    <Text bold center size={4}
+                        dangerouslySetInnerHTML={{ __html:introSection.text }}
+                    >
+                    </Text>
+                </Container>
+            </section>
+        </Scroll.Element>
     )
 }
 

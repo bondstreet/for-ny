@@ -20,7 +20,9 @@ const Logo = ({ to, size = 3 }) => {
                 size={size}
                 center
                 caps>
-                For New York
+                For
+                <br />
+                New York
             </Heading>
         </Comp>
     )

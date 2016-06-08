@@ -7,13 +7,9 @@ import Text from './Text'
 import ValuePropsTable from './ValuePropsTable'
 import AboutLogos from './AboutLogos'
 
-const LandingAbout = (props, {
-    data: {
-        landing: {
-            about
-        }
-    }
-}) => {
+const LandingAbout = (props, { data }) => {
+    const { about } = data.landing
+
     return (
         <Scroll.Element
             name='about'

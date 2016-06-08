@@ -1,8 +1,10 @@
 
 import React from 'react'
 import Scroll from 'react-scroll'
+import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
+import Logo from './Logo'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -15,7 +17,6 @@ class LandingNav extends React.Component {
 
     componentDidMount () {
         Scroll.scrollSpy.addSpyHandler(this.handleScroll)
-        // Scroll.Events.scrollEvent.register('end', this.handleScroll)
     }
 
     componentWillUnmount () {
@@ -29,13 +30,16 @@ class LandingNav extends React.Component {
     render () {
         const { currentSection } = this.state
         const colors = {
-            header: 'bg-mint',
+            top: 'bg-mint',
+            intro: 'bg-mint',
             stories: 'bg-peach',
             events: 'bg-orange',
             about: 'bg-yellow',
             contact: 'white bg-black'
         }
-        const colorClass = currentSection ? colors[currentSection] : colors.header
+        const colorClass = currentSection ? colors[currentSection] : 'bg-mint'
+
+        const showLogo = currentSection !== 'top'
 
         const cx = classnames(
             'LandingNav',
@@ -46,8 +50,23 @@ class LandingNav extends React.Component {
             colorClass
         )
 
+        const sx = {
+            logo: {
+                display: 'inline-block',
+                textAlign: 'center',
+                width: showLogo ? 256 : 0,
+                overflow: 'hidden'
+            }
+        }
+        const shareLink = 'http://www.facebook.com/share.php?u=http%3A%2F%2Fbondstreet.com%2Ffornewyork&title=For%20New%20York'
+
         return (
             <nav className={cx}>
+                <NavItem to='top'
+                    href='#top'
+                    scroll
+                    offset={-64}
+                    children='Home' />
                 <NavItem to='stories'
                     href='#stories'
                     scroll
@@ -58,6 +77,9 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Events' />
+                <div className='xs-hide' style={sx.logo}>
+                    <Logo />
+                </div>
                 <NavItem
                     to='about'
                     href='#about'
@@ -69,6 +91,12 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
+                <ButtonOutline
+                    data-small
+                    ml={1}
+                    small
+                    href={shareLink}
+                    children='Share' />
             </nav>
         )
     }
