@@ -53,6 +53,7 @@ class LandingNav extends React.Component {
         const sx = {
             logo: {
                 display: 'inline-block',
+                verticalAlign: 'middle',
                 textAlign: 'center',
                 width: showLogo ? 256 : 0,
                 overflow: 'hidden'
@@ -77,7 +78,7 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Events' />
-                <div className='xs-hide sm-hide' style={sx.logo}>
+                <div className='inline-block align-middle xs-hide sm-hide' style={sx.logo}>
                     <Logo />
                 </div>
                 <NavItem
