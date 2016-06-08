@@ -6,7 +6,7 @@ import Text from './Text'
 
 const EventCard = ({ ...props }) => {
     return (
-        <div className='md-flex mb2 items-center' style={{ alignItems: 'flex-start' }}>
+        <div className='md-flex mb4 items-center' style={{ alignItems: 'flex-start' }}>
             <Heading size={0}
                 className='mr2 center'
                 style={{
@@ -20,7 +20,7 @@ const EventCard = ({ ...props }) => {
             <div className='flex-auto'>
                 <Text caps>{props.title}</Text>
                 <Text>{props.location}</Text>
-                {props.blurb && <Text>{props.blurb}</Text>}
+                {props.blurb && <Text style={{ lineHeight: 1.25 }}>{props.blurb}</Text>}
             </div>
             {props.link && (
                 <div>
