@@ -13,21 +13,27 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 const Head = ({ title, metadata, post, ...props }) => {
-    const ogTitle = post.title || metadata.title
-    const ogImage = post.image || metadata.image
-    const ogUrl = props.domain + props.baseurl + props.path
-    const ogDescription = post.facebookBlurb || metadata.description
+    const metaTitle = post.title || metadata.title
+    const metaImage = (post.image) ? props.domain + props.baseurl + post.image : metadata.image
+    const metaUrl = props.domain + props.baseurl + props.path
+    const metaDescription = post.socialBlurb || metadata.description
 
     return (
         <head>
             <meta charSet='utf-8' />
             <title>{title}</title>
             <meta name='viewport' content='width=device-width, initial-scale=1' />
-            <meta property='og:title' content={ogTitle} />
+            <meta property='og:title' content={metaTitle} />
             <meta property='og:type' content='website' />
-            <meta property='og:url' content={ogUrl} />
-            <meta property='og:image' content={ogImage} />
-            <meta property='og:description' content={ogDescription} />
+            <meta property='og:url' content={metaUrl} />
+            <meta property='og:image' content={metaImage} />
+            <meta property='og:description' content={metaDescription} />
+            <meta property='fb:app_id' content='158471404493763' />
+            <meta name='twitter:card' content='summary_large_image' />
+            <meta name='twitter:site' content='@onbondstreet' />
+            <meta name='twitter:title' content={metaTitle} />
+            <meta name='twitter:description' content={metaDescription} />
+            <meta name='twitter:image' content={metaImage} />
             <style dangerouslySetInnerHTML={{ __html: css }}/>
             <script src='https://cdn.optimizely.com/js/6134185353.js'></script>
             <script src='https://use.typekit.net/zzi1igz.js' />

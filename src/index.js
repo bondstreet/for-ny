@@ -12,6 +12,8 @@ if (typeof document !== 'undefined') {
     const div = document.getElementById('app')
     const initialData = JSON.parse(document.getElementById('data').innerHTML)
     ReactDOM.render(<Root data={initialData} />, div)
+    const utmTracking = require('bondstreet_web/assets/js/lib/utm')
+    utmTracking.setBstCookies()
 }
 
 const getCurrentPost = (posts, path) => {
