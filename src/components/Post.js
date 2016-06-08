@@ -26,7 +26,6 @@ const Post = ({ params }, { data, router }) => {
             <PostNav previousPost={previousPost}
                 nextPost={nextPost} />
             <div className='center py4'>
-                <div className='h1 mb4'>◆</div>
                 <Heading size={0}>{post.title}</Heading>
                 <Text size={3}
                     dangerouslySetInnerHTML={{
