@@ -46,6 +46,9 @@ const Post = ({ params }, { data, router }) => {
                 <Prose html={post.html} />
                 <div className='sm-col-6 mx-auto'>
                     <Circle className='bg-green mint'>
+                        <Text className='mb2'>
+                            Share this
+                        </Text>
                         <ShareButtons
                             url={data.domain + data.baseurl + data.path}
                             title={post.title}
