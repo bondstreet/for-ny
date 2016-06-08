@@ -44,7 +44,7 @@ class LandingNav extends React.Component {
         const cx = classnames(
             'LandingNav',
             'center',
-            'sm-fixed',
+            'md-fixed',
             'top-0 right-0 left-0 z2',
             'py1',
             colorClass
@@ -77,7 +77,7 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Events' />
-                <div className='xs-hide' style={sx.logo}>
+                <div className='xs-hide sm-hide' style={sx.logo}>
                     <Logo />
                 </div>
                 <NavItem

@@ -4,6 +4,7 @@ import { Container, Button } from 'rebass'
 import Scroll from 'react-scroll'
 import LargeText from './LargeText'
 import Heading from './Heading'
+import Logo from './Logo'
 
 const LandingHeader = (props, { rebass, data }) => {
     const sx = {
@@ -27,8 +28,7 @@ const LandingHeader = (props, { rebass, data }) => {
             <header className='min-height-100 table col-12 px3 py4 bg-mint'
                 style={sx.root}>
                 <div className='table-cell align-middle center'>
-                    <Heading caps mega className='tk-nimbus-sans-extended' children='For' />
-                    <Heading caps mega className='tk-nimbus-sans-extended mb4' children='New York' />
+                    <Logo mega className='mb3' />
                     <Container style={{ maxWidth: 640 }}>
                         <LargeText className='mb3' children={text} />
                         <div className='xs-hide'>
