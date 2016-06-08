@@ -27,6 +27,7 @@ const Head = ({ title, metadata, post, ...props }) => {
             <meta property='og:url' content={metaUrl} />
             <meta property='og:image' content={metaImage} />
             <meta property='og:description' content={metaDescription} />
+            <meta property='fb:app_id' content='158471404493763' />
             <meta name='twitter:card' content='summary_large_image' />
             <meta name='twitter:site' content='@onbondstreet' />
             <meta name='twitter:title' content={metaTitle} />
