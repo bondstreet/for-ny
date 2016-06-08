@@ -45,12 +45,15 @@ const Post = ({ params }, { data, router }) => {
             <Container style={{ maxWidth: 1024 }} px={3} py={4}>
                 <Prose html={post.html} />
                 <div className='sm-col-6 mx-auto'>
-                    <Circle className='center bg-yellow'>
+                    <Circle className='bg-green mint'>
                         <ShareButtons
                             url={data.domain + data.baseurl + data.path}
                             title={post.title}
                             tweetText={post.tweetText}
                         />
+                        <Text className='mt2'>
+                            #ForNewYork
+                        </Text>
                     </Circle>
                 </div>
             </Container>
