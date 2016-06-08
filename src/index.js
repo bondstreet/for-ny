@@ -12,8 +12,6 @@ if (typeof document !== 'undefined') {
     const div = document.getElementById('app')
     const initialData = JSON.parse(document.getElementById('data').innerHTML)
     ReactDOM.render(<Root data={initialData} />, div)
-    const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
-    leadCapture.setBstCookies()
 }
 
 const getCurrentPost = (posts, path) => {
