@@ -27,8 +27,6 @@ const Head = ({ title, metadata, post, ...props }) => {
             <meta property='og:url' content={ogUrl} />
             <meta property='og:image' content={ogImage} />
             <meta property='og:description' content={ogDescription} />
-
-            {metadata.image}
             <style dangerouslySetInnerHTML={{ __html: css }}/>
             <script src='https://cdn.optimizely.com/js/6134185353.js'></script>
             <script src='https://use.typekit.net/zzi1igz.js' />
