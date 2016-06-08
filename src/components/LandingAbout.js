@@ -23,20 +23,16 @@ const LandingAbout = (props, { data }) => {
                     }}>
                     <div className='center'>
                         <Heading
-                            size={2}
                             className='mb3'
                             children={about.heading} />
                     </div>
-                    <Text
-                        size={4}
-                        className='mb4 center'
+                    <Text center
+                        className='mb4'
                         dangerouslySetInnerHTML={{ __html: about.text }}
                     />
                     <ValuePropsTable />
                     <div className='center mt4'>
-                        <Text
-                            size={4}
-                            mb={3}
+                        <Text className='mb3'
                             children={about.subhead} />
                         <AboutLogos />
                         <div className='xs-hide'>

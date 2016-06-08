@@ -1,5 +1,6 @@
 
 .Input input {
+    font-weight: normal !important;
     padding-top: var(--space-2) !important;
     padding-bottom: var(--space-2) !important;
     border-radius: 0 !important;
@@ -10,7 +11,8 @@
 
 .Input input:focus {
     outline: none;
-    border-color: var(--orange) !important;
+    color: var(--black) !important;
+    background-color: var(--white) !important;
 }
 
 @media (--breakpoint-sm) {

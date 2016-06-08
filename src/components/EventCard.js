@@ -6,7 +6,7 @@ import Text from './Text'
 const EventCard = ({ ...props }) => {
     return (
         <div className='md-flex items-center'>
-            <Heading size={0}
+            <Heading
                 className='mr2'
                 style={{
                     flexShrink: 0,

@@ -4,25 +4,21 @@ import classnames from 'classnames'
 
 const Heading = ({
     level = 2,
-    size,
     mega,
+    small,
     center,
     caps,
     className,
     ...props
 }) => {
     const Comp = `h${level}`
-    let h
-    if (!mega) {
-        const n = (typeof size === 'number' ? size : level)
-        h = `h${n + 2} sm-h${n + 1}` // `md-h${n}`
-    } else {
-        h = 'h2 md-h0 lg-h00'
-    }
 
-    const cx = classnames('Heading', h, {
+    const cx = classnames('Heading', {
+        'Heading-small': small,
         center,
-        caps
+        caps,
+        'h2 md-h1 lg-h0': mega,
+        'tk-nimbus-sans-extended': mega,
     }, className)
 
     return <Comp {...props} className={cx} />

@@ -44,8 +44,8 @@ const EventList = (props, { data }) => {
             <Container>
                 <div className='center'>
                     <Heading center
+                        mega
                         caps
-                        size={0}
                         className='mb3'
                         children={eventList.heading} />
                 </div>
@@ -56,7 +56,6 @@ const EventList = (props, { data }) => {
                         <div key={'month' + i}
                             className='mb3'>
                             <Heading caps
-                                size={1}
                                 className='mb2'
                                 children={monthName} />
                             {events.map((event, i) => {

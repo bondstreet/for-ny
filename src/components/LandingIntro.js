@@ -3,7 +3,6 @@ import React from 'react'
 import Scroll from 'react-scroll'
 import { Button } from 'rebass'
 import Container from './Container'
-import Text from './Text'
 
 const LandingIntro = (props, { data }) => {
     const { introSection } = data.landing
@@ -15,10 +14,8 @@ const LandingIntro = (props, { data }) => {
             className='min-height-100 table col-12 px2 py4'>
             <section className='table-cell align-middle center'>
                 <Container>
-                    <Text bold size={4}
-                        dangerouslySetInnerHTML={{ __html:introSection.text }}
-                    >
-                    </Text>
+                    <p className='bold h3 md-h2'
+                        dangerouslySetInnerHTML={{ __html:introSection.text }} />
                     <div className='xs-hide'>
                         <Button
                             is={Scroll.Link}

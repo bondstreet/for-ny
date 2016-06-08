@@ -22,11 +22,11 @@ const rebassConfig = {
     },
 
     fontSizes: [
-        72,
         64,
         48,
         32,
-        24,
+        20,
+        16,
         14,
         12
     ],

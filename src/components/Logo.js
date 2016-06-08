@@ -23,7 +23,7 @@ const Logo = ({ to, mega, ...props }) => {
             'caps',
             {
                 'h4': !mega,
-                'h3 sm-h1 md-h0 lg-h00': mega
+                'h2 sm-h1 md-h0 lg-h00': mega
             }
         )
     }

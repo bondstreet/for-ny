@@ -118,7 +118,7 @@ class LeadForm extends React.Component {
 
         return (
             <div id={'bst_lead_form__'+this.props.instanceName} className="center">
-                <Heading size={3} className='mb2'>
+                <Heading small className='mb2'>
                     {heading}
                 </Heading>
                 {text && (

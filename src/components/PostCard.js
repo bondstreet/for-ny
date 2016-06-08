@@ -24,7 +24,6 @@ const PostCard = ({
                 <Heading
                     center
                     level={3}
-                    size={2}
                     children={title} />
                 <div
                     className='bold center'

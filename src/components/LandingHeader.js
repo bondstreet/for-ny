@@ -2,7 +2,6 @@
 import React from 'react'
 import { Container, Button } from 'rebass'
 import Scroll from 'react-scroll'
-import LargeText from './LargeText'
 import Heading from './Heading'
 import Logo from './Logo'
 
@@ -30,7 +29,7 @@ const LandingHeader = (props, { rebass, data }) => {
                 <div className='table-cell align-middle center'>
                     <Logo mega className='mb3' />
                     <Container style={{ maxWidth: 640 }}>
-                        <LargeText className='mb3' children={text} />
+                        <p className='bold line-height-2 h3 md-h1 mb3' children={text} />
                         <div className='xs-hide'>
                             <Button
                                 is={Scroll.Link}
