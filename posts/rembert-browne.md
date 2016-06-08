@@ -3,7 +3,7 @@ title: Rembert Browne
 description: Culture critic at large – New York Magazine
 date: 2016-06-03
 image: /images/src/rembert-01.jpg
-facebookBlurb: This is a blurb that will be used for the Facebook description
+socialBlurb: This is a blurb that will be used for the Facebook description as well as the Twitter card
 tweetText: I am example tweet text, which has a maximum of 116 characters
 ---
 
