@@ -27,6 +27,11 @@ const Head = ({ title, metadata, post, ...props }) => {
             <meta property='og:url' content={ogUrl} />
             <meta property='og:image' content={ogImage} />
             <meta property='og:description' content={ogDescription} />
+            <meta name='twitter:card' content='summary_large_image' />
+            <meta name='twitter:site' content='@onbondstreet' />
+            <meta name='twitter:title' content={ogTitle} />
+            <meta name='twitter:description' content={ogDescription} />
+            <meta name='twitter:image' content={ogImage} />
             <style dangerouslySetInnerHTML={{ __html: css }}/>
             <script src='https://cdn.optimizely.com/js/6134185353.js'></script>
             <script src='https://use.typekit.net/zzi1igz.js' />
