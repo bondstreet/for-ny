@@ -31,9 +31,6 @@ const EventList = (props, { data }) => {
     const sortedEvents = _
         .chain(data.events.eventList)
         .sortBy(getMonth, getDay)
-        .groupBy(getMonth)
-        .toPairs()
-        .sortBy(_.head)
         .value()
 
     return (
@@ -49,23 +46,11 @@ const EventList = (props, { data }) => {
                         className='mb3'
                         children={eventList.heading} />
                 </div>
-                {sortedEvents.map((eventsByMonth, i) => {
-                    const monthName = moment(eventsByMonth[0], 'MM').format('MMMM')
-                    const events = eventsByMonth[1]
+                {sortedEvents.map((event, i) => {
                     return (
-                        <div key={'month' + i}
-                            className='mb3'>
-                            <Heading caps
-                                className='mb2'
-                                children={monthName} />
-                            {events.map((event, i) => {
-                                return (
-                                    <EventCard
-                                        key={'event' + i}
-                                        {...event} />
-                                )
-                            })}
-                        </div>
+                        <EventCard
+                            key={'event' + i}
+                            {...event} />
                     )
                 })}
                 <div className='center xs-hide'>

@@ -27,7 +27,7 @@ const Footer = (props, {
                 <Icon
                     className='mx2'
                     size={24}
-                    href='https://facebook.com/onbondstreet'
+                    href='https://twitter.com/onbondstreet'
                     name='twitter' />
             </div>
         </footer>

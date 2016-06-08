@@ -12,6 +12,7 @@ import Prose from './Prose'
 import NavItem from './NavItem'
 import Footer from './Footer'
 import Circle from './Circle'
+import LandingContact from './LandingContact'
 
 const Post = ({ params }, { data, router }) => {
     const { posts } = data
@@ -44,12 +45,18 @@ const Post = ({ params }, { data, router }) => {
             <Container style={{ maxWidth: 1024 }} px={3} py={4}>
                 <Prose html={post.html} />
                 <div className='sm-col-6 mx-auto'>
-                    <Circle className='center bg-yellow'>
+                    <Circle className='bg-green mint'>
+                        <Text className='mb2'>
+                            Share this
+                        </Text>
                         <ShareButtons
                             url={data.domain + data.baseurl + data.path}
                             title={post.title}
                             tweetText={post.tweetText}
                         />
+                        <Text className='mt2'>
+                            #ForNewYork
+                        </Text>
                     </Circle>
                 </div>
             </Container>
@@ -70,6 +77,7 @@ const Post = ({ params }, { data, router }) => {
                     </div>
                 </Container>
             </div>
+            <LandingContact />
             <Footer />
         </div>
     )

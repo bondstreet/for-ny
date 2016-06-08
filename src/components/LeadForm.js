@@ -20,7 +20,8 @@ class LeadForm extends React.Component {
             name: '',
             email: '',
             phone_number: '',
-            segment_name: ''
+            customerio_event: '',
+            sf_lead_status: ''
         }
 
         this.setView = this.setView.bind(this)
@@ -44,8 +45,9 @@ class LeadForm extends React.Component {
     handleLeadSubmit (e) {
         e.preventDefault()
         const payload = {
-            instance_name: this.props.instanceName,
-            segment_name: this.state.segment_name,
+            lead_form_instance: this.props.instanceName,
+            customerio_event: this.state.customerio_event,
+            sf_lead_status: this.state.sf_lead_status,
             company: this.state.business_name,
             full_name: this.state.name,
             email: this.state.email,
@@ -61,14 +63,15 @@ class LeadForm extends React.Component {
 
     onReadyToSchedule () {
         this.setState({
-            segment_name: 'fornyc__ready_to_schedule',
+            customerio_event: 'fornyc__ready_to_schedule',
             view: 'lead'
         })
     }
 
     onNotReadyToSchedule () {
         this.setState({
-            segment_name: 'fornyc__not_ready_to_schedule',
+            customerio_event: 'fornyc__not_ready_to_schedule',
+            sf_lead_status: 'Wants to stay in touch',
             view: 'lead'
         })
     }
