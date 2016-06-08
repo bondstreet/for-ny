@@ -22,6 +22,7 @@ const Head = ({ title, metadata, post, ...props }) => {
         <head>
             <meta charSet='utf-8' />
             <title>{title}</title>
+            <meta name='viewport' content='width=device-width, initial-scale=1' />
             <meta property='og:title' content={ogTitle} />
             <meta property='og:type' content='website' />
             <meta property='og:url' content={ogUrl} />
