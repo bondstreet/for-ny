@@ -1,7 +1,9 @@
 
 import React from 'react'
+import sanitize from 'sanitize-html'
 import Link from './Link'
 import Heading from './Heading'
+import Text from './Text'
 
 const PostCard = ({
     name,
@@ -9,6 +11,8 @@ const PostCard = ({
     title,
     ...props
 }, { data }) => {
+    const description = sanitize(props.description)
+
     return (
         <div>
             <Link to={`/posts/${name}`}
@@ -20,6 +24,7 @@ const PostCard = ({
                     level={3}
                     size={2}
                     children={title} />
+                <Text center dangerouslySetInnerHTML={{ __html: description }} />
             </Link>
         </div>
     )
