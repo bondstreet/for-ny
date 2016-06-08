@@ -7,7 +7,7 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     "introSection": {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "text": "“For New York” represents the humble, eternal spirit of the New York City merchant. The small business. Our bars, our laundries, our hot dog sellers and our delicatessens, our bodegas, our dollar stores, our hardware stories, hell, our haberdasheries. These businesses have served New York City with dignity and distinction since this city was built—some are quiet, others make noise; some last a week, or a month, while others have lasted over a century, and are still kicking. <br><br> “For New York” sets out to share a few of their stories. Together they stand for what Bond Street aspires to do: Advocate, promote, protect, and celebrate the small businesses that make our culture great, that make it so indelibly human, and that also make an incredibly strong case for their sanctity in the lifeblood of New York City, and the world that so loves their stories, too. Here’s to them."
     },
     "socialPromo": {
         "heading": "Do you support small businesses? Show some love NYC!",
@@ -20,7 +20,44 @@
     },
     "about": {
         "heading": "We Make Loans. Honestly.",
-        "text": "Bond Street is more than a loan provider - it’s a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. We are committed to helping the business owners that make NYC the best city in the world.",
-        "subhead": "Bond Street supports some of NYC’s finest"
+        "text": "Bond Street is more than a loan provider - it’s a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. <br><br> We are committed to helping the business owners that make NYC the best city in the world.",
+        "subhead": "Bond Street supports some of NYC’s finest",
+        "aboutButton": "Get in touch",
+        "valueProps": [
+            {
+                "label": "Term loans from",
+                "value": "$50K–$500K"
+            },
+            {
+                "label": "Rates starting at",
+                "value": "6%"
+            },
+            {
+                "label": "For as long as",
+                "value": "1–3 years"
+            }
+        ],
+        "logos": [
+            {
+                "src": "/images/src/joe-coffee.png",
+                "alt": "Joe Coffee Logo"
+            },
+            {
+                "src": "/images/src/gin-lane.png",
+                "alt": "Gin Lane Logo"
+            },
+            {
+                "src": "/images/src/smile.png",
+                "alt": "Smile Logo"
+            },
+            {
+                "src": "/images/src/knot-bow.png",
+                "alt": "Knot & Bow Logo"
+            },
+            {
+                "src": "/images/src/tacombi.png",
+                "alt": "Tacombi Logo"
+            }
+        ]
     }
 }

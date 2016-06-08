@@ -5,6 +5,8 @@ const black = '#000'
 const green = '#0a613f'
 const yellow = '#ffeb34'
 const orange = '#fd6e21'
+const mint = '#c1dad0'
+const peach = '#ffddbf'
 const bold = 900
 
 const rebassConfig = {
@@ -14,7 +16,9 @@ const rebassConfig = {
         black,
         green,
         yellow,
-        orange
+        orange,
+        mint,
+        peach
     },
 
     fontSizes: [

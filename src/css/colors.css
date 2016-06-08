@@ -10,12 +10,16 @@
 .green  { color: var(--green) }
 .yellow { color: var(--yellow) }
 .orange { color: var(--orange) }
+.mint  { color: var(--mint) }
+.peach { color: var(--peach) }
 
 .bg-black  { background-color: var(--black) }
 .bg-white  { background-color: var(--white) }
 .bg-green  { background-color: var(--green) }
 .bg-yellow { background-color: var(--yellow) }
 .bg-orange { background-color: var(--orange) }
+.bg-mint  { background-color: var(--mint) }
+.bg-peach { background-color: var(--peach) }
 
 /* For wireframe */
 .gray { color: var(--gray) }

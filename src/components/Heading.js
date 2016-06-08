@@ -15,9 +15,9 @@ const Heading = ({
     let h
     if (!mega) {
         const n = (typeof size === 'number' ? size : level)
-        h = `h${n + 2} sm-h${n + 1} md-h${n}`
+        h = `h${n + 2} sm-h${n + 1}` // `md-h${n}`
     } else {
-        h = 'h1 md-h0 lg-h00'
+        h = 'h2 md-h0 lg-h00'
     }
 
     const cx = classnames('Heading', h, {

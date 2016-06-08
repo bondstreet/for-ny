@@ -4,13 +4,14 @@ import React from 'react'
 const Circle = ({ children, ...props }) => {
     const sx = {
         root: {
+            position: 'relative',
             width: '100%',
             height: 0,
             paddingBottom: '100%',
             borderRadius: 99999
         },
         inner: {
-            position: 'relative',
+            position: 'absolute',
             top: '50%',
             padding: 32,
             transform: 'translateY(-50%)'

@@ -15,6 +15,7 @@ const Index = (props, { data }) => {
     <div>
       <LandingNav />
       <LandingHeader />
+      <LandingIntro />
       <LandingPosts />
       <EventList />
       <LandingAbout />

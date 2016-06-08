@@ -44,7 +44,9 @@ const NavItem = ({
         ),
         inner: classnames(
             'inline-block',
-            'align-middle',
+            'align-middle', {
+                'xs-hide': !!icon
+            }
         ),
         icon: classnames({
             mr2: !right,
