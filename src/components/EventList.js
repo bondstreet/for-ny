@@ -3,7 +3,7 @@ import React from 'react'
 import _ from 'lodash'
 import moment from 'moment'
 import Scroll from 'react-scroll'
-import { Container } from 'rebass'
+import { Container, Button } from 'rebass'
 import Heading from './Heading'
 import EventCard from './EventCard'
 
@@ -69,6 +69,18 @@ const EventList = (props, { data }) => {
                         </div>
                     )
                 })}
+                <div className='center xs-hide'>
+                    <Button
+                        is={Scroll.Link}
+                        smooth={true}
+                        duration={200}
+                        offset={-64}
+                        to='about'
+                        mt={3}
+                        color='white'
+                        backgroundColor='black'
+                        children='About' />
+                </div>
             </Container>
         </Scroll.Element>
     )

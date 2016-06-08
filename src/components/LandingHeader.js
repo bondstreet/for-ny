@@ -31,16 +31,18 @@ const LandingHeader = (props, { rebass, data }) => {
                     <Heading caps mega className='tk-nimbus-sans-extended mb4' children='New York' />
                     <Container style={{ maxWidth: 640 }}>
                         <LargeText className='mb3' children={text} />
-                        <Button
-                            is={Scroll.Link}
-                            smooth={true}
-                            duration={200}
-                            offset={-64}
-                            to='intro'
-                            mt={2}
-                            color='mint'
-                            backgroundColor='black'
-                            children={headerButton} />
+                        <div className='xs-hide'>
+                            <Button
+                                is={Scroll.Link}
+                                smooth={true}
+                                duration={200}
+                                offset={-64}
+                                to='intro'
+                                mt={2}
+                                color='mint'
+                                backgroundColor='black'
+                                children={headerButton} />
+                        </div>
                     </Container>
                 </div>
             </header>
