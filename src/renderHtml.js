@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'development') {
 
 const Head = ({ title, metadata, post, ...props }) => {
     const ogTitle = post.title || metadata.title
-    const ogImage = props.domain + props.baseurl + post.image || metadata.image
+    const ogImage = (post.image) ? props.domain + props.baseurl + post.image : metadata.image
     const ogUrl = props.domain + props.baseurl + props.path
     const ogDescription = post.facebookBlurb || metadata.description
 
@@ -27,6 +27,8 @@ const Head = ({ title, metadata, post, ...props }) => {
             <meta property='og:url' content={ogUrl} />
             <meta property='og:image' content={ogImage} />
             <meta property='og:description' content={ogDescription} />
+
+            {metadata.image}
             <style dangerouslySetInnerHTML={{ __html: css }}/>
             <script src='https://cdn.optimizely.com/js/6134185353.js'></script>
             <script src='https://use.typekit.net/zzi1igz.js' />
