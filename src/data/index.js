@@ -5,7 +5,7 @@ const frontMatter = require('front-matter')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
 
-const metadata = require('./metadata.json')
+const social = require('./social.json')
 const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
@@ -43,7 +43,7 @@ const data = {
     domain,
     baseurl,
     title: 'For New York',
-    metadata,
+    social,
     paths,
     posts,
     landing,

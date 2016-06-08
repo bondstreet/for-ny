@@ -12,13 +12,13 @@ if (process.env.NODE_ENV === 'development') {
     script = '/dev.js'
 }
 
-const Head = ({ title, metadata, post, ...props }) => {
+const Head = ({ title, social, post, ...props }) => {
     const siteUrl = props.domain + props.baseurl
     const metaTitle = post.title || title
-    const metaFbImage = (post.image) ? siteUrl + post.image : siteUrl + metadata.fbImage
-    const metaTwitterImage = (post.image) ? siteUrl + post.image : siteUrl + metadata.twitterCardLargeImage
+    const metaFbImage = (post.image) ? siteUrl + post.image : siteUrl + social.fbImage
+    const metaTwitterImage = (post.image) ? siteUrl + post.image : siteUrl + social.twitterCardLargeImage
     const metaUrl = siteUrl + props.path
-    const metaDescription = post.socialBlurb || metadata.description
+    const metaDescription = post.socialBlurb || social.description
 
     return (
         <head>
