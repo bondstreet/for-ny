@@ -12,6 +12,7 @@ import Prose from './Prose'
 import NavItem from './NavItem'
 import Footer from './Footer'
 import Circle from './Circle'
+import LandingContact from './LandingContact'
 
 const Post = ({ params }, { data, router }) => {
     const { posts } = data
@@ -77,6 +78,7 @@ const Post = ({ params }, { data, router }) => {
                     </div>
                 </Container>
             </div>
+            <LandingContact />
             <Footer />
         </div>
     )
