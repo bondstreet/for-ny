@@ -3,11 +3,12 @@
 @import 'Prose.css';
 @import 'Input.css';
 @import 'Button.css';
+@import 'Link.css';
 @import 'layout.css';
-@import 'colors.css';
 
 @import 'basscss';
 @import 'typography.css';
+@import 'colors.css';
 @import 'basscss-addons/modules/responsive-padding/index.css';
 @import 'basscss-addons/modules/responsive-margin/index.css';
 
@@ -26,6 +27,7 @@
     --space-1: .75rem;
     --space-2: 1.25rem;
     --bold: 900;
+    --caps-letter-spacing: .1em;
     --black: #000;
     --white: #fff;
     --green: #0a613f;

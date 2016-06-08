@@ -31,8 +31,8 @@ const NavItem = ({
             'nowrap',
             'inline-block',
             'align-middle',
-            'px2',
-            'py1',
+            'mx2',
+            'my1',
             'color-inherit',
             'text-decoration-none',
             {
@@ -54,10 +54,21 @@ const NavItem = ({
         })
     }
 
+    const sx = {
+        root: {
+            paddingTop: 4,
+            paddingBottom: 4,
+            borderBottomWidth: 4,
+            borderBottomStyle: 'solid',
+            borderBottomColor: 'transparent'
+        }
+    }
+
     return (
         <Comp {...props}
             to={to}
             href={href}
+            style={sx.root}
             className={cx.root}>
             {icon && !right && (
                 <Icon name={icon} className={cx.icon} />
