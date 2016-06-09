@@ -1,12 +1,11 @@
 import React from 'react'
+import Heading from './Heading'
 import { Button } from 'rebass'
 
 
 export const Schedule = ({...props}) => {
     return (
-        <div>
-            <Button href='#!'>Click to schedule a call</Button>
-        </div>
+        <div></div>
     )
 }
 

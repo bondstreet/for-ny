@@ -1,6 +1,5 @@
 
 import React from 'react'
-import { heapIdentify } from '../tracking'
 import Heading from './Heading'
 import Text from './Text'
 import InterestedPrompt from './InterestedPrompt'
@@ -55,9 +54,8 @@ class LeadForm extends React.Component {
         }
 
         this.createLead(payload).then(() => {
-            this.setView('schedule')
+            this.setState({view: 'schedule'})
             setFormSubmittedCookie()
-            heapIdentify(payload)
         })
     }
 
