@@ -22,11 +22,17 @@ const Post = ({ params }, { data, router }) => {
     const nextPost = posts[index + 1] || false
     const description = sanitize(post.description)
 
+    const sx = {
+        header: {
+            paddingTop: 162
+        }
+    }
+
     return (
         <div className='bg-mint'>
             <PostNav previousPost={previousPost}
                 nextPost={nextPost} />
-            <div className='center py4'>
+            <div className='center pb4' style={sx.header}>
                 <Heading mega>{post.title}</Heading>
                 <Text dangerouslySetInnerHTML={{
                         __html: description
