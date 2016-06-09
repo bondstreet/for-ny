@@ -15,6 +15,15 @@ prose:
     - /src/fonts
   media: 'static/images/src'
   metadata:
+    content/landing:
+      - name: 'heading'
+        field:
+          element: 'text'
+          label: 'Heading'
+      - name: 'text'
+        field:
+          element: 'text'
+          label: 'Subheading'
     posts:
       - name: 'title'
         field:
