@@ -31,6 +31,10 @@ const Post = ({ params }, { data, router }) => {
                 <Text dangerouslySetInnerHTML={{
                         __html: description
                     }} />
+                <ShareButtons
+                    url={data.domain + data.baseurl + data.path}
+                    tweetText={data.social.defaultTweet}
+                />
             </div>
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
@@ -47,11 +51,10 @@ const Post = ({ params }, { data, router }) => {
                 <div className='sm-col-6 mx-auto'>
                     <Circle className='bg-green mint'>
                         <Text className='mb2'>
-                            Share this
+                            Share this post
                         </Text>
                         <ShareButtons
                             url={data.domain + data.baseurl + data.path}
-                            title={post.title}
                             tweetText={post.tweetText}
                         />
                         <Text className='mt2'>

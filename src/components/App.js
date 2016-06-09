@@ -2,7 +2,14 @@
 import React from 'react'
 import rebassConfig from './rebass-config'
 import LeadModal from './LeadModal'
-import { initInactiveTrigger, initTimeoutTrigger, modalSeen, setModalSeenCookie, leadFormSubmitted } from '../modal-triggers'
+import {
+    initInactiveTrigger,
+    initTimeoutTrigger,
+    initExitIntentTrigger,
+    setModalSeenCookie,
+    leadFormSubmitted,
+    modalSeen
+} from '../modal-triggers'
 
 class App extends React.Component {
     constructor() {
@@ -34,6 +41,7 @@ class App extends React.Component {
     componentDidMount() {
         initInactiveTrigger(this.launchModal)
         initTimeoutTrigger(this.launchModal)
+        initExitIntentTrigger(this.launchModal)
         if (leadFormSubmitted()) {
             this.setState({leadFormSubmitted: true})
         }

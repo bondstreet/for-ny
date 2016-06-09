@@ -1,3 +1,5 @@
+import { initSocialScripts } from './social'
+
 let gtmScript = ''
 let ga = undefined
 
@@ -16,18 +18,11 @@ export const logPageView = function() {
         ga = require('react-ga');
         ga.initialize('UA-49611446-1');
     }
-
     ga.pageview(window.location.pathname);
-}
-
-export const heapIdentify = function(payload) {
-    if (heap) {
-        heap.identity(payload)
-    }
+    initSocialScripts()
 }
 
 export {
     gtmScript,
-    heapIdentify,
     logPageView
 }

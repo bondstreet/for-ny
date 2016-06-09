@@ -5,6 +5,7 @@ import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
+import LikeButton from './LikeButton'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -59,8 +60,6 @@ class LandingNav extends React.Component {
                 overflow: 'hidden'
             }
         }
-        const shareLink = 'http://www.facebook.com/share.php?u=http%3A%2F%2Fbondstreet.com%2Ffornewyork&title=For%20New%20York'
-
         return (
             <nav className={cx}>
                 <NavItem to='top'
@@ -92,12 +91,9 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
-                <ButtonOutline
-                    data-small
-                    ml={1}
-                    small
-                    href={shareLink}
-                    children='Share' />
+                <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
+                    <LikeButton />
+                </div>
             </nav>
         )
     }
