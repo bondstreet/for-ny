@@ -20,14 +20,7 @@ export const logPageView = function() {
     ga.pageview(window.location.pathname);
 }
 
-export const heapIdentify = function(payload) {
-    if (heap) {
-        heap.identity(payload)
-    }
-}
-
 export {
     gtmScript,
-    heapIdentify,
     logPageView
 }
