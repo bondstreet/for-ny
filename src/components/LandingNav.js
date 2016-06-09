@@ -90,7 +90,7 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
-                <div className='nav-share-button NavItem h6 bold nowrap inline-block align-middle mx2 my1 caps md-h5'>
+                <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
                     <div className='fb-like'
                         data-href='https://bondstreet.com/fornewyork'
                         data-layout='button_count'
