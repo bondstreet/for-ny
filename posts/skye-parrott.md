@@ -1,7 +1,10 @@
 ---
 title: Skye Parrott
-description: photographer, founder - Double or Nothing
+description: Photographer, founder - Double or Nothing
 date: 2016-06-09
+image:
+socialBlurb:
+tweetText:
 ---
 
 ## Scosha

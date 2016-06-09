@@ -2,6 +2,9 @@
 title: Simon Ting
 description: Founder - Fashion Loft, Inc.
 date: 2016-06-09
+image:
+socialBlurb:
+tweetText:
 ---
 
 ## Flushing supermarkets

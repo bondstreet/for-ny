@@ -1,7 +1,10 @@
 ---
 title: Craig Costello
 date: 2016-06-07
-description: Founder <a href="http://shop.krink.com">KRINK</a>
+description: Artist and founder, <a href="http://shop.krink.com">KRINK</a>
+image:
+socialBlurb:
+tweetText:
 ---
 
 ## The Strand

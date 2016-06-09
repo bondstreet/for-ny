@@ -2,6 +2,9 @@
 title: Jeff and Eric Rosenthal
 description: Hip hop sketch comedians - Itsthereal
 date: 2016-06-09
+image:
+socialBlurb:
+tweetText:
 ---
 
 ## Silver Moon Bakery
