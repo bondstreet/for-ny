@@ -30,7 +30,6 @@ const ShareButtons = (props, { data }) => {
             </div>
             <a className="twitter-share-button"
                 data-text={props.tweetText}
-                data-size=''
                 data-hashtags='ForNewYork'
                 href={props.url}>Tweet</a>
         </div>
