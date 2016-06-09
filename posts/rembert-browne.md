@@ -4,7 +4,7 @@ description: Culture critic at large – New York Magazine
 date: 2016-06-03
 image: /images/src/rembert-01.jpg
 socialBlurb: This is a blurb that will be used for the Facebook description as well as the Twitter card
-tweetText: I am example tweet text, which has a maximum of 116 characters
+tweetText: I am example tweet text, which has a maximum of 104 characters (link and #ForNewYork hashtag are automatically added, no need to put them here)
 ---
 
 ![](/fornewyork/images/src/rembert-baohaus-01.jpg)
