@@ -1,7 +1,8 @@
 import Cookies from 'js-cookie'
+import ouibounce from 'ouibounce'
 
-const INACTIVE_TRIGGER = 5000
-const TIMEOUT_TRIGGER = 10000
+const INACTIVE_TRIGGER = 10000
+const TIMEOUT_TRIGGER = 900000
 
 const MODAL_SEEN_COOKIE = 'fornyc_modal_seen'
 const MODAL_SEEN_EXPIRES = 1
@@ -39,11 +40,19 @@ export const initInactiveTrigger = function (callback) {
     timer.on('idle', callback)
 }
 
+export const initExitIntentTrigger = function (callback) {
+    ouibounce(false, {
+        aggressive: true,
+        callback: callback
+    })
+}
+
 export default {
     setModalSeenCookie,
     setFormSubmittedCookie,
     modalSeen,
     leadFormSubmitted,
+    initExitIntentTrigger,
     initTimeoutTrigger,
     initInactiveTrigger
 }
