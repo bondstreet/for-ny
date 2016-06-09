@@ -18,7 +18,7 @@ const LandingContact = (props) => {
                     style={{
                         maxWidth: 640
                     }}>
-                    <LeadForm instanceName='fornyc__landing_contact' onComplete={setFormSubmittedCookie}/>
+                    <LeadForm instanceName='fornyc__landing_contact'/>
                 </Container>
             </div>
         </Scroll.Element>
