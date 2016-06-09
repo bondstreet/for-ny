@@ -23,12 +23,8 @@ const twitter = `!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^h
 const socialScripts = facebook + twitter
 
 const initSocialScripts = function() {
-    if (typeof FB !== 'undefined') {
-        FB.XFBML.parse(document.getElementById('app'))
-    }
-    if (typeof twittr !== 'undefined') {
-        twttr.widgets.load(document.getElementById('app'))
-    }
+    FB.XFBML.parse(document.getElementById('app'))
+    twttr.widgets.load(document.getElementById('app'))
 }
 
 export {
