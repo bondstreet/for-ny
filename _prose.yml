@@ -15,7 +15,7 @@ prose:
     - /src/fonts
   media: 'static/images/src'
   metadata:
-    content/landing:
+    content:
       - name: 'heading'
         field:
           element: 'text'
