@@ -35,6 +35,7 @@
 }
 
 .Prose p {
+    font-family: 'Rasmus-Regular', Georgia, serif;
     margin-bottom: var(--space-3);
 }
 

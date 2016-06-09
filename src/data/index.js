@@ -5,14 +5,14 @@ const frontMatter = require('front-matter')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
 
+const config = require('./config')
 const metadata = require('./metadata.json')
 const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
 const leadForm = require('./lead-form.json')
 
-const domain = 'https://bondstreet.com'
-const baseurl = '/fornewyork'
+const { domain, baseurl } = config
 
 const paths = [
     '/',

@@ -52,6 +52,14 @@ var config = {
                     'css',
                     'postcss'
                 ]
+            },
+            {
+                test: /\.woff2$/,
+                loader: `url?limit=65000&mimetype=application/font-woff2&name=${data.baseurl}/fonts/[name].[ext]`
+            },
+            {
+                test: /\.woff$/,
+                loader: `url?limit=65000&mimetype=application/font-woff&name=${data.baseurl}/fonts/[name].[ext]`
             }
         ]
     },
