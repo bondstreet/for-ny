@@ -5,6 +5,7 @@ import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
+import LikeButton from './LikeButton'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -91,12 +92,7 @@ class LandingNav extends React.Component {
                     offset={-64}
                     children='Contact' />
                 <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
-                    <div className='fb-like'
-                        data-href='https://bondstreet.com/fornewyork'
-                        data-layout='button_count'
-                        data-action='like'
-                        data-show-faces='false'
-                        data-share='false'></div>
+                    <LikeButton />
                 </div>
             </nav>
         )

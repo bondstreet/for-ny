@@ -1,6 +1,5 @@
 
 import React from 'react'
-import querystring from 'querystring'
 
 const FollowButtons = (props, { data }) => {
     return (
