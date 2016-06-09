@@ -1,10 +1,10 @@
 ---
 title: Rembert Browne
-description: Culture critic at large – New York Magazine
+description: Culture critic at large, New York Magazine
 date: 2016-06-03
 image: /images/src/rembert-01.jpg
-socialBlurb: This is a blurb that will be used for the Facebook description as well as the Twitter card
-tweetText: I am example tweet text, which has a maximum of 104 characters (link and #ForNewYork hashtag are automatically added, no need to put them here)
+socialBlurb:
+tweetText:
 ---
 
 ![](/fornewyork/images/src/rembert-baohaus-01.jpg)
@@ -26,4 +26,7 @@ I don't buy clothes that often, but often when I'm in the mood for something spe
 This is my bar, my restaurant, the place I charge my phone, the place i laugh, the place I cry, the place I accidentally forget to close out or leave my bag but then get a text saying my stuff is fine, the place I show up to in flip flops, the place I'll swing by just to see if anyone needs anything from the bodega, the place I start my night, and the place I end my night.
 
 It's the definition of an independent neighborhood establishment. And I love it so.
+
+## Why is it important to support independent businesses?
+It's important--crucial even--to support independent businesses, because these are establishments that are often the character of a neighborhood, a community. The relationships created between customers and those that work in independent business frequently go beyond just purchases--it becomes familial. And that is something, extremely vital in the ever-difficult task of keeping cities, neighborhoods, communities, and even blocks authentic, fun, flavorful, safe, and unique.
 
