@@ -5,9 +5,8 @@ import Text from './Text'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
-import Schedule from './Schedule'
 import LikeUs from './LikeUs'
-import { setFormSubmittedCookie } from '../modal-triggers'
+import { setFormSubmittedCookie, setModalSeenCookie } from '../modal-triggers'
 
 
 class LeadForm extends React.Component {
@@ -63,6 +62,7 @@ class LeadForm extends React.Component {
     }
 
     onReadyToSchedule () {
+        setModalSeenCookie()
         this.setState({
             customerio_event: 'fornyc__ready_to_schedule',
             view: 'lead'
@@ -70,6 +70,7 @@ class LeadForm extends React.Component {
     }
 
     onNotReadyToSchedule () {
+        setModalSeenCookie()
         this.setState({
             customerio_event: 'fornyc__not_ready_to_schedule',
             sf_lead_status: 'Wants to stay in touch',
@@ -112,12 +113,10 @@ class LeadForm extends React.Component {
                     onChange={this.handleChange}
                     />
             ),
-            schedule: (
-                <Schedule {...this.state} />
-            ),
             likeUs: (
                 <LikeUs {...this.state} />
-            )
+            ),
+            schedule: false
         }
 
         return (
