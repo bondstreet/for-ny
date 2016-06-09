@@ -92,12 +92,16 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
-                <ButtonOutline
-                    data-small
-                    ml={1}
-                    small
-                    href={shareLink}
-                    children='Share' />
+                <div className='nav-share-button NavItem h6 bold nowrap inline-block align-middle mx2 my1 caps md-h5'>
+                    <div className='fb-share-button'
+                        data-href='https://bondstreet.com/fornewyork'
+                        data-layout='button'
+                        data-mobile-iframe='true'>
+                        <a className='fb-xfbml-parse-ignore'
+                            href={shareLink}
+                            target='_blank'>Share</a>
+                    </div>
+                </div>
             </nav>
         )
     }

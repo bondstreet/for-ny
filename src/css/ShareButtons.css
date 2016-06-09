@@ -7,3 +7,14 @@
     position: relative !important;
     top: 7px;
 }
+
+.nav-share-button .fb-xfbml-parse-ignore {
+    text-decoration: none;
+    position: relative;
+    top: -2px;
+}
+
+.nav-share-button .fb_iframe_widget {
+    top: -3px;
+    filter: grayscale(100%) contrast(120%);
+}
