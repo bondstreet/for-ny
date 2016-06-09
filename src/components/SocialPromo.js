@@ -16,7 +16,7 @@ const SocialPromo = (props, { data }) => {
         <section
             className='center'>
             <Circle className='bg-green peach'>
-                <h3 className='lg-h2 mb2'>
+                <h3 className='h2 mb2'>
                     {socialPromo.heading}
                 </h3>
                 <ShareButtons
@@ -24,7 +24,7 @@ const SocialPromo = (props, { data }) => {
                     title='For New York'
                     tweetText={socialPromo.tweetText}
                 />
-                <p className='xs-hide bold px3 mt1'>
+                <p className='bold px3 mt1'>
                     #ForNewYork
                 </p>
             </Circle>
