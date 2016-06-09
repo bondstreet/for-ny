@@ -1,2 +1,4 @@
+---
 heading: For New York
 text: This is a zine that salutes independent businesses in New York.
+---
