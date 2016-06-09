@@ -51,7 +51,8 @@ const Html = ({ app, ...props }) => (
     <html>
         <Head {...props} />
         <body>
-            <div dangerouslySetInnerHTML={{ __html: socialScripts }} />
+            <div id='fb-root'></div>
+            <script dangerouslySetInnerHTML={{ __html: socialScripts }} />
             <div id='app'
                 dangerouslySetInnerHTML={{ __html: app }} />
             <script id='data'

@@ -9,7 +9,7 @@ import {
 import useScroll from 'react-router-scroll'
 import routes from '../routes'
 import Provider from './Provider'
-import {logPageView} from '../tracking'
+import { logPageView } from '../tracking'
 
 const Root = ({ data, renderProps }) => {
     const routerComponent = renderProps
