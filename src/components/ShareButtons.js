@@ -40,8 +40,7 @@ const ShareButtons = (props, { data }) => {
 
 ShareButtons.propTypes = {
     url: React.PropTypes.string,
-    title: React.PropTypes.string,    // for facebook
-    tweetText: React.PropTypes.string // for twitter
+    tweetText: React.PropTypes.string
 }
 
 ShareButtons.contextTypes = {

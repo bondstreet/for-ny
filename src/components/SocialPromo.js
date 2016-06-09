@@ -22,7 +22,6 @@ const SocialPromo = (props, { data }) => {
                     children={socialPromo.heading} />
                 <ShareButtons
                     url={data.domain + data.baseurl}
-                    title='For New York'
                     tweetText={data.social.defaultTweet}
                 />
                 <Text className='mt2'>

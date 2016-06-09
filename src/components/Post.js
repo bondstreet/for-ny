@@ -31,6 +31,10 @@ const Post = ({ params }, { data, router }) => {
                 <Text dangerouslySetInnerHTML={{
                         __html: description
                     }} />
+                <ShareButtons
+                    url={data.domain + data.baseurl + data.path}
+                    tweetText={data.social.defaultTweet}
+                />
             </div>
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
@@ -51,7 +55,6 @@ const Post = ({ params }, { data, router }) => {
                         </Text>
                         <ShareButtons
                             url={data.domain + data.baseurl + data.path}
-                            title={post.title}
                             tweetText={post.tweetText}
                         />
                         <Text className='mt2'>
