@@ -10,7 +10,6 @@ import LikeUs from './LikeUs'
 import { setFormSubmittedCookie } from '../modal-triggers'
 
 
-
 class LeadForm extends React.Component {
     constructor(props) {
         super()
@@ -59,9 +58,7 @@ class LeadForm extends React.Component {
         this.createLead(payload).then(() => {
             this.setState({view: 'schedule'})
             setFormSubmittedCookie()
-            if (onComplete !== undefined) {
-                onComplete()
-            }
+            onComplete()
         })
     }
 
@@ -140,6 +137,10 @@ class LeadForm extends React.Component {
 LeadForm.propTypes = {
     instanceName: React.PropTypes.string.isRequired,
     onComplete: React.PropTypes.func
+}
+
+LeadForm.defaultProps = {
+  onComplete: () => {}
 }
 
 LeadForm.contextTypes = {

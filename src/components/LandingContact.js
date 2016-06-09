@@ -4,7 +4,6 @@ import { Container, Text } from 'rebass'
 import Scroll from 'react-scroll'
 import Heading from './Heading'
 import LeadForm from './LeadForm'
-import { setFormSubmittedCookie } from '../modal-triggers'
 
 const LandingContact = (props) => {
     return (

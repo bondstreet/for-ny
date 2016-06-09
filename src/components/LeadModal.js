@@ -44,4 +44,3 @@ LeadModal.contextTypes = {
 }
 
 export default LeadModal
-
