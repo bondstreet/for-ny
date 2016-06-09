@@ -1,0 +1,9 @@
+.fb_iframe_widget, .twitter-share-button-rendered {
+    margin: 0 10px;
+    transform: scale(1.2);
+}
+
+.twitter-share-button-rendered {
+    position: relative !important;
+    top: 7px;
+}
