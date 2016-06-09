@@ -1,9 +1,12 @@
-.fb_iframe_widget, .twitter-share-button-rendered {
-    margin: 0 10px;
+.fb_iframe_widget,
+.twitter-share-button-rendered,
+.twitter-follow-button-rendered {
+    margin: 0 15px;
     transform: scale(1.2);
 }
 
-.twitter-share-button-rendered {
+.twitter-share-button-rendered,
+.twitter-follow-button-rendered {
     position: relative !important;
     top: 7px;
 }

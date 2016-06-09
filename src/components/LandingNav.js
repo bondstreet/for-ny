@@ -59,8 +59,6 @@ class LandingNav extends React.Component {
                 overflow: 'hidden'
             }
         }
-        const shareLink = 'http://www.facebook.com/share.php?u=http%3A%2F%2Fbondstreet.com%2Ffornewyork&title=For%20New%20York'
-
         return (
             <nav className={cx}>
                 <NavItem to='top'
@@ -93,14 +91,12 @@ class LandingNav extends React.Component {
                     offset={-64}
                     children='Contact' />
                 <div className='nav-share-button NavItem h6 bold nowrap inline-block align-middle mx2 my1 caps md-h5'>
-                    <div className='fb-share-button'
+                    <div className='fb-like'
                         data-href='https://bondstreet.com/fornewyork'
-                        data-layout='button'
-                        data-mobile-iframe='true'>
-                        <a className='fb-xfbml-parse-ignore'
-                            href={shareLink}
-                            target='_blank'>Share</a>
-                    </div>
+                        data-layout='button_count'
+                        data-action='like'
+                        data-show-faces='false'
+                        data-share='false'></div>
                 </div>
             </nav>
         )

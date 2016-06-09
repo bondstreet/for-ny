@@ -1,7 +1,6 @@
 
 import React from 'react'
 import querystring from 'querystring'
-import { ButtonOutline } from 'rebass'
 
 const ShareButtons = (props, { data }) => {
     const fb = {
@@ -23,7 +22,7 @@ const ShareButtons = (props, { data }) => {
         <div>
             <div className='fb-share-button'
                 data-href={props.url}
-                data-layout='button'
+                data-layout='button_count'
                 data-mobile-iframe='true'>
                 <a className='fb-xfbml-parse-ignore'
                     href={fb.link + querystring.stringify(fb.data)}
