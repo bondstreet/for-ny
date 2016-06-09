@@ -9,7 +9,10 @@ prose:
     - webpack.config.dev.js
     - webpack.config.js
     - /static
-    - /src
+    - /src/*.js
+    - /src/components
+    - /src/css
+    - /src/fonts
   media: 'static/images/src'
   metadata:
     posts:
