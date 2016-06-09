@@ -2,15 +2,19 @@
 const fs = require('fs')
 const path = require('path')
 const frontMatter = require('front-matter')
+const yaml = require('js-yaml')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
 
 const config = require('./config')
 const metadata = require('./metadata.json')
-const landing = require('./landing.json')
+// const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
 const leadForm = require('./lead-form.json')
+
+const landing = yaml.safeLoad(fs.readFileSync(path.join(__dirname, '../../content/landing.yml'), 'utf8'))
+console.log('landing data', landing)
 
 const { domain, baseurl } = config
 
