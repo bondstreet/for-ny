@@ -4,6 +4,7 @@ import { Container, Text } from 'rebass'
 import Scroll from 'react-scroll'
 import Heading from './Heading'
 import LeadForm from './LeadForm'
+import { setFormSubmittedCookie } from '../modal-triggers'
 
 const LandingContact = (props) => {
     return (
@@ -17,7 +18,7 @@ const LandingContact = (props) => {
                     style={{
                         maxWidth: 640
                     }}>
-                    <LeadForm instanceName='fornyc__landing_contact'/>
+                    <LeadForm instanceName='fornyc__landing_contact' onComplete={setFormSubmittedCookie}/>
                 </Container>
             </div>
         </Scroll.Element>

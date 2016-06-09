@@ -7,7 +7,6 @@ import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import Schedule from './Schedule'
 import LikeUs from './LikeUs'
-import { setFormSubmittedCookie } from '../modal-triggers'
 
 
 class LeadForm extends React.Component {
@@ -43,6 +42,8 @@ class LeadForm extends React.Component {
 
     handleLeadSubmit (e) {
         e.preventDefault()
+
+        const { onComplete } = this.props
         const payload = {
             lead_form_instance: this.props.instanceName,
             customerio_event: this.state.customerio_event,
@@ -55,7 +56,7 @@ class LeadForm extends React.Component {
 
         this.createLead(payload).then(() => {
             this.setState({view: 'schedule'})
-            setFormSubmittedCookie()
+            onComplete()
         })
     }
 
@@ -132,7 +133,8 @@ class LeadForm extends React.Component {
 }
 
 LeadForm.propTypes = {
-    instanceName: React.PropTypes.string.isRequired
+    instanceName: React.PropTypes.string.isRequired,
+    onComplete: React.PropTypes.func.isRequired
 }
 
 LeadForm.contextTypes = {
