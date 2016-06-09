@@ -1,14 +1,12 @@
 
 import React from 'react'
-import { heapIdentify } from '../tracking'
 import Heading from './Heading'
 import Text from './Text'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
-import Schedule from './Schedule'
 import LikeUs from './LikeUs'
-import { setFormSubmittedCookie } from '../modal-triggers'
+import { setFormSubmittedCookie, setModalSeenCookie } from '../modal-triggers'
 
 
 class LeadForm extends React.Component {
@@ -44,6 +42,8 @@ class LeadForm extends React.Component {
 
     handleLeadSubmit (e) {
         e.preventDefault()
+
+        const { onComplete } = this.props
         const payload = {
             lead_form_instance: this.props.instanceName,
             customerio_event: this.state.customerio_event,
@@ -55,13 +55,14 @@ class LeadForm extends React.Component {
         }
 
         this.createLead(payload).then(() => {
-            this.setView('schedule')
+            this.setState({view: 'schedule'})
             setFormSubmittedCookie()
-            heapIdentify(payload)
+            onComplete()
         })
     }
 
     onReadyToSchedule () {
+        setModalSeenCookie()
         this.setState({
             customerio_event: 'fornyc__ready_to_schedule',
             view: 'lead'
@@ -69,6 +70,7 @@ class LeadForm extends React.Component {
     }
 
     onNotReadyToSchedule () {
+        setModalSeenCookie()
         this.setState({
             customerio_event: 'fornyc__not_ready_to_schedule',
             sf_lead_status: 'Wants to stay in touch',
@@ -111,12 +113,10 @@ class LeadForm extends React.Component {
                     onChange={this.handleChange}
                     />
             ),
-            schedule: (
-                <Schedule {...this.state} />
-            ),
             likeUs: (
                 <LikeUs {...this.state} />
-            )
+            ),
+            schedule: false
         }
 
         return (
@@ -134,7 +134,12 @@ class LeadForm extends React.Component {
 }
 
 LeadForm.propTypes = {
-    instanceName: React.PropTypes.string.isRequired
+    instanceName: React.PropTypes.string.isRequired,
+    onComplete: React.PropTypes.func
+}
+
+LeadForm.defaultProps = {
+  onComplete: () => {}
 }
 
 LeadForm.contextTypes = {
