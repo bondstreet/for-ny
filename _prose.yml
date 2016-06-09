@@ -24,6 +24,38 @@ prose:
         field:
           element: 'text'
           label: 'Subheading'
+      - name: 'headerButton'
+        field:
+          element: 'text'
+          label: 'Header CTA Button'
+      - name: 'postListHeading'
+        field:
+          element: 'text'
+          label: 'Stories Section Heading'
+      - name: 'manifesto'
+        field:
+          element: 'text'
+          label: 'Manifesto'
+      - name: 'socialHeading'
+        field:
+          element: 'text'
+          label: 'Social Promo Heading'
+      - name: 'socialTweetText'
+        field:
+          element: 'text'
+          label: 'Social Promo Tweet Text'
+      - name: 'eventsHeading'
+        field:
+          element: 'text'
+          label: 'Events Section Heading'
+      - name: 'aboutHeading'
+        field:
+          element: 'text'
+          label: 'About Section Heading'
+      - name: 'aboutText'
+        field:
+          element: 'text'
+          label: 'About Section Text'
     posts:
       - name: 'title'
         field:

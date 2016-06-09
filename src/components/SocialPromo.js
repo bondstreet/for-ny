@@ -7,6 +7,10 @@ import Circle from './Circle'
 
 const SocialPromo = (props, { data }) => {
     const {
+        socialHeading,
+        socialTweetText
+    } = data.landing
+    const {
         landing: {
             socialPromo
         }
@@ -19,11 +23,11 @@ const SocialPromo = (props, { data }) => {
                 <Heading
                     small
                     className='mb2'
-                    children={socialPromo.heading} />
+                    children={socialHeading} />
                 <ShareButtons
                     url={data.domain + data.baseurl}
                     title='For New York'
-                    tweetText={socialPromo.tweetText}
+                    tweetText={socialTweetText}
                 />
                 <Text className='mt2'>
                     #ForNewYork
