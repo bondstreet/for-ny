@@ -1,4 +1,4 @@
-
+---
 heading: For New York
 text: This is a zine that salutes independent businesses in New York.
 headerButton: Start
@@ -34,4 +34,4 @@ about:
           alt: Knot & Bow Logo
         - src: /images/src/tacombi.png
           alt: Tacombi Logo
-
+---
