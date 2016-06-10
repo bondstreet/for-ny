@@ -13,9 +13,13 @@ tweetText:
 
 Junior’s is a Brooklyn classic. There are several other Junior’s outposts in NYC but this one is the original. It’s known for cheesecake but more than that the real main attraction there is people watching!
 
+![The Little Sweet Cafe](/fornewyork/images/AyaKanaiLittleSweetCafePhotobyAlexaRenfroe.jpg)
+
 ## The Little Sweet Cafe
 
 The Little Sweet Cafe is both little and sweet! They also make an excellent crepe, but no computers allowed! :)  There are only about 5 tables so i am always pleased when i can snag the window seat.
+
+![StevenAlan](/fornewyork/images/AyaKanaiStevenAlanPhotobyAlexaRenfroe.jpg)
 
 ## Steven Alan
 

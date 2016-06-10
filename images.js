@@ -14,7 +14,7 @@ const sizes = [
 ]
 
 const images = fs.readdirSync(INPUT_PATH)
-    .filter(f => /\.jpg$/.test(f))
+    .filter(f => /\.jpg$|\.png$/.test(f))
 
 console.log('Processing ' + images.length + ' images')
 

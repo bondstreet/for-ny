@@ -7,13 +7,19 @@ socialBlurb:
 tweetText:
 ---
 
+![Captured Tracks](/fornewyork/images/SamValentiCapturedTracks.jpg)
+
 ## Captured Tracks
 
 Captured Tracks is one of my favorite labels. Mike put together the shop as a pretty modest venture early on; since then, he’s brought on some new partners and now they’re this real powerhouse. They get amazing collections; recently, they came up on a huge collection of early 80s, UK indie, Factory Records, and early dance stuff. I find their whole perspective really cool because it’s such an agnostic outlook on music - you’ll find everything there. I never know what I’ll find there so I associate Captured with a real sense of discovery. It’s also great that it’s literally underground.
 
+![Co-Op 87](/fornewyork/images/SamValentiCoOp87.jpg)
+
 ## Co-Op 87
 
 Co-Op 87, I think, came out of the Mexican Summer family. I don’t know what the space used to be before they took over, but it’s cool how it looks like it was carved out of the existing architecture around it. To me, it feels like record stores I used to go to when I was a kid. Ben’s a real maven; his perspectives and selection are really peerless - he’ll hold a  lot of stuff like boogie, drum-n-bass, reggae, hip hop records that are all rooted in dance DNA. He helped me out bigtime when I was going through this original 90s R&B records kick; a lot of them weren’t available on vinyl for a while, so he found me a bunch of Jamaican bootlegs of Boyz II Men and Toni Braxton stuff with like scans of the CDs blown up on the covers. Co-Op is cool because it goes super accessible and esoteric at once.
+
+![Academy Records](/fornewyork/images/AcademyRecords.jpg)
 
 ## Academy Records
 

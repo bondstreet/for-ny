@@ -7,13 +7,19 @@ socialBlurb:
 tweetText:
 ---
 
-## Flushing supermarkets
+![Flushing Supermarkets](/fornewyork/images/SimonTingFlushingSupermarketsMain.jpg)
+
+## Flushing Supermarkets
 
 I can’t name one in particular, but Flushing is where my family and I do most of our grocery shopping. A lot of produce and fish, most of the time. You can buy everything that reminds you of home here, and find things or ingredients that you can’t get anywhere else in the city. It’s always healthier and a good thing to cook at home if you can.
+
+![Congee Village](/fornewyork/images/SimonTingCongeeVillage.jpg)
 
 ## Congee Village
 
 Congee Village serves very authentic Chinese food, which is healthier than P.F. Chang’s and cheaper than Panda Express. Everything on their menu is great. Most Chinese restaurants in the city are down in Chinatown, but Congee Village is on the Bowery. They get the flavors right - it’s not so much like American Chinese food where everything is covered in really strong sauces and MSG. Very healthy. I like a lot of the chicken dishes.
+
+![New York Fashion Brands](/fornewyork/images/SimonTingNYCFashionBrandsAlt.jpg)
 
 ## New York Fashion Brands
 

@@ -33,23 +33,23 @@
         ],
         "logos": [
             {
-                "src": "/images/src/joe-coffee.png",
+                "src": "/images/joe-coffee.png",
                 "alt": "Joe Coffee Logo"
             },
             {
-                "src": "/images/src/gin-lane.png",
+                "src": "/images/gin-lane.png",
                 "alt": "Gin Lane Logo"
             },
             {
-                "src": "/images/src/smile.png",
+                "src": "/images/smile.png",
                 "alt": "Smile Logo"
             },
             {
-                "src": "/images/src/knot-bow.png",
+                "src": "/images/knot-bow.png",
                 "alt": "Knot & Bow Logo"
             },
             {
-                "src": "/images/src/tacombi.png",
+                "src": "/images/tacombi.png",
                 "alt": "Tacombi Logo"
             }
         ]
