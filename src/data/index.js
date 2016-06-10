@@ -6,11 +6,11 @@ const marked = require('marked')
 const renderer = require('../marked-renderer')
 
 const config = require('./config')
-const social = require('./social.json')
-const landing = require('./landing.json')
-const events = require('./events.json')
-const footer = require('./footer.json')
-const leadForm = require('./lead-form.json')
+const social = require('../../content/social.json')
+const landing = require('../../content/landing.json')
+const events = require('../../content/events.json')
+const footer = require('../../content/footer.json')
+const leadForm = require('../../content/lead-form.json')
 
 const { domain, baseurl } = config
 

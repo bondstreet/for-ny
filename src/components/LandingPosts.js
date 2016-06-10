@@ -6,7 +6,7 @@ import PostList from './PostList'
 import Heading from './Heading'
 
 const LandingPosts = (props, { data }) => {
-    const { postList } = data.landing
+    const { heading } = data.landing.postList
 
     return (
         <Scroll.Element name='stories' id='stories'
@@ -17,7 +17,7 @@ const LandingPosts = (props, { data }) => {
                     mega
                     caps
                     className='mb3'
-                    children={postList.heading} />
+                    children={heading} />
                 <PostList />
             </Container>
         </Scroll.Element>

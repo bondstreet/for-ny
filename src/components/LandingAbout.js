@@ -8,7 +8,12 @@ import ValuePropsTable from './ValuePropsTable'
 import AboutLogos from './AboutLogos'
 
 const LandingAbout = (props, { data }) => {
-    const { about } = data.landing
+    const {
+        heading,
+        text,
+        subhead,
+        aboutButton
+    } = data.landing.about
 
     return (
         <Scroll.Element
@@ -24,16 +29,16 @@ const LandingAbout = (props, { data }) => {
                     <div className='center'>
                         <Heading
                             className='mb3'
-                            children={about.heading} />
+                            children={heading} />
                     </div>
                     <Text center
                         className='mb4'
-                        dangerouslySetInnerHTML={{ __html: about.text }}
+                        dangerouslySetInnerHTML={{ __html: text }}
                     />
                     <ValuePropsTable />
                     <div className='center mt4'>
                         <Text className='mb3'
-                            children={about.subhead} />
+                            children={subhead} />
                         <AboutLogos />
                         <div className='xs-hide'>
                             <Button
@@ -45,7 +50,7 @@ const LandingAbout = (props, { data }) => {
                                 mt={2}
                                 color='white'
                                 backgroundColor='black'
-                                children={about.aboutButton} />
+                                children={aboutButton} />
                         </div>
                     </div>
                 </Container>
