@@ -8,7 +8,8 @@
     "start": "node dev-server.js",
     "clean": "rm -rf dist/*",
     "images": "node images.js",
-    "deploy": "gh-pages -d dist/fornewyork"
+    "deploy": "gh-pages -d dist/fornewyork",
+    "publish": "npm run clean && npm run build && npm run deploy"
   },
   "dependencies": {
     "autoprefixer": "^6.3.6",

@@ -3,6 +3,7 @@ node_js:
     - 6.2
 before_install:
     - echo -e "machine github.com\n  login $GH_TOKEN" >> ~/.netrc
+    - brew install homebrew/science/vips
 script:
     - bash ./deploy.sh
 env:
