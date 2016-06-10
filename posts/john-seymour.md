@@ -4,7 +4,7 @@ date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
 description: 'Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply'
 image: /images/src/john-seymour-01.jpg
 published: true
-tweetText: I love New York businesses boi.
+tweetText:
 ---
 
 ## Ludlow Coffee Supply and Ludlow Barber Supply
