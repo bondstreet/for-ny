@@ -12,9 +12,6 @@ const events = require('../../content/events.json')
 const footer = require('../../content/footer.json')
 const leadForm = require('../../content/lead-form.json')
 
-// Read from front-matter md file
-// const landing = frontMatter(fs.readFileSync(path.join(__dirname, '../../content/landing.md'), 'utf8')).attributes
-
 const { domain, baseurl } = config
 
 const paths = [
