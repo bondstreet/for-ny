@@ -9,8 +9,8 @@ import EventCard from './EventCard'
 
 const EventList = (props, { data }) => {
     const {
-        eventsHeading
-    } = data.landing
+        heading
+    } = data.landing.eventList
 
     const convertDate = function(eventDate) {
         return moment(eventDate, ['YYYY-MM-DD', 'MM-DD-YYYY'])
@@ -42,7 +42,7 @@ const EventList = (props, { data }) => {
                         mega
                         caps
                         className='mb3'
-                        children={eventsHeading} />
+                        children={heading} />
                 </div>
                 {sortedEvents.map((event, i) => {
                     return (
