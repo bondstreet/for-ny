@@ -1,25 +1,32 @@
+
 import React from 'react'
-import { Button} from 'rebass'
+import { ButtonOutline } from 'rebass'
 
 
-export const CheckOrSchedule = ({onDecline, onAccept, ...props}) => {
+export const CheckOrSchedule = ({onNotReadyClick, onAccept, ...props}) => {
     return (
         <div>
-            <h2>
-                Ready to grow your business? Find out of Bond Street is right for you
-            </h2>
-            <div>
-                <Button outline
-                    id='qlm-1-not-interested'
-                    onClick={onDecline}>
-                    <a href='/apply/'>Check my rate</a>
-                </Button>
-                <Button
-                    id='qlm-1-interested'
-                    onClick={onAccept}>
-                    Schedule a free consultation
-                </Button>
-            </div>
+            <ButtonOutline
+                m={1}
+                target='_blank'
+                href='/apply/'>
+                Check my rate
+            </ButtonOutline>
+            <ButtonOutline
+                m={1}
+                onClick={onAccept}>
+                Schedule a call
+            </ButtonOutline>
+            <button
+                style={{
+                    background: 'transparent',
+                    color: 'inherit',
+                    textDecoration: 'underline',
+                    border: 'none',
+                    fontSize: '16px',
+                    marginTop: '10px'
+                }}
+                onClick={onNotReadyClick}>No thanks, I’m not ready quite yet but would like to stay in touch</button>
         </div>
     )
 }

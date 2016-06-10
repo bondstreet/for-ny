@@ -1,38 +1,41 @@
 prose:
-    ignore:
-        - .babelrc
-        - .gitignore
-        - README.md
-        - dev-server.js
-        - images.js
-        - package.json
-        - webpack.config.dev.js
-        - webpack.config.js
-        - /static
-        - /src
-    media: 'static/images/src'
-
-    metadata:
-        posts:
-            - name: 'description'
-                field:
-                    element: 'text'
-                    label: 'Description'
-            - name: 'date'
-                field:
-                    element: 'text'
-                    label: 'Date'
-                    type: 'date'
-            - name: 'image'
-                field:
-                    element: 'text'
-                    label: 'Image URL'
-            - name: 'facebookBlurb'
-                field:
-                    element: 'text'
-                    label: 'Facebook Description'
-            - name: 'tweetText'
-                field:
-                    element: 'text'
-                    label: 'Tweet Text'
-
+  ignore:
+    - .babelrc
+    - .gitignore
+    - README.md
+    - dev-server.js
+    - images.js
+    - package.json
+    - webpack.config.dev.js
+    - webpack.config.js
+    - /static
+    - /src
+  media: 'static/images/src'
+  metadata:
+    posts:
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'Title'
+      - name: 'description'
+        field:
+          element: 'text'
+          label: 'Description'
+      - name: 'image'
+        field:
+          element: 'text'
+          label: 'Image URL'
+      - name: 'date'
+        field:
+          element: 'text'
+          label: 'Date'
+          type: 'date'
+          value: CURRENT_DATETIME
+      - name: 'socialBlurb'
+        field:
+          element: 'text'
+          label: 'Facebook/Twitter Description'
+      - name: 'tweetText'
+        field:
+          element: 'text'
+          label: 'Tweet Text'

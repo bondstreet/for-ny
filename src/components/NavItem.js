@@ -11,6 +11,7 @@ const NavItem = ({
     disabled,
     icon,
     right,
+    small,
     className,
     children,
     ...props
@@ -25,21 +26,27 @@ const NavItem = ({
     const cx = {
         root: classnames(
             'NavItem',
-            'h5',
+            'h6',
             'bold',
             'nowrap',
             'inline-block',
             'align-middle',
-            'px2',
-            'py1',
+            'mx2',
+            'my1',
             'color-inherit',
             'text-decoration-none',
-            { caps, disabled },
+            {
+                caps,
+                disabled,
+                'md-h5': !small
+            },
             className
         ),
         inner: classnames(
             'inline-block',
-            'align-middle',
+            'align-middle', {
+                'xs-hide': !!icon
+            }
         ),
         icon: classnames({
             mr2: !right,
@@ -47,10 +54,21 @@ const NavItem = ({
         })
     }
 
+    const sx = {
+        root: {
+            paddingTop: 4,
+            paddingBottom: 4,
+            borderBottomWidth: 4,
+            borderBottomStyle: 'solid',
+            borderBottomColor: 'transparent'
+        }
+    }
+
     return (
         <Comp {...props}
             to={to}
             href={href}
+            style={sx.root}
             className={cx.root}>
             {icon && !right && (
                 <Icon name={icon} className={cx.icon} />

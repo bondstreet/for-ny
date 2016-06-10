@@ -1,24 +1,42 @@
 
 @import 'base.css';
 @import 'Prose.css';
-@import 'typography.css';
+@import 'Input.css';
+@import 'Button.css';
+@import 'Link.css';
+@import 'Heading.css';
+@import 'Text.css';
+@import 'ShareButtons.css';
 @import 'layout.css';
-@import 'colors.css';
 
 @import 'basscss';
+@import 'typography.css';
+@import 'colors.css';
+@import 'basscss-addons/modules/responsive-padding/index.css';
+@import 'basscss-addons/modules/responsive-margin/index.css';
 
 .debug * { outline: 1px solid rgba(0, 255, 255, .5) }
 .debug div { outline: 1px solid rgba(255, 0, 255, .5) }
 
 :root {
-    --h00: 5rem;
-    --h0: 4rem;
+    --h0: 64px;
+    --h1: 48px;
+    --h2: 32px;
+    --h3: 20px;
+    --h4: 16px;
+    --h5: 14px;
+    --h6: 12px;
+    --space-1: .75rem;
+    --space-2: 1.25rem;
     --bold: 900;
+    --caps-letter-spacing: .1em;
     --black: #000;
     --white: #fff;
     --green: #0a613f;
     --yellow: #ffeb34;
     --orange: #fd6e21;
     --gray: #eee;
+    --mint: #c1dad0;
+    --peach: #ffddbf;
 }
 

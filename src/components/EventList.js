@@ -2,7 +2,8 @@
 import React from 'react'
 import _ from 'lodash'
 import moment from 'moment'
-import Container from './Container'
+import Scroll from 'react-scroll'
+import { Container, Button } from 'rebass'
 import Heading from './Heading'
 import EventCard from './EventCard'
 
@@ -30,42 +31,42 @@ const EventList = (props, { data }) => {
     const sortedEvents = _
         .chain(data.events.eventList)
         .sortBy(getMonth, getDay)
-        .groupBy(getMonth)
-        .toPairs()
-        .sortBy(_.head)
         .value()
 
-
     return (
-        <section className='bg-orange px2 py4'>
+        <Scroll.Element
+            name='events'
+            id='events'
+            className='min-height-100 bg-orange px2 py4'>
             <Container>
-                <Heading center
-                    caps
-                    size={0}
-                    className='mb3'
-                    children={eventList.heading} />
-                {sortedEvents.map((eventsByMonth, i) => {
-                    const monthName = moment(eventsByMonth[0], 'MM').format('MMMM')
-                    const events = eventsByMonth[1]
+                <div className='center'>
+                    <Heading center
+                        mega
+                        caps
+                        className='mb3'
+                        children={eventList.heading} />
+                </div>
+                {sortedEvents.map((event, i) => {
                     return (
-                        <div key={'month' + i}
-                            className='mb3'>
-                            <Heading caps
-                                size={1}
-                                className='mb2'
-                                children={monthName} />
-                            {events.map((event, i) => {
-                                return (
-                                    <EventCard
-                                        key={'event' + i}
-                                        {...event} />
-                                )
-                            })}
-                        </div>
+                        <EventCard
+                            key={'event' + i}
+                            {...event} />
                     )
                 })}
+                <div className='center xs-hide'>
+                    <Button
+                        is={Scroll.Link}
+                        smooth={true}
+                        duration={200}
+                        offset={-64}
+                        to='about'
+                        mt={3}
+                        color='white'
+                        backgroundColor='black'
+                        children='About' />
+                </div>
             </Container>
-        </section>
+        </Scroll.Element>
     )
 }
 

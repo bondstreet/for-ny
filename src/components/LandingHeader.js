@@ -1,14 +1,13 @@
 
 import React from 'react'
-import { ButtonOutline } from 'rebass'
-import Container from './Container'
+import { Container, Button } from 'rebass'
+import Scroll from 'react-scroll'
 import Heading from './Heading'
-import Text from './Text'
+import Logo from './Logo'
 
 const LandingHeader = (props, { rebass, data }) => {
     const sx = {
         root: {
-            minHeight: '80vh',
             paddingTop: 64
         }
     }
@@ -22,20 +21,31 @@ const LandingHeader = (props, { rebass, data }) => {
     } = data
 
     return (
-        <header className='table col-12 px3 py4 bg-green'
-            style={sx.root}>
-            <div className='table-cell align-middle center'>
-                <Container>
-                    <Heading size={0} children={heading} />
-                    <Text center bold size={1} children={text} />
-                    <ButtonOutline
-                        href='#!'
-                        color='black'
-                        mt={2}
-                        children={headerButton} />
-                </Container>
-            </div>
-        </header>
+        <Scroll.Element
+            name='top'
+            id='top'>
+            <header className='min-height-100 table col-12 px3 py4 bg-mint'
+                style={sx.root}>
+                <div className='table-cell align-middle center'>
+                    <Logo mega className='mb3' />
+                    <Container style={{ maxWidth: 640 }}>
+                        <p className='bold line-height-2 h3 md-h1 mb3' children={text} />
+                        <div className='xs-hide'>
+                            <Button
+                                is={Scroll.Link}
+                                smooth={true}
+                                duration={200}
+                                offset={-64}
+                                to='intro'
+                                mt={2}
+                                color='mint'
+                                backgroundColor='black'
+                                children={headerButton} />
+                        </div>
+                    </Container>
+                </div>
+            </header>
+        </Scroll.Element>
     )
 }
 

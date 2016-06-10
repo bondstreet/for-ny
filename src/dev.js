@@ -8,6 +8,9 @@ const div = document.getElementById('app')
 
 const initialData = JSON.parse(document.getElementById('data').innerHTML)
 
+const utmTracking = require('bondstreet_web/assets/js/lib/utm')
+utmTracking.setBstCookies()
+
 ReactDOM.render(
     <AppContainer>
         <Root data={initialData} />

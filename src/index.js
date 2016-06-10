@@ -9,9 +9,11 @@ import renderHtml from './renderHtml'
 import Root from './components/Root'
 
 if (typeof document !== 'undefined') {
-	const div = document.getElementById('app')
-	const initialData = JSON.parse(document.getElementById('data').innerHTML)
-	ReactDOM.render(<Root data={initialData} />, div)
+    const div = document.getElementById('app')
+    const initialData = JSON.parse(document.getElementById('data').innerHTML)
+    ReactDOM.render(<Root data={initialData} />, div)
+    const utmTracking = require('bondstreet_web/assets/js/lib/utm')
+    utmTracking.setBstCookies()
 }
 
 const getCurrentPost = (posts, path) => {
@@ -26,22 +28,21 @@ const getCurrentPost = (posts, path) => {
 }
 
 const render = ({
-	webpackStats,
-	assets,
-	...props
+    webpackStats,
+    assets,
+    ...props
 }, callback) => {
     const post = getCurrentPost(props.posts, props.path)
 
-	match({ routes, location: props.baseurl + props.path }, (err, redirectLocation, renderProps) => {
-		const app = ReactDOMServer.renderToString(
+    match({ routes, location: props.baseurl + props.path }, (err, redirectLocation, renderProps) => {
+        const app = ReactDOMServer.renderToString(
             <Root data={props} renderProps={renderProps} />
-		)
+        )
 
-		const html = renderHtml({ app, post, ...props })
+        const html = renderHtml({ app, post, ...props })
 
-		callback(null, `<!DOCTYPE html>${html}`)
-	})
+        callback(null, `<!DOCTYPE html>${html}`)
+    })
 }
 
 export default render
-

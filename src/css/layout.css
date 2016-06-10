@@ -1,3 +1,15 @@
 
 .min-height-100 { min-height: 100vh }
 
+.table-fixed { table-layout: fixed }
+
+@media (--breakpoint-sm) {
+    .sm-fixed { position: fixed }
+    .sm-table { display: table }
+    .sm-table-cell { display: table-cell }
+}
+
+@media (--breakpoint-md) {
+    .md-fixed { position: fixed }
+}
+

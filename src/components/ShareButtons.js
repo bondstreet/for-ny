@@ -1,46 +1,44 @@
 
 import React from 'react'
 import querystring from 'querystring'
-import { ButtonOutline } from 'rebass'
 
 const ShareButtons = (props, { data }) => {
     const fb = {
-        link: 'http://www.facebook.com/share.php?',
+        link: 'https://www.facebook.com/sharer/sharer.php?',
         data: {
             u:     props.url,
-            title: props.title
+            src:   'sdkpreparse'
         }
     }
 
     const twitter = {
         link: 'https://twitter.com/home?',
         data: {
-            status: props.tweetText + ' ' + props.url
+            status: props.tweetText + ' ' + props.url + ' #ForNewYork'
         }
     }
 
     return (
-        <div className="shareButtons">
-            <ButtonOutline
-                color='black'
-                mx={1}
-                href={fb.link + querystring.stringify(fb.data)}>
-                Share on Facebook
-            </ButtonOutline>
-            <ButtonOutline
-                color='black'
-                mx={1}
-                href={twitter.link + querystring.stringify(twitter.data)}>
-                Share on Twitter
-            </ButtonOutline>
+        <div>
+            <div className='fb-share-button'
+                data-href={props.url}
+                data-layout='button_count'
+                data-mobile-iframe='true'>
+                <a className='fb-xfbml-parse-ignore'
+                    href={fb.link + querystring.stringify(fb.data)}
+                    target='_blank'>Share</a>
+            </div>
+            <a className="twitter-share-button"
+                data-text={props.tweetText}
+                data-hashtags='ForNewYork'
+                href={props.url}>Tweet</a>
         </div>
     )
 }
 
 ShareButtons.propTypes = {
     url: React.PropTypes.string,
-    title: React.PropTypes.string,    // for facebook
-    tweetText: React.PropTypes.string // for twitter
+    tweetText: React.PropTypes.string
 }
 
 ShareButtons.contextTypes = {

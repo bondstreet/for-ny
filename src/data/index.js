@@ -5,13 +5,14 @@ const frontMatter = require('front-matter')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
 
-const metadata = require('./fbmetadata.json')
+const config = require('./config')
+const social = require('./social.json')
 const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
+const leadForm = require('./lead-form.json')
 
-const domain = 'http://bondstreet.com'
-const baseurl = '/fornewyork'
+const { domain, baseurl } = config
 
 const paths = [
     '/',
@@ -41,13 +42,14 @@ posts.forEach(f => {
 const data = {
     domain,
     baseurl,
-    title: 'For NYC',
-    metadata,
+    title: 'For New York',
+    social,
     paths,
     posts,
     landing,
     events,
-    footer
+    footer,
+    leadForm
 }
 
 module.exports = data

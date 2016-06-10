@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'Rasmus-Regular';
+    font-style: normal;
+    font-weight: normal; /* or 400 */
+    src: url('../fonts/Rasmus-Regular.woff2') format('woff2'),
+         url('../fonts/Rasmus-Regular.woff') format('woff');
+}
+

@@ -1,0 +1,10 @@
+
+.Text {
+    font-size: 20px;
+}
+
+@media (--breakpoint-md) {
+    .Text {
+        font-size: 24px;
+    }
+}

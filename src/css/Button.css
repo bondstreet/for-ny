@@ -1,0 +1,18 @@
+
+.Button,
+.ButtonOutline {
+    font-size: var(--h6) !important;
+    padding: var(--space-1) var(--space-2) !important;
+}
+
+@media (--breakpoint-md) {
+    .Button,
+    .ButtonOutline {
+        font-size: var(--h5) !important;
+    }
+    /* Hack for button in nav */
+    .Button:not([data-small]),
+    .ButtonOutline:not([data-small]) {
+        padding: var(--space-2) var(--space-3) !important;
+    }
+}

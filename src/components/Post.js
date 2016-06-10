@@ -1,15 +1,18 @@
 
 import React from 'react'
 import { findIndex } from 'lodash'
+import sanitize from 'sanitize-html'
+import { Container } from 'rebass'
+import Heading from './Heading'
+import Text from './Text'
 import ShareButtons from './ShareButtons'
 import PostNav from './PostNav'
 import PostCard from './PostCard'
-import Container from './Container'
 import Prose from './Prose'
-import Heading from './Heading'
-import Text from './Text'
 import NavItem from './NavItem'
 import Footer from './Footer'
+import Circle from './Circle'
+import LandingContact from './LandingContact'
 
 const Post = ({ params }, { data, router }) => {
     const { posts } = data
@@ -17,50 +20,73 @@ const Post = ({ params }, { data, router }) => {
     const post = posts[index]
     const previousPost = posts[index - 1] || false
     const nextPost = posts[index + 1] || false
+    const description = sanitize(post.description)
+
+    const sx = {
+        header: {
+            paddingTop: 162
+        }
+    }
 
     return (
-        <div>
+        <div className='bg-mint'>
             <PostNav previousPost={previousPost}
                 nextPost={nextPost} />
-            <div className='py4'>
-                <div className='h1 center mb4'>◆</div>
-                <Heading size={0} center>{post.title}</Heading>
-                <Text size={3} center>{post.description}</Text>
+            <div className='center pb4' style={sx.header}>
+                <Heading mega>{post.title}</Heading>
+                <Text dangerouslySetInnerHTML={{
+                        __html: description
+                    }} />
+                <ShareButtons
+                    url={data.domain + data.baseurl + data.path}
+                    tweetText={data.social.defaultTweet}
+                />
             </div>
             {post.image && (
-                <Container maxWidth={1280}>
-                    <img src={post.image} className='fit col-12 mb3' />
+                <Container style={{ maxWidth: 1280 }}>
+                    <img src={data.baseurl + post.image} className='fit col-12 mb3' />
                 </Container>
             )}
-            <Container maxWidth={768}>
-                <Heading size={1} center className='py4'>
+            <Container px={3} style={{ maxWidth: 768 }}>
+                <Heading center className='py4'>
                     What are 3 of your favorite small businesses in New York?
                 </Heading>
             </Container>
-            <Container maxWidth={1024} className='py4'>
+            <Container style={{ maxWidth: 1024 }} px={3} py={4}>
                 <Prose html={post.html} />
-                <ShareButtons
-                    url={data.domain + data.baseurl + data.path}
-                    title={post.title}
-                    tweetText={post.tweetText}
-                />
-                <pre className='my4 py4 bg-yellow'>FPO CTA</pre>
-            </Container>
-            <Container>
-                <Heading size={1} center>Up Next</Heading>
-                <div className='mxn2 py4'>
-                    {previousPost && (
-                        <div className='inline-block align-top col-6 px2'>
-                            <PostCard {...previousPost} />
-                        </div>
-                    )}
-                    {nextPost && (
-                        <div className='inline-block align-top col-6 px2'>
-                            <PostCard {...nextPost} />
-                        </div>
-                    )}
+                <div className='sm-col-6 mx-auto'>
+                    <Circle className='bg-green mint'>
+                        <Text className='mb2'>
+                            Share this post
+                        </Text>
+                        <ShareButtons
+                            url={data.domain + data.baseurl + data.path}
+                            tweetText={post.tweetText}
+                        />
+                        <Text className='mt2'>
+                            #ForNewYork
+                        </Text>
+                    </Circle>
                 </div>
             </Container>
+            <div className='py4 bg-peach'>
+                <Container>
+                    <Heading center>Up Next</Heading>
+                    <div className='center mxn2 py4'>
+                        {previousPost && (
+                            <div className='inline-block align-top col-6 px2'>
+                                <PostCard {...previousPost} />
+                            </div>
+                        )}
+                        {nextPost && (
+                            <div className='inline-block align-top col-6 px2'>
+                                <PostCard {...nextPost} />
+                            </div>
+                        )}
+                    </div>
+                </Container>
+            </div>
+            <LandingContact />
             <Footer />
         </div>
     )
