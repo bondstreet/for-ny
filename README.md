@@ -7,7 +7,20 @@
 npm i
 ```
 
-To install the image processing library: `brew install homebrew/science/vips`
+## Processing Images
+
+Install the sharp package, which requires vips.
+
+```sh
+brew install homebrew/science/vips
+npm i sharp
+```
+
+Run the image script to resize and compress images from `/static/src/images`
+
+```sh
+npm run images
+```
 
 ## Build
 Writes files to `/dist`.
@@ -15,6 +28,7 @@ Writes files to `/dist`.
 ```sh
 npm run build
 ```
+
 
 ## Deploy to gh-pages
 
