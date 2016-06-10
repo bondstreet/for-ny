@@ -2,7 +2,7 @@
 import React from 'react'
 
 const ValuePropsTable = (props, { data }) => {
-    const { valueProps } = data.landing
+    const { valueProps } = data.landing.about
 
     return (
         <div className='sm-table table-fixed col-12 mb2'

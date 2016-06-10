@@ -2,11 +2,11 @@
 import React from 'react'
 
 const AboutLogos = (props, { data }) => {
-    const { aboutLogos } = data.landing
+    const { logos } = data.landing.about
 
     return (
         <div className='sm-table table-fixed col-12 mb3 mt3'>
-            {aboutLogos.map(({ src, alt }, i) => (
+            {logos.map(({ src, alt }, i) => (
                 <div key={i}
                     className='sm-table-cell center mb1 p2 align-middle' style={{
                         filter: 'grayscale(100%)',

@@ -1,7 +1,10 @@
 prose:
   ignore:
+    - _prose.yml
+    - deploy.sh
     - .babelrc
     - .gitignore
+    - .travis.yml
     - README.md
     - dev-server.js
     - images.js
@@ -9,10 +12,7 @@ prose:
     - webpack.config.dev.js
     - webpack.config.js
     - /static
-    - /src/*.js
-    - /src/components
-    - /src/css
-    - /src/fonts
+    - /src
   media: 'static/images/src'
   metadata:
     content:
