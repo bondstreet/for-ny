@@ -2,19 +2,18 @@
 const fs = require('fs')
 const path = require('path')
 const frontMatter = require('front-matter')
-// const yaml = require('js-yaml')
 const marked = require('marked')
 const renderer = require('../marked-renderer')
 
 const config = require('./config')
-const metadata = require('./metadata.json')
-// const landing = require('./landing.json')
+const social = require('./social.json')
+const landing = require('./landing.json')
 const events = require('./events.json')
 const footer = require('./footer.json')
 const leadForm = require('./lead-form.json')
 
-const landing = frontMatter(fs.readFileSync(path.join(__dirname, '../../content/landing.md'), 'utf8')).attributes
-console.log('landing data', landing)
+// Read from front-matter md file
+// const landing = frontMatter(fs.readFileSync(path.join(__dirname, '../../content/landing.md'), 'utf8')).attributes
 
 const { domain, baseurl } = config
 
@@ -47,7 +46,7 @@ const data = {
     domain,
     baseurl,
     title: 'For New York',
-    metadata,
+    social,
     paths,
     posts,
     landing,

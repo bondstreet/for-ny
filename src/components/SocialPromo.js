@@ -2,7 +2,7 @@
 import React from 'react'
 import Heading from './Heading'
 import Text from './Text'
-import ShareButtons from './ShareButtons'
+import FollowButtons from './FollowButtons'
 import Circle from './Circle'
 
 const SocialPromo = (props, { data }) => {
@@ -23,12 +23,8 @@ const SocialPromo = (props, { data }) => {
                 <Heading
                     small
                     className='mb2'
-                    children={socialHeading} />
-                <ShareButtons
-                    url={data.domain + data.baseurl}
-                    title='For New York'
-                    tweetText={socialTweetText}
-                />
+                    children={socialPromo.heading} />
+                <FollowButtons />
                 <Text className='mt2'>
                     #ForNewYork
                 </Text>

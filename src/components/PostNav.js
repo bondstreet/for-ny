@@ -1,5 +1,6 @@
 
 import React from 'react'
+import classnames from 'classnames'
 import Link from './Link'
 import NavItem from './NavItem'
 import Logo from './Logo'
@@ -11,8 +12,20 @@ const PostNav = ({ previousPost, nextPost }) => {
             tableLayout: 'fixed'
         }
     }
+
+    const cx = {
+        root: classnames(
+            'PostNav',
+            'md-fixed',
+            'top-0 right-0 left-0 z2',
+            'table',
+            'col-12',
+            'p2',
+            'bg-mint'
+        )
+    }
     return (
-        <nav className='table col-12 px2 py2' style={sx.root}>
+        <nav className={cx.root} style={sx.root}>
             <div className='table-cell '>
                 <NavItem to='/#stories'
                     icon='close'>

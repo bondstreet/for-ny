@@ -3,20 +3,16 @@
     "text": "This is a zine that salutes independent businesses in New York.",
     "headerButton": "Start",
     "postList": {
-        "heading": "Stories",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "heading": "Stories"
     },
     "introSection": {
         "text": "“For New York” represents the humble, eternal spirit of the New York City merchant. The small business. Our bars, our laundries, our hot dog sellers and our delicatessens, our bodegas, our dollar stores, our hardware stores, hell, our haberdasheries. These businesses have served New York City with dignity and distinction since this city was built—some are quiet, others make noise; some last a week, or a month, while others have lasted over a century, and are still kicking. <br><br> “For New York” sets out to share a few of their stories. Together they stand for what Bond Street aspires to do: advocate, promote, protect, and celebrate the small businesses that make our culture great, that make it so indelibly human, and that also make an incredibly strong case for their sanctity in the lifeblood of New York City, and the world that so loves their stories, too. Here’s to them."
     },
     "socialPromo": {
-        "heading": "Do you support independent businesses? Show some love, NYC!",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "tweetText": "Sample twitter text, max of 116 characters"
+        "heading": "Stay in the loop"
     },
     "eventList": {
-        "heading": "Events",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "heading": "Events"
     },
     "about": {
         "heading": "We Make Loans. Honestly.",
