@@ -5,8 +5,7 @@ import PostCard from './PostCard'
 import SocialPromo from './SocialPromo'
 
 const PostList = ({ limit }, { data }) => {
-
-  const posts = limit ? data.posts.slice(limit - 1) : data.posts
+  const posts = limit ? data.posts.slice(0, limit) : data.posts
 
   const postCards = posts.map((post, i) => (
       <div key={i}
