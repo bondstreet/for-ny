@@ -2,10 +2,12 @@
 title: John Seymour
 date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
 description: 'Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply'
-image: /images/src/john-seymour-01.jpg
+image: /images/JohnSeymourMainPortrait.jpg
 published: true
 tweetText:
 ---
+
+![Ludlow Coffee Supply](/fornewyork/images/JohnSeymourLudlowCoffeeSupply.jpg)
 
 ## Ludlow Coffee Supply and Ludlow Barber Supply
 
@@ -13,9 +15,13 @@ As the owner of Ludlow Coffee Supply and Ludlow Barber Supply, this is essential
 
 When I open up a business, I don’t really think about the money first. To me, what’s most important is creating a dope environment that gives back to the community and a brand that people know is authentic. I want to help build community over anything else.
 
+![Mikey’s Ice Cream](/fornewyork/images/JohnSeymourMikeysIceCream.jpg)
+
 ## Mikey’s Ice Cream
 
 I’m always down to support people who didn’t receive a formal business education but are taking their shot and making things happen. Mikey exemplifies that and he’s 100% for the community. I know Mikey from around - he’s born and raised here like me.
+
+![Stadium Goods](/fornewyork/images/JohnSeymourStadiumGoods.jpg)
 
 ## Stadium Goods
 
