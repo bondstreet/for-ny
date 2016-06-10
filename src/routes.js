@@ -1,7 +1,7 @@
 
 import App from './components/App'
 import Index from './components/Index'
-import PostList from './components/PostList'
+import PostIndex from './components/PostIndex'
 import Post from './components/Post'
 
 const baseurl = '/fornewyork/'
@@ -16,7 +16,7 @@ const routes = [
         childRoutes: [
             {
                 path: 'posts',
-                component: PostList
+                component: PostIndex
             },
             {
                 path: 'posts/:name',
