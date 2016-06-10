@@ -39,7 +39,7 @@ const Post = ({ params }, { data, router }) => {
                     }} />
                 <ShareButtons
                     url={data.domain + data.baseurl + data.path}
-                    tweetText={data.social.defaultTweet}
+                    tweetText={post.tweetText}
                 />
             </div>
             {post.image && (
