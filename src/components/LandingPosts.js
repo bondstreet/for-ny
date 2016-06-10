@@ -1,7 +1,11 @@
 
 import React from 'react'
 import Scroll from 'react-scroll'
-import { Container } from 'rebass'
+import {
+    Container,
+    ButtonOutline
+} from 'rebass'
+import Link from './Link'
 import PostList from './PostList'
 import Heading from './Heading'
 
@@ -18,7 +22,13 @@ const LandingPosts = (props, { data }) => {
                     caps
                     className='mb3'
                     children={postList.heading} />
-                <PostList />
+                <PostList limit={7} />
+                <div className='center'>
+                    <ButtonOutline
+                        is={Link}
+                        to='/posts'
+                        children='View more' />
+                </div>
             </Container>
         </Scroll.Element>
     )
