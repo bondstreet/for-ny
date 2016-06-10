@@ -5,7 +5,7 @@ import { Button } from 'rebass'
 import Container from './Container'
 
 const LandingIntro = (props, { data }) => {
-    const { introSection } = data.landing
+    const { manifesto } = data.landing
 
     return (
         <Scroll.Element
@@ -15,7 +15,7 @@ const LandingIntro = (props, { data }) => {
             <section className='table-cell align-middle center'>
                 <Container>
                     <p className='bold h3 md-h2'
-                        dangerouslySetInnerHTML={{ __html:introSection.text }} />
+                        dangerouslySetInnerHTML={{ __html: manifesto }} />
                     <div className='xs-hide'>
                         <Button
                             is={Scroll.Link}

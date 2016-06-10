@@ -1,9 +1,9 @@
 ---
 title: John Seymour
-date: 2016-06-07
-description: Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply
+date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
+description: 'Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply'
 image: /images/src/john-seymour-01.jpg
-socialBlurb:
+published: true
 tweetText:
 ---
 
@@ -24,4 +24,3 @@ The same goes for John at Stadium Goods. I’ve known John a long time - all the
 ## Why is it important to support independent business?
 
 The New York spirit and attitude I grew up surrounded by is fading a little...and it’s harder than ever to succeed here. So, as a native New Yorker, it’s really crucial for me that we support local businesses; they’re essential to keeping our culture alive. Locals offering the community authentic experiences and choices is something I’ll always be down for.
-
