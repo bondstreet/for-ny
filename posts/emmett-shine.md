@@ -2,7 +2,7 @@
 title: Emmett Shine
 description: Founder - Gin Lane Media
 date: 2016-06-09
-image:
+image: /images/EmmettShineMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

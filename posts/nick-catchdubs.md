@@ -2,7 +2,7 @@
 title: Nick Catchdubs
 description: DJ, producer, co-founder - Fool’s Gold Records
 date: 2016-06-09
-image:
+image: /images/NickCatchdubsMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

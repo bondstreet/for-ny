@@ -2,7 +2,7 @@
 title: Rembert Browne
 description: Culture critic at large, New York Magazine
 date: 2016-06-03
-image: /images/src/rembert-01.jpg
+image: /images/RembertBrownemainportrait.jpg
 socialBlurb:
 tweetText:
 ---

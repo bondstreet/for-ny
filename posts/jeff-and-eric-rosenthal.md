@@ -2,7 +2,7 @@
 title: Jeff and Eric Rosenthal
 description: Hip hop sketch comedians - Itsthereal
 date: 2016-06-09
-image:
+image: /images/JeffandEricRosenthalMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

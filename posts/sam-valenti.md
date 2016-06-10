@@ -2,7 +2,7 @@
 title: Sam Valenti IV
 date: 2016-06-09
 description: Founder, Ghostly International
-image:
+image: /images/SamValentiMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

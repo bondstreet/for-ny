@@ -2,7 +2,7 @@
 title: Niki and Shaokao Cheng
 description: Owners and co-founders - BoConcept USA
 date: 2016-06-09
-image:
+image: /images/NikiandShaokaoChengMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

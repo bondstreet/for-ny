@@ -2,7 +2,7 @@
 title: John Seymour
 date: 2016-06-07
 description: Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply
-image: /images/src/john-seymour-01.jpg
+image: /images/JohnSeymourMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

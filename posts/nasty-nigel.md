@@ -2,7 +2,7 @@
 title: Nasty Nigel
 description: Rapper - World’s Fair
 date: 2016-06-09
-image:
+image: /images/NastyNigelMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

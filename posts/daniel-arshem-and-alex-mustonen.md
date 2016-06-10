@@ -2,7 +2,7 @@
 title: Daniel Arsham and Alex Mustonen
 description: Architects, co-founders - Snarkitecture
 date: 2016-06-09
-image:
+image: /images/DanielArshamandAlexMustonenMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

@@ -2,14 +2,14 @@
 title: Kenzo Minami
 description: Artist & designer
 date: 2016-06-09
-image:
+image: /images/KenzoMinamiMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---
 
 ## Dimes
 
-I’ve known the Dimes girls for a long time - we met before the restaurant existed, actually, and they were working elsewhere. Having watched Sabrina and Alissa work so hard to get Dimes off the ground, I can’t help but respect how much they put into making it real. They started small but have steadily taken over a couple of larger spaces on the block - it’s been awesome to watch them grow and add new dimensions to what Dimes is. I’m there practically every day. 
+I’ve known the Dimes girls for a long time - we met before the restaurant existed, actually, and they were working elsewhere. Having watched Sabrina and Alissa work so hard to get Dimes off the ground, I can’t help but respect how much they put into making it real. They started small but have steadily taken over a couple of larger spaces on the block - it’s been awesome to watch them grow and add new dimensions to what Dimes is. I’m there practically every day.
 
 ## Metrograph
 
