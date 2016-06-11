@@ -4,9 +4,9 @@ import LandingAbout from './LandingAbout'
 import LandingContact from './LandingContact'
 import Footer from './Footer'
 import Logo from './Logo'
-import SemHeader from './SemHeader'
-import SemIntro from './SemIntro'
-import SemNav from './SemNav'
+import PaidLandingHeader from './PaidLandingHeader'
+import PaidLandingIntro from './PaidLandingIntro'
+import PaidLandingNav from './PaidLandingNav'
 import LandingPosts from './LandingPosts'
 import EventList from './EventList'
 
@@ -15,12 +15,12 @@ class SemIndex extends React.Component {
         return (
             <div>
                 {/* TO DO: Replace this with generic header from post archive */}
-                <SemNav />
-                <SemHeader />
-                <LandingContact />
-                <SemIntro />
+                <PaidLandingNav />
+                <PaidLandingHeader />
+                <PaidLandingIntro />
                 <LandingPosts />
                 <EventList />
+                <LandingContact />
                 <Footer />
             </div>
         )

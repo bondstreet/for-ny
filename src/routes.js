@@ -2,7 +2,7 @@
 import App from './components/App'
 import Index from './components/Index'
 import PostList from './components/PostList'
-import SemIndex from './components/SemIndex'
+import PaidLandingIndex from './components/PaidLandingIndex'
 import PostIndex from './components/PostIndex'
 import Post from './components/Post'
 
@@ -26,7 +26,7 @@ const routes = [
             },
             {
                 path: 'about',
-                component: SemIndex
+                component: PaidLandingIndex
             }
         ]
     }

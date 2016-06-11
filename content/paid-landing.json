@@ -1,0 +1,62 @@
+{
+    "bondstreet": {
+        "heading": "Bond Street is more than a lender",
+        "subHeading": "We’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business.",
+        "cta": "Complete a 10 minute online application and receive a loan decision within 48 hours.",
+        "ctaButton": "Learn More"
+    },
+    "intro": {
+        "subHeading": "This summer, Bond Street is launching “For New York,” a zine supporting independent business in NYC.",
+        "text": "“For New York” represents the humble, eternal spirit of the New York City merchant. The small business. Our bars, our laundries, our hot dog sellers and our delicatessens, our bodegas, our dollar stores, our hardware stores, hell, our haberdasheries. These businesses have served New York City with dignity and distinction since this city was built—some are quiet, others make noise; some last a week, or a month, while others have lasted over a century, and are still kicking."
+
+    },
+    "socialPromo": {
+        "heading": "Stay in the loop"
+    },
+    "eventList": {
+        "heading": "Events",
+        "text": "Come hang."
+    },
+    "about": {
+        "heading": "We Make Loans. Honestly.",
+        "text": "Bond Street is more than a lender - we’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. We are committed to helping the business owners that make NYC the best city in the world.",
+        "subhead": "Bond Street supports some of NYC’s finest",
+        "aboutButton": "Get in touch",
+        "valueProps": [
+            {
+                "label": "Term loans from",
+                "value": "$50K–$500K"
+            },
+            {
+                "label": "Rates starting at",
+                "value": "6%"
+            },
+            {
+                "label": "For as long as",
+                "value": "1–3 years"
+            }
+        ],
+        "logos": [
+            {
+                "src": "/images/joe-coffee.png",
+                "alt": "Joe Coffee Logo"
+            },
+            {
+                "src": "/images/gin-lane.png",
+                "alt": "Gin Lane Logo"
+            },
+            {
+                "src": "/images/smile.png",
+                "alt": "Smile Logo"
+            },
+            {
+                "src": "/images/knot-bow.png",
+                "alt": "Knot & Bow Logo"
+            },
+            {
+                "src": "/images/tacombi.png",
+                "alt": "Tacombi Logo"
+            }
+        ]
+    }
+}

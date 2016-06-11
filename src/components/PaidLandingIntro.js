@@ -8,7 +8,7 @@ import AboutLogos from './AboutLogos'
 import Text from './Text'
 
 const SemIntro = (props, { data }) => {
-    const { introSection, sem, about } = data.landing
+    const { intro } = data.paidLanding
 
     return (
         <Scroll.Element
@@ -19,12 +19,10 @@ const SemIntro = (props, { data }) => {
                 <Container>
                     <Logo mega className='mb3'/>
                     <p className='bold h3 md-h2 mb3'
-                        dangerouslySetInnerHTML={{ __html:sem.introSubHeading }} />
-                    <Text className='mb3'
-                            children={about.subhead} />
+                        dangerouslySetInnerHTML={{ __html: intro.subHeading }} />
                     <AboutLogos />
                     <p className='bold h3 md-h2'
-                       dangerouslySetInnerHTML={{ __html:introSection.text }} />
+                       dangerouslySetInnerHTML={{ __html: intro.text }} />
                     <div className='xs-hide'>
                         <Button
                             is={Scroll.Link}

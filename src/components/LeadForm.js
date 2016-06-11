@@ -85,7 +85,7 @@ class LeadForm extends React.Component {
 
         if (!submitted) {
             this.setState({
-                view: 'interested' || this.props.initialView
+                view: this.props.initialView || 'interested'
             })
         }
 
@@ -146,7 +146,8 @@ class LeadForm extends React.Component {
 
 LeadForm.propTypes = {
     instanceName: React.PropTypes.string.isRequired,
-    onComplete: React.PropTypes.func
+    onComplete: React.PropTypes.func,
+    initialView: React.PropTypes.string
 }
 
 LeadForm.defaultProps = {

@@ -11,6 +11,7 @@ const landing = require('../../content/landing.json')
 const events = require('../../content/events.json')
 const footer = require('../../content/footer.json')
 const leadForm = require('../../content/lead-form.json')
+const paidLanding = require('../../content/paid-landing.json')
 
 const { domain, baseurl } = config
 
@@ -50,7 +51,8 @@ const data = {
     landing,
     events,
     footer,
-    leadForm
+    leadForm,
+    paidLanding
 }
 
 module.exports = data

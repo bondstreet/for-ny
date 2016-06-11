@@ -12,6 +12,7 @@ class LeadModal extends React.Component {
     }
 
     componentWillMount() {
+        //this.state
         console.log(this.props.location.pathname)
     }
 
@@ -25,7 +26,7 @@ class LeadModal extends React.Component {
 
     render () {
         const {open, closeModal} = this.context.modal
-
+        const initialView = this.props.location.pathname.includes('about') ? 'lead': 'interested'
 
         return (
             <Overlay
@@ -35,7 +36,7 @@ class LeadModal extends React.Component {
                 open={open}
             >
                 <section className='white bg-black px3 py4 max-width-2'>
-                    <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete} />
+                    <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete} initialView={initialView} />
                 </section>
             </Overlay>
         )

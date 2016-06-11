@@ -39,4 +39,3 @@ LandingPosts.contextTypes = {
 }
 
 export default LandingPosts
-

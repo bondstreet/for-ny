@@ -16,7 +16,7 @@ class App extends React.Component {
         super()
 
         /* check the window location pathname */
-        console.log(this.props.location.pathname)
+
 
         this.state = {
             modalOpen: false,
@@ -24,7 +24,8 @@ class App extends React.Component {
         }
 
         this.closeModal = this.closeModal.bind(this)
-        this.launchModal = this.launchModal.bind(this)
+        this.openModalIfNotSeen = this.openModalIfNotSeen.bind(this)
+        this.openModal = this.openModal.bind(this)
     }
 
 
@@ -33,7 +34,8 @@ class App extends React.Component {
             rebass: rebassConfig,
             modal: {
                 open: this.state.modalOpen,
-                closeModal: this.closeModal
+                closeModal: this.closeModal,
+                openModal: this.openModal
             },
             leadForm: {
                 submitted: this.state.leadFormSubmitted
@@ -42,19 +44,23 @@ class App extends React.Component {
     }
 
     componentDidMount() {
-        initInactiveTrigger(this.launchModal)
-        initTimeoutTrigger(this.launchModal)
-        initExitIntentTrigger(this.launchModal)
+        initInactiveTrigger(this.openModalIfNotSeen)
+        initTimeoutTrigger(this.openModalIfNotSeen)
+        initExitIntentTrigger(this.openModalIfNotSeen)
         if (leadFormSubmitted()) {
             this.setState({leadFormSubmitted: true})
         }
     }
 
-    launchModal () {
+    openModalIfNotSeen () {
         if (!modalSeen()) {
-            this.setState({modalOpen: true})
-            setModalSeenCookie()
+            this.openModal()
         }
+    }
+
+    openModal () {
+        this.setState({modalOpen: true})
+        setModalSeenCookie()
     }
 
     closeModal () {
@@ -65,7 +71,7 @@ class App extends React.Component {
         return (
             <div>
                 {this.props.children}
-                <LeadModal /> /* check the route here and pass an initView prop based on that */
+                <LeadModal {...this.props} />
             </div>
 
         )

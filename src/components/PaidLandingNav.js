@@ -1,13 +1,13 @@
 
 import React from 'react'
 import Scroll from 'react-scroll'
-import { ButtonOutline } from 'rebass'
+import { ButtonOutline, Button } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
 import LikeButton from './LikeButton'
 
-class LandingNav extends React.Component {
+class PaidLandingNav extends React.Component {
     constructor () {
         super()
         this.state = {
@@ -30,6 +30,7 @@ class LandingNav extends React.Component {
 
     render () {
         const { currentSection } = this.state
+        const { openModal } = this.context.modal
         const colors = {
             top: 'bg-mint',
             fornewyork: 'bg-white',
@@ -84,11 +85,22 @@ class LandingNav extends React.Component {
                     offset={-64}
                     children='Events' />
                 <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
+                    <Button
+                        mt={2}
+                        color='white'
+                        backgroundColor='black'
+                        children='Get Started'
+                        onClick={openModal}
+                    />
                 </div>
             </nav>
         )
     }
 }
 
-export default LandingNav
+PaidLandingNav.contextTypes = {
+    modal: React.PropTypes.object
+}
+
+export default PaidLandingNav
 
