@@ -16,7 +16,6 @@ class PaidLandingHeader extends React.Component {
         const { bondstreet } = this.context.data.paidLanding
         const { openModal } = this.context.modal
 
-
         return (
             <Scroll.Element
                 name='top'

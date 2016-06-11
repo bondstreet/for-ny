@@ -14,7 +14,6 @@ class SemIndex extends React.Component {
     render () {
         return (
             <div>
-                {/* TO DO: Replace this with generic header from post archive */}
                 <PaidLandingNav />
                 <PaidLandingHeader />
                 <PaidLandingIntro />

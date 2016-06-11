@@ -15,9 +15,6 @@ class App extends React.Component {
     constructor() {
         super()
 
-        /* check the window location pathname */
-
-
         this.state = {
             modalOpen: false,
             leadFormSubmitted: false

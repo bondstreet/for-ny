@@ -11,11 +11,6 @@ class LeadModal extends React.Component {
         this.onComplete = this.onComplete.bind(this)
     }
 
-    componentWillMount() {
-        //this.state
-        console.log(this.props.location.pathname)
-    }
-
     onComplete() {
         const {closeModal} = this.context.modal
 
