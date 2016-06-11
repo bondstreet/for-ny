@@ -28,8 +28,11 @@ const LandingHeader = (props, { rebass, data }) => {
                 style={sx.root}>
                 <div className='table-cell align-middle center'>
                     <Logo mega className='mb3' />
-                    <Container style={{ maxWidth: 640 }}>
-                        <p className='bold line-height-2 h3 md-h1 mb3' children={text} />
+                    <Container style={{ maxWidth: 768 }}>
+                        <p className='bold line-height-2 h3 md-h2 mb3'
+                            dangerouslySetInnerHTML={{
+                                __html: text
+                            }} />
                         <div className='xs-hide'>
                             <Button
                                 is={Scroll.Link}

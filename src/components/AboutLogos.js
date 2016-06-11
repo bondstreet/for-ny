@@ -5,10 +5,10 @@ const AboutLogos = (props, { data }) => {
     const { logos } = data.landing.about
 
     return (
-        <div className='sm-table table-fixed col-12 mb3 mt3'>
+        <div className='center my3'>
             {logos.map(({ src, alt }, i) => (
                 <div key={i}
-                    className='sm-table-cell center mb1 p2 align-middle' style={{
+                    className='inline-block align-middle mb2 px2' style={{
                         filter: 'grayscale(100%)',
                         WebkitFilter: 'grayscale(100%)'
                     }}>
