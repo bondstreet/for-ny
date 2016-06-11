@@ -2,7 +2,7 @@
 title: Carol Lim
 description: Co-founder, Opening Ceremony
 date: 2016-06-09
-image:
+image: /images/CarolLimMainPortrait.jpg
 socialBlurb:
 tweetText:
 ---

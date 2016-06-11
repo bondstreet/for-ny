@@ -5,14 +5,14 @@ import moment from 'moment'
 import Scroll from 'react-scroll'
 import { Container, Button } from 'rebass'
 import Heading from './Heading'
+import Text from './Text'
 import EventCard from './EventCard'
 
 const EventList = (props, { data }) => {
     const {
-        landing: {
-            eventList
-        }
-    } = data
+        heading,
+        text
+    } = data.landing.eventList
 
     const convertDate = function(eventDate) {
         return moment(eventDate, ['YYYY-MM-DD', 'MM-DD-YYYY'])
@@ -43,8 +43,9 @@ const EventList = (props, { data }) => {
                     <Heading center
                         mega
                         caps
-                        className='mb3'
-                        children={eventList.heading} />
+                        className='mb1'
+                        children={heading} />
+                    <Text children={text} className='mb4' />
                 </div>
                 {sortedEvents.map((event, i) => {
                     return (

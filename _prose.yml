@@ -1,7 +1,10 @@
 prose:
   ignore:
+    - _prose.yml
+    - deploy.sh
     - .babelrc
     - .gitignore
+    - .travis.yml
     - README.md
     - dev-server.js
     - images.js

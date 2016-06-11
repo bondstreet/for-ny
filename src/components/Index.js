@@ -3,10 +3,11 @@ import React from 'react'
 import LandingNav from './LandingNav'
 import LandingHeader from './LandingHeader'
 import LandingIntro from './LandingIntro'
+import LandingQuote from './LandingQuote'
 import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
 import EventList from './EventList'
-import LandingAbout from './LandingAbout'
+import LandingAboutAlt from './LandingAboutAlt'
 import LandingContact from './LandingContact'
 import Footer from './Footer'
 
@@ -15,10 +16,10 @@ const Index = (props, { data }) => {
         <div>
             <LandingNav />
             <LandingHeader />
-            <LandingIntro />
+            <LandingQuote />
             <LandingPosts />
             <EventList />
-            <LandingAbout />
+            <LandingAboutAlt />
             <LandingContact fullHeight />
             <Footer />
         </div>

@@ -1,12 +1,16 @@
 
 import React from 'react'
 import Scroll from 'react-scroll'
-import { Container } from 'rebass'
+import {
+    Container,
+    ButtonOutline
+} from 'rebass'
+import Link from './Link'
 import PostList from './PostList'
 import Heading from './Heading'
 
 const LandingPosts = (props, { data }) => {
-    const { postList } = data.landing
+    const { heading } = data.landing.postList
 
     return (
         <Scroll.Element name='stories' id='stories'
@@ -17,8 +21,14 @@ const LandingPosts = (props, { data }) => {
                     mega
                     caps
                     className='mb3'
-                    children={postList.heading} />
-                <PostList />
+                    children={heading} />
+                <PostList limit={7} />
+                <div className='center'>
+                    <ButtonOutline
+                        is={Link}
+                        to='/posts'
+                        children='View more' />
+                </div>
             </Container>
         </Scroll.Element>
     )

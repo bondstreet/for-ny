@@ -7,7 +7,9 @@
     "build": "webpack -p --progress --colors",
     "start": "node dev-server.js",
     "clean": "rm -rf dist/*",
-    "deploy": "gh-pages -d dist/fornewyork"
+    "images": "node images.js",
+    "deploy": "gh-pages -d dist/fornewyork",
+    "publish": "npm run clean && npm run build && npm run deploy"
   },
   "dependencies": {
     "autoprefixer": "^6.3.6",

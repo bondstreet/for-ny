@@ -7,6 +7,10 @@ import Circle from './Circle'
 
 const SocialPromo = (props, { data }) => {
     const {
+        socialHeading,
+        socialTweetText
+    } = data.landing
+    const {
         landing: {
             socialPromo
         }

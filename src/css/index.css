@@ -19,6 +19,7 @@
 .debug div { outline: 1px solid rgba(255, 0, 255, .5) }
 
 :root {
+    --h00: 72px;
     --h0: 64px;
     --h1: 48px;
     --h2: 32px;

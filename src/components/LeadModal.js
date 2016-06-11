@@ -11,6 +11,10 @@ class LeadModal extends React.Component {
         this.onComplete = this.onComplete.bind(this)
     }
 
+    componentWillMount() {
+        console.log(this.props.location.pathname)
+    }
+
     onComplete() {
         const {closeModal} = this.context.modal
 
@@ -31,7 +35,7 @@ class LeadModal extends React.Component {
                 open={open}
             >
                 <section className='white bg-black px3 py4 max-width-2'>
-                    <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete}/>
+                    <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete} />
                 </section>
             </Overlay>
         )
