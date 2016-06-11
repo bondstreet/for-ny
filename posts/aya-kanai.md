@@ -8,8 +8,9 @@ socialBlurb:
 tweetText:
 ---
 
+![Junior’s Cheesecake](/fornewyork/images/AyaKanaiJuniorsPhotobyAlexaRenfroe.jpg)
 
-## Junior’s Cheescake
+## Junior’s Cheesecake
 
 Junior’s is a Brooklyn classic. There are several other Junior’s outposts in NYC but this one is the original. It’s known for cheesecake but more than that the real main attraction there is people watching!
 
