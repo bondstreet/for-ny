@@ -19,7 +19,7 @@ const Index = (props, { data }) => {
             <LandingPosts />
             <EventList />
             <LandingAbout />
-            <LandingContact />
+            <LandingContact fullHeight />
             <Footer />
         </div>
     )

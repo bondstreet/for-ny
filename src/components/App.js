@@ -15,6 +15,9 @@ class App extends React.Component {
     constructor() {
         super()
 
+        /* check the window location pathname */
+        console.log(this.props.location.pathname)
+
         this.state = {
             modalOpen: false,
             leadFormSubmitted: false
@@ -62,7 +65,7 @@ class App extends React.Component {
         return (
             <div>
                 {this.props.children}
-                <LeadModal />
+                <LeadModal /> /* check the route here and pass an initView prop based on that */
             </div>
 
         )

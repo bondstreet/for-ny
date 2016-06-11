@@ -14,6 +14,15 @@
     "eventList": {
         "heading": "Events"
     },
+    "sem": {
+        "about": {
+            "heading": "Bond Street is more than a lender",
+            "subHeading": "We’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business."
+        },
+        "forNyIntro": {
+            "heading": "This summer, Bond Street is launching “For New York,” a zine supporting independent business in New York."
+        }
+    },
     "about": {
         "heading": "We Make Loans. Honestly.",
         "text": "Bond Street is more than a lender - we’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. <br><br> We are committed to helping the business owners that make NYC the best city in the world.",

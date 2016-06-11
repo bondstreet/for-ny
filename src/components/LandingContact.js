@@ -2,15 +2,21 @@
 import React from 'react'
 import { Container, Text } from 'rebass'
 import Scroll from 'react-scroll'
+import classnames from 'classnames'
+
 import Heading from './Heading'
 import LeadForm from './LeadForm'
 
 const LandingContact = (props) => {
+    const cx = classnames('table col-12 px3 py4 white bg-black', {
+        'min-height-100': props.fullHeight,
+    })
+
     return (
         <Scroll.Element
             name='contact'
             id='contact'
-            className='min-height-100 table col-12 px3 py4 white bg-black'>
+            className={cx}>
             <div className='table-cell col-12 center align-middle'>
                 <Container
                     py={3}
@@ -22,6 +28,10 @@ const LandingContact = (props) => {
             </div>
         </Scroll.Element>
     )
+}
+
+LandingContact.propTypes = {
+    fullHeight: React.PropTypes.bool
 }
 
 export default LandingContact
