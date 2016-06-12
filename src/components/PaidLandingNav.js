@@ -20,8 +20,6 @@ class PaidLandingNav extends React.Component {
         Scroll.scrollSpy.addSpyHandler(this.handleScroll)
     }
 
-    componentWillUnmount () {
-    }
 
     handleScroll (y) {
         const currentSection = Scroll.scroller.getActiveLink()
@@ -41,8 +39,6 @@ class PaidLandingNav extends React.Component {
         }
         const colorClass = currentSection ? colors[currentSection] : 'bg-mint'
 
-        const showLogo = currentSection !== 'top'
-
         const cx = classnames(
             'LandingNav',
             'center',
@@ -52,15 +48,6 @@ class PaidLandingNav extends React.Component {
             colorClass
         )
 
-        const sx = {
-            logo: {
-                display: 'inline-block',
-                verticalAlign: 'middle',
-                textAlign: 'center',
-                width: showLogo ? 256 : 0,
-                overflow: 'hidden'
-            }
-        }
         return (
             <nav className={cx}>
                 <NavItem to='top'
@@ -86,7 +73,7 @@ class PaidLandingNav extends React.Component {
                     children='Events' />
                 <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
                     <Button
-                        mt={2}
+                        data-small
                         color='white'
                         backgroundColor='black'
                         children='Get Started'

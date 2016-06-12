@@ -10,7 +10,7 @@ import PaidLandingNav from './PaidLandingNav'
 import LandingPosts from './LandingPosts'
 import EventList from './EventList'
 
-class SemIndex extends React.Component {
+class PaidLandingIndex extends React.Component {
     render () {
         return (
             <div>
@@ -26,5 +26,5 @@ class SemIndex extends React.Component {
     }
 }
 
-export default SemIndex
+export default PaidLandingIndex
 

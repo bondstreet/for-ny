@@ -36,7 +36,7 @@ class PaidLandingHeader extends React.Component {
                               className='mb4'
                               dangerouslySetInnerHTML={{ __html: bondstreet.subHeading }}
                         />
-                        <ValuePropsTable />
+                        <ValuePropsTable dark />
 
                         <div className='center'>
                             <Text center
