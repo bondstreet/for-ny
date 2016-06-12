@@ -1,6 +1,8 @@
 
 import App from './components/App'
 import Index from './components/Index'
+import PostList from './components/PostList'
+import PaidLandingIndex from './components/PaidLandingIndex'
 import PostIndex from './components/PostIndex'
 import Post from './components/Post'
 
@@ -21,6 +23,10 @@ const routes = [
             {
                 path: 'posts/:name',
                 component: Post
+            },
+            {
+                path: 'about',
+                component: PaidLandingIndex
             }
         ]
     }

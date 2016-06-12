@@ -1,8 +1,19 @@
 
 import React from 'react'
+import classnames from 'classnames'
 
 const ValuePropsTable = (props, { data }) => {
     const { valueProps } = data.landing.about
+    const colorClass = props.dark ? 'bg-black mint' : 'bg-yellow black'
+
+    const cx = classnames(
+        'sm-table-cell',
+        'center',
+        'mb1',
+        'p2',
+        'bg-black',
+        colorClass
+    )
 
     return (
         <div className='sm-table table-fixed col-12 mb2'
@@ -11,7 +22,7 @@ const ValuePropsTable = (props, { data }) => {
             }}>
             {valueProps.map(({ label, value }, i) => (
                 <div key={i}
-                    className='sm-table-cell center mb1 p2 black bg-yellow'>
+                    className={cx}>
                     <div className='bold'>
                         {label}
                     </div>
