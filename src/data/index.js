@@ -18,7 +18,7 @@ const { domain, baseurl } = config
 const paths = [
     '/',
     '/posts',
-    '/about'
+    '/p'
 ]
 
 const posts = fs.readdirSync(path.join(__dirname, '..', '..', 'posts'))
