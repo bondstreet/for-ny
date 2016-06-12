@@ -21,7 +21,7 @@ class LeadModal extends React.Component {
 
     render () {
         const {open, closeModal} = this.context.modal
-        const initialView = this.props.location.pathname.includes('about') ? 'lead': 'interested'
+        const initialView = this.props.location.pathname.endsWith('/p/') ? 'lead': 'interested'
 
         return (
             <Overlay

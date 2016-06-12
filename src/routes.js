@@ -25,7 +25,7 @@ const routes = [
                 component: Post
             },
             {
-                path: 'about',
+                path: 'p',
                 component: PaidLandingIndex
             }
         ]
