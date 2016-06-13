@@ -23,25 +23,28 @@ class FollowButtons extends React.Component {
         link.setAttribute('data-show-count', false)
         link.href = 'https://twitter.com/onbondstreet'
         link.textContent = 'Follow @onbondstreet'
-        this.refs.root.appendChild(link)
+        this.refs.twitter.appendChild(link)
     }
 
     refresh () {
         if (typeof twttr !== 'undefined') {
-            twttr.widgets.load(this.refs.root)
+            twttr.widgets.load(this.refs.twitter)
         }
         if (typeof FB !== 'undefined') {
-            FB.XFBML.parse(this.refs.root)
+            FB.XFBML.parse(this.refs.facebook)
         }
     }
 
     render () {
         return (
             <div ref='root'>
-                <div className='fb-follow'
-                    data-href='https://www.facebook.com/onbondstreet'
-                    data-layout='button_count'
-                    data-show-faces='false'></div>
+                <div ref='facebook'>
+                    <div className='fb-follow'
+                        data-href='https://www.facebook.com/onbondstreet'
+                        data-layout='button_count'
+                        data-show-faces='false'></div>
+                </div>
+                <div ref='twitter' />
                 {/*
                 <a className='twitter-follow-button'
                     data-show-count='false'
