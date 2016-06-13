@@ -36,6 +36,7 @@ const posts = fs.readdirSync(path.join(__dirname, '..', '..', 'posts'))
         }, matter.attributes)
     })
     .sort((a, b) => a.date < b.date)
+    .filter(post => post.published !== false)
 
 posts.forEach(f => {
     paths.push('/posts/' + f.name)
