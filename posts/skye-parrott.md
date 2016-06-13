@@ -1,10 +1,13 @@
 ---
 title: Skye Parrott
-description: Photographer, founder - Double or Nothing
-date: 2016-06-09
+description: 'Photographer, founder - Double or Nothing'
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/SkyeParrottMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: Sky Parrott shares three of her favorite local businesses in NYC
+socialBlurb: >-
+  Sky Parrott of Double or Nothing shares three of her favorite local businesses
+  in NYC
 ---
 
 ![Scosha](/fornewyork/images/SkyeParrottScosha.jpg)
@@ -28,4 +31,3 @@ This is always a controversial statement, but I think Diner has the best burger 
 ## Why is it important to support independent businesses?
 
 There are so many reasons to support independent businesses. They allow people to make choices. They allow people to work towards realizing their own dreams rather than someone else’s. At their base, they really allow people to set the course of their own lives. But I think one of the most important things about small businesses is that they foster the diversity of thought and taste that makes each city interesting and unique. Without independent businesses, everywhere would be exactly the same, and that would be so boring.
-
