@@ -1,10 +1,13 @@
 ---
 title: Nick Catchdubs
-description: DJ, producer, co-founder - Fool’s Gold Records
-date: 2016-06-09
+description: 'DJ, producer, co-founder - Fool’s Gold Records'
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/NickCatchdubsMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@catchdini shares three of his favorite local businesses in NYC'
+socialBlurb: >-
+  Nick Catchdubs of Fools Gold shares three of his favorite local businesses in
+  NYC
 ---
 
 ![JHO Comic Books](/fornewyork/images/NickCatchdubsJHUComics.jpg)
@@ -28,5 +31,3 @@ Not to be confused with Kanye’s label! A friend opened this spot a few years a
 ## Why is it important to support independent businesses?
 
 I love that everyone in NYC has a hidden neighborhood outpost and secret spot in the cut. No two people will pick the same favorites, but I guarantee you they’re all independent business. It’s where personalization is born. Rents are only gonna get higher —and I’m pretty sure an Amazon drone is watching me RIGHT NOW — so let’s enjoy and support these one-of-a-kind flavors while we have ‘em.
-
-
