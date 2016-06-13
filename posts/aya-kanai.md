@@ -2,10 +2,15 @@
 title: Aya Kanai
 description: Executive Fashion Director - Cosmopolitan and Seventeen
 imageCaption: Photos by Alexa Renfroe
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/AyaKanaiMainPortraitPhotobyAlexaRenfroe.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: >-
+  .@ayakanai of @Cosmopolitan and @seventeen shares three of her favorite local
+  businesses in NYC
+socialBlurb: >-
+  Aya Kanai, Executive Fashion Director of Cosmopolitan and Seventeen shares
+  three of her favorite local businesses in NYC.
 ---
 
 ![Junior’s Cheesecake](/fornewyork/images/AyaKanaiJuniorsPhotobyAlexaRenfroe.jpg)
@@ -29,4 +34,3 @@ Steven Alan has been a favorite of mine for years.  They always have a well-edit
 ## Why is it important to support independent businesses?
 
 Independent businesses are a big part of what makes living in NYC special! I mean, I love to stare at my various screens just as much as the next gal, but getting off your butt, walking around your neighborhood and checking out the sights, sounds, smells and people in the real world is sometimes just as important as what's on your phone. ;)
-
