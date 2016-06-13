@@ -28,6 +28,8 @@ const Post = ({ params }, { data, router }) => {
         }
     }
 
+    const shareUrl = data.domain + data.baseurl + '/posts/' + post.name
+
     return (
         <div className='bg-mint'>
             <PostNav previousPost={previousPost}
@@ -38,8 +40,8 @@ const Post = ({ params }, { data, router }) => {
                         __html: description
                     }} />
                 <ShareButtons
-                    url={data.domain + data.baseurl + data.path}
-                    tweetText={post.tweetText}
+                    url={shareUrl}
+                    text={post.tweetText}
                 />
             </div>
             {post.image && (
@@ -60,9 +62,8 @@ const Post = ({ params }, { data, router }) => {
                             Share this post
                         </Text>
                         <ShareButtons
-                            url={data.domain + data.baseurl + data.path}
-                            tweetText={post.tweetText}
-                        />
+                            url={shareUrl}
+                            text={post.tweetText} />
                         <Text className='mt2'>
                             #ForNewYork
                         </Text>
