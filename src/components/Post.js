@@ -44,7 +44,14 @@ const Post = ({ params }, { data, router }) => {
             </div>
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
-                    <img src={data.baseurl + post.image} className='fit col-12 mb3' />
+                    <figure className='mb3'>
+                        <img src={data.baseurl + post.image} className='fit col-12 mb1' />
+                        {post.imageCaption && (
+                            <figcaption className='h5 right-align'>
+                                {post.imageCaption}
+                            </figcaption>
+                        )}
+                    </figure>
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>
