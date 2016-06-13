@@ -1,10 +1,13 @@
 ---
 title: Sam Valenti IV
-date: 2016-06-09
-description: Founder, Ghostly International
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
+description: 'Founder, Ghostly International'
 image: /images/SamValentiMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@VALENTI shares three of his favorite local businesses in NYC'
+socialBlurb: >-
+  Sam Valenti IV of Ghostly International shares three of his favorite local
+  businesses in NYC
 ---
 
 ![Captured Tracks](/fornewyork/images/SamValentiCapturedTracks.jpg)
