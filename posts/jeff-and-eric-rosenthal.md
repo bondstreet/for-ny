@@ -4,7 +4,7 @@ description: Hip hop sketch comedians - ItsTheReal
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/JeffandEricRosenthalMainPortrait.jpg
 published: true
-tweetText: '@itsthereal share three of their favorite local businesses in NYC '
+tweetText: '.@itsthereal share three of their favorite local businesses in NYC '
 socialBlurb: >-
   Jeff and Eric Rosenthal of ItsTheReal share three of their favorite local
   businesses in NYC.
