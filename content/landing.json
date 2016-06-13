@@ -38,63 +38,63 @@
         ],
         "logos": [
             {
-                "src": "/images/joe-coffee.png",
+                "src": "/images/logos/joe-coffee.png",
                 "alt": "Joe Coffee Logo"
             },
             {
-                "src": "/images/gin-lane.png",
+                "src": "/images/logos/gin-lane.png",
                 "alt": "Gin Lane Logo"
             },
             {
-                "src": "/images/smile.png",
+                "src": "/images/logos/smile.png",
                 "alt": "Smile Logo"
             },
             {
-                "src": "/images/knot-bow.png",
+                "src": "/images/logos/knot-bow.png",
                 "alt": "Knot & Bow Logo"
             },
             {
-                "src": "/images/tacombi.png",
+                "src": "/images/logos/tacombi.png",
                 "alt": "Tacombi Logo"
             },
             {
-                "src": "/images/avroko.png",
+                "src": "/images/logos/avroko.png",
                 "alt": "Avroko Logo"
             },
             {
-                "src": "/images/cafe-grumpy.png",
+                "src": "/images/logos/cafe-grumpy.png",
                 "alt": "Cafe Grumpy Logo"
             },
             {
-                "src": "/images/tone-academy.png",
+                "src": "/images/logos/tone-academy.png",
                 "alt": "Tone Academy Logo"
             },
             {
-                "src": "/images/battenwear.png",
+                "src": "/images/logos/battenwear.png",
                 "alt": "Battenwear Logo"
             },
             {
-                "src": "/images/uprise-art.png",
+                "src": "/images/logos/uprise-art.png",
                 "alt": "Uprise Art Logo"
             },
             {
-                "src": "/images/bec-brittain.png",
+                "src": "/images/logos/bec-brittain.png",
                 "alt": "Bec Brittain Logo"
             },
             {
-                "src": "/images/happy-cooking.png",
+                "src": "/images/logos/happy-cooking.png",
                 "alt": "Happy Cooking Logo"
             },
             {
-                "src": "/images/archetype-showroom.png",
+                "src": "/images/logos/archetype-showroom.png",
                 "alt": "Archetype Showroom Logo"
             },
             {
-                "src": "/images/fohr-card.png",
+                "src": "/images/logos/fohr-card.png",
                 "alt": "Fohr Card Logo"
             },
             {
-                "src": "/images/305-fitness.png",
+                "src": "/images/logos/305-fitness.png",
                 "alt": "305 Fitness Logo"
             }
         ]
