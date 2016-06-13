@@ -7,7 +7,7 @@ published: true
 tweetText: Simon Ting shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Simon Ting of Fashion Loft shares three of his favorite local businesses in
-  NYC
+  NYC.
 ---
 
 ![Flushing Supermarkets](/fornewyork/images/SimonTingFlushingSupermarketsMain.jpg)
