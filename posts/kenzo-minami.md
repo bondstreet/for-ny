@@ -1,10 +1,11 @@
 ---
 title: Kenzo Minami
 description: Artist & designer
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/KenzoMinamiMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@KenzoMinami shares three of his favorite local businesses in NYC'
+socialBlurb: Kenzo Minami shares three of his favorite local businesses in NYC.
 ---
 
 ![Dimes](/fornewyork/images/KenzoMinamiDimes.jpg)
@@ -28,4 +29,3 @@ In a time when stores that deal with tangible products are closing faster than e
 ## Why is it important to support independent businesses?
 
 It’s about variety, right? Variety’s basically how we survive from an evolutionary perspective - the more variation you have, the stronger a species is. The same principle applies to culture and cities; the more homogenous they are, the weaker they become. To me, independent businesses really bring that variety, that strength, to cities. There’s a parallel there for sure.
-
