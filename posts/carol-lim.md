@@ -1,10 +1,15 @@
 ---
 title: Carol Lim
-description: Co-founder, Opening Ceremony
-date: 2016-06-09
+description: 'Co-founder, Opening Ceremony'
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/CarolLimMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: >-
+  .@openingceremony co-founder Carol Lim shares three of her favorite local
+  businesses in NYC
+socialBlurb: >-
+  Opening Ceremony co-founder Carol Lim shares three of her favorite local
+  businesses in NYC.
 ---
 
 ## Ted Muehling
