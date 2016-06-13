@@ -40,7 +40,7 @@ export const LeadCapture = ({
                     type='email'
                     name='email'
                     required />
-                <ButtonOutline type='submit'>Submit</ButtonOutline>
+                <ButtonOutline id='lead-form-submit' type='submit'>Submit</ButtonOutline>
             </form>
         </div>
     )
