@@ -7,7 +7,7 @@ published: true
 tweetText: Sky Parrott shares three of her favorite local businesses in NYC
 socialBlurb: >-
   Sky Parrott of Double or Nothing shares three of her favorite local businesses
-  in NYC
+  in NYC.
 ---
 
 ![Scosha](/fornewyork/images/SkyeParrottScosha.jpg)
