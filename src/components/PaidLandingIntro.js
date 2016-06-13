@@ -6,6 +6,7 @@ import Container from './Container'
 import Logo from './Logo'
 import AboutLogos from './AboutLogos'
 import Text from './Text'
+import TestimonialsList from './TestimonialsList'
 
 const PaidLandingIntro = (props, { data, modal }) => {
     const { intro } = data.paidLanding
@@ -23,6 +24,7 @@ const PaidLandingIntro = (props, { data, modal }) => {
                         dangerouslySetInnerHTML={{ __html: intro.subHeading }} />
                     <Text className='mb3'
                             children={intro.logoHeading} />
+                    <TestimonialsList />
                     <AboutLogos />
                     <div className='xs-hide'>
                         <Button
