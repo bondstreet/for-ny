@@ -5,7 +5,7 @@ const AboutLogos = (props, { data }) => {
     const { logos } = data.landing.about
 
     return (
-        <div className='center my3'>
+        <div className='center my3 mx-auto max-width-3'>
             {logos.map(({ src, alt }, i) => (
                 <div key={i}
                     className='inline-block align-middle mb2 px2' style={{

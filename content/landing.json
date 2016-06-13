@@ -38,24 +38,64 @@
         ],
         "logos": [
             {
-                "src": "/images/joe-coffee.png",
+                "src": "/images/logos/joe-coffee.png",
                 "alt": "Joe Coffee Logo"
             },
             {
-                "src": "/images/gin-lane.png",
+                "src": "/images/logos/gin-lane.png",
                 "alt": "Gin Lane Logo"
             },
             {
-                "src": "/images/smile.png",
+                "src": "/images/logos/smile.png",
                 "alt": "Smile Logo"
             },
             {
-                "src": "/images/knot-bow.png",
+                "src": "/images/logos/knot-bow.png",
                 "alt": "Knot & Bow Logo"
             },
             {
-                "src": "/images/tacombi.png",
+                "src": "/images/logos/tacombi.png",
                 "alt": "Tacombi Logo"
+            },
+            {
+                "src": "/images/logos/bec-brittain.png",
+                "alt": "Bec Brittain Logo"
+            },
+            {
+                "src": "/images/logos/happy-cooking.png",
+                "alt": "Happy Cooking Logo"
+            },
+            {
+                "src": "/images/logos/archetype-showroom.png",
+                "alt": "Archetype Showroom Logo"
+            },
+            {
+                "src": "/images/logos/fohr-card.png",
+                "alt": "Fohr Card Logo"
+            },
+            {
+                "src": "/images/logos/305-fitness.png",
+                "alt": "305 Fitness Logo"
+            },
+            {
+                "src": "/images/logos/cafe-grumpy.png",
+                "alt": "Cafe Grumpy Logo"
+            },
+            {
+                "src": "/images/logos/avroko.png",
+                "alt": "Avroko Logo"
+            },
+            {
+                "src": "/images/logos/tone-academy.png",
+                "alt": "Tone Academy Logo"
+            },
+            {
+                "src": "/images/logos/battenwear.png",
+                "alt": "Battenwear Logo"
+            },
+            {
+                "src": "/images/logos/uprise-art.png",
+                "alt": "Uprise Art Logo"
             }
         ]
     }
