@@ -4,10 +4,10 @@ description: 'Culture critic at large, New York Magazine'
 date: 'Thu Jun 02 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/RembertBrownemainportrait.jpg
 published: true
-tweetText: '@rembert shares three of his favorite local businesses in NYC'
+tweetText: .@rembert of @NYMag shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Rembert Browne of New York Magazine shares three of his favorite local
-  businesses in NYC
+  businesses in NYC.
 ---
 
 ![Baohaus](/fornewyork/images/RembertBrowneBaohaus.jpg)
