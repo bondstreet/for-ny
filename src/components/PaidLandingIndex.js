@@ -8,7 +8,7 @@ import PaidLandingHeader from './PaidLandingHeader'
 import PaidLandingIntro from './PaidLandingIntro'
 import PaidLandingNav from './PaidLandingNav'
 import LandingPosts from './LandingPosts'
-import EventList from './EventList'
+import PaidLandingEvents from './PaidLandingEvents'
 
 class PaidLandingIndex extends React.Component {
     render () {
@@ -18,7 +18,7 @@ class PaidLandingIndex extends React.Component {
                 <PaidLandingHeader />
                 <PaidLandingIntro />
                 <LandingPosts />
-                <EventList />
+                <PaidLandingEvents />
                 <LandingContact />
                 <Footer />
             </div>
