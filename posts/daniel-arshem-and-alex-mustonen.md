@@ -1,10 +1,13 @@
 ---
 title: Daniel Arsham and Alex Mustonen
-description: Architects, co-founders - Snarkitecture
-date: 2016-06-09
+description: 'Architects, co-founders - Snarkitecture'
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/DanielArshamandAlexMustonenMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@snarkitecture founders share three of their favorite local businesses in NYC'
+socialBlurb: >-
+  Daniel Arsham and Alex Mustonen of Snarkitecture share three of their favorite
+  local businesses in NYC.
 ---
 
 ## K&M Camera
