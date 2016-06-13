@@ -38,13 +38,13 @@ class FollowButtons extends React.Component {
     render () {
         return (
             <div ref='root'>
-                <div ref='facebook'>
+                <div ref='facebook' style={{ display: 'inline-block', marginRight: '10px' }}>
                     <div className='fb-follow'
                         data-href='https://www.facebook.com/onbondstreet'
                         data-layout='button_count'
                         data-show-faces='false'></div>
                 </div>
-                <div ref='twitter' />
+                <div ref='twitter' style={{ display: 'inline-block' }} />
             </div>
         )
     }
