@@ -14,9 +14,7 @@ const ShareButtons = (props, { data }) => {
     const twitter = {
         link: 'https://twitter.com/home?',
         data: {
-            status: props.tweetText
-                ? (props.tweetText + ' ' + props.url + ' #ForNewYork')
-                : (data.social.defaultTweet)
+            status: props.tweetText ? (props.tweetText) : (data.social.defaultTweet)
         }
     }
 
