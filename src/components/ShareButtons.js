@@ -23,7 +23,7 @@ const ShareButtons = (props, { data }) => {
     return (
         <div>
             <div className='fb-share-button'
-                data-href={props.url}
+                data-href={fb.data.u}
                 data-layout='button_count'
                 data-mobile-iframe='true'>
                 <a className='fb-xfbml-parse-ignore'
@@ -31,7 +31,7 @@ const ShareButtons = (props, { data }) => {
                     target='_blank'>Share</a>
             </div>
             <a className="twitter-share-button"
-                data-text={props.tweetText}
+                data-text={twitter.data.status}
                 data-hashtags='ForNewYork'
                 href={props.url}>Tweet</a>
         </div>
