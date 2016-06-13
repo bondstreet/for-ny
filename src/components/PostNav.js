@@ -27,7 +27,7 @@ const PostNav = ({ previousPost, nextPost }) => {
     return (
         <nav className={cx.root} style={sx.root}>
             <div className='table-cell '>
-                <NavItem to='/#stories'
+                <NavItem to='/posts'
                     icon='close'>
                     Close
                 </NavItem>
