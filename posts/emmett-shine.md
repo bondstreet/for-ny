@@ -4,10 +4,10 @@ description: Founder - Gin Lane Media
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/EmmettShineMainPortrait.jpg
 published: true
-tweetText: '@emmettshine shares three of his favorite local businesses in NYC'
+tweetText: .@emmettshine of @ginlane shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Emmett Shine of Gin Lane Media shares three of his favorite local businesses
-  in NYC
+  in NYC.
 ---
 
 ![T-Shirt Express](/fornewyork/images/TShirtExpressInterior.jpg)
