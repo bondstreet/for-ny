@@ -4,8 +4,8 @@ description: Rapper - World’s Fair
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/NastyNigelMainPortrait.jpg
 published: true
-tweetText: '@NIGELNASTY shares three of his favorite local businesses in NYC'
-socialBlurb: Nasty Nigel shares three of his favorite local businesses in NYC
+tweetText: .@NIGELNASTY shares three of his favorite local businesses in NYC
+socialBlurb: Nasty Nigel shares three of his favorite local businesses in NYC.
 ---
 
 ![Leo’s Latticini-Mama’s](/fornewyork/images/NastyNigelMamas.jpg)
