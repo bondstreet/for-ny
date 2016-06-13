@@ -56,6 +56,42 @@
             {
                 "src": "/images/tacombi.png",
                 "alt": "Tacombi Logo"
+            },
+            {
+                "src": "/images/avroko.png",
+                "alt": "Avroko Logo"
+            },
+            {
+                "src": "/images/cafe-grumpy.png",
+                "alt": "Cafe Grumpy Logo"
+            },
+            {
+                "src": "/images/tone-academy.png",
+                "alt": "Tone Academy Logo"
+            },
+            {
+                "src": "/images/battenwear.png",
+                "alt": "Battenwear Logo"
+            },
+            {
+                "src": "/images/uprise-art.png",
+                "alt": "Uprise Art Logo"
+            },
+            {
+                "src": "/images/bec-brittain.png",
+                "alt": "Bec Brittain Logo"
+            },
+            {
+                "src": "/images/happy-cooking.png",
+                "alt": "Happy Cooking Logo"
+            },
+            {
+                "src": "/images/archetype-showroom.png",
+                "alt": "Archetype Showroom Logo"
+            },
+            {
+                "src": "/images/fohr-card.png",
+                "alt": "Fohr Card Logo"
             }
         ]
     }
