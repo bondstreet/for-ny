@@ -1,10 +1,13 @@
 ---
 title: Simon Ting
-description: Founder - Fashion Loft, Inc.
-date: 2016-06-09
+description: 'Founder - Fashion Loft, Inc.'
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/SimonTingMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: Simon Ting shares three of his favorite local businesses in NYC
+socialBlurb: >-
+  Simon Ting of Fashion Loft shares three of his favorite local businesses in
+  NYC
 ---
 
 ![Flushing Supermarkets](/fornewyork/images/SimonTingFlushingSupermarketsMain.jpg)
@@ -28,5 +31,3 @@ A lot of fashion brands in the city come to us to production because we keep thi
 ## Why is it important to support independent businesses?
 
 A lot of the people who work here are from all over China. Some are from other countries, but everyone is an immigrant - it was really difficult for many of them to make their way to America. It’s a really hard journey, but people do it because they know they can achieve their dreams here. We worked hard to make sure that everyone has proper documentation and green cards. Like how my family grew when we settled down in New York, we want to make sure our employees can grow their families in America. You can grow your family here and start a business - that’s very challenging to do in a lot of places that people come from.
-
-

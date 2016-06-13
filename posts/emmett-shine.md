@@ -1,10 +1,13 @@
 ---
 title: Emmett Shine
 description: Founder - Gin Lane Media
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/EmmettShineMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@emmettshine shares three of his favorite local businesses in NYC'
+socialBlurb: >-
+  Emmett Shine of Gin Lane Media shares three of his favorite local businesses
+  in NYC
 ---
 
 ![T-Shirt Express](/fornewyork/images/TShirtExpressInterior.jpg)
@@ -27,5 +30,3 @@ I love skateboarding and riding my bike. It’s just dope that literally on this
 ## Why is it important to support independent businesses?
 
 You can gauge the health of any city and state by the success of their small businesses. They make neighborhoods better, owners take care of their employees more closely, and because they’re so community facing there’s a greater emphasis on doing the right thing. Independent businesses are the American dream.
-
-

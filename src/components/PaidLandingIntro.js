@@ -21,9 +21,9 @@ const PaidLandingIntro = (props, { data, modal }) => {
                     <Logo mega className='mb3'/>
                     <p className='bold h3 md-h2 mb3'
                         dangerouslySetInnerHTML={{ __html: intro.subHeading }} />
+                    <Text className='mb3'
+                            children={intro.logoHeading} />
                     <AboutLogos />
-                    <p className='bold h3 md-h2'
-                       dangerouslySetInnerHTML={{ __html: intro.text }} />
                     <div className='xs-hide'>
                         <Button
                             mt={3}
