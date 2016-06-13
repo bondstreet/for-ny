@@ -58,26 +58,6 @@
                 "alt": "Tacombi Logo"
             },
             {
-                "src": "/images/logos/avroko.png",
-                "alt": "Avroko Logo"
-            },
-            {
-                "src": "/images/logos/cafe-grumpy.png",
-                "alt": "Cafe Grumpy Logo"
-            },
-            {
-                "src": "/images/logos/tone-academy.png",
-                "alt": "Tone Academy Logo"
-            },
-            {
-                "src": "/images/logos/battenwear.png",
-                "alt": "Battenwear Logo"
-            },
-            {
-                "src": "/images/logos/uprise-art.png",
-                "alt": "Uprise Art Logo"
-            },
-            {
                 "src": "/images/logos/bec-brittain.png",
                 "alt": "Bec Brittain Logo"
             },
@@ -96,6 +76,26 @@
             {
                 "src": "/images/logos/305-fitness.png",
                 "alt": "305 Fitness Logo"
+            },
+            {
+                "src": "/images/logos/cafe-grumpy.png",
+                "alt": "Cafe Grumpy Logo"
+            },
+            {
+                "src": "/images/logos/avroko.png",
+                "alt": "Avroko Logo"
+            },
+            {
+                "src": "/images/logos/tone-academy.png",
+                "alt": "Tone Academy Logo"
+            },
+            {
+                "src": "/images/logos/battenwear.png",
+                "alt": "Battenwear Logo"
+            },
+            {
+                "src": "/images/logos/uprise-art.png",
+                "alt": "Uprise Art Logo"
             }
         ]
     }
