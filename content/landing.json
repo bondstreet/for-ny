@@ -92,6 +92,10 @@
             {
                 "src": "/images/fohr-card.png",
                 "alt": "Fohr Card Logo"
+            },
+            {
+                "src": "/images/305-fitness.png",
+                "alt": "305 Fitness Logo"
             }
         ]
     }
