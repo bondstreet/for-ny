@@ -45,11 +45,6 @@ class FollowButtons extends React.Component {
                         data-show-faces='false'></div>
                 </div>
                 <div ref='twitter' />
-                {/*
-                <a className='twitter-follow-button'
-                    data-show-count='false'
-                    href='https://twitter.com/onbondstreet'>Follow @onbondstreet</a>
-                    */}
             </div>
         )
     }

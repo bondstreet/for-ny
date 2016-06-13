@@ -1,6 +1,5 @@
 
 import React from 'react'
-import querystring from 'querystring'
 
 class FacebookShareButton extends React.Component {
     constructor () {
