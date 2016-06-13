@@ -4,7 +4,7 @@ description: Artist & designer
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/KenzoMinamiMainPortrait.jpg
 published: true
-tweetText: '@KenzoMinami shares three of his favorite local businesses in NYC'
+tweetText: .@KenzoMinami shares three of his favorite local businesses in NYC
 socialBlurb: Kenzo Minami shares three of his favorite local businesses in NYC.
 ---
 
