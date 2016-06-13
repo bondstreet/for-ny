@@ -1,10 +1,11 @@
 ---
 title: Nasty Nigel
 description: Rapper - World’s Fair
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/NastyNigelMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@NIGELNASTY shares three of his favorite local businesses in NYC'
+socialBlurb: Nasty Nigel shares three of his favorite local businesses in NYC
 ---
 
 ![Leo’s Latticini-Mama’s](/fornewyork/images/NastyNigelMamas.jpg)
@@ -28,5 +29,3 @@ Man, the Rincon spot? I remember that’s always where my mom got cuban sandwich
 ## Why is it important to support independent businesses?
 
 It’s important because we have to maintain the character of neighborhoods. If every neighborhood was full of chains, what would be the point of venturing out of yours? I’m not going to another neighborhood to get Starbucks or McDonald’s there. Local businesses make sure that communities thrive and grow. They let visitors learn new things and make sure that the people who live here can be proud of where they’re from.
-
-
