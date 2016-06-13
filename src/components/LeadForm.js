@@ -7,7 +7,6 @@ import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
 import FollowButtons from './FollowButtons'
 import { setFormSubmittedCookie, setModalSeenCookie } from '../modal-triggers'
-import { initSocialScripts } from '../social'
 
 
 class LeadForm extends React.Component {
@@ -90,12 +89,6 @@ class LeadForm extends React.Component {
         }
 
         this.createLead = leadCapture.createLead
-    }
-
-    componentDidUpdate() {
-        if (this.state.view === 'likeUs') {
-            initSocialScripts()
-        }
     }
 
     render () {
