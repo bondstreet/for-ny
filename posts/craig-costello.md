@@ -2,6 +2,7 @@
 title: Craig Costello
 date: 2016-06-07
 description: Artist and founder, <a href="http://shop.krink.com">KRINK</a>
+published: false
 image:
 socialBlurb:
 tweetText:
