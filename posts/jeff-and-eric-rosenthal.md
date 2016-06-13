@@ -1,10 +1,13 @@
 ---
 title: Jeff and Eric Rosenthal
 description: Hip hop sketch comedians - Itsthereal
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/JeffandEricRosenthalMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@itsthereal share three of their favorite local businesses in NYC '
+socialBlurb: >-
+  Jeff and Eric Rosenthal of ItsTheReal share three of their favorite local
+  businesses in NYC.
 ---
 
 ![Silver Moon Bakery](/fornewyork/images/JeffandEricRosenthalSilverMoonBakery.jpg)
@@ -27,4 +30,3 @@ We love our local grocery store for the proximity to our apartment, the limitles
 ## Why is it important to support independent businesses?
 
 The stereotype of the Upper West Side is that it's a dead zone of banks, frozen yogurt shops and the occasional Starbucks. But there are pockets of personality, whether it's the toy store West Side Kids or Grand Metro Housewares. We support them because we love being surprised.
-
