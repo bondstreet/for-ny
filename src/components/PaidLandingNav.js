@@ -73,6 +73,7 @@ class PaidLandingNav extends React.Component {
                     children='Events' />
                 <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
                     <Button
+                        id='paid-nav-cta-button'
                         data-small
                         color='white'
                         backgroundColor='black'

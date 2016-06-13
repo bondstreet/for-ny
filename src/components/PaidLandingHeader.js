@@ -44,6 +44,7 @@ class PaidLandingHeader extends React.Component {
                                   dangerouslySetInnerHTML={{ __html: bondstreet.cta }}
                             />
                             <Button
+                                id='paid-header-cta-button'
                                 color='white'
                                 backgroundColor='black'
                                 children={bondstreet.ctaButton}

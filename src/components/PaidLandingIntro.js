@@ -26,6 +26,7 @@ const PaidLandingIntro = (props, { data, modal }) => {
                     <AboutLogos />
                     <div className='xs-hide'>
                         <Button
+                            id='paid-intro-cta-button'
                             mt={3}
                             color='white'
                             backgroundColor='black'
