@@ -1,10 +1,13 @@
 ---
 title: Niki and Shaokao Cheng
 description: Owners and co-founders - BoConcept USA
-date: 2016-06-09
+date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/NikiandShaokaoChengMainPortrait.jpg
-socialBlurb:
-tweetText:
+published: true
+tweetText: '@BoConcept founders share three of their favorite local businesses in NYC'
+socialBlurb: >-
+  Niki and Shaokao Cheng of Bo Concept share three of their favorite local
+  businesses in NYC
 ---
 
 ![The Shala](/fornewyork/images/NikiandShaokaoChengTheShala.jpg)
@@ -28,5 +31,3 @@ It’s the best store in the world! Just kidding. We have two children, but we d
 ## Why is it important to support independent businesses?
 
 To us, it’s important to support independent businesses because we’re an independent business; simple as that. Local businesses in a big city like New York are essential because, without them, we’re a giant Mall of America - we’re Times Square everywhere. What independent businesses offer both people who live here and visitors is so distinct from what you might find through big boxes and corporations - it’s an authentic, curated view into the personality of whoever owns it.
-
-
