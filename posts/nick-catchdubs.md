@@ -4,10 +4,12 @@ description: 'DJ, producer, co-founder - Fool’s Gold Records'
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/NickCatchdubsMainPortrait.jpg
 published: true
-tweetText: '@catchdini shares three of his favorite local businesses in NYC'
-socialBlurb: >-
-  Nick Catchdubs of Fools Gold shares three of his favorite local businesses in
+tweetText: >-
+  .@catchdini of @FoolsGoldRecs shares three of his favorite local businesses in
   NYC
+socialBlurb: >-
+  Nick Catchdubs of Fools Gold Records shares three of his favorite local
+  businesses in NYC.
 ---
 
 ![JHO Comic Books](/fornewyork/images/NickCatchdubsJHUComics.jpg)
