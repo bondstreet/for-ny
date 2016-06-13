@@ -4,7 +4,9 @@ date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
 description: 'Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply'
 image: /images/JohnSeymourMainPortrait.jpg
 published: true
-tweetText: '@JohnSeymourNYC shares three of his favorite local businesses in NYC'
+tweetText: >-
+  .@JohnSeymourNYC of @SweetChickLife shares three of his favorite local
+  businesses in NYC
 socialBlurb: >-
   John Seymour of Sweetchick shares three of his favorite local businesses in
   NYC.
