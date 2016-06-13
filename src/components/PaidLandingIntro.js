@@ -7,8 +7,9 @@ import Logo from './Logo'
 import AboutLogos from './AboutLogos'
 import Text from './Text'
 
-const SemIntro = (props, { data }) => {
+const PaidLandingIntro = (props, { data, modal }) => {
     const { intro } = data.paidLanding
+    const { openModal } = modal
 
     return (
         <Scroll.Element
@@ -25,15 +26,11 @@ const SemIntro = (props, { data }) => {
                        dangerouslySetInnerHTML={{ __html: intro.text }} />
                     <div className='xs-hide'>
                         <Button
-                            is={Scroll.Link}
-                            smooth={true}
-                            duration={200}
-                            offset={-64}
-                            to='stories'
                             mt={3}
                             color='white'
                             backgroundColor='black'
-                            children='Stories' />
+                            onClick={openModal}
+                            children={intro.ctaButton} />
                     </div>
                 </Container>
             </section>
@@ -41,9 +38,10 @@ const SemIntro = (props, { data }) => {
     )
 }
 
-SemIntro.contextTypes = {
-    data: React.PropTypes.object
+PaidLandingIntro.contextTypes = {
+    data: React.PropTypes.object,
+    modal: React.PropTypes.object
 }
 
-export default SemIntro
+export default PaidLandingIntro
 
