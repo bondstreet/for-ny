@@ -23,7 +23,7 @@ const LandingContact = (props) => {
                     style={{
                         maxWidth: 640
                     }}>
-                    <LeadForm instanceName='fornyc__landing_contact' initialView='likeUs' />
+                    <LeadForm instanceName='fornyc__landing_contact' initialView={props.initialView} />
                 </Container>
             </div>
         </Scroll.Element>
@@ -31,7 +31,12 @@ const LandingContact = (props) => {
 }
 
 LandingContact.propTypes = {
-    fullHeight: React.PropTypes.bool
+    fullHeight: React.PropTypes.bool,
+    initialView: React.PropTypes.string
+}
+
+LandingContact.defaultProps = {
+    initialView: 'interested'
 }
 
 export default LandingContact

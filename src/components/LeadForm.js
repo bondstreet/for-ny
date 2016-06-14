@@ -13,7 +13,7 @@ class LeadForm extends React.Component {
     constructor(props) {
         super()
         this.state = {
-            view: props.initialView || 'interested',
+            view: props.initialView,
             business_name: '',
             name: '',
             email: '',
@@ -137,7 +137,8 @@ LeadForm.propTypes = {
 }
 
 LeadForm.defaultProps = {
-  onComplete: () => {}
+    onComplete: () => {},
+    initialView: 'interested'
 }
 
 LeadForm.contextTypes = {
