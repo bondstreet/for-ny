@@ -24,6 +24,7 @@ const Testimonial = ({
             <div className={cx.avatar}>
                 {avatar && (
                     <img src={data.baseurl + avatar}
+                        alt={name}
                         width='192'
                         height='192'
                         className='fit circle' />
@@ -38,6 +39,7 @@ const Testimonial = ({
                     <div className='table-cell align-middle pl1'>
                         {logo && (
                             <img width='64'
+                                alt='Company logo'
                                 src={data.baseurl + logo} />
                         )}
                     </div>
