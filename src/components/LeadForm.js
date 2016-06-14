@@ -13,12 +13,12 @@ class LeadForm extends React.Component {
     constructor(props) {
         super()
         this.state = {
-            view: 'likeUs',
+            view: 'interested',
             business_name: '',
             name: '',
             email: '',
             phone_number: '',
-            customerio_event: '',
+            customerio_event: 'fornyc__ready_to_schedule',
             sf_lead_status: ''
         }
 
@@ -79,14 +79,11 @@ class LeadForm extends React.Component {
     }
 
     componentDidMount() {
-        const { submitted } = this.context.leadForm
         const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
 
-        if (!submitted) {
-            this.setState({
-                view: this.props.initialView || 'interested'
-            })
-        }
+        this.setState({
+            view: this.props.initialView || 'interested'
+        })
 
         this.createLead = leadCapture.createLead
     }
