@@ -38,9 +38,14 @@ const Testimonial = ({
                     </div>
                     <div className='table-cell align-middle pl1'>
                         {logo && (
-                            <img width='64'
+                            <img width='110'
                                 alt='Company logo'
-                                src={data.baseurl + logo} />
+                                src={data.baseurl + logo}
+                                style={{
+                                    filter: 'grayscale(100%)',
+                                    WebkitFilter: 'grayscale(100%)'
+                                }}
+                            />
                         )}
                     </div>
                 </div>

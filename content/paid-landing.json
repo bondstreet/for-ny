@@ -9,28 +9,82 @@
         "heading": "Bond Street supports some of NYC's finest",
         "logoHeading": "and many more...",
         "ctaHeading": "Want to learn how other NYC businesses are collaborating with Bond Street?",
-        "ctaButton": "Get in touch"
+        "ctaButton": "Get in touch",
+        "logos": [
+            {
+                "src": "/images/logos/gin-lane.png",
+                "alt": "Gin Lane Logo"
+            },
+            {
+                "src": "/images/logos/avroko.png",
+                "alt": "Avroko Logo"
+            },
+            {
+                "src": "/images/logos/smile.png",
+                "alt": "Smile Logo"
+            },
+            {
+                "src": "/images/logos/tacombi.png",
+                "alt": "Tacombi Logo"
+            },
+            {
+                "src": "/images/logos/bec-brittain.png",
+                "alt": "Bec Brittain Logo"
+            },
+            {
+                "src": "/images/logos/happy-cooking.png",
+                "alt": "Happy Cooking Logo"
+            },
+            {
+                "src": "/images/logos/archetype-showroom.png",
+                "alt": "Archetype Showroom Logo"
+            },
+            {
+                "src": "/images/logos/fohr-card.png",
+                "alt": "Fohr Card Logo"
+            },
+            {
+                "src": "/images/logos/cafe-grumpy.png",
+                "alt": "Cafe Grumpy Logo"
+            },
+            {
+                "src": "/images/logos/tone-academy.png",
+                "alt": "Tone Academy Logo"
+            },
+            {
+                "src": "/images/logos/knot-bow.png",
+                "alt": "Knot & Bow Logo"
+            },
+            {
+                "src": "/images/logos/battenwear.png",
+                "alt": "Battenwear Logo"
+            },
+            {
+                "src": "/images/logos/uprise-art.png",
+                "alt": "Uprise Art Logo"
+            }
+        ]
     },
     "testimonials": [
         {
             "name": "Jonathan Rubinstein",
             "avatar": "/images/joe-rubinstein.jpg",
-            "title": "Founder",
+            "title": "Founder - Joe Coffee",
             "logo": "/images/logos/joe-coffee.png",
             "text": "“One of the things I like so much about Bond Street is that it isn’t just about a loan, but building a relationship for the future of our company”"
         },
         {
             "name": "Sadie Kurzban",
             "avatar": "/images/sadie.jpg",
-            "title": "Founder",
+            "title": "Founder - 305 Fitness",
             "logo": "/images/logos/305-fitness.png",
             "text": "“The application process was all online and seamless. It took a few hours to apply for the entire thing and the seal the deal. The second studio is now open, and classes are packed.”"
         },
         {
             "name": "Sam Buffa",
             "avatar": "/images/sam-buffa.jpg",
-            "title": "Co-Owner",
-            "logo": "/images/logos/fellow-barber.png",
+            "title": "Co-Owner - Vinegar Hill House",
+            "logo": "/images/logos/vinegar-hill-house.png",
             "text": "“Obviously the main reason that we’re drawn to Bond Street is that going through a bank is very difficult, especially for a restaurant. Restaurants are notoriously not bankable even when you have six, seven years’ experience, which can be frustrating.”"
         }
     ],
