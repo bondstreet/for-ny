@@ -7,7 +7,7 @@ import classnames from 'classnames'
 import Heading from './Heading'
 import LeadForm from './LeadForm'
 
-const LandingContact = (props) => {
+const PaidLandingContact = (props) => {
     const cx = classnames('table col-12 px3 py4 white bg-black', {
         'min-height-100': props.fullHeight,
     })
@@ -30,9 +30,9 @@ const LandingContact = (props) => {
     )
 }
 
-LandingContact.propTypes = {
+PaidLandingContact.propTypes = {
     fullHeight: React.PropTypes.bool
 }
 
-export default LandingContact
+export default PaidLandingContact
 
