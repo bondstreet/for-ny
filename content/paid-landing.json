@@ -15,16 +15,23 @@
         {
             "name": "Jonathan Rubinstein",
             "avatar": "/images/joe-rubinstein.jpg",
-            "title": "CEO of Joe Coffee",
+            "title": "Founder",
             "logo": "/images/logos/joe-coffee.png",
             "text": "“One of the things I like so much about Bond Street is that it isn’t just about a loan, but building a relationship for the future of our company”"
         },
         {
-            "name": "Jonathan Rubinstein",
-            "avatar": "/images/joe-rubinstein.jpg",
-            "title": "CEO of Joe Coffee",
-            "logo": "/images/logos/joe-coffee.png",
-            "text": "“One of the things I like so much about Bond Street is that it isn’t just about a loan, but building a relationship for the future of our company”"
+            "name": "Sadie Kurzban",
+            "avatar": "/images/sadie.jpg",
+            "title": "Founder",
+            "logo": "/images/logos/305-fitness.png",
+            "text": "“The application process was all online and seamless. It took a few hours to apply for the entire thing and the seal the deal. The second studio is now open, and classes are packed.”"
+        },
+        {
+            "name": "Sam Buffa",
+            "avatar": "/images/sam-buffa.jpg",
+            "title": "Co-Owner",
+            "logo": "/images/logos/fellow-barber.png",
+            "text": "“Obviously the main reason that we’re drawn to Bond Street is that going through a bank is very difficult, especially for a restaurant. Restaurants are notoriously not bankable even when you have six, seven years’ experience, which can be frustrating.”"
         }
     ],
     "eventList": {
