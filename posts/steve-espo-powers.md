@@ -5,7 +5,7 @@ date: 2016-06-14
 image: /images/SteveESPOPowersMainPortrait.jpg
 published: true
 tweetText: .@steveESPOpowers shares three of his favorite local businesses in NYC
-socialBlurb: Steve "ESPO" Powers shares three of his favorite local businesses in NYC
+socialBlurb: Steve "ESPO" Powers shares three of his favorite local businesses in NYC.
 ---
 
 ![Pete’s Clam Bar](/fornewyork/images/SteveESPOPowersPetesClamBar.jpg)
