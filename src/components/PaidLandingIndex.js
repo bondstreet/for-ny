@@ -1,7 +1,7 @@
 
 import React from 'react'
 import LandingAbout from './LandingAbout'
-import LandingContact from './LandingContact'
+import PaidLandingContact from './PaidLandingContact'
 import Footer from './Footer'
 import Logo from './Logo'
 import PaidLandingHeader from './PaidLandingHeader'
@@ -19,7 +19,7 @@ class PaidLandingIndex extends React.Component {
                 <PaidLandingIntro />
                 <LandingPosts />
                 <PaidLandingEvents />
-                <LandingContact />
+                <PaidLandingContact />
                 <Footer />
             </div>
         )

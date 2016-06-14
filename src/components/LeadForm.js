@@ -13,7 +13,7 @@ class LeadForm extends React.Component {
     constructor(props) {
         super()
         this.state = {
-            view: 'interested',
+            view: props.initialView || 'interested',
             business_name: '',
             name: '',
             email: '',
@@ -80,10 +80,6 @@ class LeadForm extends React.Component {
 
     componentDidMount() {
         const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
-
-        this.setState({
-            view: this.props.initialView || 'interested'
-        })
 
         this.createLead = leadCapture.createLead
     }

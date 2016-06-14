@@ -23,7 +23,7 @@ const LandingContact = (props) => {
                     style={{
                         maxWidth: 640
                     }}>
-                    <LeadForm instanceName='fornyc__landing_contact' initialView='likeUs' />
+                    <LeadForm instanceName='fornyc__paid_landing_contact' initialView='interested' />
                 </Container>
             </div>
         </Scroll.Element>
