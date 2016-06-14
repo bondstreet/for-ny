@@ -14,8 +14,8 @@ const PaidLandingIntro = (props, { data, modal }) => {
 
     return (
         <Scroll.Element
-            name='fornewyork'
-            id='fornewyork'
+            name='community'
+            id='community'
             className='min-height-100 table col-12 px2 py4'>
             <section className='center'>
                 <Container>

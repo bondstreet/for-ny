@@ -5,7 +5,7 @@ import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
 import { gtmScript } from './tracking'
-import { socialScripts } from './social'
+import { facebook, twitter } from './social'
 
 let script = '/bundle.js'
 
@@ -52,7 +52,7 @@ const Html = ({ app, ...props }) => (
         <Head {...props} />
         <body>
             <div id='fb-root'></div>
-            <script dangerouslySetInnerHTML={{ __html: socialScripts }} />
+            <script dangerouslySetInnerHTML={{ __html: facebook }} />
             <div id='app'
                 dangerouslySetInnerHTML={{ __html: app }} />
             <script id='data'
@@ -60,6 +60,7 @@ const Html = ({ app, ...props }) => (
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(props) }} />
             <script src={props.baseurl + script} />
             <script dangerouslySetInnerHTML={{ __html: gtmScript }} />
+            <script dangerouslySetInnerHTML={{ __html: twitter }} />
         </body>
     </html>
 )

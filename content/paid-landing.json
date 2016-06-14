@@ -1,7 +1,7 @@
 {
     "bondstreet": {
         "heading": "Bond Street is more than a lender",
-        "subHeading": "We’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business.",
+        "subHeading": "We’re a financial advocate to help you take the next big step for your business. <br>Whether you’re looking to hire a team, open a new space, purchase inventory, or refinance, Bond Street can provide you with growth capital.",
         "cta": "Complete a 10 minute online application and receive a loan decision within 48 hours.",
         "ctaButton": "Learn More"
     },
@@ -26,5 +26,9 @@
             "logo": "/images/logos/joe-coffee.png",
             "text": "“One of the things I like so much about Bond Street is that it isn’t just about a loan, but building a relationship for the future of our company”"
         }
-    ]
+    ],
+    "eventList": {
+        "heading": "Events",
+        "text": "This summer, we’re celebrating the businesses that make NYC the best city in the world. Join us for an event series featuring independent businesses in NYC."
+    }
 }
