@@ -38,4 +38,3 @@ PostCard.contextTypes = {
 }
 
 export default PostCard
-

@@ -6,6 +6,7 @@ import Container from './Container'
 import Logo from './Logo'
 import AboutLogos from './AboutLogos'
 import Text from './Text'
+import TestimonialsList from './TestimonialsList'
 
 const PaidLandingIntro = (props, { data, modal }) => {
     const { intro } = data.paidLanding
@@ -13,18 +14,18 @@ const PaidLandingIntro = (props, { data, modal }) => {
 
     return (
         <Scroll.Element
-            name='fornewyork'
-            id='fornewyork'
+            name='community'
+            id='community'
             className='min-height-100 table col-12 px2 py4'>
-            <section className='table-cell align-middle center'>
+            <section className=''>
                 <Container>
-                    <Logo mega className='mb3'/>
-                    <p className='bold h3 md-h2 mb3'
-                        dangerouslySetInnerHTML={{ __html: intro.subHeading }} />
-                    <Text className='mb3'
-                            children={intro.logoHeading} />
+                    <p className='center bold h2 md-h2 mb3'
+                        dangerouslySetInnerHTML={{ __html: intro.heading }} />
+                    <TestimonialsList />
+                    <Text center children={intro.logoHeading} />
                     <AboutLogos />
-                    <div className='xs-hide'>
+                    <div className='center xs-hide py4'>
+                        <Text children={intro.ctaHeading} className="max-width-2 mx-auto"/>
                         <Button
                             id='paid-intro-cta-button'
                             mt={3}

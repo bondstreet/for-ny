@@ -55,18 +55,6 @@ const EventList = (props, { data }) => {
                             {...event} />
                     )
                 })}
-                <div className='center xs-hide'>
-                    <Button
-                        is={Scroll.Link}
-                        smooth={true}
-                        duration={200}
-                        offset={-64}
-                        to='about'
-                        mt={3}
-                        color='white'
-                        backgroundColor='black'
-                        children='About' />
-                </div>
             </Container>
         </Scroll.Element>
     )

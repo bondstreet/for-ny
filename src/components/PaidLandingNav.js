@@ -31,10 +31,8 @@ class PaidLandingNav extends React.Component {
         const { openModal } = this.context.modal
         const colors = {
             top: 'bg-mint',
-            fornewyork: 'bg-white',
-            stories: 'bg-peach',
+            community: 'bg-white',
             events: 'bg-orange',
-            about: 'bg-yellow',
             contact: 'white bg-black'
         }
         const colorClass = currentSection ? colors[currentSection] : 'bg-mint'
@@ -55,16 +53,11 @@ class PaidLandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Bond Street' />
-                <NavItem to='fornewyork'
-                    href='#fornewyork'
+                <NavItem to='community'
+                    href='#community'
                     scroll
                     offset={-64}
-                    children='For New York' />
-                <NavItem to='stories'
-                    href='#stories'
-                    scroll
-                    offset={-64}
-                    children='Stories' />
+                    children='Our Community' />
                 <NavItem
                     to='events'
                     href='#events'

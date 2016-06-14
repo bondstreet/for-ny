@@ -17,7 +17,6 @@ class PaidLandingIndex extends React.Component {
                 <PaidLandingNav />
                 <PaidLandingHeader />
                 <PaidLandingIntro />
-                <LandingPosts />
                 <PaidLandingEvents />
                 <LandingContact />
                 <Footer />
