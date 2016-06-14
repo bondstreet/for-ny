@@ -33,7 +33,7 @@ class PaidLandingHeader extends React.Component {
                     <Container
                         py={4}
                         style={{
-                            maxWidth: 1024 // 768
+                            maxWidth: 1024
                         }}>
                         <div className='center'>
                             <Heading
