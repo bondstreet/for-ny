@@ -13,35 +13,38 @@ const Testimonial = ({
     ...props
 }, { data }) => {
     const cx = {
-        avatar: classnames('col col-3 px2', {'col-right': props.alignRight}),
-        body: classnames('col col-9', {
-            'left-align': !props.alignRight,
-            'col-right': props.alignRight,
-            'right-align': props.alignRight
+        avatar: classnames('px3 mb2', {
+            'sm-col': !props.alignRight,
+            'sm-col-right': props.alignRight
         })
     }
 
     return (
-        <div className='clearfix my4'>
+        <div className='clearfix py4 max-width-3 mx-auto'>
             <div className={cx.avatar}>
                 {avatar && (
                     <img src={data.baseurl + avatar}
-                        className='fit mb1' />
+                        width='192'
+                        height='192'
+                        className='fit circle' />
                 )}
             </div>
-            <div className={cx.body}>
-                <div className='h3 mb1' children={name} />
-                <div className='h4 mb1' children={title} />
-
-                {logo && (
-                    <img
-                        style={{
-                            width: '50px'
-                        }}
-                        src={data.baseurl + logo}
-                        className='fit mb1' />
-                )}
-                <div dangerouslySetInnerHTML={{ __html: text }} />
+            <div className='overflow-hidden px3'>
+                <div className='table mb2'>
+                    <div className='table-cell align-middle col-12'>
+                        <h3 className='h2 line-height-1' children={name} />
+                        <p className='sm-h3 bold' children={title} />
+                    </div>
+                    <div className='table-cell align-middle pl1'>
+                        {logo && (
+                            <img width='64'
+                                src={data.baseurl + logo} />
+                        )}
+                    </div>
+                </div>
+                <blockquote>
+                    <p dangerouslySetInnerHTML={{ __html: text }} />
+                </blockquote>
             </div>
         </div>
     )

@@ -17,14 +17,14 @@ const PaidLandingIntro = (props, { data, modal }) => {
             name='community'
             id='community'
             className='min-height-100 table col-12 px2 py4'>
-            <section className='center'>
+            <section className=''>
                 <Container>
-                    <p className='bold h2 md-h2 mb3'
+                    <p className='center bold h2 md-h2 mb3'
                         dangerouslySetInnerHTML={{ __html: intro.heading }} />
                     <TestimonialsList />
-                    <Text children={intro.logoHeading} />
+                    <Text center children={intro.logoHeading} />
                     <AboutLogos />
-                    <div className='xs-hide'>
+                    <div className='center xs-hide py4'>
                         <Text children={intro.ctaHeading} className="max-width-2 mx-auto"/>
                         <Button
                             id='paid-intro-cta-button'

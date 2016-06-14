@@ -15,7 +15,7 @@ const TestimonialsList = (props, { data }) => {
 
 
     return (
-        <div className='mxn2'>
+        <div className='py4 mxn3'>
             {testimonialCards}
         </div>
     )
