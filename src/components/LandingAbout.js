@@ -15,7 +15,7 @@ const LandingAbout = (props, { data }) => {
         aboutButton,
         logos
     } = data.landing.about
-    
+
     return (
         <Scroll.Element
             name='about'

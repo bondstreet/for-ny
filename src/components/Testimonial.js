@@ -38,7 +38,7 @@ const Testimonial = ({
                     </div>
                     <div className='table-cell align-middle pl1'>
                         {logo && (
-                            <img width='110'
+                            <img width='128'
                                 alt='Company logo'
                                 src={data.baseurl + logo}
                                 style={{
