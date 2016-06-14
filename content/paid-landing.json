@@ -6,12 +6,19 @@
         "ctaButton": "Learn More"
     },
     "intro": {
-        "subHeading": "This summer, Bond Street is launching “For New York,” a zine saluting the independent businesses who make NYC the best city in the world.",
-        "logoHeading": "Bond Street supports some of NYC's finest",
-        "text": "“For New York” represents the humble, eternal spirit of the New York City merchant. The small business. Our bars, our laundries, our hot dog sellers and our delicatessens, our bodegas, our dollar stores, our hardware stores, hell, our haberdasheries. These businesses have served New York City with dignity and distinction since this city was built—some are quiet, others make noise; some last a week, or a month, while others have lasted over a century, and are still kicking.",
+        "heading": "Bond Street supports some of NYC's finest",
+        "logoHeading": "and many more...",
+        "ctaHeading": "Want to learn how other NYC businesses are collaborating with Bond Street?",
         "ctaButton": "Get in touch"
     },
     "testimonials": [
+        {
+            "name": "Jonathan Rubinstein",
+            "avatar": "/images/joe-rubinstein.jpg",
+            "title": "CEO of Joe Coffee",
+            "logo": "/images/logos/joe-coffee.png",
+            "text": "“One of the things I like so much about Bond Street is that it isn’t just about a loan, but building a relationship for the future of our company”"
+        },
         {
             "name": "Jonathan Rubinstein",
             "avatar": "/images/joe-rubinstein.jpg",

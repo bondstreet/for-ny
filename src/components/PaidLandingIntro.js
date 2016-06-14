@@ -17,16 +17,15 @@ const PaidLandingIntro = (props, { data, modal }) => {
             name='fornewyork'
             id='fornewyork'
             className='min-height-100 table col-12 px2 py4'>
-            <section className='table-cell align-middle center'>
+            <section className='center'>
                 <Container>
-                    <Logo mega className='mb3'/>
-                    <p className='bold h3 md-h2 mb3'
-                        dangerouslySetInnerHTML={{ __html: intro.subHeading }} />
-                    <Text className='mb3'
-                            children={intro.logoHeading} />
+                    <p className='bold h2 md-h2 mb3'
+                        dangerouslySetInnerHTML={{ __html: intro.heading }} />
                     <TestimonialsList />
+                    <Text children={intro.logoHeading} />
                     <AboutLogos />
                     <div className='xs-hide'>
+                        <Text children={intro.ctaHeading} className="max-width-2 mx-auto"/>
                         <Button
                             id='paid-intro-cta-button'
                             mt={3}

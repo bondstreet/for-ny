@@ -8,9 +8,10 @@ const TestimonialsList = (props, { data }) => {
 
     console.log(testimonials)
 
-    const testimonialCards = testimonials.map((testimonial, i) => (
-        <Testimonial {...testimonial} />
-    ))
+    const testimonialCards = testimonials.map((testimonial, i) => {
+        const alignRight = (i % 2) ? true : false
+        return <Testimonial alignRight={alignRight} {...testimonial} />
+    })
 
 
     return (

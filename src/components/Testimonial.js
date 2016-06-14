@@ -12,17 +12,24 @@ const Testimonial = ({
     text,
     ...props
 }, { data }) => {
+    const cx = {
+        avatar: classnames('col col-3 px2', {'col-right': props.alignRight}),
+        body: classnames('col col-9', {
+            'left-align': !props.alignRight,
+            'col-right': props.alignRight,
+            'right-align': props.alignRight
+        })
+    }
+
     return (
-        <div className='clearfix'>
-            <div className='col col-4 mx2' style={{
-                maxWidth: '150px'
-            }}>
+        <div className='clearfix my4'>
+            <div className={cx.avatar}>
                 {avatar && (
                     <img src={data.baseurl + avatar}
                         className='fit mb1' />
                 )}
             </div>
-            <div className='col col-8 left-align'>
+            <div className={cx.body}>
                 <div className='h3 mb1' children={name} />
                 <div className='h4 mb1' children={title} />
 
@@ -42,6 +49,10 @@ const Testimonial = ({
 
 Testimonial.contextTypes = {
   data: React.PropTypes.object
+}
+
+Testimonial.propTypes = {
+  alignRight: React.PropTypes.bool
 }
 
 export default Testimonial
