@@ -1,9 +1,7 @@
 
 import React from 'react'
 
-const AboutLogos = (props, { data }) => {
-    const { logos } = data.landing.about
-
+const AboutLogos = ({ logos }, { data }) => {
     return (
         <div className='center my3 mx-auto max-width-3'>
             {logos.map(({ src, alt }, i) => (
@@ -17,6 +15,14 @@ const AboutLogos = (props, { data }) => {
             ))}
         </div>
     )
+}
+
+AboutLogos.propTypes = {
+    logos: React.PropTypes.array.isRequired
+}
+
+AboutLogos.defaultProps = {
+    logos: []
 }
 
 AboutLogos.contextTypes = {

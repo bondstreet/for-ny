@@ -12,7 +12,8 @@ const LandingAbout = (props, { data }) => {
         heading,
         text,
         subhead,
-        aboutButton
+        aboutButton,
+        logos
     } = data.landing.about
 
     return (
@@ -39,7 +40,7 @@ const LandingAbout = (props, { data }) => {
                     <div className='center mt4'>
                         <Text className='mb3'
                             children={subhead} />
-                        <AboutLogos />
+                        <AboutLogos logos={logos} />
                         <div className='xs-hide'>
                             <Button
                                 is={Scroll.Link}

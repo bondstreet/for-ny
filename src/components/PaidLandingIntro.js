@@ -23,7 +23,7 @@ const PaidLandingIntro = (props, { data, modal }) => {
                         dangerouslySetInnerHTML={{ __html: intro.heading }} />
                     <TestimonialsList />
                     <Text center children={intro.logoHeading} />
-                    <AboutLogos />
+                    <AboutLogos logos={intro.logos} />
                     <div className='center xs-hide py4'>
                         <Text children={intro.ctaHeading} className="max-width-2 mx-auto"/>
                         <Button
