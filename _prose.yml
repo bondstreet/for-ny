@@ -13,7 +13,7 @@ prose:
     - webpack.config.js
     - /static
     - /src
-  media: 'static/images/src'
+  media: 'static/images'
   metadata:
     posts:
       - name: 'title'
