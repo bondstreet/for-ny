@@ -1,6 +1,6 @@
 ---
 date: '2016-06-15 15:32 -0400'
-published: false
+published: true
 title: Olivia Wolfe and Steph Krasnoff
 description: 'Co-founders - American Two Shot '
 image: /fornewyork/images/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
