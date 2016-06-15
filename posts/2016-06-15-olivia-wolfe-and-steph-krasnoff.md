@@ -30,7 +30,7 @@ _Olivia_: Plus they have a Two Shot salad on the menu that’s named after us!
 
 ## American Two Shot
 
-![American Two Shot] (/fornewyork/images/OliviaWolfeandStephKrasnoffAmericanTwoShotAlt.jpg)
+![American Two Shot](/fornewyork/images/OliviaWolfeandStephKrasnoffAmericanTwoShotAlt.jpg)
 
 _Olivia_: This might be a little self-celebratory, but Two Shot is the reason we’re so close to a lot of other local businesses; it’s why we’ve been able to realize how important it is to support people going through the same things we experience. Whether it’s just shouting another spot out in an interview or telling all of your customers to go somewhere, it’s great to be part of that support system and community.
 
