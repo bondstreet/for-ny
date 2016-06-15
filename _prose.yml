@@ -28,12 +28,20 @@ prose:
         field:
           element: 'text'
           label: 'Image URL'
+      - name: 'imageCaption'
+        field:
+          element: 'text'
+          label: 'Image Caption (if applicable)'
       - name: 'date'
         field:
           element: 'text'
           label: 'Date'
           type: 'date'
           value: CURRENT_DATETIME
+      - name: 'fbTitle'
+        field:
+          element: 'text'
+          label: 'Facebook Title'
       - name: 'socialBlurb'
         field:
           element: 'text'
