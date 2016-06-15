@@ -15,6 +15,7 @@ socialBlurb: >-
 ![Grass Roots Juicery](/fornewyork/images/OliviaWolfeandStephKrasnoffGrassRootsJuiceryMain.jpg)
 
 ## Grass Roots Juicery
+
 _Olivia_: Grass Roots is owned by one of our closest friends, Sabrina Diaz. I love going to Grass Roots because they offer something that isn’t otherwise available in the neighborhood. They have exactly what I want as far as food and drinks go - it’s an even sweeter deal that it’s a local, independently owned business. 
 
 _Steph_: Since Sabrina’s so involved, she can react really quickly to what the community and her customers want. What’s also great is that the momentum around the business has really picked up, so Sabrina’s been able to expand and build out a retail component in the shop. That’s allowing Juice Press to become a much fuller lifestyle brand, which sets it apart from other spots that might just sell food and drinks. 
