@@ -5,6 +5,7 @@ imageCaption: Photos by Alexa Renfroe
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: /images/AyaKanaiMainPortraitPhotobyAlexaRenfroe.jpg
 published: true
+fbTitle: Aya Kanai Shares Her Favorite Local Businesses
 tweetText: >-
   .@ayakanai of @Cosmopolitan and @seventeen shares three of her favorite local
   businesses in NYC
