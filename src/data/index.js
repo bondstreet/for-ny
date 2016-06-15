@@ -24,7 +24,7 @@ const paths = [
 const posts = fs.readdirSync(path.join(__dirname, '..', '..', 'posts'))
     .filter(f => /\.md$/.test(f))
     .map(f => {
-        const name = f.replace(/\.md$/, '')
+        const name = f.replace(/^(\d{4}-\d{2}-\d{2})-|\.md$/g, '')
         // This could be done with markdown-loader for HMR
         const markdown = fs.readFileSync(path.join(__dirname, '..', '..', 'posts', f), 'utf8')
         const matter = frontMatter(markdown)
