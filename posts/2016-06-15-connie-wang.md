@@ -1,6 +1,6 @@
 ---
 date: '2016-06-15 16:29 -0400'
-published: false
+published: true
 title: 'Connie Wang '
 description: Fashion Features Director - Refinery29
 tweetText: >-
@@ -9,14 +9,21 @@ tweetText: >-
 socialBlurb: >-
   Fashion Features Director of Refinery29 Connie Wang shares three of her
   favorite local businesses in NYC.
+image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangMainPortrait_w1280.jpg'
 ---
+![Kum Kau](https://s3.amazonaws.com/bst-fornyc/ConnieWangKumKau_w1280.jpg)
+
 ## Kum Kau
 
 When I moved to Clinton Hill, all my neighbors immediately recommended the same spot: Kum Kau. I'm Chinese (no doubt), but I grew up with a real soft spot for the kind of "Chinese food" that consisted of lunch-counter stuff covered in sweet and sour glaze. There’s nothing quite as satisfying as a Kung Pao shrimp and pork fried rice dinner special. Kum Kau is the best of its kind, and has been doing it right since 1971. I’m part of the neighborhood cult now, and better off because of it.
 
+![Sisters]https://s3.amazonaws.com/bst-fornyc/ConnieWangSisters_w1280.jpg
+
 ## Sisters
 
 For the most part, I’m wary of bars that are too “designed” — it’s like, how am I supposed to get all mellow when I’m basically sitting in an Anthropologie showroom, you know? Sisters not only looks really nice, it also feels really nice to be at, too. It’s pretty without being pretentious; they serve some really fancy, delicious cocktails, but no one will look at you funny if you ask for a beer-and-shot special. I have a tendency here to roll up during an empty Saturday afternoon and accidentally stay until closing.
+
+![Yo-C](https://s3.amazonaws.com/bst-fornyc/ConnieWangYo-C_w1280.jpg)
 
 ## Yo-C
 
