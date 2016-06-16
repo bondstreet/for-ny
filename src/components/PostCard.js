@@ -23,8 +23,10 @@ const PostCard = ({
             <Link to={`/posts/${name}`}
                 className='block color-inherit text-decoration-none'>
                 {image && (
-                    <img src={mainSrc}
-                        className='fit mb1' />
+                    <div className='center'>
+                        <img src={mainSrc}
+                            className='fit mb1' />
+                    </div>
                 )}
                 <Heading
                     center

@@ -27,7 +27,7 @@ const LandingPosts = (props, { data }) => {
                     className='mb3'
                     children={heading} />
                 <Text children={text} className='mb4' />
-                <PostList limit={7} />
+                <PostList limit={5} />
                 <div className='center'>
                     <ButtonOutline
                         is={Link}
