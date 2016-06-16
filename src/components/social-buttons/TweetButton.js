@@ -1,6 +1,6 @@
 
 import React from 'react'
-import { twitter } from '../social'
+import { twitter } from '../../social'
 
 class TweetButton extends React.Component {
     constructor () {

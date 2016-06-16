@@ -5,7 +5,7 @@ import Text from './Text'
 import InterestedPrompt from './InterestedPrompt'
 import CheckOrSchedule from './CheckOrSchedule'
 import LeadCapture from './LeadCapture'
-import FollowButtons from './FollowButtons'
+import FollowButtons from './social-buttons/FollowButtons'
 import { setFormSubmittedCookie, setModalSeenCookie } from '../modal-triggers'
 
 

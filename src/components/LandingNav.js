@@ -5,7 +5,7 @@ import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
-import LikeButton from './LikeButton'
+import FacebookShareButton from './social-buttons/FacebookShareButton'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -39,9 +39,7 @@ class LandingNav extends React.Component {
             contact: 'white bg-black'
         }
         const colorClass = currentSection ? colors[currentSection] : 'bg-mint'
-
         const showLogo = currentSection !== 'top'
-
         const cx = classnames(
             'LandingNav',
             'center',
@@ -50,7 +48,6 @@ class LandingNav extends React.Component {
             'py1',
             colorClass
         )
-
         const sx = {
             logo: {
                 display: 'inline-block',
@@ -60,6 +57,7 @@ class LandingNav extends React.Component {
                 overflow: 'hidden'
             }
         }
+
         return (
             <nav className={cx}>
                 <NavItem to='top'
@@ -92,7 +90,9 @@ class LandingNav extends React.Component {
                     offset={-64}
                     children='Contact' />
                 <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
-                    <LikeButton />
+                    <FacebookShareButton
+                        url='https://bondstreet.com/fornewyork'
+                        isNav={true} />
                 </div>
             </nav>
         )
