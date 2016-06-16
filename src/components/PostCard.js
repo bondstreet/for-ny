@@ -13,12 +13,17 @@ const PostCard = ({
 }, { data }) => {
     const description = sanitize(props.description || '', { allowedTags: [] })
 
+    // Remove checks when all images are on S3
+    const reg = new RegExp('^' + data.bucketUrl)
+    const isS3 = reg.test(image)
+    const mainSrc = isS3 ? image.replace(/\.jpg$/, '_w640.jpg') : data.baseurl + image
+
     return (
         <div>
             <Link to={`/posts/${name}`}
                 className='block color-inherit text-decoration-none'>
                 {image && (
-                    <img src={data.baseurl + image}
+                    <img src={mainSrc}
                         className='fit mb1' />
                 )}
                 <Heading

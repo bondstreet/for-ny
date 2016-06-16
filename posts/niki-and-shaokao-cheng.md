@@ -2,7 +2,7 @@
 title: Niki and Shaokao Cheng
 description: Owners and co-founders - BoConcept USA
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/NikiandShaokaoChengMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengMainPortrait.jpg
 published: true
 tweetText: .@BoConcept founders share three of their favorite local businesses in NYC
 socialBlurb: >-
@@ -10,19 +10,19 @@ socialBlurb: >-
   businesses in NYC.
 ---
 
-![The Shala](/fornewyork/images/NikiandShaokaoChengTheShala.jpg)
+![The Shala](https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengTheShala.jpg)
 
 ## The Shala
 
 We practice yoga daily and everywhere, but this is the only studio that both of us practice at together. SK started practicing yoga 4-5 years ago - he used to make fun of me for practicing but then realized it’s a really good thing for him. So he got into it and then found this studio and I started going with him so we could spend more time together. It’s great to be able to do that regularly.
 
-![Telegraphe Cafe](/fornewyork/images/NikiandShaokaoChengTelegraphe.jpg)
+![Telegraphe Cafe](https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengTelegraphe.jpg)
 
 ## Telegraphe Cafe
 
 Originally, we started going to Telegraphe because it’s basically across the street from our Chelsea store. Their coffee is awesome and their sandwiches are great. Additionally, the fact that it’s just a husband and wife team running the operation really resonated with us, because that’s how we run BoConcept. They’re also transplants like us - both of them come from France. They never give us free coffee, but I guess it’s not like we give them free furniture!
 
-![BoConcept](/fornewyork/images/BoConceptInterior.jpg)
+![BoConcept](https://s3.amazonaws.com/bst-fornyc/BoConceptInterior.jpg)
 
 ## BoConcept
 

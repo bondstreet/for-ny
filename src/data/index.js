@@ -13,7 +13,7 @@ const footer = require('../../content/footer.json')
 const leadForm = require('../../content/lead-form.json')
 const paidLanding = require('../../content/paid-landing.json')
 
-const { domain, baseurl } = config
+const { domain, baseurl, bucketUrl } = config
 
 const paths = [
     '/',
@@ -35,7 +35,7 @@ const posts = fs.readdirSync(path.join(__dirname, '..', '..', 'posts'))
             html
         }, matter.attributes)
     })
-    .sort((a, b) => a.date < b.date)
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
     .filter(post => post.published !== false)
 
 posts.forEach(f => {
@@ -45,6 +45,7 @@ posts.forEach(f => {
 const data = {
     domain,
     baseurl,
+    bucketUrl,
     title: 'For New York',
     social,
     paths,

@@ -2,16 +2,16 @@
 date: '2016-06-15 17:02 -0400'
 published: true
 title: Alyasha Owerka-Moore
-image: /images/AlyashaOwerka-MooreMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/AlyashaOwerka-MooreMainPortrait.jpg
 description: 'Creative Director, Designer'
 ---
 ## Hot Dog and Knish Stands
 
-I feel like those kinds of businesses are what the city was built on. The dirty water dog and the knish with smothered onions and spicy mustard are New York mainstays...to see vendors get taxed so heavily and exploited from so many angles is really frustrating to see. It’s tough to watch them disappear because a 7 Eleven needs to get put in. So many people take them for granted because there was a time where these stands really were pretty ubiquitous. Think about how many cats fed their families selling hot dogs and knishes. Whether it’s an old Polish cat, a Middle Eastern cat, or a Korean cat...I grew up seeing everyone who got off a boat or plane put their lives together selling hot dogs. It sucks to see them vanishing. 
+I feel like those kinds of businesses are what the city was built on. The dirty water dog and the knish with smothered onions and spicy mustard are New York mainstays...to see vendors get taxed so heavily and exploited from so many angles is really frustrating to see. It’s tough to watch them disappear because a 7 Eleven needs to get put in. So many people take them for granted because there was a time where these stands really were pretty ubiquitous. Think about how many cats fed their families selling hot dogs and knishes. Whether it’s an old Polish cat, a Middle Eastern cat, or a Korean cat...I grew up seeing everyone who got off a boat or plane put their lives together selling hot dogs. It sucks to see them vanishing.
 
 ## Junior’s Cheesecake
 
-I’m a nostalgia nerd. Junior’s has been around forever. When my mom and I moved to the city in ‘77, we could walk there from our old pad so it kind of holds a special place in my memories. Obviously, it’s still family owned. Whenever there was a reason for celebration, whether it was something at school or a birthday, the two of us - cuz it was only the two of us - we’d always go and share a slice of cheesecake. 
+I’m a nostalgia nerd. Junior’s has been around forever. When my mom and I moved to the city in ‘77, we could walk there from our old pad so it kind of holds a special place in my memories. Obviously, it’s still family owned. Whenever there was a reason for celebration, whether it was something at school or a birthday, the two of us - cuz it was only the two of us - we’d always go and share a slice of cheesecake.
 
 ## Otto’s Shrunken Head
 

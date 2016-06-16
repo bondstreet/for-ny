@@ -3,7 +3,7 @@ date: '2016-06-15 15:32 -0400'
 published: true
 title: Olivia Wolfe and Steph Krasnoff
 description: 'Co-founders - American Two Shot '
-image: /images/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
+image: https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
 tweetText: >-
   Olivia & Steph of @AmericanTwoShot share three of their favorite local
   businesses in NYC
@@ -16,9 +16,9 @@ socialBlurb: >-
 
 ## Grass Roots Juicery
 
-_Olivia_: Grass Roots is owned by one of our closest friends, Sabrina Diaz. I love going to Grass Roots because they offer something that isn’t otherwise available in the neighborhood. They have exactly what I want as far as food and drinks go - it’s an even sweeter deal that it’s a local, independently owned business. 
+_Olivia_: Grass Roots is owned by one of our closest friends, Sabrina Diaz. I love going to Grass Roots because they offer something that isn’t otherwise available in the neighborhood. They have exactly what I want as far as food and drinks go - it’s an even sweeter deal that it’s a local, independently owned business.
 
-_Steph_: Since Sabrina’s so involved, she can react really quickly to what the community and her customers want. What’s also great is that the momentum around the business has really picked up, so Sabrina’s been able to expand and build out a retail component in the shop. That’s allowing Juice Press to become a much fuller lifestyle brand, which sets it apart from other spots that might just sell food and drinks. 
+_Steph_: Since Sabrina’s so involved, she can react really quickly to what the community and her customers want. What’s also great is that the momentum around the business has really picked up, so Sabrina’s been able to expand and build out a retail component in the shop. That’s allowing Juice Press to become a much fuller lifestyle brand, which sets it apart from other spots that might just sell food and drinks.
 
 ![Baz Bagels](/fornewyork/images/OliviaWolfeandStephKrasnoffBazBagelsMain.jpg)
 
@@ -36,10 +36,10 @@ _Olivia_: This might be a little self-celebratory, but Two Shot is the reason we
 
 ## Why is it important to support independent businesses?
 
-_Olivia_: My two cents on it is that independent businesses are just better for creativity. 
+_Olivia_: My two cents on it is that independent businesses are just better for creativity.
 
 _Steph_: Yeah, it’s where genuine, not-watered-down creativity lives. We don’t have to go through layers and layers of hierarchy before putting something out in front of our customers. People get excited when they can experience a brand that hasn’t been filtered a billion times. They know they’re getting us.
 
-_Olivia_: You can’t replicate that - people see right through big company initiatives that are designed to mimic what independent businesses do. If you want the benefits of being a local, independent business, you have to be a local, independent business. 
+_Olivia_: You can’t replicate that - people see right through big company initiatives that are designed to mimic what independent businesses do. If you want the benefits of being a local, independent business, you have to be a local, independent business.
 
 _Steph_: While we’re talking about us here, this is completely applicable to any other independent businesses out there.
