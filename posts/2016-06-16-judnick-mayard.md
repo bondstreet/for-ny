@@ -1,9 +1,9 @@
 ---
 date: '2016-06-16 13:11 -0400'
-published: false
+published: true
 title: Judnick Mayard
 description: 'Event Producer, Tour Manager '
-image: 'https://s3.amazonaws.com/bst-fornyc/JudnickMayardMainPortrait_w1280.jpg'
+image: https://s3.amazonaws.com/bst-fornyc/JudnickMayardMainPortrait.jpg
 tweetText: .@Judnikki shares three of her favorite local businesses in NYC
 socialBlurb: >-
   Judnick Mayard, event producer and tour manager, shares three of her favorite
@@ -19,7 +19,7 @@ Peppa’s is close to me because it’s pretty much my idea of what a perfect We
 
 ![Allan's Bakery](https://s3.amazonaws.com/bst-fornyc/JudnickMayardAllans_w1280.jpg)
 
-Allan’s is a really famous Haitian bakery on Nostrand that’s been around since I was a kid. It’s on a strip of Nostrand that’s full of West Indian businesses. Allan’s is where we got patties for literally every single milestone event that I attended since I was a child. There’s a competitor on the street that some people use, but no one in my circle fucks with them. It’s funny because, like Peppa’s, I never stepped into Allan’s until I was an adult. But in this case it’s because, as a kid, I’d always have to wait in the car. Nowadays, they cover the whole West Indian spectrum, but when I was little it was always known as a very Haitian spot. 
+Allan’s is a really famous Haitian bakery on Nostrand that’s been around since I was a kid. It’s on a strip of Nostrand that’s full of West Indian businesses. Allan’s is where we got patties for literally every single milestone event that I attended since I was a child. There’s a competitor on the street that some people use, but no one in my circle fucks with them. It’s funny because, like Peppa’s, I never stepped into Allan’s until I was an adult. But in this case it’s because, as a kid, I’d always have to wait in the car. Nowadays, they cover the whole West Indian spectrum, but when I was little it was always known as a very Haitian spot.
 
 ## Fine Line Tattoos
 
