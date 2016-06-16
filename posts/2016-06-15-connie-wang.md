@@ -1,6 +1,6 @@
 ---
 date: '2016-06-15 16:29 -0400'
-published: true
+published: false
 title: 'Connie Wang '
 description: Fashion Features Director - Refinery29
 tweetText: >-
