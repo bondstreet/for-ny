@@ -12,6 +12,7 @@ const LandingAboutAlt = (props, { data }) => {
         heading,
         text,
         subhead,
+        buttonHeading,
         aboutButton,
         logos
     } = data.landing.about
@@ -41,6 +42,8 @@ const LandingAboutAlt = (props, { data }) => {
                     <Text className='mb3'
                         children={subhead} />
                     <AboutLogos logos={logos} />
+                    <Text className='mb3'
+                        children={buttonHeading} />
                     <div className='xs-hide'>
                         <Button
                             is={Scroll.Link}
