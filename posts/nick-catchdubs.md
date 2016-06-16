@@ -12,19 +12,19 @@ socialBlurb: >-
   businesses in NYC.
 ---
 
-![JHO Comic Books](/fornewyork/images/NickCatchdubsJHUComics.jpg)
+![JHO Comic Books](https://s3.amazonaws.com/bst-fornyc/NickCatchdubsJHUComics.jpg)
 
 ## JHU Comic Books
 
 I’m kind of a backpack rapper when it comes to comics… my tastes skew pretty ’90s, I like that I can roll up and find weird back issues along with the new stuff and Batman figures. Forbidden Planet is another favorite but why should all the fun stay below 14th street? JHU also has a great ‘Mazing Man sketch by the checkout counter that scratches my obscure DC nerd itch hard.
 
-![J&L Game](/fornewyork/images/NickCatchdubsJLGame.jpg)
+![J&L Game](https://s3.amazonaws.com/bst-fornyc/NickCatchdubsJLGame.jpg)
 
 ## J&L Game
 
 Stumbled upon this vintage game mecca walking home from Bryant Park. It’s sooo sweet. My section of choice is the PS1 and 2 stacks, though I’m more a window shopper than anything. I try not to hoard at home anymore so browsing has become my methadone.
 
-![Good Records NYC](/fornewyork/images/NickCatchdubsGoodRecords.jpg)
+![Good Records NYC](https://s3.amazonaws.com/bst-fornyc/NickCatchdubsGoodRecords.jpg)
 
 ## Good Records NYC
 

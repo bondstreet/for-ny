@@ -10,19 +10,19 @@ socialBlurb: >-
   businesses in NYC.
 ---
 
-![Baohaus](/fornewyork/images/RembertBrowneBaohaus.jpg)
+![Baohaus](https://s3.amazonaws.com/bst-fornyc/RembertBrowneBaohaus.jpg)
 
 ## Baohaus
 
 It's a place that immediately made me feel like home. Without any formal agreement, I was loyal to them and they were loyal to me. I sat in the corner next to the outlets eating three baos and drinking my apple sidra and have probably written 30 pieces, during my period at Grantland when there was no formal office.
 
-![Metropolis Vintage](/fornewyork/images/RembertBrowneMetropolis.jpg)
+![Metropolis Vintage](https://s3.amazonaws.com/bst-fornyc/RembertBrowneMetropolis.jpg)
 
 ## Metropolis Vintage
 
 I don't buy clothes that often, but often when I'm in the mood for something special, I come here. My relationship with independent businesses is that if I'm allowed to feel like a regular, I'll never ever go away. There are other thrift stores, but I'd never go to another first, Bc the employees have always made me feel appreciated, have entertained my dumb conversations, and have been forced to watch me get on the most absurd outfits imaginable.
 
-![The Exley](/fornewyork/images/RembertBrowneExley.jpg)
+![The Exley](https://s3.amazonaws.com/bst-fornyc/RembertBrowneExley.jpg)
 
 ## The Exley
 

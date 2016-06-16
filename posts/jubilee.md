@@ -8,19 +8,19 @@ tweetText: .@JubileeDJ of @Mixpak shares three of her favorite local businesses 
 socialBlurb: Jubilee of Mixpak shares three of her favorite local businesses in NYC.
 ---
 
-![Hudson Market Place](/fornewyork/images/JubileeHudsonMarketPlace.jpg)
+![Hudson Market Place](https://s3.amazonaws.com/bst-fornyc/JubileeHudsonMarketPlace.jpg)
 
 ## Hudson Market Place
 
 If you live in New York your corner store is incredibly important to you. Those guys are practically in your family if you’re a real New Yorker. They see everyone you bring in and out of your house and every condition you’ve been in, whether you’re tired and feel like shit or you look great heading somewhere. I support my guys because they work all hours seven days a week and go through a lot to live in New York - all while sending money back home to their families. On top of that, they have to work for their dad who probably yells at them nonstop every day even though they’re adults. So, they deserve the support!
 
-![Stile’s Farmers Market](/fornewyork/images/JubileeStilesFarmersMarket.jpg)
+![Stile’s Farmers Market](https://s3.amazonaws.com/bst-fornyc/JubileeStilesFarmersMarket.jpg)
 
 ## Stile’s Farmers Market
 
 Grocery shopping in New York is sort of bullshit. You have to go to eight different places to find meat, produce, and whatever else unless you’re willing to pay for crazy markups at Whole Foods or wherever. I support Stile’s because they never overcharge you, the same crew is always there, and everyone clearly works really hard. Regular, normally priced vegetables - what a concept. I can fill up my fridge with fruits and vegetables from Stile’s for like $17 to $24. That said, I totally thought Stile’s was a giant dumpster in a sort of abandoned parking lot the first few times I walked past it.
 
-![Broadway Dance](/fornewyork/images/JubileeBroadwayDance.jpg)
+![Broadway Dance](https://s3.amazonaws.com/bst-fornyc/JubileeBroadwayDance.jpg)
 
 ## Broadway Dance
 

@@ -10,19 +10,19 @@ socialBlurb: >-
   in NYC.
 ---
 
-![Scosha](/fornewyork/images/SkyeParrottScosha.jpg)
+![Scosha](https://s3.amazonaws.com/bst-fornyc/SkyeParrottScosha.jpg)
 
 ## Scosha
 
 Scosha’s store is beautifully curated with both her own jewelry, inspired by her travels and made by hand in Brooklyn, and a collection of other pieces that make you want to spend some time touching everything.
 
-![Sweet William](/fornewyork/images/SkyeParrottSweetWilliam.jpg)
+![Sweet William](https://s3.amazonaws.com/bst-fornyc/SkyeParrottSweetWilliam.jpg)
 
 ## Sweet William
 
 Sweet William is my favorite kids’ store, hands-down. It’s so well-curated, with lots of European and Japanese lines that you can’t find anywhere else. It’s my go-to for new baby gifts, and party dresses for my daughter.
 
-![Diner](/fornewyork/images/SkyeParrottDiner.jpg)
+![Diner](https://s3.amazonaws.com/bst-fornyc/SkyeParrottDiner.jpg)
 
 ## Diner
 
