@@ -10,7 +10,6 @@ tweetText: >-
 socialBlurb: >-
   Fashion Features Director of Refinery29 Connie Wang shares three of her
   favorite local businesses in NYC.
-image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangMainPortrait_w1280.jpg'
 ---
 ![Kum Kau](https://s3.amazonaws.com/bst-fornyc/ConnieWangKumKau_w1280.jpg)
 
