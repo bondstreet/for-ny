@@ -1,8 +1,9 @@
 ---
 date: '2016-06-15 17:02 -0400'
-published: false
+published: true
 title: Alyasha Owerka-Moore
 image: https://s3.amazonaws.com/bst-fornyc/AlyashaOwerka-MooreMainPortrait.jpg
+description: 'Creative Director, Designer'
 ---
 ## Hot Dog and Knish Stands
 
@@ -19,4 +20,3 @@ I grew up in the hip hop scene, the punk scene, and the New York hardcore scene.
 ## Why is it important to support independent businesses?
 
 Independent businesses have made the city what it is since forever - it’s why people came here to begin with; to start their own thing. “If I can make it there, I can make it anywhere,” you know? So why come to New York if the conditions are such that you can’t possibly start your own thing anymore? Why come to New York just to fall in line? Because it’s more ‘exciting’ here? Stay at home in fuckin’ Witchita or wherever - it’s easier to stay on the treadmill out there, I promise. Independent businesses are what make the city diverse, unique, and interesting...if we don’t protect them, we just become an unnecessarily difficult version of any other town.
-
