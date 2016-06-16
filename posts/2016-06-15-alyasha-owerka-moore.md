@@ -1,6 +1,6 @@
 ---
 date: '2016-06-15 17:02 -0400'
-published: false
+published: true
 title: Alyasha Owerka-Moore
 image: /images/AlyashaOwerka-MooreMainPortrait.jpg
 description: 'Creative Director, Designer'
