@@ -3,7 +3,8 @@
     "text": "This is a zine presented by Bond Street.<br>It features New Yorkers saluting the independent businesses of our city.",
     "headerButton": "Start",
     "postList": {
-        "heading": "Stories"
+        "heading": "Stories",
+        "text": "We’ve gathered a community of entrepreneurs, civilians and celebrities who are sharing their favorite local establishments and the importance of supporting independent business."
     },
     "quote": {
         "text": "“I think small businesses are fucking vital to the lifeblood”",
@@ -15,7 +16,7 @@
     },
     "eventList": {
         "heading": "Events",
-        "text": "Come hang."
+        "text": "We’ve gathered the city’s leading luminaries to discuss the trials and tactics of building successful businesses. Come hang and learn what it takes!"
     },
     "about": {
         "heading": "We Make Loans. Honestly.",
