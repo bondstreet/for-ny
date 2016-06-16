@@ -56,4 +56,9 @@ Open <http://localhost:8081/fornewyork>
   - `index.js` - static and client side renderer
   - `renderHtml.js` - renders static markup to contain the React app
   - `routes.js` - route config for react-router
+  
+## Github issues
+
+- https://github.com/bondstreet/bondstreet_web/labels/For%20NYC
+- https://github.com/bondstreet/for-ny/issues
 
