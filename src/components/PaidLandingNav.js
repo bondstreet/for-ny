@@ -5,7 +5,7 @@ import { ButtonOutline, Button } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
-import LikeButton from './LikeButton'
+import LikeButton from './social-buttons/LikeButton'
 
 class PaidLandingNav extends React.Component {
     constructor () {

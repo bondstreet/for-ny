@@ -14,8 +14,10 @@ class FacebookShareButton extends React.Component {
     }
 
     componentDidUpdate () {
-        this.createDiv()
-        this.refresh()
+        if (!this.props.isNav) {
+            this.createDiv()
+            this.refresh()
+        }
     }
 
     refresh () {
