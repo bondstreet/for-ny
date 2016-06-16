@@ -8,9 +8,13 @@ import {
 import Link from './Link'
 import PostList from './PostList'
 import Heading from './Heading'
+import Text from './Text'
 
 const LandingPosts = (props, { data }) => {
-    const { heading } = data.landing.postList
+    const {
+        heading,
+        text
+    } = data.landing.postList
 
     return (
         <Scroll.Element name='stories' id='stories'
@@ -22,6 +26,7 @@ const LandingPosts = (props, { data }) => {
                     caps
                     className='mb3'
                     children={heading} />
+                <Text children={text} className='mb4' />
                 <PostList limit={7} />
                 <div className='center'>
                     <ButtonOutline
