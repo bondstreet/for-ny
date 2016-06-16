@@ -2,7 +2,7 @@
 title: Simon Ting
 description: 'Founder - Fashion Loft, Inc.'
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/SimonTingMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/SimonTingMainPortrait.jpg
 published: true
 tweetText: Simon Ting shares three of his favorite local businesses in NYC
 socialBlurb: >-

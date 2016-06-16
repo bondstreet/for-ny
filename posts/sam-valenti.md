@@ -2,7 +2,7 @@
 title: Sam Valenti IV
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 description: 'Founder, Ghostly International'
-image: /images/SamValentiMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/SamValentiMainPortrait.jpg
 published: true
 tweetText: .@VALENTI shares three of his favorite local businesses in NYC
 socialBlurb: >-

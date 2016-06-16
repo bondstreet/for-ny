@@ -2,7 +2,7 @@
 title: Jubilee
 description: 'DJ, Producer - Mixpak'
 date: 2016-06-14
-image: /images/JubileeMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/JubileeMainPortrait.jpg
 published: true
 tweetText: .@JubileeDJ of @Mixpak shares three of her favorite local businesses in NYC
 socialBlurb: Jubilee of Mixpak shares three of her favorite local businesses in NYC.

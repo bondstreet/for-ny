@@ -2,7 +2,7 @@
 title: Emmett Shine
 description: Founder - Gin Lane Media
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/EmmettShineMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/EmmettShineMainPortrait.jpg
 published: true
 tweetText: .@emmettshine of @ginlane shares three of his favorite local businesses in NYC
 socialBlurb: >-

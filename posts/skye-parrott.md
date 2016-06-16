@@ -2,7 +2,7 @@
 title: Skye Parrott
 description: 'Photographer, founder - Double or Nothing'
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/SkyeParrottMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/SkyeParrottMainPortrait.jpg
 published: true
 tweetText: Skye Parrott shares three of her favorite local businesses in NYC
 socialBlurb: >-

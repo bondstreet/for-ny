@@ -2,7 +2,7 @@
 title: Rembert Browne
 description: 'Culture critic at large, New York Magazine'
 date: 'Thu Jun 02 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/RembertBrownemainportrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg
 published: true
 tweetText: .@rembert of @NYMag shares three of his favorite local businesses in NYC
 socialBlurb: >-

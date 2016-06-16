@@ -2,7 +2,7 @@
 title: Jeff and Eric Rosenthal
 description: Hip hop sketch comedians - ItsTheReal
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/JeffandEricRosenthalMainPortrait.jpg
+image: https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalMainPortrait.jpg
 published: true
 tweetText: '.@itsthereal share three of their favorite local businesses in NYC '
 socialBlurb: >-

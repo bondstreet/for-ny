@@ -7,6 +7,7 @@ import Heading from './Heading'
 import Text from './Text'
 import ShareButtons from './ShareButtons'
 import PostNav from './PostNav'
+import PostHeroImage from './PostHeroImage'
 import PostCard from './PostCard'
 import Prose from './Prose'
 import NavItem from './NavItem'
@@ -46,14 +47,10 @@ const Post = ({ params }, { data, router }) => {
             </div>
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
-                    <figure className='mb3'>
-                        <img src={data.baseurl + post.image} className='fit col-12 mb1' />
-                        {post.imageCaption && (
-                            <figcaption className='h5 right-align'>
-                                {post.imageCaption}
-                            </figcaption>
-                        )}
-                    </figure>
+                    <PostHeroImage
+                        className='mb3'
+                        src={post.image}
+                        caption={post.imageCaption} />
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>

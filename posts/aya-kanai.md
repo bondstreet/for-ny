@@ -3,7 +3,7 @@ title: Aya Kanai
 description: Executive Fashion Director - Cosmopolitan and Seventeen
 imageCaption: Photos by Alexa Renfroe
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: /images/AyaKanaiMainPortraitPhotobyAlexaRenfroe.jpg
+image: https://s3.amazonaws.com/bst-fornyc/AyaKanaiMainPortraitPhotobyAlexaRenfroe.jpg
 published: true
 fbTitle: Aya Kanai Shares Her Favorite Local Businesses
 tweetText: >-

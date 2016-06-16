@@ -13,7 +13,7 @@ const footer = require('../../content/footer.json')
 const leadForm = require('../../content/lead-form.json')
 const paidLanding = require('../../content/paid-landing.json')
 
-const { domain, baseurl } = config
+const { domain, baseurl, bucketUrl } = config
 
 const paths = [
     '/',
@@ -45,6 +45,7 @@ posts.forEach(f => {
 const data = {
     domain,
     baseurl,
+    bucketUrl,
     title: 'For New York',
     social,
     paths,
