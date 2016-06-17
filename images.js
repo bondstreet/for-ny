@@ -43,16 +43,18 @@ const processImage = (filepath) => {
         sharp(path.join(DIR, orig))
             .resize(1280)
             .quality(QUALITY)
-            .toFile(path.join(DIR, filepath), (err) => {
-                if (err) {
+                .toFile(path.join(DIR, filepath))
+                .then((info) => {
+                    console.log(info)
+                    results.push(filepath)
+                    if (results.length >= sizes.length + 1) {
+                        fs.unlinkSync(path.join(DIR, orig))
+                        resolve(results)
+                    }
+                })
+                .catch((err) => {
                     console.error('Error', err)
-                }
-                results.push(filepath)
-                if (results.length >= sizes.length + 1) {
-                    fs.unlinkSync(path.join(DIR, orig))
-                    resolve(results)
-                }
-            })
+                })
 
         sizes.forEach((size, i) => {
             const filename = filepath.replace(/\.jpg$/, `_w${size}.jpg`)
@@ -62,18 +64,18 @@ const processImage = (filepath) => {
             sharp(src)
                 .resize(size)
                 .quality(QUALITY)
-                .toFile(path.join(DIR, filename), (err, ...args) => {
-                    console.log(args)
-                    if (err) {
-                        // I have no idea why sharp returns true here...
-                        console.error('Error', err)
-                    }
+                .toFile(path.join(DIR, filename))
+                .then((info) => {
+                    console.log(info)
                     results.push(filename)
-                    console.log('processed', filename, results.length + '/' + sizes.length)
+                    console.log('processed', filename, results.length + '/' + sizes.length + 1)
                     if (results.length >= sizes.length + 1) {
                         fs.unlinkSync(path.join(DIR, orig))
                         resolve(results)
                     }
+                })
+                .catch((err) => {
+                    console.error('Error', err)
                 })
         })
     })
