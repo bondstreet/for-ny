@@ -2,7 +2,7 @@
 title: Rembert Browne
 description: 'Culture critic at large, New York Magazine'
 date: 'Thu Jun 02 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg'
 published: true
 tweetText: .@rembert of @NYMag shares three of his favorite local businesses in NYC
 socialBlurb: >-
@@ -31,4 +31,5 @@ This is my bar, my restaurant, the place I charge my phone, the place i laugh, t
 It's the definition of an independent neighborhood establishment. And I love it so.
 
 ## Why is it important to support independent businesses?
+
 It's important--crucial even--to support independent businesses, because these are establishments that are often the character of a neighborhood, a community. The relationships created between customers and those that work in independent business frequently go beyond just purchases--it becomes familial. And that is something, extremely vital in the ever-difficult task of keeping cities, neighborhoods, communities, and even blocks authentic, fun, flavorful, safe, and unique.
