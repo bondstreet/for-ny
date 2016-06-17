@@ -29,7 +29,7 @@ const LandingPosts = (props, { data }) => {
                 {text && (
                     <Text children={text} className='mb4' />
                 )}
-                <PostList limit={7} />
+                <PostList limit={5} />
                 <div className='center'>
                     <ButtonOutline
                         is={Link}
