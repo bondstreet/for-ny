@@ -25,11 +25,18 @@ npm i sharp
 }
 ```
 
-3. Run the image script to resize, compress, and upload images from `/tmp` to S3.
+3. Copy new JPG files to the `/tmp` folder.
+
+4. Run the image script to resize, compress, and upload images from `/tmp` to S3.
+The images will be added to the `bst-fornyc` bucket.
+The URL will follow the pattern: `https://s3.amazonaws.com/bst-fornyc/YourImage.jpg`.
+Each size has a suffix corresponding to the width, e.g. `_w640`.
 
 ```sh
 npm run images
 ```
+
+After the files have been processed and uploaded, they will be moved to the `/tmp/processed` folder. Images in the `/tmp` folder are ignored in git, and they can be moved or deleted at this point.
 
 ## Build
 Writes files to `/dist`.
