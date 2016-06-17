@@ -7,7 +7,7 @@ import LandingQuote from './LandingQuote'
 import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
 import EventList from './EventList'
-import LandingAboutAlt from './LandingAboutAlt'
+import LandingAbout from './LandingAbout'
 import LandingContact from './LandingContact'
 import Footer from './Footer'
 
@@ -19,7 +19,7 @@ const Index = (props, { data }) => {
             <LandingQuote />
             <LandingPosts />
             <EventList />
-            <LandingAboutAlt />
+            <LandingAbout />
             <LandingContact fullHeight initialView="likeUs"/>
             <Footer />
         </div>

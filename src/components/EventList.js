@@ -64,7 +64,7 @@ const EventList = (props, { data }) => {
                         offset={-64}
                         to='about'
                         mt={3}
-                        color='white'
+                        color='orange'
                         backgroundColor='black'
                         children='About' />
                 </div>
