@@ -26,7 +26,9 @@ const LandingPosts = (props, { data }) => {
                     caps
                     className='mb3'
                     children={heading} />
-                <Text children={text} className='mb4' />
+                {text && (
+                    <Text children={text} className='mb4' />
+                )}
                 <PostList limit={5} />
                 <div className='center'>
                     <ButtonOutline
