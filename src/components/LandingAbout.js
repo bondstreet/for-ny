@@ -10,7 +10,6 @@ import AboutLogos from './AboutLogos'
 
 const LandingAbout = (props, { data }) => {
     const {
-        heading,
         text,
         subhead,
         buttonHeading,
