@@ -7,16 +7,25 @@
 npm i
 ```
 
-## Processing Images
+## Processing and Uploading Images
 
-Install the sharp package, which requires vips.
+1. Install the sharp package, which requires vips.
 
 ```sh
 brew install homebrew/science/vips
 npm i sharp
 ```
 
-Run the image script to resize and compress images from `/static/src/images`
+2. Create an `.aws.json` file based on `.aws.example.json` and add credentials for S3.
+
+```json
+{
+  "AWS_ACCESS_KEY_ID": "<your-id>",
+  "AWS_SECRET_ACCESS_KEY": "<your-secret>"
+}
+```
+
+3. Run the image script to resize, compress, and upload images from `/tmp` to S3.
 
 ```sh
 npm run images
@@ -28,7 +37,6 @@ Writes files to `/dist`.
 ```sh
 npm run build
 ```
-
 
 ## Deploy to gh-pages
 
@@ -42,7 +50,7 @@ npm run deploy
 npm start
 ```
 
-Open <http://localhost:8081/fornewyork>
+Open <http://localhost:8081/fornewyork/>
 
 
 ## Folder structure
@@ -56,7 +64,7 @@ Open <http://localhost:8081/fornewyork>
   - `index.js` - static and client side renderer
   - `renderHtml.js` - renders static markup to contain the React app
   - `routes.js` - route config for react-router
-  
+
 ## Github issues
 
 - https://github.com/bondstreet/bondstreet_web/labels/For%20NYC
