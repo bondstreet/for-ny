@@ -2,7 +2,6 @@
 title: Kenzo Minami
 description: Artist & designer
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-ximage: /images/KenzoMinamiMainPortrait.jpg
 image: https://s3.amazonaws.com/bst-fornyc/KenzoMinamiMainPortrait.jpg
 published: true
 tweetText: .@KenzoMinami shares three of his favorite local businesses in NYC
