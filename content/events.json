@@ -5,35 +5,28 @@
             "date": "2016-06-08",
             "location": "NeueHouse (110 E 25th Street - off Park)",
             "blurb": "A conversation about the good, the bad, and the crazy of running your own business.",
-            "link": "https://talkshop.splashthat.com/"
+            "link": "https://talkshop.splashthat.com"
         },
         {
             "title": "Talk Shop: Debt vs. Equity",
             "date": "2016-07-13",
             "location": "TBD",
-            "blurb": "",
-            "link": ""
+            "blurb": "Our Talk Shop: Debt vs. Equity panel will feature prominent entrepreneurs, venture capitalists, and lenders from both ends of the lending spectrum discuss the pros and cons to each growth route.",
+            "link": "https://debtvsequity.splashthat.com"
         },
         {
-            "title": "Talk Shop: The Evolution of Retail",
+            "title": "Talk Shop: The Role of Brick and Mortar in the Digital Economy",
             "date": "2016-08-03",
             "location": "TBD",
-            "blurb": "",
-            "link": ""
+            "blurb": "Our Talk Shop: The Role of Brick and Mortar in the Digital Economy panel will allow prominent entrepreneurs in the retail space discuss the ever-changing world of retail.",
+            "link": "https://indigitaleconomy.splashthat.com"
         },
         {
-            "title": "Talk Shop: Building a Brand",
+            "title": "Talk Shop: The Importance of Building a Brand",
             "date": "2016-08-17",
-            "location": "",
-            "blurb": "TBD",
-            "link": ""
-        },
-        {
-            "title": "Friends For New York",
-            "date": "2016-08-31",
-            "location": "Tacombi Nolita (267 Elizabeth Street)",
-            "blurb": "",
-            "link": ""
+            "location": "TBD",
+            "blurb": "Our Talk Shop: The Importance of Building a Brand panel will allow renowned creatives in NYC discuss what it takes to build an evergreen brand.",
+            "link": "https://buildingabrand.splashthat.com"
         }
     ]
 }
