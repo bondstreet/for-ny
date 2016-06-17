@@ -48,7 +48,7 @@ const processImage = (filepath) => {
                     console.log(info)
                     results.push(filepath)
                     if (results.length >= sizes.length + 1) {
-                        fs.unlinkSync(path.join(DIR, orig))
+                        fs.renameSync(path.join(DIR, orig), path.join(DIR, 'processed', orig))
                         resolve(results)
                     }
                 })
@@ -70,7 +70,7 @@ const processImage = (filepath) => {
                     results.push(filename)
                     console.log('processed', filename, results.length + '/' + sizes.length + 1)
                     if (results.length >= sizes.length + 1) {
-                        fs.unlinkSync(path.join(DIR, orig))
+                        fs.renameSync(path.join(DIR, orig), path.join(DIR, 'processed', orig))
                         resolve(results)
                     }
                 })
@@ -107,7 +107,7 @@ const upload = (filename, i) => {
         uploader.on('end', function() {
             const url = s3.getPublicUrl(BUCKET, filename)
             try {
-                fs.unlinkSync(path.join(DIR, filename))
+                fs.renameSync(path.join(DIR, filename), path.join(DIR, 'processed', filename))
             } catch(e) {
                 console.log('Could not delete', filename)
             }
