@@ -1,6 +1,6 @@
 ---
 date: '2016-06-17 11:54 -0400'
-published: false
+published: true
 title: Caroline Polachek
 description: 'singer, songwriter, and producer'
 tweetText: .@carolineplz shares three of her favorite local businesses in NYC
