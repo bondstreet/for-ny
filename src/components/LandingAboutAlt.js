@@ -4,7 +4,7 @@ import { Container, Button } from 'rebass'
 import Scroll from 'react-scroll'
 import Heading from './Heading'
 import Text from './Text'
-import ValuePropsTable from './ValuePropsTable'
+import Logo from './Logo'
 import AboutLogos from './AboutLogos'
 
 const LandingAboutAlt = (props, { data }) => {
@@ -28,10 +28,12 @@ const LandingAboutAlt = (props, { data }) => {
                     style={{
                         maxWidth: 768
                     }}>
-                    <div className='center'>
-                        <Heading
-                            className='mb3'
-                            children={heading} />
+                    <div className='center mb4'>
+                        <Logo medium />
+                        <Text center
+                            children='x'
+                        />
+                        <Logo medium />
                     </div>
                     <Text center
                         className='mb4'
