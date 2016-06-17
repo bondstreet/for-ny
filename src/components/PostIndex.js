@@ -39,7 +39,9 @@ const PostIndex = (props, { data }) => {
                 className='mb3'
                 children={heading} />
             <Container style={{ maxWidth: 1280 }}>
-                <Text children={text} className='mb4' />
+                {text && (
+                    <Text children={text} className='mb4' />
+                )}
                 <PostList />
             </Container>
             <Footer />

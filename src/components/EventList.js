@@ -45,7 +45,9 @@ const EventList = (props, { data }) => {
                         caps
                         className='mb1'
                         children={heading} />
-                    <Text children={text} className='mb4' />
+                    {text && (
+                        <Text children={text} className='mb4' />
+                    )}
                 </div>
                 {sortedEvents.map((event, i) => {
                     return (
