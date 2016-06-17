@@ -9,9 +9,11 @@ title: David Chang
 Sei-Tomoko is Ssäm Bar's next door neighbor, and it's where I've been getting my haircut for years. I love what they do.
 
 ## Superiority Burger 
+
 Long story short, I love this place because Brooks Headley and his team rule. NYC needs more of it.
 
 ## Nalata Nalata 
+
 Hands down, my favorite store in NYC. It eases my itch for all things Japanese-crafted.
 
 ## Why is it important to support independent businesses?
