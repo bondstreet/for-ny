@@ -39,7 +39,8 @@ class FacebookShareButton extends React.Component {
 
     render () {
         const sx = {
-            display: 'inline-block'
+            display: 'inline-block',
+            margin: '0 10px'
         }
 
         return <div ref='root' style={sx} />

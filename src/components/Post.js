@@ -63,13 +63,14 @@ const Post = ({ params }, { data, router }) => {
                 <Prose html={post.html} />
                 <div className='sm-col-6 mx-auto'>
                     <Circle className='bg-green mint'>
-                        <Text className='mb2'>
-                            Share this post
-                        </Text>
+                        <Heading
+                            small
+                            className='mb2'
+                            children='Share this post' />
                         <ShareButtons
                             url={shareUrl}
                             text={post.tweetText} />
-                        <Text className='mt2'>
+                        <Text bold className='mt2'>
                             #ForNewYork
                         </Text>
                     </Circle>

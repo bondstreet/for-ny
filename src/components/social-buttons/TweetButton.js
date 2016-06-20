@@ -40,6 +40,7 @@ class TweetButton extends React.Component {
     render () {
         const sx = {
             display: 'inline-block',
+            margin: '0 10px',
             minHeight: 27
         }
 
