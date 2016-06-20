@@ -8,9 +8,8 @@ const BstLogo = ({ to, ...props }) => {
     const Comp = to ? Link : 'div'
 
     const sx = {
-        display: 'inline-block',
-        width: '400px',
-        height: '43px',
+        width: '250px',
+        height: '28px',
         textIndent: '-99999px',
         backgroundImage: 'url("/fornewyork/images/logos/bondstreet.svg")',
         backgroundRepeat: 'no-repeat',
@@ -18,7 +17,9 @@ const BstLogo = ({ to, ...props }) => {
     }
 
     return (
-        <Comp to={to}
+        <Comp
+            className='inline-block'
+            to={to}
             {...props}>
             <h1 style={sx}>
                 Bond Street
