@@ -8,10 +8,11 @@ npm i
 
 ## Processing and Uploading Images
 
-1. Install [vips](https://github.com/jcupitt/libvips), which the `sharp` package depends on.
+1. Install the [sharp](http://sharp.dimens.io/en/stable/) package, which requires [vips](https://github.com/jcupitt/libvips).
 
     ```sh
     brew install homebrew/science/vips
+    npm i sharp
     ```
 
 2. Create an `.aws.json` file based on `.aws.example.json` and add credentials for S3.
