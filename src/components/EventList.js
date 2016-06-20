@@ -14,6 +14,7 @@ const EventList = (props, { data }) => {
         text
     } = data.landing.eventList
 
+
     const convertDate = function(eventDate) {
         return moment(eventDate, ['YYYY-MM-DD', 'MM-DD-YYYY'])
     }
@@ -27,6 +28,11 @@ const EventList = (props, { data }) => {
         eventDetails.day = convertDate(eventDetails.date).date()
         return eventDetails.day
     };
+
+    const isPastEvent = function(eventDetails) {
+        const today = moment()
+        return moment(eventDetails.date).isBefore(today)
+    }
 
     const sortedEvents = _
         .chain(data.events.eventList)
@@ -53,6 +59,7 @@ const EventList = (props, { data }) => {
                     return (
                         <EventCard
                             key={'event' + i}
+                            isPastEvent={isPastEvent(event)}
                             {...event} />
                     )
                 })}
