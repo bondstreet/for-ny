@@ -55,9 +55,9 @@ class EventCard extends React.Component {
                     )}
                 </Heading>
                 <div className='flex-auto'>
-                    <Text caps>{this.props.title}</Text>
+                    <Text caps bold>{this.props.title}</Text>
                     {this.props.location && (
-                        <Text>{this.props.location}</Text>
+                        <Text bold>{this.props.location}</Text>
                     )}
                     {this.props.blurb && <Text style={{ lineHeight: 1.25 }} className='mt1'>{this.props.blurb}</Text>}
                 </div>
