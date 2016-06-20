@@ -9,9 +9,19 @@ const AboutBranding = ({ ...props }) => {
         <div className='md-flex inline-block items-center'
             style={{ justifyContent: 'center' }}>
             <BstLogo />
-            <Text center
-                className='ml2 mr2'
-                children='x'
+            <div
+                className='mt2 mb2 md-hide lg-hide'
+                style={{
+                    borderBottom: '1px solid #ccc',
+                    width: '250px'
+                }}
+            />
+            <div
+                className='mr2 ml2 xs-hide sm-hide'
+                style={{
+                    borderRight: '1px solid #ccc',
+                    height: '80px'
+                }}
             />
             <Logo medium />
         </div>
