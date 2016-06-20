@@ -36,7 +36,6 @@ class App extends React.Component {
                 openModal: this.openModal
             },
             leadForm: {
-                view: this.state.leadFormView,
                 submitted: this.state.leadFormSubmitted
             }
         }
