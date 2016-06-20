@@ -14,12 +14,12 @@ class Index extends React.Component {
     constructor(props) {
         super()
         this.state = {
-            leadFormView: 'interested'
+            leadFormOverride: undefined
         };
     }
 
     changeLeadFormView() {
-        this.setState({ leadFormView: 'checkOrSchedule' })
+        this.setState({ leadFormOverride: 'checkOrSchedule' })
     }
 
     render() {
@@ -32,7 +32,7 @@ class Index extends React.Component {
                 <LandingAbout
                     changeLeadFormView={this.changeLeadFormView.bind(this)} />
                 <LandingContact
-                    initialView={this.state.leadFormView} />
+                    initialView={this.state.leadFormOverride} />
                 <Footer />
             </div>
         )
