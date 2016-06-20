@@ -39,20 +39,6 @@ const LandingAbout = (props, { data }) => {
                     <Text className='mb3'
                         children={subhead} />
                     <AboutLogos logos={logos} />
-                    <Text className='mb3'
-                        children={buttonHeading} />
-                    <div className='xs-hide'>
-                        <Button
-                            is={Scroll.Link}
-                            smooth={true}
-                            duration={200}
-                            offset={-64}
-                            to='contact'
-                            mt={2}
-                            color='white'
-                            backgroundColor='black'
-                            children={aboutButton} />
-                    </div>
                 </div>
             </div>
         </Scroll.Element>

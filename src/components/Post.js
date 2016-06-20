@@ -37,7 +37,8 @@ const Post = ({ params }, { data, router }) => {
                 nextPost={nextPost} />
             <div className='center pb4' style={sx.header}>
                 <Heading mega>{post.title}</Heading>
-                <Text dangerouslySetInnerHTML={{
+                <Text bold
+                    dangerouslySetInnerHTML={{
                         __html: description
                     }} />
                 <ShareButtons

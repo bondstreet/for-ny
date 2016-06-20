@@ -18,7 +18,7 @@ const Index = (props, { data }) => {
             <LandingPosts />
             <EventList />
             <LandingAbout />
-            <LandingContact initialView="likeUs"/>
+            <LandingContact />
             <Footer />
         </div>
     )
