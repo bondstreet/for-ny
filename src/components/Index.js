@@ -3,27 +3,40 @@ import React from 'react'
 import LandingNav from './LandingNav'
 import LandingHeader from './LandingHeader'
 import LandingIntro from './LandingIntro'
-import LandingQuote from './LandingQuote'
 import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
 import EventList from './EventList'
-import LandingAboutAlt from './LandingAboutAlt'
+import LandingAbout from './LandingAbout'
 import LandingContact from './LandingContact'
 import Footer from './Footer'
 
-const Index = (props, { data }) => {
-    return (
-        <div>
-            <LandingNav />
-            <LandingHeader />
-            <LandingQuote />
-            <LandingPosts />
-            <EventList />
-            <LandingAboutAlt />
-            <LandingContact fullHeight initialView="likeUs"/>
-            <Footer />
-        </div>
-    )
+class Index extends React.Component {
+    constructor(props) {
+        super()
+        this.state = {
+            leadFormOverride: undefined
+        };
+    }
+
+    changeLeadFormView() {
+        this.setState({ leadFormOverride: 'checkOrSchedule' })
+    }
+
+    render() {
+        return (
+            <div>
+                <LandingNav />
+                <LandingHeader />
+                <LandingPosts />
+                <EventList />
+                <LandingAbout
+                    changeLeadFormView={this.changeLeadFormView.bind(this)} />
+                <LandingContact
+                    initialView={this.state.leadFormOverride} />
+                <Footer />
+            </div>
+        )
+    }
 }
 
 Index.contextTypes = {

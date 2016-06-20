@@ -25,7 +25,8 @@ const SocialPromo = (props, { data }) => {
                     className='mb2'
                     children={socialPromo.heading} />
                 <FollowButtons />
-                <Text className='mt2'>
+                <Text bold
+                    className='mt2'>
                     #ForNewYork
                 </Text>
             </Circle>

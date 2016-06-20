@@ -4,7 +4,7 @@ import classnames from 'classnames'
 import Link from './Link'
 import Heading from './Heading'
 
-const Logo = ({ to, mega, ...props }) => {
+const Logo = ({ to, medium, mega, ...props }) => {
     const Comp = to ? Link : 'div'
 
     const sx = {
@@ -22,7 +22,8 @@ const Logo = ({ to, mega, ...props }) => {
             'center',
             'caps',
             {
-                'h4': !mega,
+                'h4': !mega && !medium,
+                'h2': medium,
                 'h2 sm-h1 md-h0 lg-h00': mega
             }
         )

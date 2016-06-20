@@ -3,7 +3,7 @@ date: '2016-06-15 16:29 -0400'
 published: true
 title: 'Connie Wang '
 description: Fashion Features Director - Refinery29
-image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangYo-CAlt_w1280.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangYo-CAlt.jpg'
 tweetText: >-
   Connie Wang of @Refinery29 shares three of her favorite local businesses in
   NYC
