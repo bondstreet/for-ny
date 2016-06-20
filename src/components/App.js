@@ -17,7 +17,8 @@ class App extends React.Component {
 
         this.state = {
             modalOpen: false,
-            leadFormSubmitted: false
+            leadFormSubmitted: false,
+            leadFormView: null
         }
 
         this.closeModal = this.closeModal.bind(this)

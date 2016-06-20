@@ -3,12 +3,14 @@ import React from 'react'
 import classnames from 'classnames'
 
 const Text = ({
+    bold,
     center,
     caps,
     className,
     ...props
 }) => {
-    const cx = classnames('Text', 'bold', {
+    const cx = classnames('Text', {
+        bold,
         center,
         caps
     }, className)

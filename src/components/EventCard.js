@@ -18,8 +18,8 @@ const EventCard = ({ ...props }) => {
                 <span style={{ letterSpacing: 0 }}>{props.day}</span>
             </Heading>
             <div className='flex-auto'>
-                <Text caps>{props.title}</Text>
-                <Text>{props.location}</Text>
+                <Text caps bold>{props.title}</Text>
+                <Text bold>{props.location}</Text>
                 {props.blurb && <Text style={{ lineHeight: 1.25 }}>{props.blurb}</Text>}
             </div>
             {props.link && (
