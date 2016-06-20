@@ -80,8 +80,11 @@ class LeadForm extends React.Component {
 
     componentDidMount() {
         const leadCapture = require('bondstreet_web/assets/js/lib/lead-capture')
-
         this.createLead = leadCapture.createLead
+    }
+
+    componentWillReceiveProps(nextProps) {
+        this.state.view = nextProps.initialView
     }
 
     render () {

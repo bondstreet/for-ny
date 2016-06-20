@@ -7,7 +7,7 @@ import Text from './Text'
 import AboutBranding from './AboutBranding'
 import AboutLogos from './AboutLogos'
 
-const LandingAbout = (props, { data }) => {
+const LandingAbout = ({...props}, { data }) => {
     const {
         text,
         subhead,
@@ -31,9 +31,21 @@ const LandingAbout = (props, { data }) => {
                         <AboutBranding />
                     </div>
                     <Text center
-                        className='mb4'
+                        className='mb3'
                         dangerouslySetInnerHTML={{ __html: text }}
                     />
+                    <div className='center mb3'>
+                        <Button
+                            onClick={props.changeLeadFormView}
+                            is={Scroll.Link}
+                            smooth={true}
+                            duration={200}
+                            offset={-64}
+                            to='contact'
+                            color='white'
+                            backgroundColor='black'
+                            children={aboutButton} />
+                    </div>
                 </Container>
                 <div className='center'>
                     <Text className='mb3'
