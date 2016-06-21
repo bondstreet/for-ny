@@ -19,13 +19,13 @@ const Post = ({ params }, { data, router }) => {
     const { posts } = data
     const index = findIndex(posts, p => p.name === params.name)
     const post = posts[index]
-    const previousPost = posts[index - 1] || false
-    const nextPost = posts[index + 1] || false
+    const previousPost = posts[index - 1] || posts[posts.length - 1]
+    const nextPost = posts[index + 1] || posts[0]
     const description = sanitize(post.description)
 
     const sx = {
         header: {
-            paddingTop: 162
+            paddingTop: 120
         }
     }
 
@@ -49,27 +49,28 @@ const Post = ({ params }, { data, router }) => {
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
                     <PostHeroImage
-                        className='mb3'
+                        className='mb2'
                         src={post.image}
                         caption={post.imageCaption} />
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>
-                <Heading center className='py4'>
+                <Heading center className='py2'>
                     What are 3 of your favorite small businesses in New York?
                 </Heading>
             </Container>
-            <Container style={{ maxWidth: 1024 }} px={3} py={4}>
+            <Container style={{ maxWidth: 1024 }} px={3} py={2}>
                 <Prose html={post.html} />
-                <div className='sm-col-6 mx-auto'>
+                <div className='sm-col-6 mx-auto my4'>
                     <Circle className='bg-green mint'>
-                        <Text className='mb2'>
-                            Share this post
-                        </Text>
+                        <Heading
+                            small
+                            className='mb2'
+                            children='Share this post' />
                         <ShareButtons
                             url={shareUrl}
                             text={post.tweetText} />
-                        <Text className='mt2'>
+                        <Text bold className='mt2'>
                             #ForNewYork
                         </Text>
                     </Circle>

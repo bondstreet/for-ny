@@ -30,9 +30,9 @@ class EventCard extends React.Component {
 
     render() {
         return (
-            <div className='md-flex mb4' style={{ alignItems: 'flex-start' }}>
+            <div className='md-flex mb3' style={{ alignItems: 'flex-start' }}>
                 <Heading
-                    className='mr2 center'
+                    className='mr2 mb1 center'
                     style={{
                         position: 'relative',
                         border: '3px solid',
@@ -54,14 +54,14 @@ class EventCard extends React.Component {
                         ></canvas>
                     )}
                 </Heading>
-                <div className='flex-auto'>
+                <div className='flex-auto mr3'>
                     <Text caps bold>{this.props.title}</Text>
                     {this.props.location && (
                         <Text bold>{this.props.location}</Text>
                     )}
                     {this.props.blurb && <Text style={{ lineHeight: 1.25 }} className='mt1'>{this.props.blurb}</Text>}
                 </div>
-                <div className='ml3'
+                <div
                     style={{ flexBasis: 128 }}>
                     {(this.props.link && !this.props.isPastEvent) && (
                         <a href={this.props.link}
