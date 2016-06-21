@@ -30,7 +30,7 @@ class EventCard extends React.Component {
 
     render() {
         return (
-            <div className='md-flex mb4' style={{ alignItems: 'flex-start' }}>
+            <div className='md-flex mb3' style={{ alignItems: 'flex-start' }}>
                 <Heading
                     className='mr2 mb1 center'
                     style={{
