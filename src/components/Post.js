@@ -38,6 +38,7 @@ const Post = ({ params }, { data, router }) => {
             <div className='center pb4' style={sx.header}>
                 <Heading mega>{post.title}</Heading>
                 <Text bold
+                    className='mb1'
                     dangerouslySetInnerHTML={{
                         __html: description
                     }} />

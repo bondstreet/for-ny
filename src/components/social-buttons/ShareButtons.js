@@ -9,13 +9,11 @@ class ShareButtons extends React.Component {
     }
 
     componentDidMount() {
-        console.log('mount')
         this.createDiv()
         this.initButtons()
     }
 
     componentDidUpdate() {
-        console.log('update')
         this.createDiv()
         this.initButtons()
     }
@@ -53,7 +51,7 @@ class ShareButtons extends React.Component {
 
     render() {
         return (
-            <div className='shareButtons' ref='root' />
+            <div ref='root' />
         )
     }
 }
