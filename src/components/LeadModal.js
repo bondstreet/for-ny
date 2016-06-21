@@ -31,6 +31,12 @@ class LeadModal extends React.Component {
                 open={open}
             >
                 <section className='white bg-black px3 py4 max-width-2'>
+                    <span onClick={closeModal} className='absolute' style={{
+                        top: '6px',
+                        right: '16px',
+                        cursor: 'pointer',
+                        fontSize: '26px'
+                    }}>x</span>
                     <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete} initialView={initialView} />
                 </section>
             </Overlay>
