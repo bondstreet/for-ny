@@ -7,12 +7,6 @@ import Logo from './Logo'
 import Heading from './Heading'
 
 const PostNav = ({ previousPost, nextPost }) => {
-    const sx = {
-        root: {
-            tableLayout: 'fixed'
-        }
-    }
-
     const cx = {
         root: classnames(
             'PostNav',
@@ -25,18 +19,18 @@ const PostNav = ({ previousPost, nextPost }) => {
         )
     }
     return (
-        <nav className={cx.root} style={sx.root}>
-            <div className='table-cell '>
+        <nav className={cx.root}>
+            <div className='table-cell align-middle col-4'>
                 <NavItem to='/posts'
                     icon='close'>
                     Close
                 </NavItem>
             </div>
-            <div className='table-cell center'>
+            <div className='table-cell align-middle center col-4'>
                 <Logo to='/' />
             </div>
-            <div className='xs-hide sm-hide table-cell right-align'>
-                <div className='table col-12'>
+            <div className='table-cell align-middle right-align col-4'>
+                <div className='table col-12 xs-hide sm-hide'>
                     <NavItem
                         icon='chevronLeft'
                         disabled={!previousPost}

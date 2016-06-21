@@ -3,6 +3,8 @@
 
 .table-fixed { table-layout: fixed }
 
+.md-fixed { position: absolute }
+
 @media (--breakpoint-sm) {
     .sm-fixed { position: fixed }
     .sm-table { display: table }

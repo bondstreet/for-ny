@@ -45,14 +45,14 @@ const EventList = (props, { data }) => {
             id='events'
             className='min-height-100 bg-orange px2 py4'>
             <Container>
-                <div className='center'>
+                <div className='center mb3'>
                     <Heading center
                         mega
                         caps
                         className='mb1'
                         children={heading} />
                     {text && (
-                        <Text children={text} className='mb4' />
+                        <Text children={text} />
                     )}
                 </div>
                 {sortedEvents.map((event, i) => {

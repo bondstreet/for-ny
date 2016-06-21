@@ -19,7 +19,7 @@ const PostIndex = (props, { data }) => {
 
     return (
         <div className='bg-peach'>
-            <header className='table col-12 p2'>
+            <header className='table col-12 p2 md-fixed z2 bg-peach'>
                 <div className='table-cell align-middle col-4'>
                     <NavItem to='/#stories'
                         icon='close'>
@@ -37,7 +37,8 @@ const PostIndex = (props, { data }) => {
                 mega
                 caps
                 className='mb3'
-                children={heading} />
+                children={heading}
+                style={{ paddingTop: '120px' }} />
             <Container style={{ maxWidth: 1280 }}>
                 {text && (
                     <Text children={text} className='mb4' />
