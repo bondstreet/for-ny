@@ -1,6 +1,9 @@
 node_modules
 npm-debug.log
 dist
+tmp/*.jpg
+tmp/processed/*.jpg
+.aws.json
 .idea
 .DS_Store
 

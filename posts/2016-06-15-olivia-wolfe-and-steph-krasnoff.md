@@ -12,7 +12,7 @@ socialBlurb: >-
   businesses in NYC.
 ---
 
-![Grass Roots Juicery](/fornewyork/images/OliviaWolfeandStephKrasnoffGrassRootsJuiceryMain.jpg)
+![Grass Roots Juicery](https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffGrassRootsJuiceryMain.jpg)
 
 ## Grass Roots Juicery
 
@@ -20,7 +20,7 @@ _Olivia_: Grass Roots is owned by one of our closest friends, Sabrina Diaz. I lo
 
 _Steph_: Since Sabrina’s so involved, she can react really quickly to what the community and her customers want. What’s also great is that the momentum around the business has really picked up, so Sabrina’s been able to expand and build out a retail component in the shop. That’s allowing Juice Press to become a much fuller lifestyle brand, which sets it apart from other spots that might just sell food and drinks.
 
-![Baz Bagels](/fornewyork/images/OliviaWolfeandStephKrasnoffBazBagelsMain.jpg)
+![Baz Bagels](https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffBazBagelsMain.jpg)
 
 ## Baz Bagels
 
@@ -30,7 +30,7 @@ _Olivia_: Plus they have a Two Shot salad on the menu that’s named after us!
 
 ## American Two Shot
 
-![American Two Shot](/fornewyork/images/OliviaWolfeandStephKrasnoffAmericanTwoShotAlt.jpg)
+![American Two Shot](https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotAlt.jpg)
 
 _Olivia_: This might be a little self-celebratory, but Two Shot is the reason we’re so close to a lot of other local businesses; it’s why we’ve been able to realize how important it is to support people going through the same things we experience. Whether it’s just shouting another spot out in an interview or telling all of your customers to go somewhere, it’s great to be part of that support system and community.
 
