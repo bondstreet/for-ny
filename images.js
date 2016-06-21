@@ -122,7 +122,11 @@ const images = fs.readdirSync(DIR)
 console.log('Processing ' + images.length + ' images')
 
 images.forEach((filepath) => {
-    processImage(filepath)
+    // Normalize file name
+    const file = filepath.replace(/\s|[^a-zA-Z0-9.]/g, '-')
+    fs.renameSync(path.join(__dirname, 'tmp', filepath), path.join(__dirname, 'tmp', file))
+
+    processImage(file)
         .then((results) => {
             console.log(results)
             results.forEach((filename) => {
