@@ -1,16 +1,7 @@
-.fb_iframe_widget iframe,
-.twitter-share-button-rendered,
-.twitter-follow-button-rendered {
-    margin: 0 15px;
-    transform: scale(1.2);
+.nav-share-button .addthis_sharing_toolbox {
+    transform: scale(.75);
 }
 
-.twitter-share-button-rendered,
-.twitter-follow-button-rendered {
-    position: relative !important;
-    top: 7px;
-}
-
-.nav-share-button .fb_iframe_widget {
-    top: -5px;
+.nav-share-button .addthis_sharing_toolbox .at-svc-twitter {
+    display: none;
 }

@@ -38,11 +38,12 @@ const Post = ({ params }, { data, router }) => {
             <div className='center pb4' style={sx.header}>
                 <Heading mega>{post.title}</Heading>
                 <Text bold
+                    className='mb1'
                     dangerouslySetInnerHTML={{
                         __html: description
                     }} />
                 <ShareButtons
-                    url={shareUrl}
+                    title={post.title}
                     text={post.tweetText}
                 />
             </div>
@@ -68,7 +69,7 @@ const Post = ({ params }, { data, router }) => {
                             className='mb2'
                             children='Share this post' />
                         <ShareButtons
-                            url={shareUrl}
+                            title={post.title}
                             text={post.tweetText} />
                         <Text bold className='mt2'>
                             #ForNewYork
