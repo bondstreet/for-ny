@@ -19,8 +19,8 @@ const Post = ({ params }, { data, router }) => {
     const { posts } = data
     const index = findIndex(posts, p => p.name === params.name)
     const post = posts[index]
-    const previousPost = posts[index - 1] || false
-    const nextPost = posts[index + 1] || false
+    const previousPost = posts[index - 1] || posts[posts.length - 1]
+    const nextPost = posts[index + 1] || posts[0]
     const description = sanitize(post.description)
 
     const sx = {
