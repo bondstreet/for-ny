@@ -1,6 +1,6 @@
 ---
 date: '2016-06-21 10:55 -0400'
-published: false
+published: true
 title: Brent Rollins
 description: 'artist, art director, and designer'
 image: 'https://s3.amazonaws.com/bst-fornyc/brent-rollins-portrait.jpg'
