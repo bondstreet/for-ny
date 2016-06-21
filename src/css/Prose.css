@@ -27,13 +27,6 @@
     margin-bottom: var(--space-2);
 }
 
-.Prose p:after {
-    content: ' ';
-    display: table;
-    width: 100%;
-    clear: both;
-}
-
 .Prose p {
     font-family: 'Rasmus-Regular', Georgia, serif;
     margin-bottom: var(--space-3);
