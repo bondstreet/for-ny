@@ -5,7 +5,6 @@ import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
-import FacebookShareButton from './social-buttons/FacebookShareButton'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -92,9 +91,7 @@ class LandingNav extends React.Component {
                 <div
                     style={{ width: '120px' }}
                     className='nav-share-button nowrap inline-block align-middle mx2 my1'>
-                    <FacebookShareButton
-                        url='https://bondstreet.com/fornewyork'
-                        isNav={true} />
+                    share button
                 </div>
             </nav>
         )

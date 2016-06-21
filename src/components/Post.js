@@ -42,7 +42,7 @@ const Post = ({ params }, { data, router }) => {
                         __html: description
                     }} />
                 <ShareButtons
-                    url={shareUrl}
+                    title={post.title}
                     text={post.tweetText}
                 />
             </div>
@@ -67,7 +67,7 @@ const Post = ({ params }, { data, router }) => {
                             Share this post
                         </Text>
                         <ShareButtons
-                            url={shareUrl}
+                            title={post.title}
                             text={post.tweetText} />
                         <Text className='mt2'>
                             #ForNewYork
