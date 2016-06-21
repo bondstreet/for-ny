@@ -5,6 +5,7 @@ import { ButtonOutline } from 'rebass'
 import classnames from 'classnames'
 import NavItem from './NavItem'
 import Logo from './Logo'
+import ShareButtons from './social-buttons/ShareButtons'
 
 class LandingNav extends React.Component {
     constructor () {
@@ -88,10 +89,8 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
-                <div
-                    style={{ width: '120px' }}
-                    className='nav-share-button nowrap inline-block align-middle mx2 my1'>
-                    share button
+                <div className='nav-share-button nowrap inline-block align-middle mx2 my1'>
+                    <ShareButtons isNav={true} />
                 </div>
             </nav>
         )

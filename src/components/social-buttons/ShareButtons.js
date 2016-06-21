@@ -14,8 +14,10 @@ class ShareButtons extends React.Component {
     }
 
     componentDidUpdate() {
-        this.createDiv()
-        this.initButtons()
+        if (!this.props.isNav) {
+            this.createDiv()
+            this.initButtons()
+        }
     }
 
     initButtons() {
