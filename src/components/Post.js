@@ -61,7 +61,7 @@ const Post = ({ params }, { data, router }) => {
             </Container>
             <Container style={{ maxWidth: 1024 }} px={3} py={2}>
                 <Prose html={post.html} />
-                <div className='sm-col-6 mx-auto'>
+                <div className='sm-col-6 mx-auto my4'>
                     <Circle className='bg-green mint'>
                         <Heading
                             small

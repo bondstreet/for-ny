@@ -39,6 +39,10 @@
     margin-bottom: var(--space-3);
 }
 
+.Prose h2:nth-of-type(4) {
+    margin-top: var(--space-4);
+}
+
 @media (--breakpoint-sm) {
     .Prose img {
         max-width: calc(7 / 12 * 100%);
