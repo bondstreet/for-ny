@@ -1,6 +1,6 @@
 ---
 date: '2016-06-20 17:01 -0400'
-published: false
+published: true
 title: Grace Gordon
 image: 'https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Main-Portrait.jpg'
 tweetText: >-
