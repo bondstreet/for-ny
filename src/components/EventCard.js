@@ -4,31 +4,76 @@ import moment from 'moment'
 import Heading from './Heading'
 import Text from './Text'
 
-const EventCard = ({ ...props }) => {
-    return (
-        <div className='md-flex mb4' style={{ alignItems: 'flex-start' }}>
-            <Heading
-                className='mr2 center'
-                style={{
-                    border: '3px solid',
-                    flexShrink: 0,
-                    flexBasis: 128
-                }}>
-                <Text caps>{moment(props.month, 'MM').format('MMM')}</Text>
-                <span style={{ letterSpacing: 0 }}>{props.day}</span>
-            </Heading>
-            <div className='flex-auto'>
-                <Text caps>{props.title}</Text>
-                <Text>{props.location}</Text>
-                {props.blurb && <Text style={{ lineHeight: 1.25 }}>{props.blurb}</Text>}
-            </div>
-            {props.link && (
-                <div>
-                    <a href={props.link} className='h3 bold color-inherit caps'>RSVP</a>
+class EventCard extends React.Component {
+
+    constructor(props) {
+        super()
+    }
+
+    crossOutPastEvent(id) {
+        const canvas = document.getElementById(id)
+        const context = canvas.getContext('2d')
+        context.beginPath()
+        context.moveTo(0, 0)
+        context.lineTo(canvas.width, canvas.height)
+        context.moveTo(canvas.width, 0)
+        context.lineTo(0, canvas.height)
+        context.lineWidth = 4
+        context.stroke()
+    }
+
+    componentDidMount() {
+        if (this.props.isPastEvent) {
+            this.crossOutPastEvent('event' + this.props.date)
+        }
+    }
+
+    render() {
+        return (
+            <div className='md-flex mb4' style={{ alignItems: 'flex-start' }}>
+                <Heading
+                    className='mr2 center'
+                    style={{
+                        position: 'relative',
+                        border: '3px solid',
+                        flexShrink: 0,
+                        flexBasis: 128,
+                    }}>
+                    <Text caps>{moment(this.props.month, 'MM').format('MMM')}</Text>
+                    <span style={{ letterSpacing: 0 }}>{this.props.day}</span>
+                    {this.props.isPastEvent && (
+                        <canvas
+                            id={'event' + this.props.date}
+                            style={{
+                                position: 'absolute',
+                                top: 0,
+                                left: 0,
+                                height: '100%',
+                                width: '100%'
+                            }}
+                        ></canvas>
+                    )}
+                </Heading>
+                <div className='flex-auto'>
+                    <Text caps bold>{this.props.title}</Text>
+                    {this.props.location && (
+                        <Text bold>{this.props.location}</Text>
+                    )}
+                    {this.props.blurb && <Text style={{ lineHeight: 1.25 }} className='mt1'>{this.props.blurb}</Text>}
                 </div>
-            )}
-        </div>
-    )
+                <div className='ml3'
+                    style={{ flexBasis: 128 }}>
+                    {(this.props.link && !this.props.isPastEvent) && (
+                        <a href={this.props.link}
+                            style={{ fontSize: '24px' }}
+                            className='h3 bold color-inherit caps'>
+                            RSVP
+                        </a>
+                    )}
+                </div>
+            </div>
+        )
+    }
 }
 
 export default EventCard

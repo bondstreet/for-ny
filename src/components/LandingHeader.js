@@ -39,7 +39,7 @@ const LandingHeader = (props, { rebass, data }) => {
                                 smooth={true}
                                 duration={200}
                                 offset={-64}
-                                to='intro'
+                                to='stories'
                                 mt={2}
                                 color='mint'
                                 backgroundColor='black'

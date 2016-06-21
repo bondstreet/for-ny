@@ -4,7 +4,7 @@
     "headerButton": "Start",
     "postList": {
         "heading": "Stories",
-        "text": "We’ve gathered a community of entrepreneurs, civilians and celebrities who are sharing their favorite local establishments and the importance of supporting independent business."
+        "text": ""
     },
     "quote": {
         "text": "“I think small businesses are fucking vital to the lifeblood”",
@@ -16,13 +16,12 @@
     },
     "eventList": {
         "heading": "Events",
-        "text": "We’ve gathered the city’s leading luminaries to discuss the trials and tactics of building successful businesses. Come hang and learn what it takes!"
+        "text": ""
     },
     "about": {
-        "heading": "We Make Loans. Honestly.",
-        "text": "Bond Street is more than a lender - we’re a community, a promise to build real relationships, and a financial advocate to help you take the next big step for your business. We are committed to helping the business owners that make NYC the best city in the world.",
-        "subhead": "Bond Street supports some of NYC’s finest",
-        "aboutButton": "Get in touch",
+        "text": "<strong>Why For New York?</strong><br> Because, more than ever, it’s crucial that we support the independent businesses that make New York the greatest city in the world.<br><br> <strong>…and Bond Street?</strong><br> Bond Street offers independent businesses a simple, fast, and transparent way to finance growth.<br><br> We’d love to learn more about your goals and tell you a little more about us, as well.",
+        "subhead": "We’re proud to work with some of New York’s finest:",
+        "aboutButton": "Schedule a call",
         "valueProps": [
             {
                 "label": "Term loans from",
