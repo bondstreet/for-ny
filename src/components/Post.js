@@ -25,7 +25,7 @@ const Post = ({ params }, { data, router }) => {
 
     const sx = {
         header: {
-            paddingTop: 162
+            paddingTop: 120
         }
     }
 
@@ -49,17 +49,17 @@ const Post = ({ params }, { data, router }) => {
             {post.image && (
                 <Container style={{ maxWidth: 1280 }}>
                     <PostHeroImage
-                        className='mb3'
+                        className='mb2'
                         src={post.image}
                         caption={post.imageCaption} />
                 </Container>
             )}
             <Container px={3} style={{ maxWidth: 768 }}>
-                <Heading center className='py4'>
+                <Heading center className='py2'>
                     What are 3 of your favorite small businesses in New York?
                 </Heading>
             </Container>
-            <Container style={{ maxWidth: 1024 }} px={3} py={4}>
+            <Container style={{ maxWidth: 1024 }} px={3} py={2}>
                 <Prose html={post.html} />
                 <div className='sm-col-6 mx-auto'>
                     <Circle className='bg-green mint'>

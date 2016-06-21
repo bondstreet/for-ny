@@ -3,7 +3,7 @@
 
 .table-fixed { table-layout: fixed }
 
-.xs-absolute { position: absolute }
+.md-fixed { position: absolute }
 
 @media (--breakpoint-sm) {
     .sm-fixed { position: fixed }
@@ -12,7 +12,6 @@
 }
 
 @media (--breakpoint-md) {
-    .xs-absolute { position: static }
     .md-fixed { position: fixed }
 }
 

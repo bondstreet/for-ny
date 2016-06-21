@@ -19,7 +19,7 @@ const PostIndex = (props, { data }) => {
 
     return (
         <div className='bg-peach'>
-            <header className='table col-12 p2 xs-absolute md-fixed z2 bg-peach'>
+            <header className='table col-12 p2 md-fixed z2 bg-peach'>
                 <div className='table-cell align-middle col-4'>
                     <NavItem to='/#stories'
                         icon='close'>
