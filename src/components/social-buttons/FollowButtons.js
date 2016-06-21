@@ -2,53 +2,43 @@
 import React from 'react'
 
 class FollowButtons extends React.Component {
-    constructor () {
+    constructor(props) {
         super()
-        this.refresh = this.refresh.bind(this)
-        this.createFollowButton = this.createFollowButton.bind(this)
+        this.createDiv = this.createDiv.bind(this)
+        this.initButtons = this.initButtons.bind(this)
     }
 
-    componentDidMount () {
-        this.createFollowButton()
-        this.refresh()
+    componentDidMount() {
+        this.createDiv()
+        this.initButtons()
     }
 
-    componentDidUpdate () {
-        this.refresh()
+    componentDidUpdate() {
+        this.createDiv()
+        this.initButtons()
     }
 
-    createFollowButton () {
-        const link = document.createElement('a')
-        link.className = 'twitter-follow-button'
-        link.setAttribute('data-show-count', false)
-        link.href = 'https://twitter.com/onbondstreet'
-        link.textContent = 'Follow @onbondstreet'
-        this.refs.twitter.appendChild(link)
-    }
-
-    refresh () {
-        if (typeof twttr !== 'undefined') {
-            twttr.widgets.load(this.refs.twitter)
-        }
-        if (typeof FB !== 'undefined') {
-            FB.XFBML.parse(this.refs.facebook)
+    initButtons() {
+        if (typeof addthis !== 'undefined') {
+            addthis.layers.refresh()
         }
     }
 
-    render () {
+    createDiv () {
+        var wrap = this.refs.root
+        while(wrap.firstChild) wrap.removeChild(wrap.firstChild)
+
+        const div = document.createElement('div')
+        div.className = 'addthis_horizontal_follow_toolbox'
+        div.style = 'display: inline-block'
+        this.refs.root.appendChild(div)
+    }
+
+    render() {
         return (
-            <div ref='root'>
-                <div ref='facebook' style={{ display: 'inline-block', margin: '0 20px' }}>
-                    <div className='fb-follow'
-                        data-href='https://www.facebook.com/onbondstreet'
-                        data-layout='button_count'
-                        data-show-faces='false'></div>
-                </div>
-                <div ref='twitter' style={{ display: 'inline-block', margin: '0 20px' }} />
-            </div>
+            <div ref='root' />
         )
     }
 }
 
 export default FollowButtons
-

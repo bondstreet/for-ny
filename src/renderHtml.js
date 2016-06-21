@@ -51,8 +51,6 @@ const Html = ({ app, ...props }) => (
     <html>
         <Head {...props} />
         <body>
-            <div id='fb-root'></div>
-            <script dangerouslySetInnerHTML={{ __html: facebook }} />
             <div id='app'
                 dangerouslySetInnerHTML={{ __html: app }} />
             <script id='data'
@@ -60,7 +58,7 @@ const Html = ({ app, ...props }) => (
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(props) }} />
             <script src={props.baseurl + script} />
             <script dangerouslySetInnerHTML={{ __html: gtmScript }} />
-            <script dangerouslySetInnerHTML={{ __html: twitter }} />
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57699120194cbb8a"></script>
         </body>
     </html>
 )
