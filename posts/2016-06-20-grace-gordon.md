@@ -2,17 +2,30 @@
 date: '2016-06-20 17:01 -0400'
 published: false
 title: Grace Gordon
+image: 'https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Main-Portrait.jpg'
+tweetText: >-
+  Grace Gordon, brand director @Refinery29, shares three of her favorite local
+  businesses in NYC
+socialBlurb: >-
+  Refinery 29 brand director, Grace Gordon shares three of her favorite local
+  businesses in NYC.
+description: 'brand director, Refinery29'
 ---
+![Saved Tatoo](https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Saved-Tattoo.jpg)
 
 ## Saved Tattoo
 
 I found Saved because I followed Tamara Santibañez there from her last tattoo shop. The first time she tattooed me, I knew I'd found 'The One' and wouldn't need to be tattooed by anyone else again. Being tattooed by a woman (particularly one whose style and overall creative ethos I admire) has a totally distinct energy to it; Tamara isn't the only talented woman in residency at Saved, and the female presence there gives the shop its unique vibe. After 10 or so years of non-committal ink dabbling across cities, states, and continents, I found my endgame in TS and Saved.
+
+![St. Anselm](https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-St-Anselm.jpg)
 
 ## St. Anselm
 
 St. Anselm is the first restaurant I took my dad to when he visited me for the first time in NY; he's a chill old Australian dude with a refined palate for steak, orange juice and the Grateful Dead.
 
 Needless to say, he loved this place because it is arguably the dopest, most flavorful steak (especially at this price tag) in BK. Since receiving dad's inaugural blessing, St. Anselm has become my de facto celebration meal spot. It doesn't hurt that every time I swing through there's a bunch of badass ladies in the kitchen running shit with nary a Gordon Ramsey looking alpha chef fuccboi in sight.
+
+![Veggies Natural Juice Bar](https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Veggies.jpg)
 
 ## Veggies Natural Juice Bar
 
