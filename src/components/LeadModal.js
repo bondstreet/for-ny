@@ -1,6 +1,6 @@
 
 import React from 'react'
-import { Overlay } from 'rebass'
+import { Overlay, Close } from 'rebass'
 import LeadForm from './LeadForm'
 
 
@@ -31,6 +31,13 @@ class LeadModal extends React.Component {
                 open={open}
             >
                 <section className='white bg-black px3 py4 max-width-2'>
+                    <Close onClick={closeModal} style={{
+                        top: '10px',
+                        right: '14px',
+                        cursor: 'pointer',
+                        fontSize: '26px',
+                        position: 'absolute'
+                    }} />
                     <LeadForm instanceName='fornyc__modal' onComplete={this.onComplete} initialView={initialView} />
                 </section>
             </Overlay>
