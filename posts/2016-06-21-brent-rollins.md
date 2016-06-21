@@ -5,6 +5,7 @@ title: Brent Rollins
 description: 'artist, art director, and designer'
 image: 'https://s3.amazonaws.com/bst-fornyc/brent-rollins-portrait.jpg'
 ---
+![Mast Books](https://s3.amazonaws.com/bst-fornyc/Brent-Rollins-Mast-Books.jpg)
 
 ## Mast Books
 
@@ -25,4 +26,3 @@ So if I’ve been going to Fatoosh for 19 out of the 20 years I’ve lived in th
 ## Why is it important to support independent businesses?
 
 One of the reasons that I left California twenty years ago and moved to New York was because I disliked how many chain stores there were all over LA. I understand that there a lot of geographical and socioeconomic reasons that account for why it’s like that, but I really appreciated coming to New York and having individual, one-on-one experiences with business owners...I value how human that experience is immensely. It’s painfully apparent how that’s starting to fade away now, and I hope all of us who live in New York continue to support the businesses that provide you with the experiences you’d never get elsewhere.
-
