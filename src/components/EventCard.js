@@ -61,8 +61,7 @@ class EventCard extends React.Component {
                     )}
                     {this.props.blurb && <Text style={{ lineHeight: 1.25 }} className='mt1'>{this.props.blurb}</Text>}
                 </div>
-                <div
-                    style={{ flexBasis: 128 }}>
+                <div style={{ flexBasis: 110 }}>
                     {(this.props.link && !this.props.isPastEvent) && (
                         <a href={this.props.link}
                             style={{ fontSize: '24px' }}
