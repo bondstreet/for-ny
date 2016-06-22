@@ -9,13 +9,11 @@ class FollowButtons extends React.Component {
     }
 
     componentDidMount() {
-        console.log('follow mount')
         this.createDiv()
         this.initButtons()
     }
 
     componentDidUpdate() {
-        console.log('follow update')
         this.createDiv()
         this.initButtons()
     }
