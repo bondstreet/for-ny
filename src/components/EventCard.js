@@ -36,8 +36,7 @@ class EventCard extends React.Component {
                     style={{
                         position: 'relative',
                         border: '3px solid',
-                        flexShrink: 0,
-                        flexBasis: 128,
+                        flex: '1 0 128px'
                     }}>
                     <Text caps>{moment(this.props.month, 'MM').format('MMM')}</Text>
                     <span style={{ letterSpacing: 0 }}>{this.props.day}</span>
@@ -61,7 +60,7 @@ class EventCard extends React.Component {
                     )}
                     {this.props.blurb && <Text style={{ lineHeight: 1.25 }} className='mt1'>{this.props.blurb}</Text>}
                 </div>
-                <div style={{ flexBasis: 110 }}>
+                <div className='right-align' style={{ flex: '1 0 128px' }}>
                     {(this.props.link && !this.props.isPastEvent) && (
                         <a href={this.props.link}
                             style={{ fontSize: '24px' }}
