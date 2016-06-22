@@ -2,7 +2,8 @@
 date: '2016-06-17 14:35 -0400'
 published: true
 title: David Chang
-image: 'https://s3.amazonaws.com/bst-fornyc/David-Chang-Head-Shot.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/David-Chang-2.jpg'
+description: 'chef, restaurateur, entrepreneur '
 ---
 
 ## Sei-Tomoko
