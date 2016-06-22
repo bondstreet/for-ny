@@ -9,11 +9,13 @@ class FollowButtons extends React.Component {
     }
 
     componentDidMount() {
+        console.log('follow mount')
         this.createDiv()
         this.initButtons()
     }
 
     componentDidUpdate() {
+        console.log('follow update')
         this.createDiv()
         this.initButtons()
     }
@@ -30,7 +32,6 @@ class FollowButtons extends React.Component {
 
         const div = document.createElement('div')
         div.className = 'addthis_horizontal_follow_toolbox'
-        div.style = 'display: inline-block'
         this.refs.root.appendChild(div)
     }
 

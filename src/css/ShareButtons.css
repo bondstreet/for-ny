@@ -5,3 +5,7 @@
 .nav-share-button .addthis_sharing_toolbox .at-svc-twitter {
     display: none;
 }
+
+.addthis_horizontal_follow_toolbox {
+    display: inline-block;
+}
