@@ -37,11 +37,14 @@ const Post = ({ params }, { data, router }) => {
                 nextPost={nextPost} />
             <div className='center pb4' style={sx.header}>
                 <Heading mega>{post.title}</Heading>
-                <Text bold
-                    className='mb1'
-                    dangerouslySetInnerHTML={{
-                        __html: description
-                    }} />
+                {post.description && (
+                    <Text bold
+                        className='mb1'
+                        dangerouslySetInnerHTML={{
+                            __html: description
+                        }} />
+
+                )}
                 <ShareButtons
                     title={post.title}
                     text={post.tweetText}
