@@ -1,7 +1,8 @@
 ---
 date: '2016-06-17 14:35 -0400'
-published: false
+published: true
 title: David Chang
+image: 'https://s3.amazonaws.com/bst-fornyc/David-Chang-Head-Shot.jpg'
 ---
 
 ## Sei-Tomoko
