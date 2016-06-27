@@ -1,6 +1,6 @@
 ---
 date: '2016-06-27 10:09 -0400'
-published: false
+published: true
 title: John McPheters
 description: 'co-founder, Stadium Goods'
 image: 'https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Main%20Portrait.jpg'
