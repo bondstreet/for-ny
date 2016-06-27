@@ -1,6 +1,6 @@
 ---
 date: '2016-06-27 10:04 -0400'
-published: false
+published: true
 title: Jayne Lies
 image: 'https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Main%20Portrait.jpg'
 description: photographer
