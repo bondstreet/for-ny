@@ -1,11 +1,9 @@
 ---
 title: Craig Costello
-date: 2016-06-07
-description: Artist and founder, <a href="http://shop.krink.com">KRINK</a>
+date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
+description: 'Artist and founder, <a href="http://shop.krink.com">KRINK</a>'
 published: false
-image:
-socialBlurb:
-tweetText:
+image: 'https://s3.amazonaws.com/bst-fornyc/Craig_Costello.jpg'
 ---
 
 ## The Strand
