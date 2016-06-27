@@ -1,6 +1,6 @@
 ---
 date: '2016-06-27 10:15 -0400'
-published: false
+published: true
 title: Graham Browne
 description: 'founder, Forte Preparatory Academy'
 image: 'https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Main%20Portrait.jpg'
@@ -23,4 +23,3 @@ I struggle with this: do I tell everyone how good this place is or do I tell no 
 
 ## Why is it important to support independent businesses?
 It is important to support independent businesses because independent businesses define my neighborhood. They’re responsible for bringing and maintaining the personality, culture, and flavors that make Jackson Heights what it is. I can't imagine my neighborhood without them.
-
