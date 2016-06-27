@@ -1,6 +1,6 @@
 ---
 date: '2016-06-27 10:29 -0400'
-published: false
+published: true
 title: Anna Sheffield
 image: 'https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Main%20Portrait.jpg'
 description: 'founder, creative director - Anna Sheffield and Bing Bang'
@@ -23,4 +23,4 @@ Next we wandered straight into my urban oasis - The Sill. I actually met The Sil
 
 ## Why is it important to support independent businesses?
 
-All of the places we visited are a just short walk from each other and from my business. I feel like there is a strong feeling of solidarity that emerges from that, which is something quite unique to the New York small business experience. And the best thing is that there are so many more we could have seen! 
+All of the places we visited are a just short walk from each other and from my business. I feel like there is a strong feeling of solidarity that emerges from that, which is something quite unique to the New York small business experience. And the best thing is that there are so many more we could have seen!
