@@ -1,6 +1,6 @@
 ---
 date: '2016-06-28 12:50 -0400'
-published: false
+published: true
 title: Claudia Pearson
 description: >-
   designer, <a href="https://www.etsy.com/shop/claudiagpearson">Claudia
