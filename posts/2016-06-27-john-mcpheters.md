@@ -2,7 +2,7 @@
 date: '2016-06-27 10:09 -0400'
 published: true
 title: John McPheters
-description: 'co-founder, Stadium Goods'
+description: 'co-founder - <a href="http://www.stadiumgoods.com/">Stadium Goods</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Main%20Portrait.jpg'
 ---
 ![Noah](https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20NOAH%20Main.jpg)
