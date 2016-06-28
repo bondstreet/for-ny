@@ -1,8 +1,8 @@
 ---
 title: Emmett Shine
-description: Founder - Gin Lane Media
+description: 'founder - <a href="http://ginlane.com/">Gin Lane Media</a>'
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/EmmettShineMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/EmmettShineMainPortrait.jpg'
 published: true
 tweetText: .@emmettshine of @ginlane shares three of his favorite local businesses in NYC
 socialBlurb: >-
