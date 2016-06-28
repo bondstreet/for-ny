@@ -2,7 +2,7 @@
 date: '2016-06-17 11:54 -0400'
 published: true
 title: Caroline Polachek
-description: 'singer, songwriter, and producer'
+description: '<a href="http://chairlifted.com/">singer, songwriter, and producer</a>'
 tweetText: .@carolineplz shares three of her favorite local businesses in NYC
 socialBlurb: >-
   Caroline Polachek of Chairlift shares three of her favorite local businesses
