@@ -1,8 +1,8 @@
 ---
 title: Steve “ESPO” Powers
-description: 'artist, founder - Icy Signs'
-date: 2016-06-14
-image: https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersMainPortrait.jpg
+description: 'artist, founder - <a href="http://icysigns.tumblr.com/">Icy Signs</a>'
+date: 'Mon Jun 13 2016 20:00:00 GMT-0400 (EDT)'
+image: 'https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersMainPortrait.jpg'
 published: true
 tweetText: .@steveESPOpowers shares three of his favorite local businesses in NYC
 socialBlurb: Steve "ESPO" Powers shares three of his favorite local businesses in NYC.
