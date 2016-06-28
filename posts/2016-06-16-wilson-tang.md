@@ -2,8 +2,10 @@
 date: '2016-06-16 13:33 -0400'
 published: true
 title: Wilson Tang
-description: 'owner, Nom Wah Tea Parlor and Fung Tu'
-image: https://s3.amazonaws.com/bst-fornyc/WilsonTangMainPortrait.jpg
+description: >-
+  owner, <a href="http://nomwah.com/">Nom Wah Tea Parlor</a> and <a
+  href="http://www.fungtu.com/">Fung Tu</a>
+image: 'https://s3.amazonaws.com/bst-fornyc/WilsonTangMainPortrait.jpg'
 ---
 
 ![Jung's Jerky](https://s3.amazonaws.com/bst-fornyc/WilsonTangJungsJerky_w1280.jpg)
