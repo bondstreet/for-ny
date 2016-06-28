@@ -2,7 +2,7 @@
 date: '2016-06-27 10:15 -0400'
 published: true
 title: Graham Browne
-description: 'founder, Forte Preparatory Academy'
+description: 'founder, <a href="http://www.forteprep.org/">Forte Preparatory Academy</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Main%20Portrait.jpg'
 ---
 ![Ultima Florals](https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Ultima%20Florists.jpg)
