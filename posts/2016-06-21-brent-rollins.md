@@ -2,7 +2,7 @@
 date: '2016-06-21 10:55 -0400'
 published: true
 title: Brent Rollins
-description: 'artist, art director, and designer'
+description: '<a href="http://www.brentrollins.com/">artist, art director, and designer</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/brent-rollins-portrait.jpg'
 ---
 ![Mast Books](https://s3.amazonaws.com/bst-fornyc/Brent-Rollins-Mast-Books.jpg)
