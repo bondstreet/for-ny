@@ -9,7 +9,7 @@ tweetText: >-
 socialBlurb: >-
   Refinery 29 brand director, Grace Gordon shares three of her favorite local
   businesses in NYC.
-description: 'brand director, Refinery29'
+description: 'brand director, <a href="http://www.refinery29.com/">Refinery29</a>'
 ---
 ![Saved Tatoo](https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Saved-Tattoo.jpg)
 
