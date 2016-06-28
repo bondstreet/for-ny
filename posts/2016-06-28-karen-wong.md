@@ -2,7 +2,7 @@
 date: '2016-06-28 09:24 -0400'
 published: true
 title: Karen Wong
-description: 'deputy director, [The New Museum](http://www.newmuseum.org/)'
+description: 'deputy director, The New Museum'
 image: 'https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Main%20Portrait.jpg'
 ---
 ![Chikarashi](https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Chikarashi.jpg)
