@@ -3,7 +3,7 @@ date: '2016-06-27 10:04 -0400'
 published: true
 title: Jayne Lies
 image: 'https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Main%20Portrait.jpg'
-description: photographer
+description: '<a href="http://jaynelies.com/">photographer</a>'
 ---
 ![Sammy's Photo Lab](https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Sammy's%20Photo%20Lab.jpg)
 ## Sammy’s Photo Lab
