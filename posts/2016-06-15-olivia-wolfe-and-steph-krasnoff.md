@@ -2,8 +2,9 @@
 date: '2016-06-15 15:32 -0400'
 published: true
 title: Olivia Wolfe and Steph Krasnoff
-description: 'Co-founders - American Two Shot '
-image: https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
+description: 'co-founders - <a href="http://americantwoshot.com/">American Two Shot</a>'
+image: >-
+  https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
 tweetText: >-
   Olivia & Steph of @AmericanTwoShot share three of their favorite local
   businesses in NYC
