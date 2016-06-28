@@ -1,8 +1,10 @@
 ---
 title: Nick Catchdubs
-description: 'DJ, producer, co-founder - Fool’s Gold Records'
+description: >-
+  DJ, producer, co-founder - <a href="http://foolsgoldrecs.com/">Fool’s Gold
+  Records</a>
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/NickCatchdubsMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/NickCatchdubsMainPortrait.jpg'
 published: true
 tweetText: >-
   .@catchdini of @FoolsGoldRecs shares three of his favorite local businesses in
