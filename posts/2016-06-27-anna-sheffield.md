@@ -3,7 +3,9 @@ date: '2016-06-27 10:29 -0400'
 published: true
 title: Anna Sheffield
 image: 'https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Main%20Portrait.jpg'
-description: 'founder, creative director - Anna Sheffield and Bing Bang'
+description: >-
+  founder, creative director - <a href="http://www.annasheffield.com/">Anna
+  Sheffield</a> and <a href="http://www.bingbangnyc.com/">Bing Bang</a>
 ---
 ![The Football Cafe](https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Football%20Cafe.jpg)
 
