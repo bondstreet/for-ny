@@ -1,8 +1,8 @@
 ---
 date: '2016-06-28 09:24 -0400'
-published: false
+published: true
 title: Karen Wong
-description: 'deputy director, The New Museum'
+description: 'deputy director, [The New Museum](http://www.newmuseum.org/)'
 image: 'https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Main%20Portrait.jpg'
 ---
 ![Chikarashi](https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Chikarashi.jpg)
@@ -23,4 +23,3 @@ NYC’s abundance of great architecture is felt everywhere - from our city’s s
 ## Why is it important to support independent businesses?
 
 Well, most of my friends run independent businesses so it’s personal more than anything else. However, on a macro level, independent businesses are where innovation and poetry are born. Entrepreneurs make up the chorus to the song of this unique, thriving city of ours - they’re the gospel of New York.
-
