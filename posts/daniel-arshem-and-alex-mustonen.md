@@ -1,8 +1,11 @@
 ---
 title: Daniel Arsham and Alex Mustonen
-description: 'Architects, co-founders - Snarkitecture'
+description: >-
+  architects, co-founders - <a
+  href="http://www.snarkitecture.com/">Snarkitecture</a>
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/DanielArshamandAlexMustonenMainPortrait.jpg
+image: >-
+  https://s3.amazonaws.com/bst-fornyc/DanielArshamandAlexMustonenMainPortrait.jpg
 published: true
 tweetText: .@snarkitecture founders share three of their favorite local businesses in NYC
 socialBlurb: >-
