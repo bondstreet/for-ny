@@ -3,6 +3,7 @@ date: '2016-06-29 08:59 -0400'
 published: true
 title: 'Naomi Zeichner '
 description: 'editor-in-chief - <a href="http://www.thefader.com/">The Fader</a>'
+image: 'https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Main%20Portrait.jpg'
 ---
 ![Tarzian Hardware](https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Tarzian%20Hardware.jpg)
 
