@@ -1,6 +1,6 @@
 ---
 date: '2016-06-29 08:59 -0400'
-published: false
+published: true
 title: 'Naomi Zeichner '
 description: 'editor-in-chief - <a href="http://www.thefader.com/">The Fader</a>'
 ---
@@ -25,4 +25,4 @@ D’vine Taste isn’t somewhere I’d go to shop for groceries, but I’ll alwa
 
 ## Why is it important to support independent businesses?
 
-I’m kind of a homebody, so it’s really nice to have places in my neighborhood that make the block feel like, well, home. Increasingly, however, I’m seeing that a lot of local businesses people assume will always be around are starting to turn over. I’m not sure if it’s big chains that are pushing most of these establishments out or if they’re simply being replaced by more fashionable, updated local businesses. Either way, if you find a place that’s making something that you appreciate, it’s important to show love so they can sustain themselves. Otherwise, they might disappear forever. 
+I’m kind of a homebody, so it’s really nice to have places in my neighborhood that make the block feel like, well, home. Increasingly, however, I’m seeing that a lot of local businesses people assume will always be around are starting to turn over. I’m not sure if it’s big chains that are pushing most of these establishments out or if they’re simply being replaced by more fashionable, updated local businesses. Either way, if you find a place that’s making something that you appreciate, it’s important to show love so they can sustain themselves. Otherwise, they might disappear forever.
