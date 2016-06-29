@@ -1,6 +1,6 @@
 ---
 date: '2016-06-29 09:28 -0400'
-published: false
+published: true
 title: Daniel Boulud
 image: 'http://bst-fornyc.s3.amazonaws.com/daniel_boulud_portrait.jpg'
 description: '<a href="http://www.danielboulud.com/">chef, restaurateur</a>'
@@ -21,5 +21,4 @@ The best and longest business relationships I’ve had are all founded on this s
 
 One day, twenty years ago, a Japanese customer who really appreciated my food, knew me well, and ate at the restaurant all the time, told me, “Daniel, I have to take you to the Bronx.” So we went up to Arthur Avenue and I was introduced to Biancardi, a very iconic, family-run butcher shop in that neighborhood. They have, amongst other items, the absolute best baby goat in the spring. I still go there for myself and on behalf of the restaurant. Anyways, while I was exploring these stores along the avenue, I thought to myself, “wow, these people - all they care about is maintaining tradition and community in this neighborhood.” There was something so refreshing and touching about that.
 
-The point is, any independent business is rooted in the community around it. The culture and community have to embrace you - they have to feel that you’re important to them - before you can grow and expand. This applies whether you’re a coffee shop, a restaurant, or anything else. So I think it’s important that we support independent businesses because this is where there is an opportunity to build trust between business owners and customers over a long stretch of time. 
-
+The point is, any independent business is rooted in the community around it. The culture and community have to embrace you - they have to feel that you’re important to them - before you can grow and expand. This applies whether you’re a coffee shop, a restaurant, or anything else. So I think it’s important that we support independent businesses because this is where there is an opportunity to build trust between business owners and customers over a long stretch of time.
