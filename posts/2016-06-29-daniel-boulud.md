@@ -2,7 +2,7 @@
 date: '2016-06-29 09:28 -0400'
 published: true
 title: Daniel Boulud
-image: 'http://bst-fornyc.s3.amazonaws.com/daniel_boulud_portrait.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/daniel_boulud_portrait.jpg'
 description: '<a href="http://www.danielboulud.com/">chef, restaurateur</a>'
 ---
 ## La Boîte
@@ -11,11 +11,11 @@ Lior worked for me for many years - he was in charge of the spice project for us
 
 ## La Colombe
 
-The coffee we use at Daniel is from La Colombe. La Colombe started in Philadelphia but has obviously established an incredible foothold here in New York. I’ve known the partners there for almost 30 years - I really love working with them. They’ve grown their business very carefully and are extremely committed to the craft and the community around them. In this business, it’s critical you cultivate relationships with people you trust implicitly - that’s the only way you can know where they’re going to source ingredients, how they maintain integrity, and so forth. 
+The coffee we use at Daniel is from La Colombe. La Colombe started in Philadelphia but has obviously established an incredible foothold here in New York. I’ve known the partners there for almost 30 years - I really love working with them. They’ve grown their business very carefully and are extremely committed to the craft and the community around them. In this business, it’s critical you cultivate relationships with people you trust implicitly - that’s the only way you can know where they’re going to source ingredients, how they maintain integrity, and so forth.
 
 ## Daniel Johnnes Wine Imports
 
-The best and longest business relationships I’ve had are all founded on this sense of trust and camaraderie that has solidified over time. The people who run these businesses make me happy to support them - it’s as simple as that. Daniel was a waiter for me in 1985 - he’s also always been one of the finest sommeliers, so when he started his wine import business we created a special champagne that we use at Daniel to this day. He is the person between me and wine makers - this relationship is what allows us to obtain special barrel selections, make special champagne blends, and wines just for us. This is the important thing about everyone I’ve mentioned so far - they help me craft products that are truly personal to us. 
+The best and longest business relationships I’ve had are all founded on this sense of trust and camaraderie that has solidified over time. The people who run these businesses make me happy to support them - it’s as simple as that. Daniel was a waiter for me in 1985 - he’s also always been one of the finest sommeliers, so when he started his wine import business we created a special champagne that we use at Daniel to this day. He is the person between me and wine makers - this relationship is what allows us to obtain special barrel selections, make special champagne blends, and wines just for us. This is the important thing about everyone I’ve mentioned so far - they help me craft products that are truly personal to us.
 
 ## Why is it important to support independent businesses?
 
