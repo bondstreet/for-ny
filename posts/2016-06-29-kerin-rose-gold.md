@@ -1,6 +1,6 @@
 ---
 date: '2016-06-29 08:52 -0400'
-published: false
+published: true
 title: 'Kerin Rose Gold '
 description: 'designer, founder - <a href="http://www.a-morir.com/">A-Morir</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Kerin%20Rose%20Gold%20Main%20Portrait.jpg'
@@ -22,4 +22,4 @@ As a little punk kid growing up in the suburbs, it was a real tragedy that the m
 
 ## Why is it important to support independent businesses?
 
-Even before I was an independent business owner, I always worked at smaller companies and I always preferred supporting them. There’s something special about knowing that someone created this thing to uplift other people in the community - I really believe that’s what independent businesses ultimately do. An independent business will hire someone who a big company might unfairly pass on. Independent businesses build community and culture. We set trends that large corporations ultimately end up vulturing; you can observe that dynamic in everything from food to fashion to finance. If you live in New York, almost every part of your life is somehow affected by small businesses - if you don’t support them, it’s your fault when they disappear and the world becomes a hellscape of Starbucks, H&M’s, and CVS’s. 
+Even before I was an independent business owner, I always worked at smaller companies and I always preferred supporting them. There’s something special about knowing that someone created this thing to uplift other people in the community - I really believe that’s what independent businesses ultimately do. An independent business will hire someone who a big company might unfairly pass on. Independent businesses build community and culture. We set trends that large corporations ultimately end up vulturing; you can observe that dynamic in everything from food to fashion to finance. If you live in New York, almost every part of your life is somehow affected by small businesses - if you don’t support them, it’s your fault when they disappear and the world becomes a hellscape of Starbucks, H&M’s, and CVS’s.
