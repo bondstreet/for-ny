@@ -5,16 +5,23 @@ title: Markus Glocker and John Winterman
 description: >-
   chef and managing partner - <a
   href="http://www.batardtribeca.com/restaurants/batard/">Bâtard</a>
+image: 'https://s3.amazonaws.com/bst-fornyc/Batard_Bonsignour.jpg'
 ---
+
+![Smith & Mills](https://s3.amazonaws.com/bst-fornyc/Batard_Smith_Mills.jpg)
 ## Smith & Mills 
 
 Tribeca bar.  Bauhaus meets constructivist.  Reclaimed wood, soft lighting, moody feel.  We go for the bespoke classics like the Vesper.  Small bites, charcuterie and oysters.  Open, breezy front during warm weather.  Wuthering Heights comfort in foul weather.
 
-## Terroir Tribeca 
-
+![Terroir Tribeca](https://s3.amazonaws.com/bst-fornyc/Batard_Terroir.jpg)
+## Terroir Tribeca (or Highline) 
+24 Harrison St, New York, NY 10013
 Paul Grieco's ode to riesling, grower-champagne and lamb sausage.  Cheeky.  Like the high school kid who sneezed loud on purpose.  We go to see what fun, off-beat wines are being poured and to have some deviled eggs...and my catch the scores from The Premier League.
 
+![Bonsignour](https://s3.amazonaws.com/bst-fornyc/Batard_Main.jpg)
+## Bonsignour
+A snug, charmer of a little coffee place on Jane St, on an unashamedly cute corner.  If you were looking for a "Mayberry" style spot in the West Village, you can find it here.  Everyone seems to know each other and the staff is always ready with a smile and a wave.  
 
-## Grounded Coffee House 
+## Why is it important to support independent business?
 
-Local baristas who don't give you a hard time if you want to add ice to a latte.  Great tea and coffee selection.  Literary, low key vibe- makes you want to relax and read the Times and let the day pass.
+Local businesses are personal and welcoming.  The staff take the time to get to know you.  Sometimes it is great to walk in and have someone ask, "the usual?"  Even if you don't want "the usual," the familiarity is comforting.  To Markus and me, the word homogeneity, has horrible connotations - that of a drab, conformist city with programmed tastes.  Character is lost, personal vision is lost, rent goes up.  We love small, intimate, neighborhood spots like the ones mentioned.
