@@ -1,6 +1,6 @@
 ---
 date: '2016-06-30 09:08 -0400'
-published: false
+published: true
 title: Chris Altchek
 description: 'Co-founder - <a href="https://mic.com/">Mic</a>'
 ---
@@ -18,4 +18,3 @@ My third spot is Oaxaca, our neighborhood taqueria. My girlfriend is a resident,
 ## Why is it important to support independent businesses?
 
 I live in New York because I love New York, and a big part of what makes this city so great are its people and businesses. Local businesses afford you the opportunity to interact with people you otherwise wouldn’t connect with in your daily life or at your job. Having those personal interactions is what makes this city feel real to me. I’m lucky to have a lot of independent businesses in my neighborhood - they’re what makes living on the Upper West Side great. Without them, we’re the suburbs.
-
