@@ -1,6 +1,6 @@
 ---
 date: '2016-06-30 09:01 -0400'
-published: false
+published: true
 title: 'Didier Lerebours '
 description: >-
   founder - New Distribution House <a
@@ -24,4 +24,4 @@ Dashwood isn’t a client of mine (as they don’t sell magazines), but I’m a 
 
 ## Why is it important to support independent businesses?
 
-Independent businesses are the country’s primary economic engine. We drive the whole machine; we make it move forward. Besides that, though, independent businesses are exceptionally clear reflections of the dreams, goals, and vision of the people behind them. It’s really cool to be able to experience something that directly demonstrates how much work goes into making it tick every day. As an entrepreneur myself, being supportive of other independent businesses (in whatever ways I can) only helps me learn what I can do better with my own company. Lastly, and maybe most importantly, supporting a small business shows how you (as someone with his or her own identity) choose to vote with your hard-earned money. 
+Independent businesses are the country’s primary economic engine. We drive the whole machine; we make it move forward. Besides that, though, independent businesses are exceptionally clear reflections of the dreams, goals, and vision of the people behind them. It’s really cool to be able to experience something that directly demonstrates how much work goes into making it tick every day. As an entrepreneur myself, being supportive of other independent businesses (in whatever ways I can) only helps me learn what I can do better with my own company. Lastly, and maybe most importantly, supporting a small business shows how you (as someone with his or her own identity) choose to vote with your hard-earned money.
