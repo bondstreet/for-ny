@@ -3,8 +3,8 @@ date: '2016-06-30 09:01 -0400'
 published: true
 title: 'Didier Lerebours '
 description: >-
-  founder - New Distribution House <a
-  href="https://shop.newdistributionhouse.com/">New Distribution House</a>
+  founder - <a href="https://shop.newdistributionhouse.com/">New Distribution
+  House</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Didier%20Lerebours%20Main%20Portrait.jpg'
 ---
 ![Miss Lily's](https://s3.amazonaws.com/bst-fornyc/Didier%20Lerebours%20Miss%20Lily's.jpg)
