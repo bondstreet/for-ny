@@ -3,6 +3,7 @@ date: '2016-06-30 09:08 -0400'
 published: true
 title: Chris Altchek
 description: 'Co-founder - <a href="https://mic.com/">Mic</a>'
+image: 'https://s3.amazonaws.com/bst-fornyc/Chris%20Altchek%20Main%20Portrait.jpg'
 ---
 ## Master Bike Shop
 
