@@ -1,6 +1,6 @@
 ---
 date: '2016-06-29 13:03 -0400'
-published: false
+published: true
 title: Annie Bukhman
 description: >-
   designer, founder - <a href="http://giftshopbrooklyn.com/">Gift Shop
@@ -24,4 +24,4 @@ I think the people who love to shop small, local, and handmade for material item
 
 ## Why is it important to support independent business?
 
-Even before I started my own small business I always supported and favored small businesses to large mass market corporations. Small businesses can't afford to carry every product under the sun so they are forced to either supply a niche, or a very curated selection or offering - aka only the best, no fillers. I love going around to my neighborhood favorites and getting the best cheese here, and the best tomatoes there. The products or services small businesses offer are thought out, valued, and more personal. Small businesses provide the feeling that a real person is behind it all, someone who cares more about giving us a quality product or service, over just taking our hard earned dollars. 
+Even before I started my own small business I always supported and favored small businesses to large mass market corporations. Small businesses can't afford to carry every product under the sun so they are forced to either supply a niche, or a very curated selection or offering - aka only the best, no fillers. I love going around to my neighborhood favorites and getting the best cheese here, and the best tomatoes there. The products or services small businesses offer are thought out, valued, and more personal. Small businesses provide the feeling that a real person is behind it all, someone who cares more about giving us a quality product or service, over just taking our hard earned dollars.
