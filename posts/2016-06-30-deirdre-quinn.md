@@ -1,6 +1,6 @@
 ---
 date: '2016-06-30 18:41 -0400'
-published: false
+published: true
 title: Deirdre Quinn
 image: 'https://s3.amazonaws.com/bst-fornyc/Deirdre%20Quinn.jpg'
 description: >-
@@ -22,5 +22,3 @@ WeWork is another terrific company because they help independent businesses and 
 ## Why is it important to support independent business?
 
 Supporting independent businesses is essential. Not only does it foster innovation and fuel the local entrepreneurial spirit, but it creates a stronger sense of community. Knowing the people behind the products, who live and work in the same community as you do, leads to better, more personalized customer service, and a product selection better tailored to the clientele. It’s a win-win situation for everyone.
-
-
