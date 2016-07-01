@@ -1,6 +1,6 @@
 ---
 date: '2016-07-01 09:56 -0400'
-published: false
+published: true
 title: Tamara Santibañez
 description: >-
   <a href="http://tamarasantibanez.com/">artist</a>, <a
