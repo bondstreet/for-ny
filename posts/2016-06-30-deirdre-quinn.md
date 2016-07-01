@@ -1,19 +1,19 @@
 ---
 date: '2016-06-30 18:41 -0400'
-published: true
+published: false
 title: Deirdre Quinn
 image: 'https://s3.amazonaws.com/bst-fornyc/Deirdre%20Quinn.jpg'
 description: >-
   co-founder - <a href="http://www.lafayette148ny.com/">Lafayette 148 New
   York</a>
 ---
-## Lafayette 148 New York 
+## Lafayette 148 New York
 
-For our customization and speed. By reinventing the business model vertically, we are now able to quickly address our customers’ needs and offer unparalleled service. 
+For our customization and speed. By reinventing the business model vertically, we are now able to quickly address our customers’ needs and offer unparalleled service.
 
-## 11 Howard 
+## 11 Howard
 
-Another independent business I admire is 11 Howard. Transforming a local neighborhood Holiday Inn into a new luxury hotel in Soho both optimizes real estate and services the changing needs of the local clientele. 
+Another independent business I admire is 11 Howard. Transforming a local neighborhood Holiday Inn into a new luxury hotel in Soho both optimizes real estate and services the changing needs of the local clientele.
 
 ## WeWork
 
