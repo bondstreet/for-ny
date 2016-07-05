@@ -106,17 +106,17 @@
             "width": "64"
         },
         {
-            "src": "/images/logos/indinero.png",
-            "alt": "Indinero logo"
-        },
-        {
             "src": "/images/logos/q.png",
             "alt": "Q logo",
             "width": "64"
         },
         {
+            "src": "/images/logos/indinero.png",
+            "alt": "Indinero logo"
+        },
+        {
             "src": "/images/logos/reserve.png",
-            "alt": "Reserer logo"
+            "alt": "Reserve logo"
         },
         {
             "src": "/images/logos/thumbtack.png",
