@@ -6,6 +6,7 @@ import LandingIntro from './LandingIntro'
 import LandingPosts from './LandingPosts'
 import SocialPromo from './SocialPromo'
 import EventList from './EventList'
+import Partners from './Partners'
 import LandingAbout from './LandingAbout'
 import LandingContact from './LandingContact'
 import Footer from './Footer'
@@ -29,6 +30,7 @@ class Index extends React.Component {
                 <LandingHeader />
                 <LandingPosts />
                 <EventList />
+                <Partners />
                 <LandingAbout
                     changeLeadFormView={this.changeLeadFormView.bind(this)} />
                 <LandingContact
