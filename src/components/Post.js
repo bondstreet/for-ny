@@ -65,6 +65,15 @@ const Post = ({ params }, { data, router }) => {
             </Container>
             <Container style={{ maxWidth: 1024 }} px={3} py={2}>
                 <Prose html={post.html} />
+                {post.partnerLogo && (
+                    <div className='center py4'>
+                        This feature brought to you by
+                        <br />
+                        <img src={data.baseurl + post.partnerLogo}
+                            className='mt2'
+                            width='128' />
+                    </div>
+                )}
                 <div className='sm-col-6 mx-auto my4'>
                     <Circle className='bg-green mint'>
                         <Heading
