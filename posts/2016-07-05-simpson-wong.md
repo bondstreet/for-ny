@@ -6,6 +6,11 @@ description: >-
   chef, founder - <a
   href="http://chompchompnyctest.squarespace.com/#welcome">Chomp Chomp</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Simpson Wong'
+socialBlurb: >-
+  Simpson Wong of Chomp Chomp shares three of his favorite local businesses in
+  NYC.
+tweetText: .@chompchompnyc chef shares three of his favorite local businesses in NYC
 ---
 ![Blue Moon Fish](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Blue%20Moon%20Fish.jpg)
 ## Blue Moon Fish
