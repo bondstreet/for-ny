@@ -6,6 +6,9 @@ description: >-
   designer, <a href="https://www.etsy.com/shop/claudiagpearson">Claudia
   Pearson</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/ClaudiaPearson_Main.jpg'
+fbTitle: 'For New York: Claudia Pearson '
+socialBlurb: Claudia Pearson shares three of her favorite local businesses in NYC.
+tweetText: .@claudiagpearson shares three of her favorite local businesses in NYC
 ---
 ![Maison May](https://s3.amazonaws.com/bst-fornyc/ClaudiaPearson_MasonMay.jpg)
 
