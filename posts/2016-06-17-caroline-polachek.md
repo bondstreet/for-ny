@@ -8,6 +8,7 @@ socialBlurb: >-
   Caroline Polachek of Chairlift shares three of her favorite local businesses
   in NYC.
 image: 'https://s3.amazonaws.com/bst-fornyc/CarolinePolachekMainPortrait.jpg'
+fbTitle: 'For New York: Caroline Polachek'
 ---
 ![Frankel's](https://s3.amazonaws.com/bst-fornyc/CarolinePolachekFrankels.jpg)
 
