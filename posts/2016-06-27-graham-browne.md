@@ -4,6 +4,11 @@ published: true
 title: Graham Browne
 description: 'founder, <a href="http://www.forteprep.org/">Forte Preparatory Academy</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Graham Browne'
+socialBlurb: >-
+  Graham Browne of Forte Preparatory Academy shares three of his favorite local
+  businesses in NYC.
+tweetText: Graham Browne shares three of his favorite local businesses in NYC
 ---
 ![Ultima Florals](https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Ultima%20Florists.jpg)
 
