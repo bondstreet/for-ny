@@ -4,6 +4,13 @@ published: true
 title: Karen Wong
 description: 'deputy director, <a href="http:/newmuseum.org/">The New Museum</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Karen Wong'
+socialBlurb: >-
+  Karen Wong of The New Museum shares three of her favorite local businesses in
+  NYC.
+tweetText: >-
+  .@newmuseum deputy director shares three of her favorite local businesses in
+  NYC
 ---
 ![Chikarashi](https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Chikarashi.jpg)
 ## Chikarashi
