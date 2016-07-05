@@ -1,6 +1,6 @@
 ---
 date: '2016-07-05 17:22 -0400'
-published: false
+published: true
 title: Jenny Regec
 description: 'hairdresser, founder - <a href="http://thepaintboxbk.com/">The Paint Box</a>'
 ---
@@ -17,4 +17,4 @@ Human@Ease is my gym, but it’s also a lot more than that. They’re awesome be
 BFF is the best. Again, this is another spot that’s run by normal, regular people who value the connection and support system between independent business owners. I’m a dog person so I’m there very frequently, and it’s just nice that Ania (who owns BFF) is always down to hang out and give me treats, extra shampoo, or whatever else for my dog. I don’t know how else to put it, but BFF is just a really pure place. It’s so nice to support a business like them and see how that choice directly feeds back into the community and neighborhood. My dog loves it because he really likes getting wet, he gets constant treats when he’s there, and everyone’s a total sweetheart to him.
 
 ## Why is it important to support independent businesses?
-Because they keep our neighborhoods grounded and sustainable. Independent businesses keep money circulating in our communities, they foster connections between people, and they help creativity flourish on a local level. You could get a lot of what you find at local businesses at a Whole Foods or Equinox, but you’re never going to build the same kind of personalized experience or relationships there. Look at what’s happened to Williamsburg - no one can keep their doors open because so many big box companies are extracting money from the community and taking it elsewhere. So supporting small businesses is really you supporting the healthy growth of a neighborhood.       
+Because they keep our neighborhoods grounded and sustainable. Independent businesses keep money circulating in our communities, they foster connections between people, and they help creativity flourish on a local level. You could get a lot of what you find at local businesses at a Whole Foods or Equinox, but you’re never going to build the same kind of personalized experience or relationships there. Look at what’s happened to Williamsburg - no one can keep their doors open because so many big box companies are extracting money from the community and taking it elsewhere. So supporting small businesses is really you supporting the healthy growth of a neighborhood.
