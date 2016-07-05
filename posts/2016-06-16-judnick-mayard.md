@@ -3,11 +3,12 @@ date: '2016-06-16 13:11 -0400'
 published: true
 title: Judnick Mayard
 description: 'Event Producer, Tour Manager '
-image: https://s3.amazonaws.com/bst-fornyc/JudnickMayardMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/JudnickMayardMainPortrait.jpg'
 tweetText: .@Judnikki shares three of her favorite local businesses in NYC
 socialBlurb: >-
   Judnick Mayard, event producer and tour manager, shares three of her favorite
   local businesses in NYC.
+fbTitle: 'For New York: Judnick Mayard'
 ---
 ![Peppa's](https://s3.amazonaws.com/bst-fornyc/JudnickMayardPeppas_w1280.jpg)
 
