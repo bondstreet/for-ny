@@ -7,6 +7,11 @@ description: >-
   href="http://tamarasantibanez.com/">tattoo artist</a>, publisher - <a
   href="http://www.disciplinepress.com/">Discipline Press</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/ATamara%20Santibanez%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Tamara Santibañez'
+socialBlurb: >-
+  Tamara Santibañez of Discipline Press shares three of her favorite local
+  businesses in NYC.
+tweetText: Tamara Santibañez shares three of her favorite local businesses in NYC
 ---
 ![Leather Man](https://s3.amazonaws.com/bst-fornyc/ATamara%20Santibanez%20Leather%20Man.jpg)
 ## Leather Man
