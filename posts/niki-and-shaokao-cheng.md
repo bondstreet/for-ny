@@ -10,6 +10,7 @@ tweetText: .@BoConcept founders share three of their favorite local businesses i
 socialBlurb: >-
   Niki and Shaokao Cheng of Bo Concept share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Niki and Shaokao Cheng'
 ---
 
 ![The Shala](https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengTheShala.jpg)
