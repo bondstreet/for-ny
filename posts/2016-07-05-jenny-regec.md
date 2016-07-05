@@ -3,6 +3,7 @@ date: '2016-07-05 17:22 -0400'
 published: true
 title: Jenny Regec
 description: 'hairdresser, founder - <a href="http://thepaintboxbk.com/">The Paint Box</a>'
+image: 'https://s3.amazonaws.com/bst-fornyc/Jenny%20Regec%20Main%20Portrait.jpg'
 ---
 ![The Blue Stove](https://s3.amazonaws.com/bst-fornyc/Jenny%20Regec%20Blue%20Stove.jpg)
 ## The Blue Stove 
