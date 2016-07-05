@@ -10,7 +10,6 @@ class PostList extends React.Component {
         super()
     }
 
-
     render() {
         const posts = this.props.limit ? this.context.data.posts.slice(0, this.props.limit) : this.context.data.posts
 
