@@ -8,6 +8,7 @@ tweetText: .@emmettshine of @ginlane shares three of his favorite local business
 socialBlurb: >-
   Emmett Shine of Gin Lane Media shares three of his favorite local businesses
   in NYC.
+fbTitle: 'For New York: Emmett Shine'
 ---
 
 ![T-Shirt Express](https://s3.amazonaws.com/bst-fornyc/TShirtExpressInterior.jpg)
