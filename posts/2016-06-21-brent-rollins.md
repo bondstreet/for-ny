@@ -4,6 +4,11 @@ published: true
 title: Brent Rollins
 description: '<a href="http://www.brentrollins.com/">artist, art director, and designer</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/brent-rollins-portrait.jpg'
+fbTitle: 'For New York: Brent Rollins'
+socialBlurb: Brent Rollins shares three of his favorite local businesses in NYC.
+tweetText: >-
+  Brent Rollins of @ComplexMag shares three of his favorite local businesses in
+  NYC
 ---
 ![Mast Books](https://s3.amazonaws.com/bst-fornyc/Brent-Rollins-Mast-Books.jpg)
 
