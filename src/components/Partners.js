@@ -10,7 +10,7 @@ const Partners = ({}, { data }) => {
             <Heading center>
                 Our Partners
             </Heading>
-            <div className='center mx-auto max-width-4'>
+            <div className='center mx-auto'>
                 {logos.map(({ src, alt, width = 128, style }, i) => (
                     <img key={i}
                         src={data.baseurl + src}

@@ -128,6 +128,13 @@
             "style": {
                 "paddingBottom": 7
             }
+        },
+        {
+            "src": "/images/logos/circleup.png",
+            "alt": "Circleup logo",
+            "style": {
+                "paddingBottom": 4
+            }
         }
     ]
 }
