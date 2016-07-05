@@ -1,6 +1,6 @@
 ---
 date: '2016-07-05 16:26 -0400'
-published: false
+published: true
 title: Simpson Wong
 description: >-
   chef, founder - <a
