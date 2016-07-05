@@ -124,7 +124,10 @@
         },
         {
             "src": "/images/logos/wework.png",
-            "alt": "Wework logo"
+            "alt": "Wework logo",
+            "style": {
+                "paddingBottom": 7
+            }
         }
     ]
 }
