@@ -6,6 +6,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersMainPortrait.jpg'
 published: true
 tweetText: .@steveESPOpowers shares three of his favorite local businesses in NYC
 socialBlurb: Steve "ESPO" Powers shares three of his favorite local businesses in NYC.
+fbTitle: 'For New York: Steve "ESPO" Powers'
 ---
 
 ![Pete’s Clam Bar](https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersPetesClamBar.jpg)
