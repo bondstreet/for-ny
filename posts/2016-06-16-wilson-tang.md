@@ -6,6 +6,11 @@ description: >-
   owner, <a href="http://nomwah.com/">Nom Wah Tea Parlor</a> and <a
   href="http://www.fungtu.com/">Fung Tu</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/WilsonTangMainPortrait.jpg'
+fbTitle: 'For New York: Wilson Tang'
+socialBlurb: >-
+  Wilson Tang of Nom Wah Tea Parlor and Fung Tu shares three of his favorite
+  local businesses in NYC.
+tweetText: .@dimsumNYC shares three of his favorite local businesses in NYC
 ---
 
 ![Jung's Jerky](https://s3.amazonaws.com/bst-fornyc/WilsonTangJungsJerky_w1280.jpg)
