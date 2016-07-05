@@ -4,6 +4,13 @@ published: true
 title: 'Kerin Rose Gold '
 description: 'designer, founder - <a href="http://www.a-morir.com/">A-Morir</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Kerin%20Rose%20Gold%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Kerin Rose Gold'
+socialBlurb: >-
+  Kerin Rose Gold of A-Morir Eyewear shares three of her favorite local
+  businesses in NYC.
+tweetText: >-
+  .@kerinrosegold of @amorireyewear shares three of her favorite local
+  businesses in NYC.
 ---
 ![B&Q Trimmings](https://s3.amazonaws.com/bst-fornyc/Kerin%20Rose%20Gold%20B&Q%20Trimmings.jpg)
 ## B&Q Trimmings
