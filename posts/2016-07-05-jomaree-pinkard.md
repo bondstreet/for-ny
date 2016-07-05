@@ -6,6 +6,13 @@ description: >-
   co-founder, The Hella Company <a href="http://hellacompany.com/">The Hella
   Company</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Jomaree Pinkard'
+tweetText: >-
+  .@jomareepinkard of @HellaCompany shares three of his favorite local
+  businesses in NYC
+socialBlurb: >-
+  Jomaree Pinkard of The Hella Company shares three of his favorite local
+  businesses in NYC.
 ---
 ![Hot Bread Kitchen](https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Hot%20Bread%20Kitchen.jpg)
 ## Hot Bread Kitchen
