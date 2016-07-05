@@ -9,6 +9,7 @@ const PostCard = ({
     name,
     image,
     title,
+    partnerLogo,
     ...props
 }, { data }) => {
     const description = sanitize(props.description || '', { allowedTags: [] })
@@ -35,6 +36,15 @@ const PostCard = ({
                 <div
                     className='bold center'
                     dangerouslySetInnerHTML={{ __html: description }} />
+                {partnerLogo && (
+                    <div className='center mt1'>
+                        Brought to you by
+                        <br />
+                        <img src={data.baseurl + partnerLogo}
+                            style={{ marginTop: 4 }}
+                            width='128' />
+                    </div>
+                )}
             </Link>
         </div>
     )
