@@ -4,6 +4,9 @@ published: true
 title: Jayne Lies
 image: 'https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Main%20Portrait.jpg'
 description: '<a href="http://jaynelies.com/">photographer</a>'
+tweetText: .@jayneLIES shares three of her favorite local businesses in NYC
+socialBlurb: Jayne Lies shares three of her favorite local businesses in NYC.
+fbTitle: 'For New York: Jayne Lies'
 ---
 ![Sammy's Photo Lab](https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Sammy's%20Photo%20Lab.jpg)
 ## Sammy’s Photo Lab
