@@ -2,9 +2,7 @@
 date: '2016-07-05 14:09 -0400'
 published: true
 title: Jomaree Pinkard
-description: >-
-  co-founder, The Hella Company <a href="http://hellacompany.com/">The Hella
-  Company</a>
+description: 'co-founder, <a href="http://hellacompany.com/">The Hella Company</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Jomaree Pinkard'
 tweetText: >-
