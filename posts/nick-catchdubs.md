@@ -12,6 +12,7 @@ tweetText: >-
 socialBlurb: >-
   Nick Catchdubs of Fools Gold Records shares three of his favorite local
   businesses in NYC.
+fbTitle: 'For New York: Nick Catchdubs'
 ---
 
 ![JHO Comic Books](https://s3.amazonaws.com/bst-fornyc/NickCatchdubsJHUComics.jpg)
