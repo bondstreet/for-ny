@@ -13,7 +13,7 @@ So we’re in Harlem at HBK - Hot Bread Kitchen - which was started by an amazin
 
 ![ABC Cocina](https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20ABC%20Kitchen.jpg)
 ## ABC Cocina
-ABC Cocina is where we have all of our celebrations whenever we hit a milestone. It’s where we take clients when something amazing happens...it’s just an incredible hospitality space. We love having a relationship w the ABC guys because they represent the standard of quality and hospitality that we aspire to with Hella. Getting them as a partner was a big stamp of approval, a really significant cosign, for us. They’re the shit when it comes to food, design, again, hospitality, and just thinking about how the whole experience needs to come together. Definitely one of my favorite accounts.
+ABC Cocina is where we have all of our celebrations whenever we hit a milestone. It’s where we take clients when something amazing happens...it’s just an incredible hospitality space. We love having a relationship with the ABC guys because they represent the standard of quality and hospitality that we aspire to with Hella. Getting them as a partner was a big stamp of approval, a really significant cosign, for us. They’re the shit when it comes to food, design, again, hospitality, and just thinking about how the whole experience needs to come together. Definitely one of my favorite accounts.
 
 ![Story Store](https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Story%20Store.jpg)
 ## Story Store
