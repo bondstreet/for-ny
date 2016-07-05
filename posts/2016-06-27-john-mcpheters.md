@@ -4,6 +4,11 @@ published: true
 title: John McPheters
 description: 'co-founder - <a href="http://www.stadiumgoods.com/">Stadium Goods</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Main%20Portrait.jpg'
+fbTitle: 'For New York: John McPheters'
+socialBlurb: >-
+  John McPheters of Stadium Goods shares three of his favorite local businesses
+  in NYC.
+tweetText: .@stadiumgoods co-founder shares three of his favorite local businesses in NYC
 ---
 ![Noah](https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20NOAH%20Main.jpg)
 ## Noah
