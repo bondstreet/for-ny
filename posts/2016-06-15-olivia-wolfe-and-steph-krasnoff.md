@@ -11,6 +11,7 @@ tweetText: >-
 socialBlurb: >-
   Olivia & Steph of American Two Shot share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Olivia Wolfe and Steph Krasnoff'
 ---
 
 ![Grass Roots Juicery](/fornewyork/images/OliviaWolfeandStephKrasnoffGrassRootsJuiceryMain.jpg)
