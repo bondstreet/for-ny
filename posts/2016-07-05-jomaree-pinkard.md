@@ -2,7 +2,9 @@
 date: '2016-07-05 14:09 -0400'
 published: true
 title: Jomaree Pinkard
-description: 'Jomaree Pinkard (co-founder, The Hella Company)'
+description: >-
+  co-founder, The Hella Company <a href="http://hellacompany.com/">The Hella
+  Company</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Main%20Portrait.jpg'
 ---
 ![Hot Bread Kitchen](https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Hot%20Bread%20Kitchen.jpg)
