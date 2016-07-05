@@ -10,6 +10,7 @@ tweetText: .@rembert of @NYMag shares three of his favorite local businesses in 
 socialBlurb: >-
   Rembert Browne of New York Magazine shares three of his favorite local
   businesses in NYC.
+fbTitle: 'For New York: Rembert Browne'
 ---
 
 ![Baohaus](https://s3.amazonaws.com/bst-fornyc/RembertBrowneBaohaus.jpg)
