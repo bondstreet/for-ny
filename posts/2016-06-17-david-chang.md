@@ -4,6 +4,9 @@ published: true
 title: David Chang
 image: 'https://s3.amazonaws.com/bst-fornyc/David-Chang-2.jpg'
 description: 'chef, restaurateur, entrepreneur '
+fbTitle: 'For New York: David Chang'
+socialBlurb: David Chang shares three of his favorite local businesses in NYC.
+tweetText: .@davidchang shares three of his favorite local businesses in NYC
 ---
 
 ## Sei-Tomoko
