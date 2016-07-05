@@ -4,6 +4,13 @@ published: true
 title: Taylor Okata
 description: '<a href="http://www.catchingfeelings.com/">creative director, stylist</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Taylor%20Okata%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Taylor Okata '
+socialBlurb: >-
+  Taylor Okata of Catching Feelings shares three of his favorite local
+  businesses in NYC.
+tweetText: >-
+  .@tayzdayz of Catching Feelings shares three of his favorite local businesses
+  in NYC
 ---
 ![Pintail Coffee at Georgia](https://s3.amazonaws.com/bst-fornyc/Taylor%20Okata%20Pintail%20Coffee.jpg)
 ## Pintail Coffee at Georgia
