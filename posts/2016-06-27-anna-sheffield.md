@@ -6,6 +6,13 @@ image: 'https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Main%20Portrait.j
 description: >-
   founder, creative director - <a href="http://www.annasheffield.com/">Anna
   Sheffield</a> and <a href="http://www.bingbangnyc.com/">Bing Bang</a>
+fbTitle: 'For New York: Anna Sheffield'
+socialBlurb: >-
+  Anna Sheffield of Bing Bang shares three of her favorite local businesses in
+  NYC.
+tweetText: >-
+  Anna Sheffield of @bingbangnyc shares  three of her favorite local businesses
+  in NYC
 ---
 ![The Football Cafe](https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Football%20Cafe.jpg)
 
