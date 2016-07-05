@@ -4,6 +4,9 @@ published: true
 title: 'Mary HK Choi '
 description: '<a href="http://www.choitotheworld.com/">writer, author</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Mary%20HK%20Choi%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Mary HK Choi'
+socialBlurb: Mary HK Choi shares three of her favorite local businesses in NYC.
+tweetText: Mary HK Choi shares three of her favorite local businesses in NYC
 ---
 ![Cobble Hill Coffee Shop](https://s3.amazonaws.com/bst-fornyc/Mary%20HK%20Choi%20Cobble%20Hill%20Coffee%20Shop.jpg)
 ## Cobble Hill Coffee Shop
