@@ -4,6 +4,11 @@ published: true
 title: Caroline Hirsch
 description: 'founder, owner - <a href="http://www.carolines.com/">Carolines on Broadway</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/caroline_hirsch_portrait_720.jpg'
+fbTitle: 'For New York: Caroline Hirsch'
+socialBlurb: >-
+  Caroline Hirsch of Carolines on Broadway shares three of her favorite local
+  businesses in NYC.
+tweetText: .@CarolinesonBway founder shares three of her favorite local businesses in NYC
 ---
 ## Mizu
 I think I’d have to start by talking about somewhere I frequent almost every week. Mizu on 59th and Park is a small, very New York City hairdresser - it’s standalone and not part of any kind of chain or franchise. Mizu is great because it’s truly a local business; the people who work there all live in the city. They employ something like thirty to forty people if you count the hairdressers who make their own hours and don’t work there full time. There are other hairdressers I’ll occasionally go to, but Mizu is close to me - it’s very convenient, I’m accustomed to it, and the services are good.  

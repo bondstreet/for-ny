@@ -6,6 +6,13 @@ description: >-
   designer, founder - <a href="http://giftshopbrooklyn.com/">Gift Shop
   Brooklyn</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Annie_Main.jpg'
+fbTitle: 'For New York: Annie Bukhman'
+socialBlurb: >-
+  Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
+  businesses in NYC.
+tweetText: >-
+  Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
+  businesses in NYC
 ---
 ![Purity Diner](https://s3.amazonaws.com/bst-fornyc/Annie_PurityDiner.jpg)
 ## Purity Diner

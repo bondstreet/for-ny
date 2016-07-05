@@ -8,6 +8,7 @@ tweetText: .@VALENTI shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Sam Valenti IV of Ghostly International shares three of his favorite local
   businesses in NYC.
+fbTitle: 'For New York: Sam Valenti IV'
 ---
 
 ![Captured Tracks](https://s3.amazonaws.com/bst-fornyc/SamValentiCapturedTracks.jpg)

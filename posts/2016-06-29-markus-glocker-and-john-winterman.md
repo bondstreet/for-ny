@@ -7,6 +7,13 @@ description: >-
   href="http://www.batardtribeca.com/restaurants/batard/">Bâtard</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Batard_Bonsignour.jpg'
 partnerLogo: /images/logos/reserve.png
+fbTitle: 'For New York: Markus Glocker and John Winterman'
+socialBlurb: >-
+  Markus Glocker and John Winterman of Bâtard share three of their favorite
+  local businesses in NYC.
+tweetText: >-
+  .@MarkusGlocker and @johnwinterman of @batardny share their favorite local
+  businesses in NYC
 ---
 
 ![Smith & Mills](https://s3.amazonaws.com/bst-fornyc/Batard_Smith_Mills.jpg)

@@ -8,7 +8,7 @@ tweetText: Skye Parrott shares three of her favorite local businesses in NYC
 socialBlurb: >-
   Skye Parrott of Double or Nothing shares three of her favorite local
   businesses in NYC.
-fbTitle: Skye Parrott Shares Her 3 Favorite NYC Businesses
+fbTitle: 'For New York: Skye Parrott'
 ---
 
 ![Scosha](https://s3.amazonaws.com/bst-fornyc/SkyeParrottScosha.jpg)

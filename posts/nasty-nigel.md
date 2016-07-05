@@ -6,6 +6,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/NastyNigelMainPortrait.jpg'
 published: true
 tweetText: .@NIGELNASTY shares three of his favorite local businesses in NYC
 socialBlurb: Nasty Nigel shares three of his favorite local businesses in NYC.
+fbTitle: 'For New York: Nasty Nigel'
 ---
 
 ![Leo’s Latticini-Mama’s](https://s3.amazonaws.com/bst-fornyc/NastyNigelMamas.jpg)

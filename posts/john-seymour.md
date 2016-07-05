@@ -2,7 +2,7 @@
 title: John Seymour
 date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
 description: 'Founder - Sweetchick, Ludlow Coffee Supply, Ludlow Barber Supply'
-image: https://s3.amazonaws.com/bst-fornyc/JohnSeymourMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/JohnSeymourMainPortrait.jpg'
 published: true
 tweetText: >-
   .@JohnSeymourNYC of @SweetChickLife shares three of his favorite local
@@ -10,6 +10,7 @@ tweetText: >-
 socialBlurb: >-
   John Seymour of Sweetchick shares three of his favorite local businesses in
   NYC.
+fbTitle: 'For New York: John Seymour'
 ---
 
 ![Ludlow Coffee Supply](https://s3.amazonaws.com/bst-fornyc/JohnSeymourLudlowCoffeeSupply.jpg)

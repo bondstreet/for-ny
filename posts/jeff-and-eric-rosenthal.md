@@ -10,6 +10,7 @@ tweetText: '.@itsthereal share three of their favorite local businesses in NYC '
 socialBlurb: >-
   Jeff and Eric Rosenthal of ItsTheReal share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Jeff and Eric Rosenthal'
 ---
 
 ![Silver Moon Bakery](https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalSilverMoonBakery.jpg)
