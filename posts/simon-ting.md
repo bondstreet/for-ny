@@ -2,12 +2,13 @@
 title: Simon Ting
 description: 'Founder - Fashion Loft, Inc.'
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/SimonTingMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/SimonTingMainPortrait.jpg'
 published: true
 tweetText: Simon Ting shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Simon Ting of Fashion Loft shares three of his favorite local businesses in
   NYC.
+fbTitle: 'For New York: Simon Ting'
 ---
 
 ![Flushing Supermarkets](https://s3.amazonaws.com/bst-fornyc/SimonTingFlushingSupermarketsMain.jpg)
