@@ -1,6 +1,6 @@
 ---
 date: '2016-07-05 13:06 -0400'
-published: false
+published: true
 title: Caroline Hirsch
 description: 'founder, owner - <a href="http://www.carolines.com/">Carolines on Broadway</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/caroline_hirsch_portrait_720.jpg'
@@ -17,5 +17,4 @@ Mme Eleanor’s is on 53rd and 1st. Again, it’s another one of these small, ve
 ## Why is it important to support independent businesses?
 Two things that really impacted small businesses in New York City were 9-11 and the downturn of 2008. These events completely changed people’s idea of what coming into the city meant. Quite frankly, a lot of people were frightened at that time and they slipped into this pattern of staying where they were...in Jersey or Connecticut - or even the outer boroughs - and small businesses experienced a lot of fallout from that. 
 
-I think what people have to remember is that you don’t get the same level of personalized connection and services with larger, chain businesses. There’s incomparable value to knowing the people you’re doing business with. That relationship affords you a level of service and convenience that you’ll never find at a big franchise. As a society, we’ve become so focused on our phones, on automation, on “efficiency,” on optimization, that we’ve started to lose a little bit of our humanity. I really do feel that it’s an ironically dark age that we’re in because of this. You know, I’m in the live events business, so it’s become increasingly clear to me that we’re one of the last ways and reasons for people to come together in real life and bond over something they all relate to. That’s a strange thing for me to consider, but I’ll always fight for that experience to thrive and be a part of our culture. Long live the live event space. 
-
+I think what people have to remember is that you don’t get the same level of personalized connection and services with larger, chain businesses. There’s incomparable value to knowing the people you’re doing business with. That relationship affords you a level of service and convenience that you’ll never find at a big franchise. As a society, we’ve become so focused on our phones, on automation, on “efficiency,” on optimization, that we’ve started to lose a little bit of our humanity. I really do feel that it’s an ironically dark age that we’re in because of this. You know, I’m in the live events business, so it’s become increasingly clear to me that we’re one of the last ways and reasons for people to come together in real life and bond over something they all relate to. That’s a strange thing for me to consider, but I’ll always fight for that experience to thrive and be a part of our culture. Long live the live event space.
