@@ -4,6 +4,13 @@ published: true
 title: 'Naomi Zeichner '
 description: 'editor-in-chief - <a href="http://www.thefader.com/">The Fader</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Naomi Zeichner '
+socialBlurb: >-
+  Naomi Zeichner of The Fader shares three of her favorite local businesses in
+  NYC.
+tweetText: >-
+  .@nomizeichner of @thefader shares three of her favorite local businesses in
+  NYC
 ---
 ![Tarzian Hardware](https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Tarzian%20Hardware.jpg)
 
