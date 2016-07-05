@@ -10,6 +10,7 @@ tweetText: >-
 socialBlurb: >-
   Opening Ceremony co-founder Carol Lim shares three of her favorite local
   businesses in NYC.
+fbTitle: 'For New York: Carol Lim'
 ---
 
 ## Ted Muehling
