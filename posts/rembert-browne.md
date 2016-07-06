@@ -17,7 +17,7 @@ fbTitle: 'For New York: Rembert Browne'
 
 ## Baohaus
 
-It's a place that immediately made me feel like home. Without any formal agreement, I was loyal to them and they were loyal to me. I sat in the corner next to the outlets eating three baos and drinking my apple sidra and have probably written 30 pieces, during my period at Grantland when there was no formal office.
+It's a place that immediately made me feel at home. Without any formal agreement, I was loyal to them and they were loyal to me. I sat in the corner next to the outlets eating three baos and drinking my apple sidra and have probably written 30 pieces, during my period at Grantland when there was no formal office.
 
 ![Metropolis Vintage](https://s3.amazonaws.com/bst-fornyc/RembertBrowneMetropolis.jpg)
 
