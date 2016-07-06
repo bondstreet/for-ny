@@ -1,6 +1,7 @@
 
 import React from 'react'
 import Heading from './Heading'
+import Text from './Text'
 
 const Partners = ({}, { data }) => {
     const logos = data.landing.partnerLogos
@@ -10,6 +11,9 @@ const Partners = ({}, { data }) => {
             <Heading center>
                 Our Partners
             </Heading>
+            <Text center className='mb2'>
+                We’re proud to share our support of independent businesses with the following brands.
+            </Text>
             <div className='center mx-auto'>
                 {logos.map(({ src, alt, width = 128, style }, i) => (
                     <img key={i}
