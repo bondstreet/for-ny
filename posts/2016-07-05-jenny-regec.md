@@ -1,5 +1,5 @@
 ---
-date: '2016-07-05 17:22 -0400'
+date: '2016-07-03 17:22 -0400'
 published: true
 title: Jenny Regec
 description: 'hairdresser, founder - <a href="http://thepaintboxbk.com/">The Paint Box</a>'
