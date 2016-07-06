@@ -1,5 +1,5 @@
 ---
-date: '2016-06-28 09:24 -0400'
+date: '2016-07-06 09:24 -0400'
 published: true
 title: Karen Wong
 description: 'deputy director, <a href="http:/newmuseum.org/">The New Museum</a>'
