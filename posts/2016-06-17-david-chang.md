@@ -1,5 +1,5 @@
 ---
-date: '2016-07-05 14:35 -0400'
+date: '2016-07-06 14:35 -0400'
 published: true
 title: David Chang
 image: 'https://s3.amazonaws.com/bst-fornyc/David-Chang-2.jpg'
