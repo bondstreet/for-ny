@@ -4,6 +4,13 @@ published: true
 title: Jenny Regec
 description: 'hairdresser, founder - <a href="http://thepaintboxbk.com/">The Paint Box</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Jenny%20Regec%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Jenny Regec'
+socialBlurb: >-
+  Jenny Regec of The Paint Box shares three of her favorite local businesses in
+  NYC.
+tweetText: >-
+  Jenny Regec, founder of The Paint Box, shares three of her favorite local
+  businesses in NYC
 ---
 ![The Blue Stove](https://s3.amazonaws.com/bst-fornyc/Jenny%20Regec%20Blue%20Stove.jpg)
 ## The Blue Stove 
