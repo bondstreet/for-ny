@@ -2,7 +2,7 @@
 title: Niki and Shaokao Cheng
 description: >-
   owners and co-founders - <a href="http://www.boconcept.com/en-us/">BoConcept
-  USA</a>
+  NY</a>
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengMainPortrait.jpg'
 published: true
