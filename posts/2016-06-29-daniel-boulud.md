@@ -1,5 +1,5 @@
 ---
-date: '2016-06-29 09:28 -0400'
+date: '2016-07-06 09:28 -0400'
 published: true
 title: Daniel Boulud
 image: 'https://s3.amazonaws.com/bst-fornyc/daniel_boulud_portrait.jpg'
