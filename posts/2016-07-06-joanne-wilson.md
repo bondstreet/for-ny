@@ -1,6 +1,6 @@
 ---
 date: '2016-07-06 08:54 -0400'
-published: false
+published: true
 title: Joanne Wilson
 description: >-
   angel investor, blogger, and co-founder - <a
@@ -17,5 +17,4 @@ I love all of Gabe Stulman’s restaurants - obviously, for the sake of transpar
 Grove Drugs - I love a local pharmacy. It’s just the nicest group of women that runs this place. They’ve got a great selection of products from all over - from sunblocks to mints to shampoo. You go in there and you’re just taken care of. Whether you’re picking up a prescription or shopping for whatever else you need, you don’t have to deal with any of the insanity that you get at a CVS or a Duane Reade. It’s great and right down the block from me.
 
 ## Why is it important to support independent businesses?
-It’s important to support local businesses so we can continue to have authentic, interesting neighborhoods that foster community amongst its inhabitants. It kind of goes back to what this Presidential election is about - American businesses have grown and taken over the globe, but they’re struggling to survive because the next generation believes in the value of more focused, personal brands and that less is best. I do believe that’s why we’re seeing these big businesses become unsustainable - Abercrombie? Poof. Ralph Lauren? Firing people left and right. The fact is, America was built on family businesses and I like that there’s a shift towards those values again. 
-
+It’s important to support local businesses so we can continue to have authentic, interesting neighborhoods that foster community amongst its inhabitants. It kind of goes back to what this Presidential election is about - American businesses have grown and taken over the globe, but they’re struggling to survive because the next generation believes in the value of more focused, personal brands and that less is best. I do believe that’s why we’re seeing these big businesses become unsustainable - Abercrombie? Poof. Ralph Lauren? Firing people left and right. The fact is, America was built on family businesses and I like that there’s a shift towards those values again.
