@@ -1,6 +1,6 @@
 ---
 date: '2016-07-06 19:55 -0400'
-published: false
+published: true
 title: Amy Woodside
 description: 'founder, <a href="http://www.okreal.co/">OKREAL</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Amy%20Woodside%20Main%20Portrait.jpg'
@@ -24,4 +24,4 @@ Mainly, we care that the team is made up of solid people. You can find someone w
 I’ve been going to Mast since I arrived in New York. Now that I live on 2nd and A, it’s my local bookshop, as well. As someone who’s always been a big reader and writer, there’s something special about Mast that’s always drawn me to the store. If I had to put my finger on it, I’d have to say it’s between their unbeatable curation and that it still feels like a remnant of the old New York. They’ll always have a book in there that Patti Smith sneezed on or something so it’s worth a million dollars - really rare stuff that you can’t dig up anywhere else. Because my thing has always been creative writing, I’ll normally make a beeline for their incredible poetry collection. You can almost always find what you’re looking for at Mast, but you’ll more likely discover something you didn’t even know you needed.  
 
 ## Why is it important to support independent businesses?
-Being an independent business owner myself, I know how invaluable that support is. You can’t underestimate its effect on a business. If people in your neighborhood are working hard to make something great happen, you choosing to buy a coffee at their shop instead of Starbucks, or taking a class with them instead of at an Equinox, is directly helping them achieve their dreams. It’s about more than just securing livelihoods. All of that gets paid back to the community and strengthens it, as well - it’s certainly not a one-way street. Whether you believe in karma or not, I think that if you support people you will be supported in turn. 
+Being an independent business owner myself, I know how invaluable that support is. You can’t underestimate its effect on a business. If people in your neighborhood are working hard to make something great happen, you choosing to buy a coffee at their shop instead of Starbucks, or taking a class with them instead of at an Equinox, is directly helping them achieve their dreams. It’s about more than just securing livelihoods. All of that gets paid back to the community and strengthens it, as well - it’s certainly not a one-way street. Whether you believe in karma or not, I think that if you support people you will be supported in turn.
