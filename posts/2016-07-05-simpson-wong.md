@@ -16,7 +16,7 @@ tweetText: .@chompchompnyc chef shares three of his favorite local businesses in
 ## Blue Moon Fish
 So we’re at Blue Moon Fish’s stand at the Union Square Greenmarket. They regularly come in from Mattituck to sell local, wild-caught fish throughout the year (except maybe deep winter). Because they’re direct-to-consumer, their pricing is much more reasonable and transparent than larger stores’, which is something I really respect. They could go the arguably easier route and wholesale, so I think it’s very admirable that they take the extra steps to connect directly with their customers. Additionally, Stephanie will always take the time to educate people on species that aren’t commonly found on menus - for example, Blue Moon has successfully pushed porgies and fluke as alternatives to typically popular fish. This helps us maintain sustainability in the ecosystem, which is something we should always be more mindful of.
 
-![Bo Concept](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Bo%20Concept.jpg)
+![BoConcept](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Bo%20Concept.jpg)
 ## BoConcept
 BoConcept USA was started up by my friends Niki and Shaokao Cheng. I love how modular all of the pieces are and how coherently everything comes together in a space. Without knowing too much about design, you can still see how everything just makes sense.  It’s really incredible to see what they’ve accomplished with the business, considering they started and continue to run it by themselves. The aesthetic and stylistic choices they make are really in line with mine, as well. 
 
