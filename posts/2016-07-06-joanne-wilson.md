@@ -5,7 +5,7 @@ title: Joanne Wilson
 description: >-
   angel investor, blogger, and co-founder - <a
   href="https://www.wefestival.com/">Women’s Entrepreneur Festival</a>
-image: 'https://s3.amazonaws.com/bst-fornyc/img_9017_720.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/IMG_9017.jpg'
 ---
 ## Hotoveli
 Hotoveli has two locations - one on Bleecker and another on West 4th - I’ve shopped at the latter since it first opened. They’ve got this smoky, glass facade that gives the space a unique look and everyone who works there is really knowledgeable. The guy who owns Hotoveli is just fantastic. Most importantly, they’ve got this assortment of cutting-edge clothing that’s just impeccably curated. Just last week, I bought this brilliant, techy jacket from a cult brand in Germany called Acronym for my son. He was so psyched. I mean, you really have to dig around to find this kind of stuff anywhere else. I love that I can always walk by, pop my head in, and know that I’ll find something exciting and new.  
