@@ -6,6 +6,11 @@ description: >-
   DJ, producer, founder - <a href="http://feeluprecords.com/">Feel Up
   Records</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Jillionaire%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Jillionaire'
+socialBlurb: Jillionaire shares three of his favorite local businesses in NYC.
+tweetText: >-
+  .@jillionaire of @FeelUpRecords shares three of his favorite local businesses
+  in NYC
 ---
 ![Scarr's Pizza](https://s3.amazonaws.com/bst-fornyc/Jillionaire%20Scarr's%20Pizza.jpg)
 ## Scarr’s Pizza
