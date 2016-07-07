@@ -4,6 +4,9 @@ published: true
 title: Amy Woodside
 description: 'founder, <a href="http://www.okreal.co/">OKREAL</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Amy%20Woodside%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Amy Woodside'
+socialBlurb: Amy Woodside of OKREAL shares three of her favorite local businesses in NYC.
+tweetText: .@heyOKREAL founder shares three of her favorite local businesses in NYC
 ---
 ![Sky Ting Yoga](https://s3.amazonaws.com/bst-fornyc/Amy%20Woodside%20Sky%20Ting%20Yoga%20Main.jpg)
 ## Sky Ting Yoga
