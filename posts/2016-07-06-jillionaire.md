@@ -1,6 +1,6 @@
 ---
 date: '2016-04-06 19:58 -0400'
-published: false
+published: true
 title: Jillionaire
 description: >-
   DJ, producer, founder - <a href="http://feeluprecords.com/">Feel Up
@@ -34,4 +34,4 @@ J: And somehow, I’ll always end up getting involved.
 OJ: Yes. This is just a place for people who are used to being told no a lot, they need someone to tell them yes, and I’m usually the guy who’ll give them that yes. I try to fulfill whatever dreams they have. I’m just a neighborhood guy doing neighborhood things. Trying to hug the block without selling drugs!
 
 ## Why is it important to support independent businesses?
-J: New York City is eating itself alive. There are spots that we would have gone to for this feature five years ago that don’t exist today. Despite that, the underlying appeal of New York is that you can come here and do something interesting with your life. People come to this city to manifest their dreams, to make something of themselves, however you want to put it. It’s important to support people who put their heart, soul, and last dollar into something they believe in. If I didn’t have that standard to inspire me, I wouldn’t have my own independent business. I wouldn’t have known where to begin. It’s easy to collect a check from a big, faceless company - the more worthwhile thing is helping people you know succeed and pursue their dreams. 
+J: New York City is eating itself alive. There are spots that we would have gone to for this feature five years ago that don’t exist today. Despite that, the underlying appeal of New York is that you can come here and do something interesting with your life. People come to this city to manifest their dreams, to make something of themselves, however you want to put it. It’s important to support people who put their heart, soul, and last dollar into something they believe in. If I didn’t have that standard to inspire me, I wouldn’t have my own independent business. I wouldn’t have known where to begin. It’s easy to collect a check from a big, faceless company - the more worthwhile thing is helping people you know succeed and pursue their dreams.
