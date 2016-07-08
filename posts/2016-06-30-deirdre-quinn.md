@@ -22,9 +22,9 @@ For our customization and speed. By reinventing the business model vertically, w
 
 Another independent business I admire is 11 Howard. Transforming a local neighborhood Holiday Inn into a new luxury hotel in Soho both optimizes real estate and services the changing needs of the local clientele.
 
-## WeWork
+## BDDW
 
-WeWork is another terrific company because they help independent businesses and startups providing an alternative work space solution offering minimum investments, flexibility, and room for innovative.
+BDDW is another terrific company because they are dedicated to craftsmanship, innovation, quality, and design. As a vertical company we value and admire that each piece is created in Tyler Hayes’s studio in Philadelphia, PA.”
 
 ## Why is it important to support independent business?
 
