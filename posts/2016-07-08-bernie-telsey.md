@@ -4,6 +4,9 @@ published: true
 title: Bernie Telsey
 description: 'founder - <a href="http://www.telseyandco.com/">Telsey + Company</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Bernie%20Telsey%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Bernie Telsey'
+socialBlurb: Bernie Telsey shares three of his favorite local businesses in NYC.
+tweetText: .@telseyandco shares three of his favorite local businesses in NYC
 ---
 ![Orso](https://s3.amazonaws.com/bst-fornyc/Bernie%20Telsey%20Orso.jpg)
 ## Orso
