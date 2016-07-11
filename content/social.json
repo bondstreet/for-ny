@@ -1,7 +1,8 @@
 {
-    "fbImage": "/images/social/facebook.png",
     "twitterCardImage": "/images/social/twitter-card.png",
     "twitterCardLargeImage": "/images/social/twitter-card-large.png",
+    "fbImage": "/images/social/facebook.png",
+    "fbTitle": "The Locals Only Guide to New York City",
     "description": "New Yorkers share their favorite independent businesses.",
     "defaultTweet": "Read about some of the independent businesses that make New York City great:"
 }

@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'development') {
 
 const Head = ({ title, social, post, ...props }) => {
     const siteUrl = props.domain + props.baseurl
-    const metaTitle = (post.title) ? (post.fbTitle || post.title) : title
+    const metaTitle = (post.title) ? (post.fbTitle || post.title) : (social.fbTitle || title)
     const metaFbImage = (post.image) ? siteUrl + post.image : siteUrl + social.fbImage
     const metaTwitterImage = (post.image) ? siteUrl + post.image : siteUrl + social.twitterCardLargeImage
     const metaUrl = siteUrl + props.path
