@@ -24,6 +24,15 @@ prose:
         field:
           element: 'text'
           label: 'Description'
+      - name: 'category'
+        field:
+          element: 'select'
+          label: 'Category'
+          options:
+            - name: 'Favorites'
+              value: 'favorites'
+            - name: 'Default'
+              value: 'default'
       - name: 'image'
         field:
           element: 'text'
