@@ -1,6 +1,6 @@
 ---
 date: '2016-07-09 14:20 -0400'
-published: false
+published: true
 title: Foster Kamer
 description: 'writer, executive editor - <a href="http://mentalfloss.com/">Mental Floss</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Foster%20Kamer%20Main%20Portrait.jpg'
