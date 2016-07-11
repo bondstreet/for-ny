@@ -3,7 +3,7 @@ date: '2016-06-27 10:09 -0400'
 published: true
 title: John McPheters
 description: 'co-founder - <a href="http://www.stadiumgoods.com/">Stadium Goods</a>'
-image: 'https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Main%20Portrait.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/john_mcpheters_new_main.jpg'
 fbTitle: 'For New York: John McPheters'
 socialBlurb: >-
   John McPheters of Stadium Goods shares three of his favorite local businesses
