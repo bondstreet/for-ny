@@ -1,6 +1,6 @@
 ---
 date: '2016-07-11 08:41 -0400'
-published: false
+published: true
 title: Jonathan Mannion
 description: '<a href="http://jonathanmannion.com/">photographer</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Jonathan%20Mannion%20Main%20Portrait.jpg'
