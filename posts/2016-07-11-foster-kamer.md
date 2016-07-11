@@ -4,6 +4,14 @@ published: true
 title: Foster Kamer
 description: 'writer, executive editor - <a href="http://mentalfloss.com/">Mental Floss</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Foster%20Kamer%20Main%20Portrait.jpg'
+category: favorites
+fbTitle: 'For New York: Foster Kamer'
+socialBlurb: >-
+  Foster Kamer of Mental Floss shares three of his favorite local businesses in
+  NYC.
+tweetText: >-
+  .@mental_floss executive editor @weareyourfek shares three of his favorite
+  local businesses in NYC
 ---
 ![Variety Coffee](https://s3.amazonaws.com/bst-fornyc/Foster%20Kamer%20Variety%20Coffee.jpg)
 ## Variety Coffee
