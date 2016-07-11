@@ -1,5 +1,5 @@
 ---
-date: '2016-06-29 08:59 -0400'
+date: '2016-07-11 08:59 -0400'
 published: true
 title: 'Naomi Zeichner '
 description: 'editor-in-chief - <a href="http://www.thefader.com/">The Fader</a>'
