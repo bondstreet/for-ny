@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-08 19:32 -0400'
-published: false
+published: true
 title: Phoebe Lovatt
 description: >-
   writer, founder - <a href="http://www.thewwclub.com/">The Working Womens
