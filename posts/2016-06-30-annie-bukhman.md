@@ -14,6 +14,14 @@ socialBlurb: >-
 tweetText: >-
   Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
   businesses in NYC
+intro: >-
+  Annie Bukhman designs and handcrafts leather handbags and accessories using
+  only US sourced materials at Gift Shop Brooklyn.  She believes soft, high
+  quality leather and impeccable craftsmanship are the only details needed for a
+  beautiful bag, that will stand the test of time and trends. Annie's online
+  shop is, this summer, celebrating its 5 year anniversary of serving customers
+  all around the world with thoughtful, handmade gifts and accessories
+  handcrafted in her Brooklyn, NY studio.
 ---
 ![Purity Diner](https://s3.amazonaws.com/bst-fornyc/Annie_PurityDiner.jpg)
 ## Purity Diner
