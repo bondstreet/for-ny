@@ -7,6 +7,9 @@ description: >-
   href="http://massive-goods.com/">Massive Goods</a>
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Anne%20Ishii%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Anne Ishii'
+tweetText: .@ill_iterate shares three of her favorite local businesses in NYC
+socialBlurb: Anne Ishii shares three of her favorite local businesses in NYC.
 ---
 ![Printed Matter](https://s3.amazonaws.com/bst-fornyc/Anne%20Ishii%20Printed%20Matter.jpg)
 ## Printed Matter
