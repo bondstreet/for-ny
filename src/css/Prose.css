@@ -37,17 +37,17 @@
 }
 
 @media (--breakpoint-sm) {
-    .Prose img {
+    .Prose--staggered img {
         max-width: calc(7 / 12 * 100%);
     }
 
-    .Prose img:nth-of-type(2n) {
+    .Prose--staggered img:nth-of-type(2n) {
         float: left;
         margin-left: -var(--space-3);
         margin-right: var(--space-3);
     }
 
-    .Prose img:nth-of-type(2n + 1) {
+    .Prose--staggered img:nth-of-type(2n + 1) {
         float: right;
         margin-left: var(--space-3);
         margin-right: -var(--space-3);

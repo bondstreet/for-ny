@@ -1,5 +1,6 @@
 
 import React from 'react'
+import classnames from 'classnames'
 
 class Prose extends React.Component {
     componentDidMount () {
@@ -7,10 +8,14 @@ class Prose extends React.Component {
     }
 
     render () {
-        const { html } = this.props
+        const { html, staggered } = this.props
+        const cx = classnames('Prose', {
+            'Prose--staggered': staggered
+        })
+
         return (
             <div
-                className='Prose'
+                className={cx}
                 dangerouslySetInnerHTML={{ __html: html }} />
         )
     }
