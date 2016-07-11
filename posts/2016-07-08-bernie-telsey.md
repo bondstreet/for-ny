@@ -3,6 +3,7 @@ date: '2016-07-08 09:38 -0400'
 published: true
 title: Bernie Telsey
 description: 'founder - <a href="http://www.telseyandco.com/">Telsey + Company</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Bernie%20Telsey%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Bernie Telsey'
 socialBlurb: Bernie Telsey shares three of his favorite local businesses in NYC.
@@ -10,7 +11,7 @@ tweetText: .@telseyandco shares three of his favorite local businesses in NYC
 ---
 ![Orso](https://s3.amazonaws.com/bst-fornyc/Bernie%20Telsey%20Orso.jpg)
 ## Orso
-I remember the first time I went to Orso - I was working for Meg Simon and Fran Kumin right out of school as a casting assistant. You knew of Orso because it was kind of The Theater’s Place to Be - all of the stars and producers were always eating there. One night, Meg and Fran took me to dinner at Orso. I remember every moment of that experience and thinking to myself, “I can’t wait until I can afford to come here on my own and bring people here.” 
+I remember the first time I went to Orso - I was working for Meg Simon and Fran Kumin right out of school as a casting assistant. You knew of Orso because it was kind of The Theater’s Place to Be - all of the stars and producers were always eating there. One night, Meg and Fran took me to dinner at Orso. I remember every moment of that experience and thinking to myself, “I can’t wait until I can afford to come here on my own and bring people here.”
 
 Well, I’ve been a regular at Orso for about 20 years now and can safely say that I’ve had literally everything on the menu. Everything is consistently delicious. Additionally, it’s an establishment that’s really accommodating - I’ll have business meetings there, run in before heading to the theater, and regularly stop by with my family. The waiters have been there forever, the owners are the managers, everyone knows who you are, and we’ll always get a table when we need one. On top of all that, Orso’s in a fantastic location: it’s two blocks from my house on 44th, two blocks from my office on 43rd, and two blocks from every Broadway theater. While the convenience factor alone puts it over the top for me, what’s really amazing is that my entire family - whether it’s my wife, my kids, or my extended family - all of them absolutely love the food. It’s a great place to go at 6 o’clock before curtain, but also 11 o’clock after shows. Everything about Orso is a 10.
 

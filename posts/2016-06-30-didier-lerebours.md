@@ -5,6 +5,7 @@ title: 'Didier Lerebours '
 description: >-
   founder - <a href="https://shop.newdistributionhouse.com/">New Distribution
   House</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Didier%20Lerebours%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Didier Lerebour'
 socialBlurb: >-

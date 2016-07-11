@@ -5,6 +5,7 @@ title: Markus Glocker and John Winterman
 description: >-
   chef and managing partner - <a
   href="http://www.batardtribeca.com/restaurants/batard/">Bâtard</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Batard_Bonsignour.jpg'
 partnerLogo: /images/logos/reserve.png
 fbTitle: 'For New York: Markus Glocker and John Winterman'

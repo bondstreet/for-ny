@@ -1,6 +1,7 @@
 ---
 title: Steve “ESPO” Powers
 description: 'artist, founder - <a href="http://icysigns.tumblr.com/">Icy Signs</a>'
+category: favorites
 date: 'Mon July 11 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersMainPortrait.jpg'
 published: true

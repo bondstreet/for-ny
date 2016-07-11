@@ -4,6 +4,7 @@ published: true
 title: Daniel Boulud
 image: 'https://s3.amazonaws.com/bst-fornyc/daniel_boulud_portrait.jpg'
 description: '<a href="http://www.danielboulud.com/">chef, restaurateur</a>'
+category: favorites
 fbTitle: 'For New York: Daniel Boulud'
 socialBlurb: Daniel Boulud shares three of his favorite local businesses in NYC.
 tweetText: .@DanielBoulud shares three of his favorite local businesses in NYC

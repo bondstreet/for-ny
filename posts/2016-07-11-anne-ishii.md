@@ -5,6 +5,7 @@ title: Anne Ishii
 description: >-
   writer, editor, translator, founder - <a
   href="http://massive-goods.com/">Massive Goods</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Anne%20Ishii%20Main%20Portrait.jpg'
 ---
 ![Printed Matter](https://s3.amazonaws.com/bst-fornyc/Anne%20Ishii%20Printed%20Matter.jpg)
@@ -21,7 +22,7 @@ Where does one go really late at night if they want to meet friends but don’t 
 
 ![Julius](https://s3.amazonaws.com/bst-fornyc/Anne%20Ishii%20Julius.jpg)
 ## Julius
-Having said all that I said about non-drinking establishments, “the gay bar” is a social establishment and deserves its own historical preservation classification, and man, I hope this one sticks around. Julius is my favorite gay bar of all time. It’s chill, it’s low­key, it’s high energy, it’s supes cheap, and they make a phenomenal cheeseburger. I’ve come here for quiet biz drinks as well as loud ass birthday parties. And I suppose in some alternate universe where I am actually the gay man I keep thinking I will become, this is the most romantic place in the universe. It’s a neighborhood bar with a unique mandate, but universal appeal. 
+Having said all that I said about non-drinking establishments, “the gay bar” is a social establishment and deserves its own historical preservation classification, and man, I hope this one sticks around. Julius is my favorite gay bar of all time. It’s chill, it’s low­key, it’s high energy, it’s supes cheap, and they make a phenomenal cheeseburger. I’ve come here for quiet biz drinks as well as loud ass birthday parties. And I suppose in some alternate universe where I am actually the gay man I keep thinking I will become, this is the most romantic place in the universe. It’s a neighborhood bar with a unique mandate, but universal appeal.
 
 ## Why is it important to support independent business?
 Sometimes I think independent businesses are a trick. A lot of them are incubating corporate chrysalises (e.g. Blue Bottle, any fashion design brand). And a lot of independent businesses that stay small are also just run by rich people who got tired of counting other people’s money. I guess what I think is more important than the idea of a business being independent is the idea that it is interdependent. It is crucial that small neighborhood businesses can be inviting to as many of its neighbors as possible, even if they only offer one pinhole-specific idea and product. IMHO, the most important element of a small, local business in New York is the element of economic sincerity. New York City has one of the highest populations of working poor who can’t afford rent, and we share walls with “Million Dollar Deal” Bravo characters. I hate thinking that with such a rich culture of social environments at their disposal, the majority of New Yorkers can only feel comfortable at a McDonald’s (no offense to the McRib) because it’s not advertised in Helvetica.

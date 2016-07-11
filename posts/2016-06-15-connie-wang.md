@@ -5,6 +5,7 @@ title: 'Connie Wang '
 description: >-
   fashion features director - <a
   href="http://www.refinery29.com/">Refinery29</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangYo-CAlt.jpg'
 tweetText: >-
   Connie Wang of @Refinery29 shares three of her favorite local businesses in

@@ -1,6 +1,7 @@
 ---
 title: Carol Lim
 description: 'co-founder - <a href="https://www.openingceremony.com/">Opening Ceremony</a>'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/CarolLimMainPortrait.jpg'
 published: true

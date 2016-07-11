@@ -24,6 +24,15 @@ prose:
         field:
           element: 'text'
           label: 'Description'
+      - name: 'category'
+        field:
+          element: 'select'
+          label: 'Category'
+          options:
+            - name: 'Favorites'
+              value: 'favorites'
+            - name: 'Default'
+              value: 'default'
       - name: 'image'
         field:
           element: 'text'
@@ -50,3 +59,8 @@ prose:
         field:
           element: 'text'
           label: 'Tweet Text'
+      - name: 'intro'
+        field:
+          element: 'textarea'
+          label: 'Intro paragraph (optional)'
+          help: 'Paragraph to appear above the post content'

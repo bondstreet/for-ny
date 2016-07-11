@@ -5,6 +5,7 @@ title: Bettina Chin Cho
 description: >-
   legal counsel, special projects manager, show producer - <a
   href="https://www.openingceremony.com/">Opening Ceremony</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/bettina_chin_cho_new_main.jpg'
 ---
 ![Norman and Jules](https://s3.amazonaws.com/bst-fornyc/Bettina%20Chin%20Cho%20Norman%20and%20Jules.jpg)

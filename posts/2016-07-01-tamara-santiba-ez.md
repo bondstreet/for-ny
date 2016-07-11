@@ -6,6 +6,7 @@ description: >-
   <a href="http://tamarasantibanez.com/">artist</a>, <a
   href="http://tamarasantibanez.com/">tattoo artist</a>, publisher - <a
   href="http://www.disciplinepress.com/">Discipline Press</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/ATamara%20Santibanez%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Tamara Santibañez'
 socialBlurb: >-

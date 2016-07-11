@@ -3,6 +3,7 @@ date: '2016-06-29 08:52 -0400'
 published: true
 title: 'Kerin Rose Gold '
 description: 'designer, founder - <a href="http://www.a-morir.com/">A-Morir</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Kerin%20Rose%20Gold%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Kerin Rose Gold'
 socialBlurb: >-

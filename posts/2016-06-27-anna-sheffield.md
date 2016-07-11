@@ -6,6 +6,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Main%20Portrait.j
 description: >-
   founder, creative director - <a href="http://www.annasheffield.com/">Anna
   Sheffield</a> and <a href="http://www.bingbangnyc.com/">Bing Bang</a>
+category: favorites
 fbTitle: 'For New York: Anna Sheffield'
 socialBlurb: >-
   Anna Sheffield of Bing Bang shares three of her favorite local businesses in
@@ -28,7 +29,7 @@ Literally next door to the Football Cafe is one of the nicest little surprises i
 ![The Sill](https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20The%20Sill.jpg)
 ## The Sill
 
-Next we wandered straight into my urban oasis - The Sill. I actually met The Sill’s owner, Eliza, after her now-husband proposed to her with one of my rings. I was immediately impressed with her concept, branding, and the business model (which at the time was predominantly focused online). When she opened her brick-and-mortar shop in the LES, I was over the moon. The plant selection is just beautiful and the subtly Sill-branded pots are really special. They offer the kind of gifts that you want to give as well as receive. 
+Next we wandered straight into my urban oasis - The Sill. I actually met The Sill’s owner, Eliza, after her now-husband proposed to her with one of my rings. I was immediately impressed with her concept, branding, and the business model (which at the time was predominantly focused online). When she opened her brick-and-mortar shop in the LES, I was over the moon. The plant selection is just beautiful and the subtly Sill-branded pots are really special. They offer the kind of gifts that you want to give as well as receive.
 
 ## Why is it important to support independent businesses?
 

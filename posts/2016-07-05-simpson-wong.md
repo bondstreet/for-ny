@@ -5,6 +5,7 @@ title: Simpson Wong
 description: >-
   chef, founder - <a
   href="http://chompchompnyctest.squarespace.com/#welcome">Chomp Chomp</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Simpson Wong'
 socialBlurb: >-
@@ -18,11 +19,11 @@ So we’re at Blue Moon Fish’s stand at the Union Square Greenmarket. They reg
 
 ![BoConcept](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Bo%20Concept.jpg)
 ## BoConcept
-BoConcept USA was started up by my friends Niki and Shaokao Cheng. I love how modular all of the pieces are and how coherently everything comes together in a space. Without knowing too much about design, you can still see how everything just makes sense.  It’s really incredible to see what they’ve accomplished with the business, considering they started and continue to run it by themselves. The aesthetic and stylistic choices they make are really in line with mine, as well. 
+BoConcept USA was started up by my friends Niki and Shaokao Cheng. I love how modular all of the pieces are and how coherently everything comes together in a space. Without knowing too much about design, you can still see how everything just makes sense.  It’s really incredible to see what they’ve accomplished with the business, considering they started and continue to run it by themselves. The aesthetic and stylistic choices they make are really in line with mine, as well.
 
 ![Tan Ting Hung Supermarket](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Tan%20Ting%20Hung.jpg)
 ## Tan Ting Hung Supermarket
-Tan Ting Hung is a Southeast Asian, primarily Vietnamese supermarket on the Bowery. I’ve been coming here for years to buy ingredients both for myself and the restaurant. You’ll notice that there are a bunch of things that you can find at other supermarkets or stores, but the pricing is much fairer and and the selection is far more extensive here. Of course, there are also things like pandan leaf that you can’t really find at too many shops in Manhattan, at least. I really love how everyone who works is here is so knowledgable, patient, and generous with their time. They’ll really go out of their way to help you figure out exactly what you’re looking for and even stuff that you didn’t know you needed. Lastly, the fact that they employ elderly immigrants is something that is very inspirational to me - I’ve adopted the same practice at Chomp Chomp. 
+Tan Ting Hung is a Southeast Asian, primarily Vietnamese supermarket on the Bowery. I’ve been coming here for years to buy ingredients both for myself and the restaurant. You’ll notice that there are a bunch of things that you can find at other supermarkets or stores, but the pricing is much fairer and and the selection is far more extensive here. Of course, there are also things like pandan leaf that you can’t really find at too many shops in Manhattan, at least. I really love how everyone who works is here is so knowledgable, patient, and generous with their time. They’ll really go out of their way to help you figure out exactly what you’re looking for and even stuff that you didn’t know you needed. Lastly, the fact that they employ elderly immigrants is something that is very inspirational to me - I’ve adopted the same practice at Chomp Chomp.
 
 ## Why is it important to support independent businesses?
 Independent businesses are what give New York its personality, its identity, and its unique energy. I don’t think you can really have community without local businesses that act as hubs for people to come together. As an independent business owner myself, it’s really important to me that I have a very direct connection with my customers. You have to be amongst people you’re providing services for - how else can you discover what they really want? By building these personal relationships with people who come to my restaurant, I’m also able to figure out ways to improve my business that I wouldn’t have arrived at on my own.

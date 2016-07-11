@@ -5,6 +5,7 @@ title: Annie Bukhman
 description: >-
   designer, founder - <a href="http://giftshopbrooklyn.com/">Gift Shop
   Brooklyn</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Annie_Main.jpg'
 fbTitle: 'For New York: Annie Bukhman'
 socialBlurb: >-
@@ -13,14 +14,22 @@ socialBlurb: >-
 tweetText: >-
   Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
   businesses in NYC
+intro: >-
+  Annie Bukhman designs and handcrafts leather handbags and accessories using
+  only US sourced materials at Gift Shop Brooklyn.  She believes soft, high
+  quality leather and impeccable craftsmanship are the only details needed for a
+  beautiful bag, that will stand the test of time and trends. Annie's online
+  shop is, this summer, celebrating its 5 year anniversary of serving customers
+  all around the world with thoughtful, handmade gifts and accessories
+  handcrafted in her Brooklyn, NY studio.
 ---
 ![Purity Diner](https://s3.amazonaws.com/bst-fornyc/Annie_PurityDiner.jpg)
 ## Purity Diner
 
-Oh I love a good diner! I always get either one of two things -  2 eggs, rye toast, and home fries; or a tuna melt (soooo amazing) and of course countless refills of coffee. Purity is so cozy and friendly and there’s always a comfy booth available. I think pretty much everyone who knows me has joined me at Purity at one time or another. I go every chance I get. I've had business meetings, design meetings (yes I had my line plan and design sheets scattered all over the table), I even had my 35th birthday here. My birthday is in December so going out on a freezing cold night at my age sounds sort of terrible terrible, so I invited my girlfriends in the neighborhood for a Purity breakfast. The waitresses overheard it was my bday and when we were done with breakfast they brought over a mini stack of chocolate chip pancakes with whipped cream and a candle and sang happy birthday. 
+Oh I love a good diner! I always get either one of two things -  2 eggs, rye toast, and home fries; or a tuna melt (soooo amazing) and of course countless refills of coffee. Purity is so cozy and friendly and there’s always a comfy booth available. I think pretty much everyone who knows me has joined me at Purity at one time or another. I go every chance I get. I've had business meetings, design meetings (yes I had my line plan and design sheets scattered all over the table), I even had my 35th birthday here. My birthday is in December so going out on a freezing cold night at my age sounds sort of terrible terrible, so I invited my girlfriends in the neighborhood for a Purity breakfast. The waitresses overheard it was my bday and when we were done with breakfast they brought over a mini stack of chocolate chip pancakes with whipped cream and a candle and sang happy birthday.
 
 ![Tarzian West](https://s3.amazonaws.com/bst-fornyc/Annie_TarzianWest.jpg)
-## Tarzian West 
+## Tarzian West
 
 Small, but chock full of everything kitchen and bath. I shop Tarzian for shower curtains, spatulas, wine glasses;  I've also purchased many gifts there. They have a great selection of interesting and unique little dishes and kitchen specialties. I always find something new, and even though it’s such a small shop they somehow always have what I'm looking for. I love that their selection of goods is also well edited, I think it helps customers make better / more intentional purchases.  There's also always someone right there when you need them to answer a question, or help you find something (or just to help you carry all those wine glasses to the register).
 
