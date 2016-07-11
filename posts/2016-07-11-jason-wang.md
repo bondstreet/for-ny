@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-09 18:55 -0400'
-published: false
+published: true
 title: Jason Wang
 description: 'founder - <a href="http://xianfoods.com/">Xi’an Famous Foods</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/jason_wang_main_portrait.jpg'
