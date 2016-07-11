@@ -5,6 +5,7 @@ title: 'Mary HK Choi '
 description: '<a href="http://www.choitotheworld.com/">writer, author</a>'
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Mary%20HK%20Choi%20Main%20Portrait.jpg'
+intro: 'It’s funny but when someone asks you to pick a place in New York you start thinking of quintessential New York places. Places that might make some hayseed Field Mouse feel jealous that they don’t have access to something so cool or particular. Like Jay Z and Beyoncé go to my favorite pizza place but talking about that place feels disingenuous because it’s too Yelp review. I want to talk about places that are built into my actual day-to-day because they provide sanctuary in a neighborhood that’s so overrun with strollers and a milquetoast kind of affluent white person that would give away their pet once they have their third kid. I’m stricken that I don’t have a deli to talk about because I’m in between bodegas and the one closest to me has a trash chip game and is a waste of time. I think about this at least twice a day.'
 fbTitle: 'For New York: Mary HK Choi'
 socialBlurb: Mary HK Choi shares three of her favorite local businesses in NYC.
 tweetText: Mary HK Choi shares three of her favorite local businesses in NYC
