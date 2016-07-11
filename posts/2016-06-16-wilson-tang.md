@@ -5,6 +5,7 @@ title: Wilson Tang
 description: >-
   owner, <a href="http://nomwah.com/">Nom Wah Tea Parlor</a> and <a
   href="http://www.fungtu.com/">Fung Tu</a>
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/WilsonTangMainPortrait.jpg'
 fbTitle: 'For New York: Wilson Tang'
 socialBlurb: >-

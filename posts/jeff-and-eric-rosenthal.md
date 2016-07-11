@@ -3,6 +3,7 @@ title: Jeff and Eric Rosenthal
 description: >-
   hip hop sketch comedians - <a
   href="https://soundcloud.com/awasteoftime">ItsTheReal</a>
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalMainPortrait.jpg'
 published: true

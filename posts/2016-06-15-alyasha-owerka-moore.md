@@ -4,6 +4,7 @@ published: true
 title: Alyasha Owerka-Moore
 image: 'https://s3.amazonaws.com/bst-fornyc/AlyashaOwerka-MooreMainPortrait.jpg'
 description: '<a href="http://stackaly.tumblr.com/">Creative Director, Designer</a>'
+category: favorites
 fbTitle: 'For New York: Alyasha Owerka-Moore'
 socialBlurb: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC.
 tweetText: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC

@@ -3,6 +3,7 @@ date: '2016-07-05 08:59 -0400'
 published: true
 title: Taylor Okata
 description: '<a href="http://www.catchingfeelings.com/">creative director, stylist</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Taylor%20Okata%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Taylor Okata '
 socialBlurb: >-

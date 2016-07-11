@@ -1,6 +1,7 @@
 ---
 title: Nasty Nigel
 description: 'rapper - <a href="https://soundcloud.com/worldsfair">World’s Fair</a>'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/NastyNigelMainPortrait.jpg'
 published: true

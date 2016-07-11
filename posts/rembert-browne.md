@@ -3,6 +3,7 @@ title: Rembert Browne
 description: >-
   culture critic at large - <a
   href="http://nymag.com/author/Rembert%20Browne/">New York Magazine</a>
+category: favorites
 date: 'Mon Jul 11 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg'
 published: true

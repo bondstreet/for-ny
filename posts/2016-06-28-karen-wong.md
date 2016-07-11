@@ -3,6 +3,7 @@ date: '2016-11-07 09:24 -0400'
 published: true
 title: Karen Wong
 description: 'deputy director, <a href="http:/newmuseum.org/">The New Museum</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Karen Wong'
 socialBlurb: >-
@@ -26,7 +27,7 @@ Artists are actually the epitome of small businesses. They have to search for th
 ## Leong Leong
 
 NYC’s abundance of great architecture is felt everywhere - from our city’s skyscrapers to micro apartments, long-standing cultural institutions to pop-up retail spaces, and recycling plants to fire house stations. However - for whatever reason - homegrown, young talent is too often overlooked. Brothers Chris and Dominic Leong have put up the good fight and are winning. Located on the Bowery, their buzzing practice has graduated from creating knock-out retail spaces to executing projects like the first ever LGBT mixed-use campus in Los Angeles. Closer to home, they are working on an affordable housing development where the nonprofit group Asians Americans for Equality will be headquartered. Their emphasis on social and cultural impact is refreshing.
- 
+
 ## Why is it important to support independent businesses?
 
 Well, most of my friends run independent businesses so it’s personal more than anything else. However, on a macro level, independent businesses are where innovation and poetry are born. Entrepreneurs make up the chorus to the song of this unique, thriving city of ours - they’re the gospel of New York.

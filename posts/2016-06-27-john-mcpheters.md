@@ -3,6 +3,7 @@ date: '2016-06-27 10:09 -0400'
 published: true
 title: John McPheters
 description: 'co-founder - <a href="http://www.stadiumgoods.com/">Stadium Goods</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Main%20Portrait.jpg'
 fbTitle: 'For New York: John McPheters'
 socialBlurb: >-
@@ -18,12 +19,12 @@ Noah is one of my favorite brands out right now. What I love most is how clean-c
 ![Kinfolk](https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Kinfolk.jpg)
 ## Kinfolk
 
-Kinfolk, man. These guys really struck a chord with me on so many levels. Getting into prime Williamsburg at just the right time and finding that location really helped them anchor down and catalyze tremendous change.  When I think Kinfolk, I think “cultural hub.” The event space, the music, the energy coupled with the in-house brand and other stuff they carry - it’s just been great to see them grow and flourish. Beyond how savvily and proficiently they execute, they’re great people; they deserve to win. Really excited to see what they cook up in the years to come. 
+Kinfolk, man. These guys really struck a chord with me on so many levels. Getting into prime Williamsburg at just the right time and finding that location really helped them anchor down and catalyze tremendous change.  When I think Kinfolk, I think “cultural hub.” The event space, the music, the energy coupled with the in-house brand and other stuff they carry - it’s just been great to see them grow and flourish. Beyond how savvily and proficiently they execute, they’re great people; they deserve to win. Really excited to see what they cook up in the years to come.
 
 ![Pearl's](https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20Pearl's%20Main.jpg)
 ## Pearl’s
 
-Pearl’s - wow - just incredibly dope Trinidadian food. A lot of us native New Yorkers grew up with West Indian food being a staple in the outer boroughs. I used to always eat curried goat with rice and peas up in Baychester, BX when I was younger; it always surprises me how hard it’s become to find authentic West Indian food outside of a few traditional spots I’ve frequented since I was a kid. Thankfully, I stopped by Pearl’s shortly after they opened and it was love at first bake. For those who don’t know, a bake is a Trinidadian sandwich of sorts that consists of fried bread, a seafood or meat, etc. and a whole bunch of trimmings…any of Pearl’s bakes are a must-have if you’re running around Williamsburg. Also, both John and Fallon Seymour always show love and are doing so much on a ton of different fronts.  Definitely check Pearl’s out if you haven’t been by already. 
+Pearl’s - wow - just incredibly dope Trinidadian food. A lot of us native New Yorkers grew up with West Indian food being a staple in the outer boroughs. I used to always eat curried goat with rice and peas up in Baychester, BX when I was younger; it always surprises me how hard it’s become to find authentic West Indian food outside of a few traditional spots I’ve frequented since I was a kid. Thankfully, I stopped by Pearl’s shortly after they opened and it was love at first bake. For those who don’t know, a bake is a Trinidadian sandwich of sorts that consists of fried bread, a seafood or meat, etc. and a whole bunch of trimmings…any of Pearl’s bakes are a must-have if you’re running around Williamsburg. Also, both John and Fallon Seymour always show love and are doing so much on a ton of different fronts.  Definitely check Pearl’s out if you haven’t been by already.
 
 ## Why is it important to support independent businesses?
 

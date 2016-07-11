@@ -3,6 +3,7 @@ date: '2016-07-11 08:59 -0400'
 published: true
 title: 'Naomi Zeichner '
 description: 'editor-in-chief - <a href="http://www.thefader.com/">The Fader</a>'
+category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Naomi Zeichner '
 socialBlurb: >-
@@ -26,9 +27,9 @@ Most weekends, my boyfriend and I try to spend at least one morning in the neigh
 
 ![D'vine Taste](https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20D'Vine%20Taste%20Main.jpg)
 
-## D’vine Taste   
+## D’vine Taste
 
-D’vine Taste isn’t somewhere I’d go to shop for groceries, but I’ll always stop in to buy something if I’m headed to a dinner at someone else’s house. Maybe if I’ve been a bitch and I’m trying to apologize to someone, I’ll go and pick up cookies or pastries for them beforehand. I love that they have hamentashen during Purim, too; I used to make hamentashen with my mom when I was a kid, so it’s nice that there’s a place near my house where I can buy some to celebrate the holiday. D’vine has such a warm atmosphere and it feels like I’m buying a luxury item of sorts whenever I’m there; they don’t necessarily have the cheapest pastries, but I always know that my money is being well spent.  
+D’vine Taste isn’t somewhere I’d go to shop for groceries, but I’ll always stop in to buy something if I’m headed to a dinner at someone else’s house. Maybe if I’ve been a bitch and I’m trying to apologize to someone, I’ll go and pick up cookies or pastries for them beforehand. I love that they have hamentashen during Purim, too; I used to make hamentashen with my mom when I was a kid, so it’s nice that there’s a place near my house where I can buy some to celebrate the holiday. D’vine has such a warm atmosphere and it feels like I’m buying a luxury item of sorts whenever I’m there; they don’t necessarily have the cheapest pastries, but I always know that my money is being well spent.
 
 
 ## Why is it important to support independent businesses?

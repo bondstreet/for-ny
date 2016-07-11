@@ -6,6 +6,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/Deirdre%20Quinn.jpg'
 description: >-
   co-founder - <a href="http://www.lafayette148ny.com/">Lafayette 148 New
   York</a>
+category: favorites
 fbTitle: 'For New York: Deirdre Quinn'
 socialBlurb: >-
   Deirdre Quinn of Lafayette 148 New York shares three of her favorite local

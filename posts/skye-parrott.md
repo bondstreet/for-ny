@@ -1,6 +1,7 @@
 ---
 title: Skye Parrott
 description: 'Photographer, founder - Double or Nothing'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/SkyeParrottMainPortrait.jpg'
 published: true

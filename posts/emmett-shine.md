@@ -1,6 +1,7 @@
 ---
 title: Emmett Shine
 description: 'founder - <a href="http://ginlane.com/">Gin Lane Media</a>'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/EmmettShineMainPortrait.jpg'
 published: true

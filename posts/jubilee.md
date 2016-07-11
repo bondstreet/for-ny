@@ -1,6 +1,7 @@
 ---
 title: Jubilee
 description: 'DJ, Producer - <a href="http://www.mixpakrecords.com/">Mixpak</a>'
+category: favorites
 date: 'Mon Jun 13 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/JubileeMainPortrait.jpg'
 published: true

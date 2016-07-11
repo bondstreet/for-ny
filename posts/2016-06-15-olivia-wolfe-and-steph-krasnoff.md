@@ -3,6 +3,7 @@ date: '2016-06-15 15:32 -0400'
 published: true
 title: Olivia Wolfe and Steph Krasnoff
 description: 'co-founders - <a href="http://americantwoshot.com/">American Two Shot</a>'
+category: favorites
 image: >-
   https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
 tweetText: >-
