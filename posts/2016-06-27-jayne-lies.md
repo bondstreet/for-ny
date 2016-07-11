@@ -3,7 +3,7 @@ date: '2016-06-27 10:04 -0400'
 published: true
 title: Jayne Lies
 image: 'https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Main%20Portrait.jpg'
-description: '<a href="http://jaynelies.com/">photographer</a>'
+description: '<a href="http://jaynelies.com/">photographer, video director, artist</a>'
 category: favorites
 tweetText: .@jayneLIES shares three of her favorite local businesses in NYC
 socialBlurb: Jayne Lies shares three of her favorite local businesses in NYC.
