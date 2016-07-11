@@ -59,3 +59,8 @@ prose:
         field:
           element: 'text'
           label: 'Tweet Text'
+      - name: 'intro'
+        field:
+          element: 'textarea'
+          label: 'Intro paragraph (optional)'
+          help: 'Paragraph to appear above the post content'

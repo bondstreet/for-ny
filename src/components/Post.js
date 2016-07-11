@@ -58,6 +58,13 @@ const Post = ({ params }, { data, router }) => {
                         caption={post.imageCaption} />
                 </Container>
             )}
+            {post.intro && (
+                <Container px={3} style={{ maxWidth: 1024 }}>
+                    <div className='Prose'>
+                        <p>{post.intro}</p>
+                    </div>
+                </Container>
+            )}
             {post.category === 'favorites' && (
                 <Container px={3} style={{ maxWidth: 768 }}>
                     <Heading center className='py2'>
