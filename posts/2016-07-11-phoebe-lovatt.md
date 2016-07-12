@@ -19,7 +19,7 @@ I came across DIMES on Instagram when I was still living in LA. I could tell it 
 
 ![Sky Ting Yoga](https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Sky%20Ting%20Yoga.jpg)
 ## Sky Ting Yoga
-There are a lot of yoga studios in New York, but Chloe and Krissy really nailed it with Sky Ting. Again, every aspect of the space and brand is on point, from the playlists to the Instagram feed (hilarious!, to the presence of Tommy, their delightful studio manager. It's a lesson in how to run a really slick operation but do so with a sense of grace and humor - the whole vibe is just fun. And you can't beat the name.
+There are a lot of yoga studios in New York, but Chloe and Krissy really nailed it with Sky Ting. Again, every aspect of the space and brand is on point, from the playlists to the Instagram feed (hilarious!) to the presence of Tommy, their delightful studio manager. It's a lesson in how to run a really slick operation but do so with a sense of grace and humor - the whole vibe is just fun. And you can't beat the name.
 
 ![Frankie](https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Frankie.jpg)
 ## Frankie
