@@ -89,7 +89,7 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Contact' />
-                <div className='nav-share-button nowrap inline-block align-middle mx2 md-my1 overflow-hidden'>
+                <div className='nav-share-button nowrap inline-block align-middle overflow-hidden'>
                     <ShareButtons isNav={true} />
                 </div>
             </nav>
