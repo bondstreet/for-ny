@@ -13,7 +13,7 @@ const AboutBranding = ({ ...props }) => {
                 className='mt2 mb2 md-hide lg-hide'
                 style={{
                     borderBottom: '1px solid #ccc',
-                    width: '250px'
+                    width: '200px'
                 }}
             />
             <div

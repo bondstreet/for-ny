@@ -23,7 +23,7 @@ const Logo = ({ to, medium, mega, ...props }) => {
             'caps',
             {
                 'h4': !mega && !medium,
-                'h2': medium,
+                'h3': medium,
                 'h2 sm-h1 md-h0 lg-h00': mega
             }
         )
