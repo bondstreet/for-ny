@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-12 08:40 -0400'
-published: false
+published: true
 title: Dao-Yi Chow and Maxwell Osborne
 description: >-
   founders and creative directors - <a href="http://publicschoolnyc.com/">Public
