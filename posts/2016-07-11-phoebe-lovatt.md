@@ -7,6 +7,11 @@ description: >-
   writer, founder - <a href="http://www.thewwclub.com/">The Working Womens
   Club</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Phoebe Lovatt'
+socialBlurb: Phoebe Lovatt shares three of her favorite local businesses in NYC.
+tweetText: >-
+  .@TheWWClub founder @PhoebeLovatt shares three of her favorite local
+  businesses in NYC
 ---
 ![Dimes](https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Dimes.jpg)
 ## Dimes
