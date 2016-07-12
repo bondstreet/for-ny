@@ -19,7 +19,7 @@
         "text": ""
     },
     "about": {
-        "text": "<strong>Why For New York?</strong><br> Because, more than ever, it’s crucial that we support the independent businesses that make New York the greatest city in the world.<br><br> <strong>…and Bond Street?</strong><br> Bond Street offers independent businesses a simple, fast, and transparent way to finance growth.<br><br> We’d love to learn more about your goals and tell you a little more about us, as well.",
+        "text": "<strong>Why For New York?</strong><br> Because, more than ever, it’s crucial that we support the independent businesses that make New York the greatest city in the world.<br><br> <strong>…and Bond Street?</strong><br> Bond Street offers independent businesses a simple, fast, and transparent way to finance growth.<br><br> We’d love to learn about your goals and tell you a little more about us, as well.",
         "subhead": "We’re proud to work with some of New York’s finest:",
         "aboutButton": "Schedule a call",
         "valueProps": [
@@ -98,5 +98,43 @@
                 "alt": "Uprise Art Logo"
             }
         ]
-    }
+    },
+    "partnerLogos": [
+        {
+            "src": "/images/logos/cp.png",
+            "alt": "CP logo",
+            "width": "64"
+        },
+        {
+            "src": "/images/logos/q.png",
+            "alt": "Q logo",
+            "width": "64"
+        },
+        {
+            "src": "/images/logos/indinero.png",
+            "alt": "Indinero logo"
+        },
+        {
+            "src": "/images/logos/reserve.png",
+            "alt": "Reserve logo"
+        },
+        {
+            "src": "/images/logos/thumbtack.png",
+            "alt": "Thumbtack logo"
+        },
+        {
+            "src": "/images/logos/wework.png",
+            "alt": "Wework logo",
+            "style": {
+                "paddingBottom": 7
+            }
+        },
+        {
+            "src": "/images/logos/circleup.png",
+            "alt": "Circleup logo",
+            "style": {
+                "paddingBottom": 4
+            }
+        }
+    ]
 }

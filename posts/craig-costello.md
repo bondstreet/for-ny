@@ -1,11 +1,15 @@
 ---
 title: Craig Costello
-date: 2016-06-07
-description: Artist and founder, <a href="http://shop.krink.com">KRINK</a>
-published: false
-image:
-socialBlurb:
-tweetText:
+date: 'Mon Jun 06 2016 20:00:00 GMT-0400 (EDT)'
+description: 'Artist and founder, <a href="http://shop.krink.com">KRINK</a>'
+category: favorites
+published: true
+image: 'https://s3.amazonaws.com/bst-fornyc/Craig_Costello.jpg'
+fbTitle: 'For New York: Craig Costello'
+socialBlurb: Craig Costello of KRINK shares three of his favorite local businesses in NYC.
+tweetText: >-
+  Craig Costello of @krinknyc shares three of his favorite local businesses in
+  NYC
 ---
 
 ## The Strand

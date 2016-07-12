@@ -1,8 +1,11 @@
 ---
 title: Nick Catchdubs
-description: 'DJ, producer, co-founder - Fool’s Gold Records'
+description: >-
+  DJ, producer, co-founder - <a href="http://foolsgoldrecs.com/">Fool’s Gold
+  Records</a>
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/NickCatchdubsMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/NickCatchdubsMainPortrait.jpg'
 published: true
 tweetText: >-
   .@catchdini of @FoolsGoldRecs shares three of his favorite local businesses in
@@ -10,6 +13,7 @@ tweetText: >-
 socialBlurb: >-
   Nick Catchdubs of Fools Gold Records shares three of his favorite local
   businesses in NYC.
+fbTitle: 'For New York: Nick Catchdubs'
 ---
 
 ![JHO Comic Books](https://s3.amazonaws.com/bst-fornyc/NickCatchdubsJHUComics.jpg)

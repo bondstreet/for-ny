@@ -1,12 +1,13 @@
 ---
 title: Kenzo Minami
-description: Artist & designer
+description: '<a href="http://www.kenzominami.com/">artist & designer</a>'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-ximage: /images/KenzoMinamiMainPortrait.jpg
-image: https://s3.amazonaws.com/bst-fornyc/KenzoMinamiMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/KenzoMinamiMainPortrait.jpg'
 published: true
 tweetText: .@KenzoMinami shares three of his favorite local businesses in NYC
 socialBlurb: Kenzo Minami shares three of his favorite local businesses in NYC.
+fbTitle: 'For New York: Kenzo Minami '
 ---
 
 ![Dimes](https://s3.amazonaws.com/bst-fornyc/KenzoMinamiDimes.jpg)

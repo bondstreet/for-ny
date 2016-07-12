@@ -1,20 +1,24 @@
 ---
 title: Rembert Browne
-description: 'Culture critic at large, New York Magazine'
-date: 'Thu Jun 02 2016 20:00:00 GMT-0400 (EDT)'
+description: >-
+  culture critic at large - <a
+  href="http://nymag.com/author/Rembert%20Browne/">New York Magazine</a>
+category: favorites
+date: 'Mon Jul 11 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg'
 published: true
 tweetText: .@rembert of @NYMag shares three of his favorite local businesses in NYC
 socialBlurb: >-
   Rembert Browne of New York Magazine shares three of his favorite local
   businesses in NYC.
+fbTitle: 'For New York: Rembert Browne'
 ---
 
 ![Baohaus](https://s3.amazonaws.com/bst-fornyc/RembertBrowneBaohaus.jpg)
 
 ## Baohaus
 
-It's a place that immediately made me feel like home. Without any formal agreement, I was loyal to them and they were loyal to me. I sat in the corner next to the outlets eating three baos and drinking my apple sidra and have probably written 30 pieces, during my period at Grantland when there was no formal office.
+It's a place that immediately made me feel at home. Without any formal agreement, I was loyal to them and they were loyal to me. I sat in the corner next to the outlets eating three baos and drinking my apple sidra and have probably written 30 pieces, during my period at Grantland when there was no formal office.
 
 ![Metropolis Vintage](https://s3.amazonaws.com/bst-fornyc/RembertBrowneMetropolis.jpg)
 
@@ -32,4 +36,4 @@ It's the definition of an independent neighborhood establishment. And I love it 
 
 ## Why is it important to support independent businesses?
 
-It's important--crucial even--to support independent businesses, because these are establishments that are often the character of a neighborhood, a community. The relationships created between customers and those that work in independent business frequently go beyond just purchases--it becomes familial. And that is something, extremely vital in the ever-difficult task of keeping cities, neighborhoods, communities, and even blocks authentic, fun, flavorful, safe, and unique.
+It's important —crucial even— to support independent businesses, because these are establishments that are often the character of a neighborhood, a community. The relationships created between customers and those that work in independent business frequently go beyond just purchases — it becomes familial. And that is something, extremely vital in the ever-difficult task of keeping cities, neighborhoods, communities, and even blocks authentic, fun, flavorful, safe, and unique.

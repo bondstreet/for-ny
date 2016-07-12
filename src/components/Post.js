@@ -58,13 +58,32 @@ const Post = ({ params }, { data, router }) => {
                         caption={post.imageCaption} />
                 </Container>
             )}
-            <Container px={3} style={{ maxWidth: 768 }}>
-                <Heading center className='py2'>
-                    What are 3 of your favorite small businesses in New York?
-                </Heading>
-            </Container>
+            {post.intro && (
+                <Container px={3} style={{ maxWidth: 1024 }}>
+                    <div className='Prose'>
+                        <p>{post.intro}</p>
+                    </div>
+                </Container>
+            )}
+            {post.category === 'favorites' && (
+                <Container px={3} style={{ maxWidth: 768 }}>
+                    <Heading center className='py2'>
+                        What are 3 of your favorite small businesses in New York?
+                    </Heading>
+                </Container>
+            )}
             <Container style={{ maxWidth: 1024 }} px={3} py={2}>
-                <Prose html={post.html} />
+                <Prose html={post.html}
+                    staggered={post.category === 'favorites'} />
+                {post.partnerLogo && (
+                    <div className='center py4'>
+                        This feature brought to you by
+                        <br />
+                        <img src={data.baseurl + post.partnerLogo}
+                            className='mt2'
+                            width='128' />
+                    </div>
+                )}
                 <div className='sm-col-6 mx-auto my4'>
                     <Circle className='bg-green mint'>
                         <Heading

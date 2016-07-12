@@ -1,13 +1,17 @@
 ---
 title: Niki and Shaokao Cheng
-description: Owners and co-founders - BoConcept USA
+description: >-
+  owners and co-founders - <a href="http://www.boconcept.com/en-us/">BoConcept
+  NY</a>
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengMainPortrait.jpg'
 published: true
 tweetText: .@BoConcept founders share three of their favorite local businesses in NYC
 socialBlurb: >-
   Niki and Shaokao Cheng of Bo Concept share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Niki and Shaokao Cheng'
 ---
 
 ![The Shala](https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengTheShala.jpg)

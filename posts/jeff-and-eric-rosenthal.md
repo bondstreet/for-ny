@@ -1,13 +1,17 @@
 ---
 title: Jeff and Eric Rosenthal
-description: Hip hop sketch comedians - ItsTheReal
+description: >-
+  hip hop sketch comedians - <a
+  href="https://soundcloud.com/awasteoftime">ItsTheReal</a>
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalMainPortrait.jpg'
 published: true
 tweetText: '.@itsthereal share three of their favorite local businesses in NYC '
 socialBlurb: >-
   Jeff and Eric Rosenthal of ItsTheReal share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Jeff and Eric Rosenthal'
 ---
 
 ![Silver Moon Bakery](https://s3.amazonaws.com/bst-fornyc/JeffandEricRosenthalSilverMoonBakery.jpg)

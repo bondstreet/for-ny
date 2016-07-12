@@ -2,14 +2,17 @@
 date: '2016-06-15 15:32 -0400'
 published: true
 title: Olivia Wolfe and Steph Krasnoff
-description: 'Co-founders - American Two Shot '
-image: https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
+description: 'co-founders - <a href="http://americantwoshot.com/">American Two Shot</a>'
+category: favorites
+image: >-
+  https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
 tweetText: >-
   Olivia & Steph of @AmericanTwoShot share three of their favorite local
   businesses in NYC
 socialBlurb: >-
   Olivia & Steph of American Two Shot share three of their favorite local
   businesses in NYC.
+fbTitle: 'For New York: Olivia Wolfe and Steph Krasnoff'
 ---
 
 ![Grass Roots Juicery](/fornewyork/images/OliviaWolfeandStephKrasnoffGrassRootsJuiceryMain.jpg)

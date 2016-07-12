@@ -1,13 +1,15 @@
 ---
 title: Skye Parrott
 description: 'Photographer, founder - Double or Nothing'
+category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
-image: https://s3.amazonaws.com/bst-fornyc/SkyeParrottMainPortrait.jpg
+image: 'https://s3.amazonaws.com/bst-fornyc/SkyeParrottMainPortrait.jpg'
 published: true
 tweetText: Skye Parrott shares three of her favorite local businesses in NYC
 socialBlurb: >-
-  Sky Parrott of Double or Nothing shares three of her favorite local businesses
-  in NYC.
+  Skye Parrott of Double or Nothing shares three of her favorite local
+  businesses in NYC.
+fbTitle: 'For New York: Skye Parrott'
 ---
 
 ![Scosha](https://s3.amazonaws.com/bst-fornyc/SkyeParrottScosha.jpg)

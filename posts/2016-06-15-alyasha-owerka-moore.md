@@ -2,8 +2,12 @@
 date: '2016-06-15 17:02 -0400'
 published: true
 title: Alyasha Owerka-Moore
-image: https://s3.amazonaws.com/bst-fornyc/AlyashaOwerka-MooreMainPortrait.jpg
-description: 'Creative Director, Designer'
+image: 'https://s3.amazonaws.com/bst-fornyc/AlyashaOwerka-MooreMainPortrait.jpg'
+description: '<a href="http://stackaly.tumblr.com/">Creative Director, Designer</a>'
+category: favorites
+fbTitle: 'For New York: Alyasha Owerka-Moore'
+socialBlurb: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC.
+tweetText: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC
 ---
 ## Hot Dog and Knish Stands
 
