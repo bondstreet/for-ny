@@ -8,8 +8,8 @@ const BstLogo = ({ to, ...props }) => {
     const Comp = to ? Link : 'div'
 
     const sx = {
-        width: '250px',
-        height: '28px',
+        width: '200px',
+        height: '22px',
         textIndent: '-99999px',
         backgroundImage: 'url("/fornewyork/images/logos/bondstreet.svg")',
         backgroundRepeat: 'no-repeat',

@@ -32,7 +32,7 @@ const NavItem = ({
             'inline-block',
             'align-middle',
             'mx2',
-            'my1',
+            'md-my1',
             'color-inherit',
             'text-decoration-none',
             {
