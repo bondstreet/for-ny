@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-10 13:32 -0400'
-published: false
+published: true
 title: Krissy Jones and Chloe Kernaghan
 description: 'founders - <a href="http://www.skytingyoga.com/">Sky Ting Yoga</a>'
 image: >-
@@ -21,4 +21,3 @@ Rachel Comey is our guilty retail pleasure. We love shopping there, and the spac
 
 ## Why is it important to support independent businesses?
 There’s more transparency with smaller businesses as far as the how/where/why products are made, as well as what your money is going towards. You can almost always guarantee that an independent business will generate a higher quality product, or at least a product that has been made with care and thought. Plus - it’s so amazing to be able to build relationships with the people you’re giving your money to! And, as small business owners ourselves, we know the power and beauty of creating a strong community!
-
