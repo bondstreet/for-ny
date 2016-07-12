@@ -4,7 +4,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
-import { gtmScript } from './tracking'
+import { gtmScript, newrelicScript } from './tracking'
 import { facebook, twitter } from './social'
 
 let script = '/bundle.js'
@@ -43,6 +43,8 @@ const Head = ({ title, social, post, ...props }) => {
             <script dangerouslySetInnerHTML={{
                 __html: 'try{Typekit.load({ async: true });}catch(e){}'
             }} />
+            <script dangerouslySetInnerHTML={{ __html: newrelicScript }} />
+
         </head>
     )
 }
