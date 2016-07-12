@@ -4,7 +4,7 @@
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 import css from './css/index.css'
-import { gtmScript, newrelicScript } from './tracking'
+import { gtmScript } from './tracking'
 import { facebook, twitter } from './social'
 
 let script = '/bundle.js'
@@ -17,7 +17,7 @@ const Head = ({ title, social, post, ...props }) => {
     const siteUrl = props.domain + props.baseurl
     const metaTitle = (post.title) ? (post.fbTitle || post.title) : (social.fbTitle || title)
     const metaFbImage = (post.image) ? siteUrl + post.image : siteUrl + social.fbImage
-    const metaTwitterImage = (post.image) ? siteUrl + post.image : siteUrl + social.twitterCardLargeImage
+    const metaTwitterImage = (post.image) ? post.image : siteUrl + social.twitterCardLargeImage
     const metaUrl = siteUrl + props.path
     const metaDescription = post.socialBlurb || social.description
 
@@ -43,8 +43,6 @@ const Head = ({ title, social, post, ...props }) => {
             <script dangerouslySetInnerHTML={{
                 __html: 'try{Typekit.load({ async: true });}catch(e){}'
             }} />
-            <script dangerouslySetInnerHTML={{ __html: newrelicScript }} />
-
         </head>
     )
 }
