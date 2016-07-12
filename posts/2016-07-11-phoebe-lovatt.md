@@ -4,7 +4,7 @@ date: '2016-07-08 19:32 -0400'
 published: true
 title: Phoebe Lovatt
 description: >-
-  writer, founder - <a href="http://www.thewwclub.com/">The Working Womens
+  writer, founder - <a href="http://www.thewwclub.com/">The Working Women's
   Club</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Phoebe Lovatt'
