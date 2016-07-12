@@ -2,7 +2,7 @@ import Cookies from 'js-cookie'
 import ouibounce from 'ouibounce'
 
 const INACTIVE_TRIGGER = 20000
-const TIMEOUT_TRIGGER = 900000
+const TIMEOUT_TRIGGER = 600000
 
 const MODAL_SEEN_COOKIE = 'fornyc_modal_seen'
 const MODAL_SEEN_EXPIRES = 1
