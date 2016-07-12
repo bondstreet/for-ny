@@ -42,9 +42,8 @@ class App extends React.Component {
     }
 
     componentDidMount() {
-        // Commenting out Modal Triggers during press period FS 07/05/16
-        //initInactiveTrigger(this.openModalIfNotSeen)
-        //initTimeoutTrigger(this.openModalIfNotSeen)
+        initInactiveTrigger(this.openModalIfNotSeen)
+        initTimeoutTrigger(this.openModalIfNotSeen)
         //initExitIntentTrigger(this.openModalIfNotSeen)
         if (leadFormSubmitted()) {
             this.setState({leadFormSubmitted: true})
