@@ -1,16 +1,14 @@
 ---
 category: favorites
 date: '2016-07-09 10:36 -0400'
-published: false
+published: true
 title: Chen and Kai
 description: >-
   designers and founders - <a href="http://chen-williams.com/">Chen Chen and Kai
   Williams</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/img_0208_1024.jpg'
 ---
- ()
-
-Abbot Paint
+## Abbot Paint
 C: We used to go to Abbot Paint’s main location in Greenpoint back when our studio was in the area. If you want chemicals that are, well...strictly for the trade only...let’s just say you can smell that building from a few blocks away.
 
 K: It smells like your nose is dissolving.
@@ -25,7 +23,7 @@ K: It’s really funny because, even if you’re at the smaller location down wh
 
 C: Super sweet people and always a pleasure to deal with. They close at like, 5, but if you have a late order that you absolutely need to grab, they’ll leave the paint in the store next door for you to pick up. Who does that?
 
-Lendy’s
+## Lendy’s
 C: I think all of the track lighting and electrical supplies on construction sites in lower Manhattan are sourced from Lendy’s. 
 
 K: It’s this huge, beautiful, classic Soho space on Grand. The border between Little Italy and Chinatown. They’ve spec’d things for me that are completely specific and out of the ordinary.
@@ -40,16 +38,16 @@ K: My favorite thing is how you still have to pull a number and wait, like at ol
 
 C: You’re never waiting, per se, when you’re in there, though. It’s amazing to watch these guys behind the counter go back and forth with each other.
 
-Victor Machinery
+## Victor Machinery
 K: This is a store that sells machine tool parts...which is a market that is pretty much nonexistent today. You’re only ever going there when you’re in a jam. I was working for Tom Sachs back in the day, and he’d send us into the store to buy anything they weren’t interested in moving. That was almost always incredibly heavy steel stuff.
 
 C: They’re across the street from Roberta’s now, and it basically says “Don’t Come In.” You go down these stairs and there are usually a few guys who look like they never left the 70s or early 80s. Eventually, one of them might walk up to you and say something. 
 
 K: You point at things in their catalog, give them the numbers of the items you want, and they’ll rummage around in the back until they find what you’re looking for. 
 
-Why is it important to support independent businesses?
+## Why is it important to support independent businesses?
 K: I think we chose all of the businesses we talked about because none of them are just stores to us. They’re places we go to gain knowledge and speak with actual people. Don’t get me wrong, I absolutely love instant gratification and shopping on Amazon. When you know exactly what you want or you’re looking for something basic, that’s exactly where you go. However, these stores are where you discover all the things you didn’t know you needed.
 
 C: You go to them with problems, right? You can’t do that with something like Amazon. You tell this guy who knows everything about this one specific field and get free, time-tested advice along with your purchase. 
 
-K: At first glance, the owners of these places might seem surly or mean. But if you’re humble and you open up to them with the clear intent to learn something, they’re the most helpful and kindhearted people in the world. 
+K: At first glance, the owners of these places might seem surly or mean. But if you’re humble and you open up to them with the clear intent to learn something, they’re the most helpful and kindhearted people in the world.
