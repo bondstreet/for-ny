@@ -1,7 +1,7 @@
 ---
 category: favorites
-date: '2016-07-13 10:29 -0400'
-published: false
+date: '2016-07-09 10:29 -0400'
+published: true
 title: Ariane Daguin
 description: 'chef, founder - <a href="http://www.dartagnan.com/">D’artagnan</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Ariane%20Daguin%20Main%20Portrait.jpg'
@@ -21,4 +21,4 @@ Aha, Felix. What can I say about Felix? The chef, Pierre, makes these really mea
 ## Why is it important to support independent businesses?
 Let me put it this way - in my business, it is essential for me to promote sustainable practices and biodiversity. If you neglect certain species or breeds of animals, the entire ecosystem collapses. American bison, for instance, were on the verge of extinction until it was decided that they could be raised for meat. Suddenly, you see the population bounce back into healthy numbers and the environment becomes more balanced for it. Look at what’s happening to bees, now. Individually, bees are tiny! What impact could they make on anything bigger than themselves? And yet, if bees die out, what pollinates plants? 
 
-I’m sorry to make comparisons between animals and independent business owners, but I feel that the metaphor works! If you don’t support independent businesses, things become imbalanced. We invariably end up with towns that look like homogenous malls full of the same boring stuff. Without diversity, there’s no reason to leave your home. There’s nothing new or interesting to experience. To keep the interaction between economy, communities, and culture healthy, you must support the little guys. 
+I’m sorry to make comparisons between animals and independent business owners, but I feel that the metaphor works! If you don’t support independent businesses, things become imbalanced. We invariably end up with towns that look like homogenous malls full of the same boring stuff. Without diversity, there’s no reason to leave your home. There’s nothing new or interesting to experience. To keep the interaction between economy, communities, and culture healthy, you must support the little guys.
