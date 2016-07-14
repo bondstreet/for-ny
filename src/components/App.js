@@ -44,7 +44,7 @@ class App extends React.Component {
     componentDidMount() {
         initInactiveTrigger(this.openModalIfNotSeen)
         initTimeoutTrigger(this.openModalIfNotSeen)
-        //initExitIntentTrigger(this.openModalIfNotSeen)
+        initExitIntentTrigger(this.openModalIfNotSeen)
         if (leadFormSubmitted()) {
             this.setState({leadFormSubmitted: true})
         }
