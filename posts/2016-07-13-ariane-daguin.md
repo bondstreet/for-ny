@@ -5,6 +5,13 @@ published: true
 title: Ariane Daguin
 description: 'chef, founder - <a href="http://www.dartagnan.com/">D’artagnan</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Ariane%20Daguin%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Ariane Daguin '
+socialBlurb: >-
+  Ariane Daguin of D'artagnan shares three of her favorite local businesses in
+  NYC.
+tweetText: >-
+  .@DArtagnanFoods founder @ArianeDaguin shares three of her favorite local
+  businesses in NYC
 ---
 ![Gourmet Garage](https://s3.amazonaws.com/bst-fornyc/Ariane%20Daguin%20Gourmet%20Garage.jpg)
 ## Gourmet Garage
