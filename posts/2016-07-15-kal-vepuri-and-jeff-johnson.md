@@ -1,7 +1,7 @@
 ---
 category: favorites
-date: '2016-07-15 11:26 -0400'
-published: false
+date: '2016-07-09 11:26 -0400'
+published: true
 title: Kal Vepuri and Jeff Johnson
 description: 'co-founders - <a href="http://thearrivals.com/">The Arrivals</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/img_1202_1024.jpg'
