@@ -7,6 +7,9 @@ description: 'co-founders - <a href="http://thearrivals.com/">The Arrivals</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/img_1202_1024.jpg'
 fbTitle: 'For New York: Kal Vepuri and Jeff Johnson (The Arrivals)'
 socialBlurb: The Arrivals co-founders share their three favorite local businesses in NYC.
+tweetText: >-
+  .@kalvepuri & Jeff Johnson of @TheArrivalsNYC share their three favorite local
+  businesses in NYC
 ---
 ## Cafe Integral
 K: Founded by the amazing Cesar Vega, Cafe Integral brings legit Nicaraguan coffee to Soho through their shop, which shares a space with American Two Shot on Grand Street. Through Cesar’s family connections to farms in his home country, he’s built a fair trade system that supports a bunch of communities’ growth via his business. For my money, Cesar produces what I think is the world’s greatest cup of espresso. He’s incredibly talented, puts out incomparable product, and he’s only just getting started. I’m there pretty much every morning for my cold brew.
