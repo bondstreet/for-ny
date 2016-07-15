@@ -7,6 +7,11 @@ description: >-
   designers and founders - <a href="http://chen-williams.com/">Chen Chen and Kai
   Williams</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/img_0208_1024.jpg'
+fbTitle: 'For New York: Chen and Kai'
+socialBlurb: >-
+  Chen Chen and Kai Williams founders share three of their favorite local
+  businesses in NYC.
+tweetText: Chen and Kai founders share three of their favorite local businesses in NYC
 ---
 ## Abbot Paint
 C: We used to go to Abbot Paint’s main location in Greenpoint back when our studio was in the area. If you want chemicals that are, well...strictly for the trade only...let’s just say you can smell that building from a few blocks away.
