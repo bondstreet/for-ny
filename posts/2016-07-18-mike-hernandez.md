@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-18 09:51 -0400'
-published: false
+published: true
 title: Mike Hernandez
 description: >-
   <a href="https://www.youtube.com/watch?v=RIuY3DkjFwI">pro skateboarder</a>,
@@ -30,4 +30,4 @@ Ina started out as a women’s high fashion consignment store way back in the da
 For whatever reason, the staff - both men and women alike - are all good looking here. More importantly, the food is crazy. The owner of Lovely Day, Kazusa, was dating a guy I knew who worked for Corpus Denim. I was working at Nom de Guerre at the time, right before I went to the Academy, and we used to carry Corpus at the store. So that’s how I met Kazusa and started coming to Lovely Day. While a lot of the things I just mentioned have either changed up or disappeared, I’ve been a patron at Lovely Day ever since. Also, a Japanese woman making Thai food with Mexican cooks - that’s some true New York shit right there. 
 
 ## Why is it important to support independent businesses?
-Simply put, supporting small businesses keep local, non-corporate, family-owned infrastructures stable. That support allows these systems to remain independent and continue to serve the communities they’re in. This isn’t just true of New York, this is something that is universally applicable to any town or city in the country. Your support of small businesses keep them healthy, which in turn allows communities to remain healthy, as well. 
+Simply put, supporting small businesses keep local, non-corporate, family-owned infrastructures stable. That support allows these systems to remain independent and continue to serve the communities they’re in. This isn’t just true of New York, this is something that is universally applicable to any town or city in the country. Your support of small businesses keep them healthy, which in turn allows communities to remain healthy, as well.
