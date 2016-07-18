@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-18 09:43 -0400'
-published: false
+published: true
 title: Maayan Zilberman and Alex Burns
 description: >-
   founder - <a href="http://www.sweetsaba.com/">Sweet Saba</a> / program
@@ -35,4 +35,4 @@ M: My favorite thing to do in this city is to walk around and explore small shop
 
 A: As someone who grew up in New York, I've seen a tremendous amount of change occur over the last 30 years. New York will always be an amazing, vibrant city and people from all over the world will always be drawn here. I do think, however, that in some ways New York has become a victim of its own success, particularly when it comes to the cost of doing business and the cost of living. More than ever, it’s becoming impossibly difficult for small business owners to really stand a chance. 
 
-It's a cliche at this point, but every time a local business closes down, I wonder what national chain will move into that space. The real tragedy is the loss of culture; endangering small businesses homogenizes the culture of New York City. When people around the world allow big corporations to decide on and standardize products available to them, visiting other places becomes irrelevant. Small businesses represent the creative consciousness - they contribute tremendously to the unique identities of communities everywhere. 
+It's a cliche at this point, but every time a local business closes down, I wonder what national chain will move into that space. The real tragedy is the loss of culture; endangering small businesses homogenizes the culture of New York City. When people around the world allow big corporations to decide on and standardize products available to them, visiting other places becomes irrelevant. Small businesses represent the creative consciousness - they contribute tremendously to the unique identities of communities everywhere.
