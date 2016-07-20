@@ -11,7 +11,9 @@ fbTitle: 'For New York: Didier Lerebour'
 socialBlurb: >-
   Didier Lerebour of New Distribution House  shares three of his favorite local
   businesses in NYC.
-tweetText: .@newdistribution founder shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@newdistribution founder shares three of his favorite businesses in NYC with
+  @onbondstreet
 ---
 ![Miss Lily's](https://s3.amazonaws.com/bst-fornyc/Didier%20Lerebours%20Miss%20Lily's.jpg)
 ## Miss Lily’s
