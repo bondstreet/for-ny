@@ -12,8 +12,8 @@ socialBlurb: >-
   Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
   businesses in NYC.
 tweetText: >-
-  Annie Bukhman of Gift Shop Brooklyn shares three of her favorite local
-  businesses in NYC
+  Annie Bukhman of Gift Shop Brooklyn shares three of her favorite businesses in
+  NYC with @onbondstreet
 intro: >-
   Annie Bukhman designs and handcrafts leather handbags and accessories using
   only US sourced materials at Gift Shop Brooklyn.  She believes soft, high
