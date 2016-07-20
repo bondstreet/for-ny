@@ -7,7 +7,9 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Amy%20Woodside%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Amy Woodside'
 socialBlurb: Amy Woodside of OKREAL shares three of her favorite local businesses in NYC.
-tweetText: .@heyOKREAL founder shares three of her favorite local businesses in NYC
+tweetText: >-
+  .@heyOKREAL founder shares three of her favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Sky Ting Yoga](https://s3.amazonaws.com/bst-fornyc/Amy%20Woodside%20Sky%20Ting%20Yoga%20Main.jpg)
 ## Sky Ting Yoga
