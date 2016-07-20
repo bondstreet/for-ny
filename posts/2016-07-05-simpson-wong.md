@@ -11,7 +11,9 @@ fbTitle: 'For New York: Simpson Wong'
 socialBlurb: >-
   Simpson Wong of Chomp Chomp shares three of his favorite local businesses in
   NYC.
-tweetText: .@chompchompnyc chef shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@chompchompnyc chef shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Blue Moon Fish](https://s3.amazonaws.com/bst-fornyc/Simpson%20Wong%20Blue%20Moon%20Fish.jpg)
 ## Blue Moon Fish
