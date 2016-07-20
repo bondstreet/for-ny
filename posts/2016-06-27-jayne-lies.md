@@ -5,7 +5,9 @@ title: Jayne Lies
 image: 'https://s3.amazonaws.com/bst-fornyc/Jayne%20Lies%20Main%20Portrait.jpg'
 description: '<a href="http://jaynelies.com/">photographer, video director, artist</a>'
 category: favorites
-tweetText: .@jayneLIES shares three of her favorite local businesses in NYC
+tweetText: >-
+  .@jayneLIES shares three of her favorite local businesses in NYC with
+  @onbondstreet
 socialBlurb: Jayne Lies shares three of her favorite local businesses in NYC.
 fbTitle: 'For New York: Jayne Lies'
 ---
