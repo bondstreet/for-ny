@@ -5,7 +5,9 @@ description: 'founder - <a href="http://ghostly.com/">Ghostly International</a>'
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/SamValentiMainPortrait.jpg'
 published: true
-tweetText: .@VALENTI shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@VALENTI shares three of his favorite local businesses in NYC with
+  @onbondstreet 
 socialBlurb: >-
   Sam Valenti IV of Ghostly International shares three of his favorite local
   businesses in NYC.
