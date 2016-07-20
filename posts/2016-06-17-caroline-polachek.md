@@ -4,7 +4,9 @@ published: true
 title: Caroline Polachek
 description: '<a href="http://chairlifted.com/">singer, songwriter, and producer</a>'
 category: favorites
-tweetText: .@carolineplz shares three of her favorite local businesses in NYC
+tweetText: >-
+  .@carolineplz shares three of her favorite local businesses in NYC with
+  @onbondstreet
 socialBlurb: >-
   Caroline Polachek of Chairlift shares three of her favorite local businesses
   in NYC.
