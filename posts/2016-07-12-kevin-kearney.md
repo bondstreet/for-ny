@@ -11,7 +11,7 @@ socialBlurb: >-
   in NYC.
 tweetText: >-
   .@AlldayNYC managing partner Kevin Kearney shares three of his favorite local
-  businesses in NYC
+  businesses in NYC with @onbondstreet
 ---
 ![Anna Sheffield's Orchard Street Atelier](https://s3.amazonaws.com/bst-fornyc/Kevin%20Kearney%20Anna%20Sheffield.jpg)
 ## Anna Sheffield's Orchard Street Atelier
