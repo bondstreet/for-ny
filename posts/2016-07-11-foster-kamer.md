@@ -11,7 +11,7 @@ socialBlurb: >-
   NYC.
 tweetText: >-
   .@mental_floss executive editor @weareyourfek shares three of his favorite
-  local businesses in NYC
+  businesses in NYC with @onbondstreet
 ---
 ![Variety Coffee](https://s3.amazonaws.com/bst-fornyc/Foster%20Kamer%20Variety%20Coffee.jpg)
 ## Variety Coffee
