@@ -10,7 +10,9 @@ fbTitle: 'For New York: Krissy Jones and Chloe Kernaghan'
 socialBlurb: >-
   Krissy Jones and Chloe Kernaghan of Sky Ting Yoga share three of their
   favorite local businesses in NYC.
-tweetText: .@skytingyoga founders share three of their favorite local businesses in NYC
+tweetText: >-
+  .@skytingyoga founders share three of their favorite local businesses in NYC
+  with @onbondstreet
 ---
 ![Dimes](https://s3.amazonaws.com/bst-fornyc/Krissy%20Jones%20and%20Chloe%20Kernaghan%20Dimes.jpg)
 ## Dimes
