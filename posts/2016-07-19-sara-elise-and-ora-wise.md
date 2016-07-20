@@ -14,8 +14,8 @@ socialBlurb: >-
   Harvest & Revel founder and chef partner share 3 of their favorite businesses
   in NYC.
 tweetText: >-
-  .@HarvestandRevel  founder and chef partner share 3 of their favorite
-  businesses in NYC
+  .@HarvestandRevel founder and chef partner share 3 of their favorite
+  businesses in NYC with @onbondstreet
 ---
 ![Veggies](https://s3.amazonaws.com/bst-fornyc/Sara%20Elise%20and%20Ora%20Wise%20Veggies.jpg)
 ## Veggies
