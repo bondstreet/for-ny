@@ -14,7 +14,7 @@ socialBlurb: >-
   in NYC. 
 tweetText: >-
   .@MaayanZilberman & Alex Burns share their 3 favorite independent businesses
-  in NYC
+  in NYC with @onbondstreet
 ---
 ![Hugo](https://s3.amazonaws.com/bst-fornyc/Maayan%20Zilberman%20and%20Alex%20Burns%20Hugo.jpg)
 ## Hugo & Sons 
