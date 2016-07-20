@@ -7,7 +7,9 @@ category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/NikiandShaokaoChengMainPortrait.jpg'
 published: true
-tweetText: .@BoConcept founders share three of their favorite local businesses in NYC
+tweetText: >-
+  .@BoConcept founders share three of their favorite local businesses in NYC
+  with @onbondstreet 
 socialBlurb: >-
   Niki and Shaokao Cheng of Bo Concept share three of their favorite local
   businesses in NYC.
