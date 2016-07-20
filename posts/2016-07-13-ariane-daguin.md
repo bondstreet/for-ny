@@ -11,7 +11,7 @@ socialBlurb: >-
   NYC.
 tweetText: >-
   .@DArtagnanFoods founder @ArianeDaguin shares three of her favorite local
-  businesses in NYC
+  businesses in NYC with @onbondstreet
 ---
 ![Gourmet Garage](https://s3.amazonaws.com/bst-fornyc/Ariane%20Daguin%20Gourmet%20Garage.jpg)
 ## Gourmet Garage
