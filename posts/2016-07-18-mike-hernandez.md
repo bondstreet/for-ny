@@ -15,7 +15,7 @@ socialBlurb: >-
   local businesses in NYC.
 tweetText: >-
   Pro skateboarder Mike Hernandez shares three of his favorite local businesses
-  in NYC
+  in NYC with @onbondstreet
 ---
 ![Smooch](https://s3.amazonaws.com/bst-fornyc/Mike%20Hernandez%20Smooch.jpg)
 ## Smooch
