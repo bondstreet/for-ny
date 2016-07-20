@@ -9,8 +9,8 @@ socialBlurb: >-
   Dimes co-founder Sabrina De Sousa shares three of his favorite local
   businesses in NYC.
 tweetText: >-
-  Dimes co-founder Sabrina De Sousa shares three of his favorite local
-  businesses in NYC
+  Sabrina De Sousa of Dimes shares three of his favorite local businesses in NYC
+  with @onbondstreet 
 fbTitle: 'For New York: Sabrina De Sousa'
 ---
 ## Duals Specialty
