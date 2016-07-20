@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-14 15:15 -0400'
-published: false
+published: true
 title: Joey Goodwin
 image: 'https://s3.amazonaws.com/bst-fornyc/Joey_Goodwin_MainAlt.jpg'
 description: 'founder - <a href="https://overthrownyc.com/">Overthrow New York</a>'
