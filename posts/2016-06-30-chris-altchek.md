@@ -7,7 +7,9 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Chris%20Altchek%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Chris Altchek'
 socialBlurb: Chris Altchek of Mic shares three of his favorite local businesses in NYC.
-tweetText: .@caltchek of @mic shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@caltchek of @mic shares three of his favorite local businesses in NYC  with
+  @onbondstreet
 ---
 ## Master Bike Shop
 
