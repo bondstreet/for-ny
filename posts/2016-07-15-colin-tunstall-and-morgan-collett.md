@@ -10,8 +10,8 @@ socialBlurb: >-
   Colin Tunstall and Morgan Collett of Saturdays NYC share their three favorite
   local businesses in NYC.
 tweetText: >-
-  Colin Tunstall and Morgan Collett of @saturdaysnyc share their three favorite
-  local businesses in NYC
+  .@saturdaysnyc founders share their three favorite local businesses in NYC
+  with @onbondstreet
 ---
 ## Lil Frankie’s
 C: I mean, Frankie is a character - he’s been around forever, and of course the food is fucking amazing. What he was able to do with the location was crazy. Backing East Village Radio right next door and engaging an entirely new, much wider audience with that - that was just awesome to watch. It’s hard enough running one thing, so it’s really inspiring when you see people engaging customers with stuff that, at face value, might have nothing to do with their main business. The station is how we met the Chances With Wolves guys and the rest of that crew. Lil Frankie’s is a spot that’s always been a stable, reliable neighborhood constant. You know exactly what you’re going to get every single time. 
