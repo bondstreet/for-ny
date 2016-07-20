@@ -12,7 +12,9 @@ fbTitle: 'For New York: Tamara Santibañez'
 socialBlurb: >-
   Tamara Santibañez of Discipline Press shares three of her favorite local
   businesses in NYC.
-tweetText: Tamara Santibañez shares three of her favorite local businesses in NYC
+tweetText: >-
+  Tamara Santibañez shares three of her favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Leather Man](https://s3.amazonaws.com/bst-fornyc/ATamara%20Santibanez%20Leather%20Man.jpg)
 ## Leather Man
