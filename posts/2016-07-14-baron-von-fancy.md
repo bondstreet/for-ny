@@ -7,7 +7,9 @@ description: '<a href="http://www.baronvonfancy.com/">artist</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Baron%20Von%20Fancy%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Baron Von Fancy'
 socialBlurb: Baron Von Fancy shares three of his favorite local businesses in NYC.
-tweetText: .@BARONVONFANCY shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@BARONVONFANCY shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![The Odeon](https://s3.amazonaws.com/bst-fornyc/Baron%20Von%20Fancy%20The%20Odeon.jpg)
 ## The Odeon
