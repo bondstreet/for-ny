@@ -7,7 +7,9 @@ description: '<a href="http://stackaly.tumblr.com/">Creative Director, Designer<
 category: favorites
 fbTitle: 'For New York: Alyasha Owerka-Moore'
 socialBlurb: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC.
-tweetText: Alyasha Owerka-Moore shares three of his favorite local businesses in NYC
+tweetText: >-
+  Alyasha Owerka-Moore shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ## Hot Dog and Knish Stands
 
