@@ -11,7 +11,7 @@ fbTitle: 'For New York: Phoebe Lovatt'
 socialBlurb: Phoebe Lovatt shares three of her favorite local businesses in NYC.
 tweetText: >-
   .@TheWWClub founder @PhoebeLovatt shares three of her favorite local
-  businesses in NYC
+  businesses in NYC with @onbondstreet
 ---
 ![Dimes](https://s3.amazonaws.com/bst-fornyc/Phoebe%20Lovatt%20Dimes.jpg)
 ## Dimes
