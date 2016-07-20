@@ -9,8 +9,8 @@ image: >-
 published: true
 fbTitle: 'For New York: Aya Kanai'
 tweetText: >-
-  .@ayakanai of @Cosmopolitan and @seventeen shares three of her favorite local
-  businesses in NYC
+  .@ayakanai of @Cosmopolitan and @seventeen shares 3 of her favorite NYC
+  businesses with @onbondstreet 
 socialBlurb: >-
   Aya Kanai, Executive Fashion Director of Cosmopolitan and Seventeen shares
   three of her favorite local businesses in NYC.
