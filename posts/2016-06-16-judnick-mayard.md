@@ -5,7 +5,9 @@ title: Judnick Mayard
 description: 'Event Producer, Tour Manager '
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/JudnickMayardMainPortrait.jpg'
-tweetText: .@Judnikki shares three of her favorite local businesses in NYC
+tweetText: >-
+  .@Judnikki shares three of her favorite local businesses in NYC with
+  @onbondstreet
 socialBlurb: >-
   Judnick Mayard, event producer and tour manager, shares three of her favorite
   local businesses in NYC.
