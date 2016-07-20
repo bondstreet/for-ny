@@ -10,8 +10,8 @@ socialBlurb: >-
   Karen Wong of The New Museum shares three of her favorite local businesses in
   NYC.
 tweetText: >-
-  .@newmuseum deputy director shares three of her favorite local businesses in
-  NYC
+  .@newmuseum deputy director shares three of her favorite businesses in NYC
+  with @onbondstreet
 ---
 ![Chikarashi](https://s3.amazonaws.com/bst-fornyc/Karen%20Wong%20Chikarashi.jpg)
 ## Chikarashi
