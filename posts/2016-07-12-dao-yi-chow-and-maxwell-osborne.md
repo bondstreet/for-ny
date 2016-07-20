@@ -13,7 +13,7 @@ socialBlurb: >-
   favorite local businesses in NYC.
 tweetText: >-
   .@PublicSchoolNYC founders @alldaydaoyi and @byMAXWELL share three of their
-  favorite local businesses in NYC
+  favorite businesses in NYC
 ---
 ## Steinlauf and Stoller
 D: Spot one is definitely Steinlauf and Stoller, right here by Public School HQ in the heart of the Garment District. 39th between 7th and 8th. This place is a true, old school mom and pop operation - they sell all kinds of shoulder pads, linings, and other pieces or components that you need for tailored construction. It’s hard to find that kind of - and, honestly, that level of - specialization in the city anymore. There’s also this lovely woman named Nancy who works there... 
