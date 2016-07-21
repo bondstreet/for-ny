@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-18 09:18 -0400'
-published: false
+published: true
 title: Jordana Kier and Alexandra Friedman
 description: 'co-founders -<a href="https://www.mylola.com/#!/">LOLA</a>'
 image: >-
