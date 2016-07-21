@@ -39,7 +39,7 @@ class ShareButtons extends React.Component {
             addthis_share = {
                 passthrough : {
                     twitter: {
-                        text: "${tweet}"
+                        text: "${tweet} #ForNewYork"
                     }
                 }
             }
