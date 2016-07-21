@@ -5,7 +5,9 @@ category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/SkyeParrottMainPortrait.jpg'
 published: true
-tweetText: Skye Parrott shares three of her favorite local businesses in NYC
+tweetText: >-
+  Skye Parrott shares three of her favorite local businesses in NYC with
+  @onbondstreet 
 socialBlurb: >-
   Skye Parrott of Double or Nothing shares three of her favorite local
   businesses in NYC.

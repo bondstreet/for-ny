@@ -5,7 +5,9 @@ category: favorites
 date: 'Mon July 11 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/SteveESPOPowersMainPortrait.jpg'
 published: true
-tweetText: .@steveESPOpowers shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@steveESPOpowers shares three of his favorite local businesses in NYC with
+  @onbondstreet 
 socialBlurb: Steve "ESPO" Powers shares three of his favorite local businesses in NYC.
 fbTitle: 'For New York: Steve "ESPO" Powers'
 ---

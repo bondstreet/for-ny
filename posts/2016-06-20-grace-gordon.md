@@ -4,8 +4,8 @@ published: true
 title: Grace Gordon
 image: 'https://s3.amazonaws.com/bst-fornyc/Grace-Gordon-Main-Portrait.jpg'
 tweetText: >-
-  Grace Gordon, brand director @Refinery29, shares three of her favorite local
-  businesses in NYC
+  Grace Gordon, brand director @Refinery29, shares 3 of her favorite businesses
+  in NYC with @onbondstreet
 socialBlurb: >-
   Refinery 29 brand director, Grace Gordon shares three of her favorite local
   businesses in NYC.

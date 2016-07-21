@@ -6,8 +6,8 @@ date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/CarolLimMainPortrait.jpg'
 published: true
 tweetText: >-
-  .@openingceremony co-founder Carol Lim shares three of her favorite local
-  businesses in NYC
+  .@openingceremony co-founder Carol Lim shares three of her favorite businesses
+  in NYC with @onbondstreet 
 socialBlurb: >-
   Opening Ceremony co-founder Carol Lim shares three of her favorite local
   businesses in NYC.

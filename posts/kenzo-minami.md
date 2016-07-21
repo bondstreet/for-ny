@@ -5,7 +5,9 @@ category: favorites
 date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/KenzoMinamiMainPortrait.jpg'
 published: true
-tweetText: .@KenzoMinami shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@KenzoMinami shares three of his favorite local businesses in NYC with
+  @onbondstreet 
 socialBlurb: Kenzo Minami shares three of his favorite local businesses in NYC.
 fbTitle: 'For New York: Kenzo Minami '
 ---

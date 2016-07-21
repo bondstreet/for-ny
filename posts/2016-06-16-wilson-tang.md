@@ -11,7 +11,9 @@ fbTitle: 'For New York: Wilson Tang'
 socialBlurb: >-
   Wilson Tang of Nom Wah Tea Parlor and Fung Tu shares three of his favorite
   local businesses in NYC.
-tweetText: .@dimsumNYC shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@dimsumNYC shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 
 ![Jung's Jerky](https://s3.amazonaws.com/bst-fornyc/WilsonTangJungsJerky_w1280.jpg)

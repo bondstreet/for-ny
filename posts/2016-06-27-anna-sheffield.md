@@ -12,8 +12,8 @@ socialBlurb: >-
   Anna Sheffield of Bing Bang shares three of her favorite local businesses in
   NYC.
 tweetText: >-
-  Anna Sheffield of @bingbangnyc shares  three of her favorite local businesses
-  in NYC
+  Anna Sheffield of @bingbangnyc shares 3 of her favorite businesses in NYC with
+  @onbondstreet
 ---
 ![The Football Cafe](https://s3.amazonaws.com/bst-fornyc/Anna%20Sheffield%20Football%20Cafe.jpg)
 

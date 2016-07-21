@@ -7,7 +7,9 @@ description: '<a href="http://www.danielboulud.com/">chef, restaurateur</a>'
 category: favorites
 fbTitle: 'For New York: Daniel Boulud'
 socialBlurb: Daniel Boulud shares three of his favorite local businesses in NYC.
-tweetText: .@DanielBoulud shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@DanielBoulud shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ## La Boîte
 

@@ -10,8 +10,8 @@ socialBlurb: >-
   Kerin Rose Gold of A-Morir Eyewear shares three of her favorite local
   businesses in NYC.
 tweetText: >-
-  .@kerinrosegold of @amorireyewear shares three of her favorite local
-  businesses in NYC.
+  .@kerinrosegold of @amorireyewear shares three of her favorite businesses in
+  NYC with @onbondstreet
 ---
 ![B&Q Trimmings](https://s3.amazonaws.com/bst-fornyc/Kerin%20Rose%20Gold%20B&Q%20Trimmings.jpg)
 ## B&Q Trimmings

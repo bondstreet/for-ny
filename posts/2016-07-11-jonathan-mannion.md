@@ -7,7 +7,9 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Jonathan%20Mannion%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Jonathan Mannion'
 socialBlurb: Jonathan Mannion shares three of his favorite local businesses in NYC.
-tweetText: .@JonathanMannion shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@JonathanMannion shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![CW Pencil Enterprise](https://s3.amazonaws.com/bst-fornyc/Jonathan%20Mannion%20CW%20Pencil%20Enterprise.jpg)
 ## CW Pencil Enterprise

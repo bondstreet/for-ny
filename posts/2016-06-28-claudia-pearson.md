@@ -7,10 +7,17 @@ description: >-
   Pearson</a>
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/ClaudiaPearson_Main.jpg'
-intro: 'In 2009 Claudia launched a line of prints under her namesake, Claudia Pearson, including tea towels, tote bags, calendars and notecards based on her years as a world traveler and her love of food. Regular trips to the Brooklyn farmers markets and her passion for local, seasonal eating with her family inspired patterns and designs that connected her to a community of fellow locavores.'
+intro: >-
+  In 2009 Claudia launched a line of prints under her namesake, Claudia Pearson,
+  including tea towels, tote bags, calendars and notecards based on her years as
+  a world traveler and her love of food. Regular trips to the Brooklyn farmers
+  markets and her passion for local, seasonal eating with her family inspired
+  patterns and designs that connected her to a community of fellow locavores.
 fbTitle: 'For New York: Claudia Pearson '
 socialBlurb: Claudia Pearson shares three of her favorite local businesses in NYC.
-tweetText: .@claudiagpearson shares three of her favorite local businesses in NYC
+tweetText: >-
+  .@claudiagpearson shares three of her favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Maison May](https://s3.amazonaws.com/bst-fornyc/ClaudiaPearson_MasonMay.jpg)
 

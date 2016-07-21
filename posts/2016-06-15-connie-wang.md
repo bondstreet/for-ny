@@ -9,7 +9,7 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/ConnieWangYo-CAlt.jpg'
 tweetText: >-
   Connie Wang of @Refinery29 shares three of her favorite local businesses in
-  NYC
+  NYC with @onbondstreet
 socialBlurb: >-
   Fashion Features Director of Refinery29 Connie Wang shares three of her
   favorite local businesses in NYC.

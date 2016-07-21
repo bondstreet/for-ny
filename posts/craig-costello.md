@@ -9,7 +9,7 @@ fbTitle: 'For New York: Craig Costello'
 socialBlurb: Craig Costello of KRINK shares three of his favorite local businesses in NYC.
 tweetText: >-
   Craig Costello of @krinknyc shares three of his favorite local businesses in
-  NYC
+  NYC with @onbondstreet
 ---
 
 ## The Strand

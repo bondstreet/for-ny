@@ -10,8 +10,8 @@ socialBlurb: >-
   Naomi Zeichner of The Fader shares three of her favorite local businesses in
   NYC.
 tweetText: >-
-  .@nomizeichner of @thefader shares three of her favorite local businesses in
-  NYC
+  .@nomizeichner of @thefader shares three of her favorite businesses in NYC 
+  with @onbondstreet
 ---
 ![Tarzian Hardware](https://s3.amazonaws.com/bst-fornyc/Naomi%20Zeichner%20Tarzian%20Hardware.jpg)
 

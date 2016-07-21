@@ -8,7 +8,9 @@ date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: >-
   https://s3.amazonaws.com/bst-fornyc/DanielArshamandAlexMustonenMainPortrait.jpg
 published: true
-tweetText: .@snarkitecture founders share three of their favorite local businesses in NYC
+tweetText: >-
+  .@snarkitecture founders share three of their favorite local businesses in NYC
+  with @onbondstreet 
 socialBlurb: >-
   Daniel Arsham and Alex Mustonen of Snarkitecture share three of their favorite
   local businesses in NYC.

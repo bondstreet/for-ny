@@ -8,8 +8,8 @@ image: 'https://s3.amazonaws.com/bst-fornyc/brent-rollins-portrait.jpg'
 fbTitle: 'For New York: Brent Rollins'
 socialBlurb: Brent Rollins shares three of his favorite local businesses in NYC.
 tweetText: >-
-  Brent Rollins of @ComplexMag shares three of his favorite local businesses in
-  NYC
+  Brent Rollins of @ComplexMag shares three of his favorite businesses in NYC
+  with @onbondstreet
 ---
 ![Mast Books](https://s3.amazonaws.com/bst-fornyc/Brent-Rollins-Mast-Books.jpg)
 

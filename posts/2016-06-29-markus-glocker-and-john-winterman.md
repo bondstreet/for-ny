@@ -13,8 +13,8 @@ socialBlurb: >-
   Markus Glocker and John Winterman of Bâtard share three of their favorite
   local businesses in NYC.
 tweetText: >-
-  .@MarkusGlocker and @johnwinterman of @batardny share their favorite local
-  businesses in NYC
+  .@MarkusGlocker and @johnwinterman of @batardny share their favorite
+  businesses in NYC  with @onbondstreet
 ---
 
 ![Smith & Mills](https://s3.amazonaws.com/bst-fornyc/Batard_Smith_Mills.jpg)

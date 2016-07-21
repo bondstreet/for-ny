@@ -5,6 +5,13 @@ published: true
 title: Kevin Kearney
 description: 'managing partner - <a href="http://www.alldayeveryday.com/">Alldayeveryday</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Kevin%20Kearney%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Kevin Kearney'
+socialBlurb: >-
+  Kevin Kearney of Alldayeveryday shares three of his favorite local businesses
+  in NYC.
+tweetText: >-
+  .@AlldayNYC managing partner Kevin Kearney shares three of his favorite local
+  businesses in NYC with @onbondstreet
 ---
 ![Anna Sheffield's Orchard Street Atelier](https://s3.amazonaws.com/bst-fornyc/Kevin%20Kearney%20Anna%20Sheffield.jpg)
 ## Anna Sheffield's Orchard Street Atelier

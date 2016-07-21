@@ -9,7 +9,9 @@ fbTitle: 'For New York: Graham Browne'
 socialBlurb: >-
   Graham Browne of Forte Preparatory Academy shares three of his favorite local
   businesses in NYC.
-tweetText: Graham Browne shares three of his favorite local businesses in NYC
+tweetText: >-
+  Graham Browne shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Ultima Florals](https://s3.amazonaws.com/bst-fornyc/Graham%20Browne%20Ultima%20Florists.jpg)
 

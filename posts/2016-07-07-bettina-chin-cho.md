@@ -7,6 +7,11 @@ description: >-
   href="https://www.openingceremony.com/">Opening Ceremony</a>
 category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/bettina_chin_cho_new_main.jpg'
+fbTitle: 'For New York: Bettina Chin Cho'
+socialBlurb: 'Bettina Chin Cho shares three of her favorite local businesses in NYC. '
+tweetText: >-
+  .@tiBetnChina of @openingceremony shares three of her favorite local
+  businesses in NYC with @onbondstreet
 ---
 ![Norman and Jules](https://s3.amazonaws.com/bst-fornyc/Bettina%20Chin%20Cho%20Norman%20and%20Jules.jpg)
 ## Norman and Jules

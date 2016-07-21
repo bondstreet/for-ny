@@ -6,8 +6,8 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/JohnSeymourMainPortrait.jpg'
 published: true
 tweetText: >-
-  .@JohnSeymourNYC of @SweetChickLife shares three of his favorite local
-  businesses in NYC
+  .@JohnSeymourNYC of @SweetChickLife shares three of his favorite businesses in
+  NYC with @onbondstreet 
 socialBlurb: >-
   John Seymour of Sweetchick shares three of his favorite local businesses in
   NYC.

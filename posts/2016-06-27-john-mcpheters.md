@@ -9,7 +9,9 @@ fbTitle: 'For New York: John McPheters'
 socialBlurb: >-
   John McPheters of Stadium Goods shares three of his favorite local businesses
   in NYC.
-tweetText: .@stadiumgoods co-founder shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@stadiumgoods co-founder shares 3 of his favorite businesses in NYC with
+  @onbondstreet
 ---
 ![Noah](https://s3.amazonaws.com/bst-fornyc/John%20McPheters%20NOAH%20Main.jpg)
 ## Noah

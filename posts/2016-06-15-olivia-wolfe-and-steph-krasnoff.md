@@ -8,7 +8,8 @@ image: >-
   https://s3.amazonaws.com/bst-fornyc/OliviaWolfeandStephKrasnoffAmericanTwoShotMain.jpg
 tweetText: >-
   Olivia & Steph of @AmericanTwoShot share three of their favorite local
-  businesses in NYC
+  businesses in NYC Connie Wang of @Refinery29 shares three of her favorite
+  local businesses in NYC with @onbondstreet
 socialBlurb: >-
   Olivia & Steph of American Two Shot share three of their favorite local
   businesses in NYC.

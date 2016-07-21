@@ -7,7 +7,9 @@ category: favorites
 date: 'Mon Jul 11 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/RembertBrownemainportrait.jpg'
 published: true
-tweetText: .@rembert of @NYMag shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@rembert of @NYMag shares three of his favorite local businesses in NYC with
+  @onbondstreet 
 socialBlurb: >-
   Rembert Browne of New York Magazine shares three of his favorite local
   businesses in NYC.

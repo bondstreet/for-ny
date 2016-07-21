@@ -6,8 +6,8 @@ date: 'Wed Jun 08 2016 20:00:00 GMT-0400 (EDT)'
 image: 'https://s3.amazonaws.com/bst-fornyc/NastyNigelMainPortrait.jpg'
 published: true
 tweetText: >-
-  .@NIGELNASTY of @THEWORLDSFAIR shares three of his favorite local businesses
-  in NYC
+  .@NIGELNASTY of @THEWORLDSFAIR shares 3 of his favorite local businesses in
+  NYC with @onbondstreet 
 socialBlurb: Nasty Nigel shares three of his favorite local businesses in NYC.
 fbTitle: 'For New York: Nasty Nigel'
 ---

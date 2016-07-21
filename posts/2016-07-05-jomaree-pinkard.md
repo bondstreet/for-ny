@@ -7,8 +7,8 @@ category: favorites
 image: 'https://s3.amazonaws.com/bst-fornyc/Jomaree%20Pinkard%20Main%20Portrait.jpg'
 fbTitle: 'For New York: Jomaree Pinkard'
 tweetText: >-
-  .@jomareepinkard of @HellaCompany shares three of his favorite local
-  businesses in NYC
+  .@jomareepinkard of @HellaCompany shares three of his favorite businesses in
+  NYC with @onbondstreet
 socialBlurb: >-
   Jomaree Pinkard of The Hella Company shares three of his favorite local
   businesses in NYC.

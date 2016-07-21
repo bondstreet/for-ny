@@ -11,7 +11,7 @@ fbTitle: 'For New York: Jillionaire'
 socialBlurb: Jillionaire shares three of his favorite local businesses in NYC.
 tweetText: >-
   .@jillionaire of @FeelUpRecords shares three of his favorite local businesses
-  in NYC
+  in NYC  with @onbondstreet
 ---
 ![Scarr's Pizza](https://s3.amazonaws.com/bst-fornyc/Jillionaire%20Scarr's%20Pizza.jpg)
 ## Scarr’s Pizza

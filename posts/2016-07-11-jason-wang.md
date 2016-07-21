@@ -9,7 +9,9 @@ fbTitle: 'For New York: Jason Wang'
 socialBlurb: >-
   Jason Wang of Xi’an Famous Foods shares three of his favorite local businesses
   in NYC.
-tweetText: Jason Wang of @xianfoods shares three of his favorite local businesses in NYC
+tweetText: >-
+  Jason Wang of @xianfoods shares three of his favorite local businesses in NYC
+  with @onbondstreet
 ---
 ## Sushi Ko
 Like so many New Yorkers, I’m on this neverending mission to figure out what the best sushi restaurant in the city is. This is a journey I’ve been on since college when I won a gift certificate via an eating contest to one of those mayo-all-over-the-Philadelphia-roll spots. Needless to say, it was a real revelation when I finally graduated to legitimate omakase establishments. I’ve tried almost every spot in town at this point, and, while places like Masa are great, I find myself in the Lower East Side at Sushi Ko more than anywhere else. You can’t beat the quality and price combination that they’re working with. The chef (and owner) John Daley is extremely focused on perfecting his craft while simultaneously being this very relaxed, friendly guy. His willingness to impart knowledge about different kinds of fish makes the experience at Ko even more accessible. Super inspiring. Every time I’m there, I make sure to remind John that he’s completely ruined any other sushi for me.    

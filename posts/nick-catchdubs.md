@@ -9,7 +9,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/NickCatchdubsMainPortrait.jpg'
 published: true
 tweetText: >-
   .@catchdini of @FoolsGoldRecs shares three of his favorite local businesses in
-  NYC
+  NYC with @onbondstreet 
 socialBlurb: >-
   Nick Catchdubs of Fools Gold Records shares three of his favorite local
   businesses in NYC.

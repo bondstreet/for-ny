@@ -10,8 +10,8 @@ socialBlurb: >-
   Taylor Okata of Catching Feelings shares three of his favorite local
   businesses in NYC.
 tweetText: >-
-  .@tayzdayz of Catching Feelings shares three of his favorite local businesses
-  in NYC
+  .@tayzdayz shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 ![Pintail Coffee at Georgia](https://s3.amazonaws.com/bst-fornyc/Taylor%20Okata%20Pintail%20Coffee.jpg)
 ## Pintail Coffee at Georgia

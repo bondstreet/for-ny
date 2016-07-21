@@ -12,8 +12,8 @@ socialBlurb: >-
   Deirdre Quinn of Lafayette 148 New York shares three of her favorite local
   businesses in NYC.
 tweetText: >-
-  .@lafayette148ny co-founder shares three of her favorite local businesses in
-  NYC
+  .@lafayette148ny co-founder shares three of her favorite businesses in NYC
+  with @onbondstreet
 ---
 ## Lafayette 148 New York
 For our customization and speed. By reinventing the business model vertically, we are now able to quickly address our customers’ needs and offer unparalleled service.

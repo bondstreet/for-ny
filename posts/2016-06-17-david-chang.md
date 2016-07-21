@@ -7,7 +7,9 @@ description: 'chef, restaurateur, entrepreneur '
 category: favorites
 fbTitle: 'For New York: David Chang'
 socialBlurb: David Chang shares three of his favorite local businesses in NYC.
-tweetText: .@davidchang shares three of his favorite local businesses in NYC
+tweetText: >-
+  .@davidchang shares three of his favorite local businesses in NYC with
+  @onbondstreet
 ---
 
 ## Sei-Tomoko

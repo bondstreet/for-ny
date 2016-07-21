@@ -9,9 +9,7 @@ fbTitle: 'For New York: Jenny Regec'
 socialBlurb: >-
   Jenny Regec of The Paint Box shares three of her favorite local businesses in
   NYC.
-tweetText: >-
-  Jenny Regec, founder of The Paint Box, shares three of her favorite local
-  businesses in NYC
+tweetText: ' The Paint Box founder shares three of her favorite local businesses in NYC with @onbondstreet'
 ---
 ![The Blue Stove](https://s3.amazonaws.com/bst-fornyc/Jenny%20Regec%20Blue%20Stove.jpg)
 ## The Blue Stove
