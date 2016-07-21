@@ -15,7 +15,7 @@ tweetText: >-
   @onbondstreet
 ---
 ![Zabars](https://s3.amazonaws.com/bst-fornyc/Jordana%20Kier%20and%20Alexandra%20Friedman%20Zabar's.jpg)
-## Zabars
+## Zabar's
 As native Upper West Siders, we both grew up eating Zabar’s every week: bagels, lox, cheese, coffee, olives, breads, everything delicious. Living in a densely populated residential neighborhood in a busy city, we of course had access to a lot of other food markets, but Zabar’s has always had a special place in our hearts given the deep Upper West Side roots - the fact that it has been family-owned and operated since founding (by other native UWS-ers!), and our moms’ regular visits to bring us the best of the best on Sunday mornings. When our friends from out of town visit and want an authentic New York bagel, Zabar’s is at the top of the list.
 
 ![Cafe Grumpy](https://s3.amazonaws.com/bst-fornyc/Jordana%20Kier%20and%20Alexandra%20Friedman%20Cafe%20Grumpy.jpg)
