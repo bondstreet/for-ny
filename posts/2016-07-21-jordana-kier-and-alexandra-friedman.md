@@ -3,7 +3,7 @@ category: favorites
 date: '2016-07-18 09:18 -0400'
 published: true
 title: Jordana Kier and Alexandra Friedman
-description: 'co-founders -<a href="https://www.mylola.com/#!/">LOLA</a>'
+description: 'co-founders - <a href="https://www.mylola.com/#!/">LOLA</a>'
 image: >-
   https://s3.amazonaws.com/bst-fornyc/Jordana%20Kier%20and%20Alexandra%20Friedman%20Main%20Portrait.jpg
 fbTitle: 'For New York: LOLA'
