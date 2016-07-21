@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-21 16:09 -0400'
-published: false
+published: true
 title: Helena Barquet and Fabiana Faria
 description: >-
   co-founders - <a href="http://www.comingsoonnewyork.com/">Coming Soon New
@@ -52,4 +52,4 @@ H: Well because they’re authentic, they’re original, and they care.
 
 F: Think about it, right? Each of the three places we walked into today - all three owners were there. Handling shit, taking care of their customers - whether you’re a regular or a first-timer. It’s all about that support system independent businesses bring. We’re all in walking distance of each other, so when we’ll do events, Paul will come by with ice and beers for us. Then, whenever I try to pay him back, he’s always like, “no way, get away with that!” Likewise, you’ll always see people walking into our shop holding cups with orange straws because Stanley sent them over. And half of Scarr’s family - his wife, their siblings - have bought up everything in our store. 
 
-H: That’s right. The most important thing is how mutually supportive independent businesses and the communities they’re in can be. All of that happens on the most personal level possible, which just isn’t something a big corporation can do for the neighborhood.  
+H: That’s right. The most important thing is how mutually supportive independent businesses and the communities they’re in can be. All of that happens on the most personal level possible, which just isn’t something a big corporation can do for the neighborhood.
