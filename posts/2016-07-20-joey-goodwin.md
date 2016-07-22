@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-14 15:15 -0400'
-published: false
+published: true
 title: Joey Goodwin
 image: 'https://s3.amazonaws.com/bst-fornyc/Joey_Goodwin_MainAlt.jpg'
 description: 'founder - <a href="https://overthrownyc.com/">Overthrow New York</a>'
@@ -12,7 +12,7 @@ socialBlurb: >-
 tweetText: >-
   Joey Goodwin of @OverthrowNYC shares three of his favorite local businesses in
   NYC w/ @onbondstreet
-partnerLogo: /images/logos/classpass.png
+partnerLogo: /images/logos/cp.png
 ---
 ![Alidoro](https://s3.amazonaws.com/bst-fornyc/Joey_Goodwin_Alidoro.jpg)
 ## Alidoro
