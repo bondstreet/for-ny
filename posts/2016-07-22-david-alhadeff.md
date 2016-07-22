@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-22 15:14 -0400'
-published: false
+published: true
 title: David Alhadeff
 description: 'founder -  <a href="https://www.thefutureperfect.com/">The Future Perfect</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/David%20Alhadeff%20Main%20Portrait.jpg'
@@ -30,4 +30,4 @@ We haven’t even officially launched or named the Future Perfect Secret Spot ye
 Opening the Secret Spot has allowed us to shift our shop at 55 Great Jones to emphasize stories and context around pieces, which is really important in design. If you can use story to ultimately evoke an emotional response around a design object, that’s as special as it gets. This, of course, means we show less things at 55 Great Jones, so (to bring things full circle) the showroom allows us to display everything we don’t have on the floor in a more relaxed manner. The client response to the Secret Spot has been great so far. We’re really excited about it. 
 
 ## Why is it important to support independent businesses?
-Where do you even begin? Independent businesses fuel the fire that is our economy. You go to places like Amazon for all the predictable, routine things you need - and that’s great. But to find all of the stuff that you didn’t know you wanted or needed, everything you want to be pleasantly surprised by - it makes way more sense to spend your dollars at an independent business. These are places where creativity and individual points of view shine - they’re where personality really comes through. Most importantly, you can see your dollar directly supporting the livelihoods, perspectives, and ambitions of the people who independently own businesses. As someone who founded and owns an independent business, that was a really powerful realization for me. 
+Where do you even begin? Independent businesses fuel the fire that is our economy. You go to places like Amazon for all the predictable, routine things you need - and that’s great. But to find all of the stuff that you didn’t know you wanted or needed, everything you want to be pleasantly surprised by - it makes way more sense to spend your dollars at an independent business. These are places where creativity and individual points of view shine - they’re where personality really comes through. Most importantly, you can see your dollar directly supporting the livelihoods, perspectives, and ambitions of the people who independently own businesses. As someone who founded and owns an independent business, that was a really powerful realization for me.
