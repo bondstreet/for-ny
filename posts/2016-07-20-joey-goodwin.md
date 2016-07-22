@@ -29,4 +29,4 @@ The tournament was founded by Kenny Graham and has been running for the past 30 
 Supreme is a huge inspiration for Overthrow. It is amazing to see lines of kids waiting for the most recent drop. Supreme took skateboarding as a culture and was able to extend it to all different genres. I love that they were able to capture an entire downtown culture and build a cult following with very simple product.
 
 ## Why is it important to support small business?
-Small businesses are important for many reasons, they stimulate the economy, create jobs,but most importantly they allow anyone with a dream , an idea, and a plan to create something special that adds value to the world.
+Small businesses are important for many reasons — they stimulate the economy, create jobs, but most importantly, they allow anyone with a dream, an idea, and a plan to create something special that adds value to the world.
