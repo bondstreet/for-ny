@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-01 14:19 -0400'
-published: false
+published: true
 title: Minal Mehta
 description: 'founder - <a href="http://bollyx.com/">BollyX</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/BollyX_Main.jpg'
