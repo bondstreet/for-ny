@@ -8,6 +8,7 @@ image: 'https://s3.amazonaws.com/bst-fornyc/BollyX_Main.jpg'
 fbTitle: 'For New York: Minal Mehta'
 socialBlurb: 'BollyX founder Minal Mehta shares her 3 favorite businesses in NYC. '
 tweetText: '.@bollyxfitness founder Minal Mehta shares her 3 favorite businesses in NYC. '
+partnerLogo: /images/logos/wework.png
 ---
 ![BollyX Instructors](https://s3.amazonaws.com/bst-fornyc/BollyX_BollyX.jpg) 
 ## BollyX Instructors 
