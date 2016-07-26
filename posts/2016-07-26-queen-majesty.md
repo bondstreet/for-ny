@@ -7,6 +7,9 @@ description: >-
   <a href="https://www.mixcloud.com/QueenMajesty/">DJ</a>, founder - <a
   href="http://queenmajestyhotsauce.com/">Queen Majesty Hot Sauce</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Queen%20Majesty%20Main%20Portrait.jpg'
+fbTitle: 'For New York: Queen Majesty'
+tweetText: "DJ @thequeenmajesty\uFEFF and maker of @QMhotsauce shares three of her favorite businesses in NYC"
+socialBlurb: Queen Majesty shares three of her favorite local businesses in NYC.
 ---
 ![La Newyorkina Tiendita](https://s3.amazonaws.com/bst-fornyc/Queen%20Majesty%20La%20Newyorkina%20Tiendita.jpg)
 ## La Newyorkina Tiendita 
