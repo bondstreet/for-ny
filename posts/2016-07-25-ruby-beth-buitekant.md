@@ -16,7 +16,7 @@ tweetText: .@SOS_Brooklyn co-founder @ruby_beth shares her 3 favorite businesses
 ---
 ![Corner Grind](https://s3.amazonaws.com/bst-fornyc/Ruby-Beth%20Buitekant%20Corner%20Grind.jpg)
 ## Corner Grind
-Corner Grind is home. It's black owned coffee shop. With coffee shops being a rapid symbol and indicator of gentrification all around New York (but especially in historically black neighborhoods like Bed-Stuy), it's really important to me that I support black-owned businesses. Corner Grind is a really easy place to be in and it welcomes a wide range of people. Fancy coffee when it’s 90 in Brooklyn and all you need is an iced something? yes. But let’s not forget the burgers, salads, breakfast burritos, either: nourishment that tastes incredible. All in all, Corner is surprisingly chill for a Brooklyn coffee spot. 
+Corner Grind is home. It's a black owned coffee shop. With coffee shops being a rapid symbol and indicator of gentrification all around New York (but especially in historically black neighborhoods like Bed-Stuy), it's really important to me that I support black-owned businesses. Corner Grind is a really easy place to be in and it welcomes a wide range of people. Fancy coffee when it’s 90 in Brooklyn and all you need is an iced something? yes. But let’s not forget the burgers, salads, breakfast burritos, either: nourishment that tastes incredible. All in all, Corner is surprisingly chill for a Brooklyn coffee spot. 
 
 ![Bedford Hall](https://s3.amazonaws.com/bst-fornyc/Ruby-Beth%20Buitekant%20Bedford%20Hall.jpg)
 ## Bedford Hall
