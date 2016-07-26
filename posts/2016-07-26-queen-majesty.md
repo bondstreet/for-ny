@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-26 09:27 -0400'
-published: false
+published: true
 title: Queen Majesty
 description: >-
   <a href="https://www.mixcloud.com/QueenMajesty/">DJ</a>, founder - <a
