@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-07-27 11:09 -0400'
-published: false
+published: true
 title: Frankie Hutchinson
 description: 'co-founder - <a href="http://www.discwoman.com/">Discwoman</a>'
 fbTitle: 'For New York: Frankie Hutchinson'
@@ -26,4 +26,4 @@ While it’s probably not the only one, B&B is the only hair shop I've found in 
 Las Isla is the affordable chicken and rice spot and it’s open 24 hours. What else do you need to say? This is one of my favorite places to eat at and it’s a staple in the Bushwick community that everyone must support. If you're a vegetarian they have shit for you, too, so that ain’t an excuse to not go.
 
 ## Why is it important to support independent businesses?
-It’s important to support independent businesses because they are the fabric of city. Neighborhoods that are overrun by corporate establishments - Williamsburg being a prime example in New York - become havens for wealthy, predominantly white, heterosexual families that push everyone else out. The byproduct of this action is that it kills any culture that was originally there. So, if independently owned businesses get pushed out of a neighborhood, people who live in or visit them end up becoming the audience to a show you never signed up to see: Heteronormativity, Gentrification, Privilege, and Whiteness (The Musical, lol). 
+It’s important to support independent businesses because they are the fabric of city. Neighborhoods that are overrun by corporate establishments - Williamsburg being a prime example in New York - become havens for wealthy, predominantly white, heterosexual families that push everyone else out. The byproduct of this action is that it kills any culture that was originally there. So, if independently owned businesses get pushed out of a neighborhood, people who live in or visit them end up becoming the audience to a show you never signed up to see: Heteronormativity, Gentrification, Privilege, and Whiteness (The Musical, lol).
