@@ -19,7 +19,7 @@ Brooklyn, especially where I live in Park Slope, is chock-full of amazing indepe
 
 ![Purl Soho](https://s3.amazonaws.com/bst-fornyc/Bettina%20Chin%20Cho%20Purl%20Soho.jpg)
 ## Purl Soho
-I picked up crocheting when I was pregnant (thanks to nesting hormones and the wonders of YouTube) and discovered the ultimate mecca for yarn porn at Purl Soho. Just looking at their walls of perfectly color-coordinated yarn is extremely satisfying! They have great starter kits and classes for beginners to crafting (i.e., for knitting/crocheting, quilting, sewing, etc.), and their selection of materials is lovely.  Because of Purl, I was able to make some pieces that are destined to one day become family heirlooms.  
+I picked up crocheting when I was pregnant (thanks to nesting hormones and the wonders of YouTube) and discovered the ultimate mecca for yarn porn at Purl Soho. Just looking at their walls of perfectly color-coordinated yarn is extremely satisfying! They have great starter kits and classes for beginners to crafting (i.e., for knitting/crocheting, quilting, sewing, etc.), and their selection of materials is lovely.  Because of Purl Soho, I was able to make some pieces that are destined to one day become family heirlooms.  
 
 ![Mission Chinese](https://s3.amazonaws.com/bst-fornyc/Bettina%20Chin%20Cho%20Mission%20Chinese.jpg)
 ## Mission Chinese
