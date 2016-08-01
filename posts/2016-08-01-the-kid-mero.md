@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-01 08:51 -0400'
-published: false
+published: true
 title: The Kid Mero
 description: '½ of <a href="https://soundcloud.com/bodega-sushi">Bodega Boys</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/The%20Kid%20Mero%20Main%20Portrait.jpg'
