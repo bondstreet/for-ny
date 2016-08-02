@@ -1,13 +1,13 @@
 ---
 category: favorites
-date: '2016-07-29 11:16 -0400'
-published: false
+date: '2016-07-27 11:16 -0400'
+published: true
 title: ' Sarah Larson-Levey '
 description: 'founder - <a href="http://www.y7-studio.com/">Y7 Studio</a>'
 fbTitle: 'For New York:  Sarah Larson-Levey '
 socialBlurb: Sarah Larson-Levey of Y7 Studio shares her 3 favorite businesses in New York.
-image: 'https://s3.amazonaws.com/bst-fornyc/%20Sarah%20Larson-Levey%20Main.jpg'
 tweetText: .@slarsy of @Y7Studio shares her 3 favorite businesses in NYC.
+image: 'https://s3.amazonaws.com/bst-fornyc/%20Sarah%20Larson-Levey%20La%20Esquina.jpg'
 ---
 ![The Butcher’s Daughter](https://s3.amazonaws.com/bst-fornyc/%20Sarah%20Larson-Levey%20Butchers%20Daughter.jpg)
 ## The Butcher’s Daughter
@@ -17,6 +17,7 @@ It’s healthy, local and is consistently amazing. Every meal I have ever had th
 ## modelFIT
 It is one of my favorite places to workout in New York. The space is beautiful and the founder Vanessa has created fun, challenging and energizing class programing. (cardio sculpt with Sam is my favorite!)
 
+![Catbird](https://s3.amazonaws.com/bst-fornyc/000084880004a.jpg)
 ## Catbird
 I don’t even think anything needs to be said. This place is HEAVEN - everything is made by local artists and handcrafted. It’s so beautiful what they have done with such a small space. 
 
