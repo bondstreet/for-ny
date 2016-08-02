@@ -14,6 +14,7 @@ socialBlurb: >-
 tweetText: >-
   Matthew Ricke of @ExleyNYC and Esme shares his 3 favorite independent
   businesses.
+partnerLogo: /images/logos/q.png
 ---
 ![Duke’s Liquor Box](https://s3.amazonaws.com/bst-fornyc/Matthew%20A%20Ricke%20Main.jpg)
 ## Duke’s Liquor Box
