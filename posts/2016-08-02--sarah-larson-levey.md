@@ -8,6 +8,7 @@ fbTitle: 'For New York:  Sarah Larson-Levey '
 socialBlurb: Sarah Larson-Levey of Y7 Studio shares her 3 favorite businesses in New York.
 tweetText: .@slarsy of @Y7Studio shares her 3 favorite businesses in NYC.
 image: 'https://s3.amazonaws.com/bst-fornyc/%20Sarah%20Larson-Levey%20La%20Esquina.jpg'
+partnerLogo: /images/logos/cp.png
 ---
 ![The Butcher’s Daughter](https://s3.amazonaws.com/bst-fornyc/%20Sarah%20Larson-Levey%20Butchers%20Daughter.jpg)
 ## The Butcher’s Daughter
