@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-03 08:59 -0400'
-published: false
+published: true
 title: DJ Neil Armstrong
 description: '<a href="https://www.thefuture.fm/djs/djneilarmstrong">DJ</a>'
 image: >-
