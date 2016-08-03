@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-03 09:28 -0400'
-published: false
+published: true
 title: Audrey Gingras
 description: 'founder - <a href="http://www.archetypeshowroom.com/">Archetype Showroom</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Audrey%20Gingras%20Main%20Portrait.jpg'
