@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-02 09:22 -0400'
-published: false
+published: true
 title: Deuki Hong
 description: 'executive chef -  <a href="http://baekjeongnyc.com/">Kang Ho Dong Baekjong</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Deuki%20Hong%20Main%20Portrait.jpg'
