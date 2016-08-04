@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-04 11:28 -0400'
-published: false
+published: true
 title: Erica Cerulo and Claire Mazur
 description: 'co-founders - <a href="http://www.ofakind.com/">Of a Kind</a>'
 fbTitle: 'For New York: Erica Cerulo and Claire Mazur'
