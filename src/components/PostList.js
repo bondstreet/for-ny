@@ -1,5 +1,6 @@
 
 import React from 'react'
+import shuffle from 'shuffle-array'
 import Masonry from 'react-masonry-component'
 import Link from './Link'
 import PostCard from './PostCard'
@@ -12,8 +13,9 @@ class PostList extends React.Component {
 
     render() {
         const posts = this.props.limit ? this.context.data.posts.slice(0, this.props.limit) : this.context.data.posts
+        const shuffledPosts = shuffle(posts)
 
-        const postCards = posts.map((post, i) => (
+        const postCards = shuffledPosts.map((post, i) => (
             <div key={i}
                 className='inline-block align-top col-12 md-col-6 lg-col-4 px2 mb4'>
                 <PostCard {...post} />
