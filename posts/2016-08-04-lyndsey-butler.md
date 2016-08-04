@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-04 11:19 -0400'
-published: false
+published: true
 title: 'Lyndsey Butler '
 description: 'founder, creative director -<a href="http://www.thisisveda.com/">VEDA</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Lyndsey%20Butler%20Main%20Portrait.jpg'
