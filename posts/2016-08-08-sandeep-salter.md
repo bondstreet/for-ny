@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-08 19:15 -0400'
-published: false
+published: true
 title: Sandeep Salter
 image: 'https://s3.amazonaws.com/bst-fornyc/Sandeep%20Salter%20Main%20Portrait.jpg'
 description: >-
