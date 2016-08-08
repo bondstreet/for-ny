@@ -38,8 +38,10 @@ class EventCard extends React.Component {
                         border: '3px solid',
                         flex: '1 0 128px'
                     }}>
-                    <Text caps>{moment(this.props.month, 'MM').format('MMM')}</Text>
-                    <span style={{ letterSpacing: 0 }}>{this.props.day}</span>
+
+                    <Text caps>{!isNaN(this.props.month) ? moment(this.props.month, 'MM').format('MMM') : ''}</Text>
+                    <span style={{ letterSpacing: 0 }}>{!isNaN(this.props.day) ? this.props.day : 'TBD'}</span>
+
                     {this.props.isPastEvent && (
                         <canvas
                             id={'event' + this.props.date}
