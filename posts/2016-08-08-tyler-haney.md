@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-08 08:54 -0400'
-published: false
+published: true
 title: Tyler Haney
 description: 'founder - <a href="https://www.outdoorvoices.com/#"> Outdoor Voices</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Tyler%20Haney%20Main%20Portrait.jpg'
