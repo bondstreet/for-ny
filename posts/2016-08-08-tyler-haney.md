@@ -14,7 +14,7 @@ tweetText: .@OutdoorVoices founder @Ty_Haney shares her 3 favorite businesses in
 All about the Clam Pizza. Seriously, go try it. Pasquale Jones is a gem. It’s right up the street from my apartment, the OV offices, and our store, so it’s become our go-to spot for entertaining and nourishment. It’s good food, good wine, good friends every time you’re there. Grant Reynolds, one of the partners (and a bonafide wine genius), has amazing taste. Also, it’s worth taking a trip to the bathroom to see an awesome image of James Brown exiting his PJ with flair while you wait.  
 
 ![Metaflora](https://s3.amazonaws.com/bst-fornyc/Tyler%20Haney%20Metaflora.jpg)
-## Metaflora
+## Meta Flora
 You’ve likely spotted one of Marisa Competello’s magical arrangements before - they’re the eye candy in many downtown spots, including: Dimes, Sky Ting, and OV. :) Marisa is a flower angel and makes the most beautiful arrangements that explode your heart and eyes. I met Marissa through my pals Krissy and Chloe when they somehow got me to attend her dance class, Moves, in a studio below Sky Ting. I’m far from a tremendous dancer - but Moves is an absolute ball and Marissa, Krissy, Chloe are all so inspiring. The Outdoor Voices shop on Lafayette gets weekly deliveries from Metaflora, but it’s always fun to stop by her place and see the latest creations in person.  
 
 ![Visibility](https://s3.amazonaws.com/bst-fornyc/Tyler%20Haney%20Visibility.jpg)
