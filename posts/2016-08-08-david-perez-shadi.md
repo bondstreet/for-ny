@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-08 19:08 -0400'
-published: false
+published: true
 title: David Perez Shadi
 description: '<a href="http://www.shadinyc.com/">photographer and director</a>'
 image: >-
