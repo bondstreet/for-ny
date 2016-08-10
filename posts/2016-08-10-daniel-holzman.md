@@ -20,8 +20,8 @@ image: 'https://s3.amazonaws.com/bst-fornyc/Daniel%20Holzman%20Main%20Portrait.j
 Over 100 years old and still owned by the same family, selling the same menu to the same regulars (or at least they look that old) - Bamonte’s is the stuff of pure legends. I first stumbled in here 10 years ago and couldn’t believe the scene; what bar is complete without telephone booths, a cigarette vending machine, and a handful nefarious-looking characters nursing drinks. Make a reservation or just walk in - there’s always a table or a spot at the bar. Get yourself a martini, some baked clams, the Spicy Calamari and the Veal Rollatini. You can thank me later.  
 
 ![Mike’s Hookup](https://s3.amazonaws.com/bst-fornyc/Daniel%20Holzman%20Mikes%20Hook%20Up.jpg)
-## Mike’s Hookup 
-Just saying, if you need to get your computer fixed…. Mike’s has been doing their thing since before Williamsburg was a thing. If you’re in the market for an old school amp, guitar cables, miscellaneous computer parts, or printer ink, then look no further. We get all of our laptops from The Meatball Shop repaired at Mike’s - they do a bang up job for a fair price on a tight timeline. There’s also a ping pong table right in the middle of the store.
+## Mikey’s Hook-Up 
+Just saying, if you need to get your computer fixed…. Mikey’s has been doing their thing since before Williamsburg was a thing. If you’re in the market for an old school amp, guitar cables, miscellaneous computer parts, or printer ink, then look no further. We get all of our laptops from The Meatball Shop repaired at Mikey’s - they do a bang up job for a fair price on a tight timeline. There’s also a ping pong table right in the middle of the store.
 
 ![Rush Designs](https://s3.amazonaws.com/bst-fornyc/Daniel%20Holzman%20Rush%20Design.jpg)
 ## Rush Designs  
