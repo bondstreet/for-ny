@@ -24,7 +24,7 @@ Over 100 years old and still owned by the same family, selling the same menu to 
 Just saying, if you need to get your computer fixed…. Mikey’s has been doing their thing since before Williamsburg was a thing. If you’re in the market for an old school amp, guitar cables, miscellaneous computer parts, or printer ink, then look no further. We get all of our laptops from The Meatball Shop repaired at Mikey’s - they do a bang up job for a fair price on a tight timeline. There’s also a ping pong table right in the middle of the store.
 
 ![Rush Designs](https://s3.amazonaws.com/bst-fornyc/Daniel%20Holzman%20Rush%20Design.jpg)
-## Rush Designs  
+## RUSHdesign 
 Need that prototype for the latest invention you just dreamed up? CNC milling? 3D printing? Electric engineering of any kind? If you can imagine it, the guys at Rush can build it and you’ll have a good time watching while they do what they do best. Not too many places where you can pop in off the street with a drawing on a napkin and turn that into something real. These are a bunch of super cool nerds making people’s dreams come to life. 
 
 ## Why is it important to support independent businesses?
