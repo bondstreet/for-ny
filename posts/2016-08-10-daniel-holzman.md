@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-10 13:12 -0400'
-published: false
+published: true
 title: Daniel Holzman
 description: >-
   chef, co-founder - <a href="http://www.themeatballshop.com/">The Meatball
