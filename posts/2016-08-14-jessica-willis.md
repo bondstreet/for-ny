@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-14 11:37 -0400'
-published: false
+published: true
 title: Jessica Willis
 description: '<a href="http://jessica-willis.com/">stylist</a>'
 fbTitle: 'For New York: Jessica Willis'
@@ -22,4 +22,4 @@ I stumbled upon Stonefruit while walking home from the gym one day. They have a 
 Brooklyn Yoga Collective is my neighborhood yoga studio. It's cozy and the teachers are great and super personable. That’s pretty much all you need in a place you go to recharge and feel calm. 
  
 ## Why is it important to support independent businesses?
-As I’m not originally from here, I’m constantly trying to find places that give me a feeling of belonging - things that make me feel at home. Being a regular patron of small businesses throughout the city has helped me cultivate that sense of community in New York. I think I’d question why I decided to live here if I only shopped at big chain retailers and didn’t venture out in my neighborhood to support local businesses. 
+As I’m not originally from here, I’m constantly trying to find places that give me a feeling of belonging - things that make me feel at home. Being a regular patron of small businesses throughout the city has helped me cultivate that sense of community in New York. I think I’d question why I decided to live here if I only shopped at big chain retailers and didn’t venture out in my neighborhood to support local businesses.
