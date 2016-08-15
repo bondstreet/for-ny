@@ -16,13 +16,6 @@ class LandingNav extends React.Component {
         this.handleScroll = this.handleScroll.bind(this)
     }
 
-    componentDidMount () {
-        Scroll.scrollSpy.addSpyHandler(this.handleScroll)
-    }
-
-    componentWillUnmount () {
-    }
-
     handleScroll (y) {
         const currentSection = Scroll.scroller.getActiveLink()
         this.setState({ currentSection })
