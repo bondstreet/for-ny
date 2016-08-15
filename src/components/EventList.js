@@ -31,7 +31,7 @@ const EventList = (props, { data }) => {
 
     const isPastEvent = function(eventDetails) {
         const today = moment()
-        return moment(eventDetails.date).isBefore(today)
+        return moment(eventDetails.date, 'YYYY-MM-DD').isBefore(today)
     }
 
     const sortedEvents = _
