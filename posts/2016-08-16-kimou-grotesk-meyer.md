@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-16 18:03 -0400'
-published: false
+published: true
 title: Kimou “Grotesk” Meyer
 description: >-
   designer, artist, partner - <a
@@ -40,4 +40,3 @@ Well, first and foremost, I grew up with parents who were small business owners.
 Now, because so much of our lives are online, the physical experience of interacting with a business feels a lot more emotional to me. You can feel things, you can smell them - the immediacy of that tactile experience is really valuable. So that plays into how we operate Doubleday, too, you know? We’ll work with big corporate accounts that can singlehandedly keep the lights on in our office, but we’ll also make sure to turn around and do pro bono work for small businesses that we believe in. It’s really essential that we contribute to maintaining that balance.
 
 _Photographs by David Brandon Geeting_
-
