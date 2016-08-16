@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-16 15:13 -0400'
-published: false
+published: true
 title: Matt Kliegman
 description: >-
   co-founder - <a href="http://www.thesmilenyc.com/">The Smile</a>, The Smile To
@@ -27,4 +27,4 @@ The Primary Essentials is a really fantastic store on Atlantic. They specialize 
 ## Why is it important to support independent businesses?
 To answer that, I think it’s important to understand the risk you’re taking when you decide to start your own business. The very nature of that undertaking is - if you don’t hit a homerun your first time out, the reality is that it gets significantly harder to start another one. Things never go to script, there aren’t any safety nets for you to fall back on, and the whole journey is mostly trials and tribulations. Additionally, the conditions that you can’t control personally aren’t getting any easier to deal with - whether we’re talking rent or whatever else. 
 
-So, one of the special things about independent business owners is that the emotional investment they put into their businesses is incomparable. When you walk into any of the places I just mentioned, you know that they’re very intimate, full reflections of who the owners are. The personality you experience and associate with independent businesses is something that you just can’t find at larger chains, or even a company that’s setting itself up to become a bigger chain. So, in effect, choosing to support an independent business is an act of respect; it’s acknowledging the tremendous risk and challenges inherent to starting your own thing. 
+So, one of the special things about independent business owners is that the emotional investment they put into their businesses is incomparable. When you walk into any of the places I just mentioned, you know that they’re very intimate, full reflections of who the owners are. The personality you experience and associate with independent businesses is something that you just can’t find at larger chains, or even a company that’s setting itself up to become a bigger chain. So, in effect, choosing to support an independent business is an act of respect; it’s acknowledging the tremendous risk and challenges inherent to starting your own thing.
