@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-16 15:22 -0400'
-published: false
+published: true
 title: Laura Stylez
 description: >-
   media personality - <a href="https://twitter.com/laurastylez">HOT 97 and
@@ -35,4 +35,3 @@ It’s important to me to support independent businesses because they always mak
 Additionally, independent businesses are so important to building community. There’s nothing better than walking into a store or a salon or a restaurant that you feel like you’re a part of. That, I’d say, is the most gratifying part about supporting independent businesses for me.
 
 _Photographs by David Brandon Geeting_
-
