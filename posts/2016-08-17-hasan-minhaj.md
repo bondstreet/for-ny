@@ -4,7 +4,7 @@ date: '2016-08-17 13:40 -0400'
 published: true
 title: Hasan Minhaj
 description: >-
-  <a href="http://www.hasanminhaj.com/">comedian</a>, cast member - <a
+  <a href="http://www.hasanminhaj.com/">comedian</a>, correspondent - <a
   href="http://www.cc.com/shows/the-daily-show-with-trevor-noah">The Daily
   Show</a>
 image: 'https://s3.amazonaws.com/bst-fornyc/Hasan%20Minhaj%20Main%20Portrait.jpg'
