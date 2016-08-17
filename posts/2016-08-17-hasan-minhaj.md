@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-17 13:40 -0400'
-published: false
+published: true
 title: Hasan Minhaj
 description: >-
   <a href="http://www.hasanminhaj.com/">comedian</a>, cast member - <a
