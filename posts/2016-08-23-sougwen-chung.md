@@ -1,8 +1,13 @@
 ---
 category: favorites
 date: '2016-08-23 14:44 -0400'
-published: false
+published: true
 title: Sougwen Chung
+description: '<a href="http://sougwen.com/">artist</a>'
+image: 'https://s3.amazonaws.com/bst-fornyc/Sougwen%20Chung%20Main%20Portrait.jpeg'
+fbTitle: 'For New York: Sougwen Chung'
+socialBlurb: Artist Sougwen Chung shares her 3 favorite independent businesses in NYC.
+tweetText: Artist @sougwen shares her 3 favorite independent businesses in NYC
 ---
 ![Canal Plastic Center](https://s3.amazonaws.com/bst-fornyc/Sougwen%20Chung%20Canal%20Plastics.jpeg)
 ## Canal Plastic Center
