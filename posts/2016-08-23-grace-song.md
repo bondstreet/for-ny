@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-23 17:13 -0400'
-published: false
+published: true
 title: Grace Song
 description: 'co-founder - <a href="http://www.bddw.com/">BDDW</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/grace_song_main_portrait_960.jpg'
@@ -25,4 +25,4 @@ Wu Lim is a massage spot on Grand. You walk down the staircase into this basemen
 ## Why is it important to support independent businesses?
 When you’re dealing with a small, independent business - you know that the people who work there care more. I’ve been in the inner workings of an independent business for 11 years with BDDW...I’ve done everything from fix the toilets to fulfill payroll. So I know how much other people who run their own companies go through on a day to day basis, right? I know what the entire spectrum of tasks and concerns they have to juggle looks and feels like. So for me, it’s all about realizing that independent business owners are forced to care more because this is their life...it’s much more than just a job. 
 
-That understanding makes it so that you build (and get to be part of) a really great community where people are always helping each other out. I lean on my friends who are business owners for their expertise all the time. If you need advice on financing or a reliable wall painter, we share resources and people always look out. We’re lucky to have our showrooms here on Crosby, where there is such a deep-rooted group of businesses that support each other, and in Milan, as well. We couldn’t do what we do without our neighbors and friends. 
+That understanding makes it so that you build (and get to be part of) a really great community where people are always helping each other out. I lean on my friends who are business owners for their expertise all the time. If you need advice on financing or a reliable wall painter, we share resources and people always look out. We’re lucky to have our showrooms here on Crosby, where there is such a deep-rooted group of businesses that support each other, and in Milan, as well. We couldn’t do what we do without our neighbors and friends.
