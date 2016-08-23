@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-23 14:38 -0400'
-published: false
+published: true
 title: Yasmin Daguilh and Mackenzie Gleason
 description: >-
   creative content producer - <a href="https://www.aliceandolivia.com/">Alice &
