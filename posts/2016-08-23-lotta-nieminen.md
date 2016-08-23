@@ -15,7 +15,7 @@ tweetText: >-
   illustrator, graphic designer, art director @lottanieminen shares her 3
   favorite businesses in NYC
 ---
-![Burrow](https://s3.amazonaws.com/bst-fornyc/Lotta%20Nieminen%20Burrow.jpg)
+![Burrow](https://s3.amazonaws.com/bst-fornyc/lotta_nieminen_burrow_updated_1024.jpg)
 ## Burrow
 Despite having had a studio in the neighborhood before, I only discovered Burrow after I leased a space in the same building: this amazing little Japanese bakery is nested in the lobby of 68 Jay Street in Dumbo. Aside from making a delicious iced coffee (with coffee ice cubes, no less!), they serve out-of-this-world pastries that not only look like little works of art, but actually taste just as amazing. My favorites are the vegan carrot cake and banana muffin, but you can also order these rad custom portrait cookies or cakes! Burrow looks and feels just as friendly as its owners. After I’d been going by for a while, the fact that I’m from Finland came up – after that conversation I started getting greeted and thanked in Finnish upon picking up my morning coffee, which I find pretty spectacular! 
 
