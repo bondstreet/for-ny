@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-08-23 14:31 -0400'
-published: false
+published: true
 title: Lotta Nieminen
 description: >-
   <a href="http://www.lottanieminen.com/">illustrator, graphic designer, art
