@@ -3,7 +3,7 @@ category: favorites
 date: '2016-08-23 17:13 -0400'
 published: true
 title: Grace Song
-description: 'co-founder - <a href="http://www.bddw.com/">BDDW</a>'
+description: 'partner - <a href="http://www.bddw.com/">BDDW</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/grace_song_main_portrait_960.jpg'
 fbTitle: 'For New York: Grace Song'
 socialBlurb: >-
