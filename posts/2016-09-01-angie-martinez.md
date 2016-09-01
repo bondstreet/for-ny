@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-01 09:48 -0400'
-published: false
+published: true
 title: Angie Martinez
 description: >-
   <a href="http://power1051.iheart.com/onair/angie-martinez-54909/">radio
@@ -37,4 +37,3 @@ First of all, how great of a name is that for a place that doesn’t serve anyth
 That’s how you keep control of everything. That’s how you keep it true to how things are supposed to be. A sneaker store, for instance, you want to make sure that the person running that shop is really about that life, that he or she gets the culture. That’s not to say that a big retailer can’t merchandise a sneaker the right way, but with small businesses you get that personality, you get to support something that goes back into your community. You help the people around you. There’s a feeling of shared responsibility and ownership when you support an independent business. 
 
 Also, when something is smaller and privately owned, people tend to put so much more into it. Because it’s their life, right? If they don’t care about it, who else will? So you get those guarantees, as well.
-
