@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-01 09:43 -0400'
-published: false
+published: true
 title: Kai Avent-deLeon
 description: 'founder - Sincerely, Tommy'
 image: 'https://s3.amazonaws.com/bst-fornyc/img_3423_960.jpg'
@@ -27,4 +27,4 @@ My third spot is Calaca. I love this place. Like Lovers Rock, it’s really clos
 ## Why is it important to support independent businesses?
 We work our asses off, man! Support me working my ass off! No, but honestly, there’s a lot of heart and soul that goes into starting and maintaining an independent business. You’re looking at endeavors that people commit to while knowing that these probably won’t generate a ton of income or return for them straight off the bat. You have to be all in while facing the fact that there are no guarantees down this path. 
 
-What I really love about strong independent businesses is how you can understand their owners’ stories by stepping into their spaces or experiencing what they make and do. And it’s not just about them as individuals, but you also get a sense for what the community around that business stands for. Each of the businesses I chose tells its own distinct story...they make it really easy for you to just submerge yourself and get lost in these spaces. They’re also very New Bed Stuy while respecting the heritage of the neighborhood...none of them just happen to be here - starting them in this community was a very intentional decision on all of our parts, and it’s important that new local businesses help push things forward while staying true to what came before us. 
+What I really love about strong independent businesses is how you can understand their owners’ stories by stepping into their spaces or experiencing what they make and do. And it’s not just about them as individuals, but you also get a sense for what the community around that business stands for. Each of the businesses I chose tells its own distinct story...they make it really easy for you to just submerge yourself and get lost in these spaces. They’re also very New Bed Stuy while respecting the heritage of the neighborhood...none of them just happen to be here - starting them in this community was a very intentional decision on all of our parts, and it’s important that new local businesses help push things forward while staying true to what came before us.
