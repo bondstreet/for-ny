@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-01 09:23 -0400'
-published: false
+published: true
 title: Simonez Wolf
 description: 'co-founder - <a href="http://footballcafefc.com/">Football Cafe</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Simonez%20Wolf%20Main%20Portrait.jpg'
@@ -31,4 +31,3 @@ Anna Sheffield told her boyfriend about Miscelanea, who then told a bunch of us.
 Small businesses are crucial to the economy of any city. Look what happens when we don’t support independent businesses in New York - the entire city starts turning into a giant, outdoor shopping mall. You lose the spirit that neighborhoods are built on. Everything gets turned into a corporate version of what it was, whether it’s a Starbucks taking over a local cafe, or a Duane Reade moving in where there used to be like a mom and pop drug store. That’s really sad to me. Do you want to live in a city that’s all branches of big banks and pharmacies? I can’t imagine that’s true for anyone, even people who work at big banks and pharmacies. If I wanted to live by a mall I’d move to Dallas or wherever. There’s something incomparable about being on a first name basis with the owner of a business you support - they know your habits, what you like and need...how can any big retailer beat that? 
 
 Look, I understand how capitalism works and that it’s not really something that we can stop, but if I can slow it down a bit by supporting independent businesses I’m happy to do that for as long as I can.
-
