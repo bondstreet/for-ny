@@ -135,6 +135,13 @@
             "style": {
                 "paddingBottom": 4
             }
+        },
+        {
+            "src": "/images/logos/west-elm-local.png",
+            "alt": "West Elm Local logo",
+            "style": {
+                "paddingBottom": 12
+            }
         }
     ]
 }
