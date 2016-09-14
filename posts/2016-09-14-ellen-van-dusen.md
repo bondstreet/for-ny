@@ -5,6 +5,7 @@ published: true
 title: Ellen Van Dusen
 description: 'founder - <a href="http://www.dusendusen.com/">dusen dusen</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Ellen%20Van%20Dusen%20Main.jpg'
+partnerLogo: /images/logos/west-elm-local.png
 fbTitle: 'For New York: Ellen Van Dusen'
 socialBlurb: >-
   dusen dusen founder Ellen Van Dusen shares her 3 favorite independent
