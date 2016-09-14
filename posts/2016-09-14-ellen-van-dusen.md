@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-14 17:03 -0400'
-published: false
+published: true
 title: Ellen Van Dusen
 description: 'founder - <a href="http://www.dusendusen.com/">dusen dusen</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Ellen%20Van%20Dusen%20Main.jpg'
