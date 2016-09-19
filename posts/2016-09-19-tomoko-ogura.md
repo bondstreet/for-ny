@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-19 14:23 -0400'
-published: false
+published: true
 title: Tomoko Ogura
 description: 'brand director - <a href="http://www.vince.com/">Vince</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Tomoko%20Ogura%20Main%20Portrait.jpg'
