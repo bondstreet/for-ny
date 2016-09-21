@@ -12,6 +12,7 @@ socialBlurb: >-
 tweetText: >-
   .@CircuitofChange founder Brian Delmonico shares his 3 favorite independent
   businesses in NYC
+partnerLogo: /images/logos/cp.png
 ---
 ![Elm Health](https://s3.amazonaws.com/bst-fornyc/Brian%20Delmonico%20Elm%20Health.jpg)
 ## Elm Health
