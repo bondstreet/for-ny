@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-21 17:09 -0400'
-published: false
+published: true
 title: Mathew Cerletty
 description: '<a href="http://www.mathewcerletty.com/">artist</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Mathew%20Cerletty%20Main%20Portrait.jpg'
