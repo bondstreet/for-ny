@@ -12,14 +12,16 @@ const Footer = (props, {
     return (
         <footer className='py2 white bg-black'>
             <div className='inline-block col-12 md-col-9'>
-                <div class='row'>
-                    <img className='mx2'
-                        src='https://bondstreet.com/bst_static/foyer/images/logo_txt_white_2x.png'
-                        alt='Bond Street logo'
-                        width='164'
-                        height='16' />
+                <div className='row'>
+                    <a href='https://bondstreet.com'>
+                        <img className='mx2'
+                            src='https://bondstreet.com/bst_static/foyer/images/logo_txt_white_2x.png'
+                            alt='Bond Street logo'
+                            width='164'
+                            height='16' />
+                    </a>
                 </div>
-                <div class='row'>
+                <div className='row'>
                     <p className='h6 bold caps inline-block mx2 my1'
                         children={footer.text} />
                     {footer.links.map((link, i) => (
