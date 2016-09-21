@@ -2,7 +2,7 @@
 category: favorites
 date: '2016-09-21 14:03 -0400'
 published: true
-title: Scott and Vanessa Haven
+title: Scott Haven and Vanessa Chinga-Haven
 description: 'co-founders - <a href="https://home-coming.com/">Homecoming</a>'
 image: >-
   https://s3.amazonaws.com/bst-fornyc/Scott%20and%20Vanessa%20Haven%20Main%20Portrait.jpg
