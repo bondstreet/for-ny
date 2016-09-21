@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-21 14:03 -0400'
-published: false
+published: true
 title: Scott and Vanessa Haven
 description: 'co-founders - <a href="https://home-coming.com/">Homecoming</a>'
 image: >-
