@@ -28,6 +28,5 @@ export const logPageView = function() {
 
 export {
     gtmScript,
-    newrelicScript,
-    logPageView
+    newrelicScript
 }
