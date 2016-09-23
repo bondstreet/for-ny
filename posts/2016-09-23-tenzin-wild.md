@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-23 10:25 -0400'
-published: false
+published: true
 title: Tenzin Wild
 description: 'co-founder - <a href="https://thelast-magazine.com/">The Last Magazine </a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Tenzin%20Wild%20Main.jpg'
