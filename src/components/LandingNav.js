@@ -27,7 +27,6 @@ class LandingNav extends React.Component {
             top: 'bg-mint',
             intro: 'bg-mint',
             stories: 'bg-peach',
-            events: 'bg-orange',
             about: 'bg-yellow',
             contact: 'white bg-black'
         }
@@ -63,14 +62,6 @@ class LandingNav extends React.Component {
                     scroll
                     offset={-64}
                     children='Stories' />
-                <NavItem to='events'
-                    href='#events'
-                    scroll
-                    offset={-64}
-                    children='Events' />
-                <div className='inline-block align-middle xs-hide sm-hide' style={sx.logo}>
-                    <Logo />
-                </div>
                 <NavItem
                     to='about'
                     href='#about'
