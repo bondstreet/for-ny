@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-09-28 11:40 -0400'
-published: false
+published: true
 title: DJ Clark Kent
 image: 'https://s3.amazonaws.com/bst-fornyc/DJ%20Clark%20Kent%20Main%20Portrait.jpg'
 description: '<a href="https://www.instagram.com/djclarkkent/?hl=en">God’s Favorite DJ</a>'
@@ -40,4 +40,4 @@ There are four sneaker spots on this block alone, but you always went to TomDees
 ## Why is it important to support independent businesses?
 Your hood can’t last if you don’t support the independent businesses in it. It can’t survive. Independent businesses are the cornerstone of the neighborhoods they sit in - they’re the DNA of their communities. When you walk into Tom, Dick & Harry, you gotta think - we’re in the middle of the hood. So that means they better be friends with everyone in the area - otherwise, they’ll disappear. They go extinct. When you go to the hood and you see race relations that are completely retarded, but you walk in the store and it’s like everyone’s cool because they all know the owner and vice versa, you’re like, “okay, everything’s not so bad. Maybe there is some hope out here.” 
 
-It’s a testament to the owners that we still love going back to these places. Understand me - at my age, I shouldn’t even be thinking about going back to these spots because I don’t live anywhere near them anymore. But everyone at Spicy, TomDees, they know I’ll be back. And they’re happy to see me when I am. Independent business is the fabric, man. It’s an essential part of a neighborhood’s legacy...so if I’m not coming back, I cut off a part of my history. I cut off a part of who I am. 
+It’s a testament to the owners that we still love going back to these places. Understand me - at my age, I shouldn’t even be thinking about going back to these spots because I don’t live anywhere near them anymore. But everyone at Spicy, TomDees, they know I’ll be back. And they’re happy to see me when I am. Independent business is the fabric, man. It’s an essential part of a neighborhood’s legacy...so if I’m not coming back, I cut off a part of my history. I cut off a part of who I am.
