@@ -4,7 +4,7 @@ date: '2016-09-14 17:03 -0400'
 published: true
 title: Ellen Van Dusen
 description: 'founder - <a href="http://www.dusendusen.com/">dusen dusen</a>'
-image: 'https://s3.amazonaws.com/bst-fornyc/Ellen%20Van%20Dusen%20Main.jpg'
+image: 'https://s3.amazonaws.com/bst-fornyc/000090460020_1024.jpg'
 partnerLogo: /images/logos/west-elm-local.png
 fbTitle: 'For New York: Ellen Van Dusen'
 socialBlurb: >-
