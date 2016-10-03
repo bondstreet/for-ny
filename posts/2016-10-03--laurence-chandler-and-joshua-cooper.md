@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-03 09:09 -0400'
-published: false
+published: true
 title: ' Laurence Chandler and Joshua Cooper'
 description: >-
   co-founders - <a href="http://proof7.com/">Proof7</a> and <a
@@ -39,5 +39,4 @@ L: Actually, the most important thing about Balthazar is that you might run into
 ## Why is it important to support independent businesses?
 J: This city defines Do or Die - there is simply no way that you can make it here without having a strong network of partners, friends, and supporters you can depend on. So it’s essential that you keep your word and look out for the people who help you. Pushing independent businesses forward evolves culture. There are enough massive companies out there that eat off our communities’ plates - without supporting each other, we’d completely fall prey to that. 
 
-L:Yeah,  I don’t buy into all the bitching and criticisms about, “oh, New York is dying. New York is changing.” New York is always going to be the center of the world. And a big part of why that’s true is because of the independent businesses in our city. As proprietors of a handful of businesses ourselves, we know how important it is to create a sense of camaraderie with fellow entrepreneurs and loyalty amongst our customers. Relationships matter more than anything in distinguishing independent businesses from large-scale, corporate experiences. Knowing that you’re always welcome somewhere, having a first name relationship with owners of a place you frequent - that literally generates community and culture. And New York can only be as strong as we want both of those forces to be. 
-
+L:Yeah,  I don’t buy into all the bitching and criticisms about, “oh, New York is dying. New York is changing.” New York is always going to be the center of the world. And a big part of why that’s true is because of the independent businesses in our city. As proprietors of a handful of businesses ourselves, we know how important it is to create a sense of camaraderie with fellow entrepreneurs and loyalty amongst our customers. Relationships matter more than anything in distinguishing independent businesses from large-scale, corporate experiences. Knowing that you’re always welcome somewhere, having a first name relationship with owners of a place you frequent - that literally generates community and culture. And New York can only be as strong as we want both of those forces to be.
