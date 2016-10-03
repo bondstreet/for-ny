@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-03 09:17 -0400'
-published: false
+published: true
 title: Hassan Rahim
 description: '<a href="http://hassanrahim.com/">designer, art director</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Hassan%20Rahim%20Main%20Portrait.jpg'
@@ -39,4 +39,3 @@ It’s important to realize that by supporting the hard work of entrepreneurs, y
 Lastly, there’s a lot to be said about relationships. I always build a relationship with my favorite local spots. I believe that’s one of the best (and most defining) traits of living in New York - walking into your cafe, high fives all around. Pure positive energy. Walking into your bodega at 3AM - the sandwich guy knows your name and knows your order without you having to say anything. You can feel these people becoming an intrinsic part of your life over time.
 
 That feeling is community. And no matter how hard these big box brands try to plant themselves in a city and siphon from it, they just can’t replicate that. Those values can only come from someone who puts their last dollar into growing a passion into a lifestyle - a reality. It’s handmade, hand-picked, considered carefully, and built with love. Products, objects, experiences - these things have stories, and it takes someone who’s incomparably passionate about them to effectively share those stories with you.
-
