@@ -5,6 +5,7 @@ const PostHeroImage = ({
     src,
     caption,
     sizes,
+    title,
     ...props
 }, { data }) => {
 
@@ -23,7 +24,9 @@ const PostHeroImage = ({
 
     return (
         <figure {...props}>
-            <img src={mainSrc}
+            <img
+                alt={title}
+                src={mainSrc}
                 srcSet={srcset.join()}
                 className='fit col-12 mb1' />
             {caption && (

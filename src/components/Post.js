@@ -55,7 +55,9 @@ const Post = ({ params }, { data, router }) => {
                     <PostHeroImage
                         className='mb2'
                         src={post.image}
-                        caption={post.imageCaption} />
+                        caption={post.imageCaption}
+                        title={post.title}
+                    />
                 </Container>
             )}
             {post.intro && (
