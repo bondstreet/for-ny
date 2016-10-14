@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-14 09:48 -0400'
-published: false
+published: true
 title: Dominic and Chris Leong
 description: 'co-founders - <a href="http://www.leong-leong.com/">Leong Leong</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Leong%20Leong%20Main%20Portrait.jpg'
@@ -43,4 +43,3 @@ Independent businesses are uniquely positioned to help cultivate the ecosystems 
 C: In terms of development, there’s a formula that works as basically liability management. Developers will always try to place a bank or chain pharmacy on a block that’s about to be gentrified. This is something we see all the time - it yields a very homogenous kind of urbanism that doesn’t necessarily speak to the needs of people who live in these neighborhoods. 
 
 As such, the importance of small businesses is that, like Dominic said, they’re extremely keyed into the particular needs and priorities of the community around them. Even more noteworthy is that they are then able to adapt to how these communities evolve, as well. So you get this dynamic, growing relationship as opposed to one that’s very monolithic and static. I think it’s important to highlight that.
-
