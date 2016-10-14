@@ -21,9 +21,9 @@ const BstLogo = ({ to, ...props }) => {
             className='inline-block'
             to={to}
             {...props}>
-            <h1 style={sx}>
+            <h2 style={sx}>
                 Bond Street
-            </h1>
+            </h2>
         </Comp>
     )
 }
