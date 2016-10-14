@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-14 14:02 -0400'
-published: false
+published: true
 title: Scarr and Los Franco
 description: 'co-founders - <a href="http://www.scarrspizza.com/">Scarr’s Pizza</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Scarr%20and%20Los%20Main%20Portrait.jpg'
@@ -78,4 +78,4 @@ L: It’s important to look out for each other.
 
 S: Talking about family - I was there when Lenny Kravitz bought Ballato’s their awning. He just bought them an awning because Emilio showed him love. Lenny’s still a regular customer over there. He didn’t have to do that, you know? But that’s what we’re talking about - support each other. Why do you need a reason to do that besides the fact that it’s the right thing to do?
 
-L: We in New York - there’s mad people stacked on top of each other. Spread love. It’s easier to be a decent person than it is to be a shithead. 
+L: We in New York - there’s mad people stacked on top of each other. Spread love. It’s easier to be a decent person than it is to be a shithead.
