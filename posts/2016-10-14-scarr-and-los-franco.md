@@ -27,8 +27,8 @@ S: We’re here for you. That’s how it used to be - that’s how New York was.
 
 L: It’s crazy.  
 
-![Le Petite Mort](https://s3.amazonaws.com/bst-fornyc/Scarr%20and%20Los%20Le%20Petite%20Mort.jpg)
-## Le Petite Mort
+![La Petite Mort](https://s3.amazonaws.com/bst-fornyc/Scarr%20and%20Los%20Le%20Petite%20Mort.jpg)
+## La Petite Mort
 L: OJ just the local, man. 
 
 S: I known OJ a crazy long time, man. The wild part is, him and Los came up in the same neighborhood and they didn’t really know each other until we were all on the same block right here!
