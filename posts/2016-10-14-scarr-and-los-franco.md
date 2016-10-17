@@ -15,7 +15,7 @@ tweetText: >-
 ---
 ![Coming Soon New York](https://s3.amazonaws.com/bst-fornyc/Scarr%20and%20Los%20Coming%20Soon%20NY.jpg)
 ## Coming Soon New York
-S: We been friends with the Coming Soon girls since forever. Amazing furniture. Amazing home goods. I can barely afford anything in there but it’s popping. They have the dopest stuff. 
+S: We been friends with the Coming Soon girls since forever. Amazing furniture. Amazing home goods. They have the dopest stuff. 
 
 L: The best thing is how clear it all is in there - it’s their point of view and that perspective just happens to be cool as shit. They’re obviously not the only furniture store in the city, but to me they might as well be. The way they express themselves makes Coming Soon so different from anything else. 
 
@@ -24,8 +24,6 @@ S: I’d rather drop fifteen hundred on something at Coming Soon than at Design 
 L: They get that sense of community. Like Scarr said, the way we were raised out here, if someone moves into the neighborhood, we’re not going to make it awkward for them. Immediately, it’s “hey, what’s good, how can we help you?” 
 
 S: We’re here for you. That’s how it used to be - that’s how New York was. Now, if you try the same thing, 9 out of 10 times people get awkward about it like I’m trying to rob you or something. Everyone has their guard up now.
-
-L: It’s crazy.  
 
 ![La Petite Mort](https://s3.amazonaws.com/bst-fornyc/Scarr%20and%20Los%20Le%20Petite%20Mort.jpg)
 ## La Petite Mort
