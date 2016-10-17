@@ -48,7 +48,7 @@ const Head = ({ title, social, post, ...props }) => {
 }
 
 const Html = ({ app, ...props }) => (
-    <html>
+    <html lang='us-en'>
         <Head {...props} />
         <body>
             <div id='app'
