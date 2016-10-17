@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-17 09:47 -0400'
-published: false
+published: true
 title: Ryan Serhant
 description: '<a href="http://ryanserhant.com/">real estate agent and TV personality</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Ryan%20Serhant%20Main%20Portrait.jpg'
