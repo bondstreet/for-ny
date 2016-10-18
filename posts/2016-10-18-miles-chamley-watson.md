@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-18 13:11 -0400'
-published: false
+published: true
 title: Miles Chamley-Watson
 image: >-
   https://s3.amazonaws.com/bst-fornyc/Miles%20Chamley-Watson%20Main%20Portrait.jpg
