@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-31 17:47 -0400'
-published: false
+published: true
 title: Jacky Tang
 description: '<a href="https://www.instagram.com/jackydonegun/">brand marketing director</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Jacky%20Tang%20Main%20Portrait.jpg'
@@ -28,4 +28,4 @@ In this time of fast fashion and mass trends, it's refreshing (and important, fo
 ## Why is it important to support independent businesses?
 To me, "independent" is the key and operative word here. When you're an independent business, that generally means you have more freedom and creativity at your disposal. These are two very important qualities for brand building: along with the freedom and creativity to generate products and services that push the envelope, you’re also afforded the freedom to mess up and creatively problem solve. You get to take chances that boards or investors or shareholders wouldn’t allow you to take. So, by virtue of this, independent businesses tend to be more interesting. 
 
-Also, as an independent business owner, you’re usually in direct contact with your customer and end user all the time. During the early stages of your business’ development, that communication really plays a key role in shaping the culture of your brand. Conversely, as a supporter of independent businesses, you are actually contributing and helping that company better serve your needs and give you more of what you want. 
+Also, as an independent business owner, you’re usually in direct contact with your customer and end user all the time. During the early stages of your business’ development, that communication really plays a key role in shaping the culture of your brand. Conversely, as a supporter of independent businesses, you are actually contributing and helping that company better serve your needs and give you more of what you want.
