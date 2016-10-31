@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-10-31 17:41 -0400'
-published: false
+published: true
 title: Yara Flinn
 description: 'designer, founder -<a href="http://www.nomia-nyc.com/">NOMIA</a>'
 image: 'https://s3.amazonaws.com/bst-fornyc/Yara%20Flinn%20Main%20Portrait.jpg'
