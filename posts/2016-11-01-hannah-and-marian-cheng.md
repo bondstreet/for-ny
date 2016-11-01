@@ -1,7 +1,7 @@
 ---
 category: favorites
 date: '2016-11-01 09:15 -0400'
-published: false
+published: true
 title: Hannah and Marian Cheng
 description: 'co-founders - <a href="http://www.mimichengs.com/">Mimi Cheng’s</a>'
 image: >-
